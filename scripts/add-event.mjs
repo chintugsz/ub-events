@@ -16,6 +16,27 @@ const CATEGORIES = [
   'Outdoors & Parks', 'Tours', 'Film', 'Community & Civic', 'Online', 'Other',
 ];
 
+// The app's Mongolian names for each category, so either language works in the form.
+const MONGOLIAN_CATEGORIES = {
+  'урлаг, музей': 'Arts & Museums',
+  'хөгжим, тайз': 'Music & Performance',
+  спорт: 'Sports',
+  'яриа, сургалт': 'Talks & Learning',
+  'хүүхэд, гэр бүл': 'Kids & Family',
+  'гадаа, байгаль': 'Outdoors & Parks',
+  аялал: 'Tours',
+  кино: 'Film',
+  'олон нийт': 'Community & Civic',
+  онлайн: 'Online',
+  бусад: 'Other',
+};
+
+/** Matches the category the organizer typed, in English or Mongolian, falling back to Other. */
+export function toCategory(text) {
+  const key = (text ?? '').trim().toLowerCase();
+  return CATEGORIES.find((c) => c.toLowerCase() === key) ?? MONGOLIAN_CATEGORIES[key] ?? 'Other';
+}
+
 // The English half of each question in .github/ISSUE_TEMPLATE/add-event.yml.
 const FIELDS = {
   'Event name': 'name',
@@ -75,7 +96,7 @@ export function buildEvent(fields, { issueNumber, issueUrl, author, today }) {
     location: place,
     ...(description ? { description } : {}),
     ...(price ? { cost: price } : {}),
-    category: CATEGORIES.includes(get('category')) ? get('category') : 'Other',
+    category: toCategory(get('category')),
     tags: ['organizer', 'зохион байгуулагч'],
     url: link || issueUrl,
     sourceName: PUBLISHER,

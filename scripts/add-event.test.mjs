@@ -1,7 +1,7 @@
 // Run with: node --test
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { addToFeed, buildEvent, parseIssueBody, readOrganizers, ubToday } from './add-event.mjs';
+import { addToFeed, buildEvent, parseIssueBody, readOrganizers, toCategory, ubToday } from './add-event.mjs';
 
 // What GitHub writes into an issue made with the "Add an event" form.
 const BODY = `### Event name / Нэр
@@ -98,6 +98,13 @@ test('an all-day event over several days', () => {
   assert.equal(event.allDay, true);
   assert.equal(event.category, 'Other');
   assert.equal(event.host, '@someone');
+});
+
+test('category in either language, anything else is Other', () => {
+  assert.equal(toCategory(' sports '), 'Sports');
+  assert.equal(toCategory('Хөгжим, тайз'), 'Music & Performance');
+  assert.equal(toCategory('party'), 'Other');
+  assert.equal(toCategory(''), 'Other');
 });
 
 test('organizers list ignores case, @ and comments', () => {

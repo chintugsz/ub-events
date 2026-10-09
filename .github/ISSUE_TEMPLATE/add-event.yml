@@ -41,24 +41,14 @@ body:
       label: Place / Байршил
     validations:
       required: true
-  - type: dropdown
+  - type: input
     id: category
     attributes:
       label: Category / Төрөл
-      options:
-        - Music & Performance
-        - Arts & Museums
-        - Sports
-        - Film
-        - Talks & Learning
-        - Outdoors & Parks
-        - Community & Civic
-        - Kids & Family
-        - Tours
-        - Online
-        - Other
-    validations:
-      required: true
+      description: >-
+        One of: Music & Performance, Arts & Museums, Sports, Film, Talks & Learning, Outdoors & Parks,
+        Community & Civic, Kids & Family, Tours, Online, Other
+      placeholder: Music & Performance
   - type: input
     id: price
     attributes:
