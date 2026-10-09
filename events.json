@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:57:18+08:00",
+  "updatedAt": "2026-10-09T13:35:52+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -48,9 +48,77 @@
     {
       "name": "Organizers",
       "url": "https://github.com/chintugsz/ub-events/issues"
+    },
+    {
+      "name": "Zuunii Medee (zms.mn)",
+      "url": "https://www.zms.mn/"
+    },
+    {
+      "name": "YOLO.mn",
+      "url": "https://www.yolo.mn/"
+    },
+    {
+      "name": "Embassy of Italy in Ulaanbaatar",
+      "url": "https://ambulaanbaatar.esteri.it/en/"
+    },
+    {
+      "name": "GDG Ulaanbaatar",
+      "url": "https://gdg.community.dev/gdg-ulaanbaatar/"
+    },
+    {
+      "name": "Urgoo Cinema",
+      "url": "https://new.urgoo.mn/"
     }
   ],
   "events": [
+    {
+      "id": "urlag-2026-08-19-ervekheiin-yertonts-butterfly-exhibition",
+      "title": "“Эрвээхэйн ертөнц” butterfly exhibition",
+      "titleMn": "Эрвээхэйн ертөнц",
+      "titleEn": "The World of Butterflies",
+      "start": "2026-08-19",
+      "end": "2026-10-20",
+      "allDay": true,
+      "location": "Байгалийн шинжлэх ухааны үндэсний музей",
+      "locationEn": "National Museum of Natural History",
+      "description": "Temporary butterfly exhibition opened alongside COP17, open to the public until Oct 20.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "butterflies",
+        "nature",
+        "family",
+        "үзэсгэлэн",
+        "эрвээхэй",
+        "музей"
+      ],
+      "url": "https://urlag.mn/post/155586",
+      "sourceName": "Urlag.mn"
+    },
+    {
+      "id": "yolo-2026-09-10-khellegiig-ilerkhiilekhui-lkham-gallery",
+      "title": "“Хэллэгийг илэрхийлэхүй” Mongolian–French exhibition",
+      "titleMn": "Хэллэгийг илэрхийлэхүй",
+      "titleEn": "Gesture of Language",
+      "start": "2026-09-10",
+      "end": "2026-10-10",
+      "allDay": true,
+      "location": "Лхам галерей",
+      "locationEn": "Lkham Gallery",
+      "description": "Joint exhibition by Mongolian and French artists; last days on Oct 9–10.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "contemporary art",
+        "France",
+        "gallery",
+        "үзэсгэлэн",
+        "галерей",
+        "Франц"
+      ],
+      "url": "https://www.yolo.mn/news/12915",
+      "sourceName": "YOLO.mn"
+    },
     {
       "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
       "title": "Их далайн салхи тал нутагт: Рафаэл ба Бернини",
@@ -188,6 +256,53 @@
       "sourceName": "Tengis Cinema"
     },
     {
+      "id": "tengis-2026-10-09-ovgor",
+      "title": "Овгор (Ovgor)",
+      "titleMn": "Овгор",
+      "start": "2026-10-09",
+      "end": "2026-10-12",
+      "allDay": true,
+      "location": "Тэнгис кино театр (Тэнгис 1, Тэнгис Гэгээнтэн)",
+      "locationEn": "Tengis Cinema (Tengis 1, Tengis Gegeenten)",
+      "description": "New Mongolian crime/action feature set in a 1980s Selenge timber factory. Released Oct 8, 2026; Tengis lists daily showtimes Oct 9–12.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "Mongolian film",
+        "action",
+        "crime",
+        "кино",
+        "монгол кино",
+        "Овгор"
+      ],
+      "url": "https://www.tengis.mn/film/ovgor",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "zms-2026-10-09-mongolyn-ikh-khuree-khiiduud-exhibition",
+      "title": "“Монголын их хүрээ хийдүүд” special exhibition",
+      "titleMn": "Монголын их хүрээ хийдүүд",
+      "titleEn": "The Great Monasteries of Mongolia",
+      "start": "2026-10-09",
+      "end": "2026-10-26",
+      "allDay": true,
+      "location": "Богд хааны ордон музей",
+      "locationEn": "Bogd Khaan Palace Museum",
+      "description": "Special exhibition on Mongolia's great monasteries, with commentary by Dr. B. Nyammyagmar and artist O. Dorjgotov. Open 09:00–18:00.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "monasteries",
+        "Buddhism",
+        "history",
+        "үзэсгэлэн",
+        "хийд",
+        "Богд хааны ордон"
+      ],
+      "url": "https://www.zms.mn/a/105287",
+      "sourceName": "Zuunii Medee (zms.mn)"
+    },
+    {
       "id": "montsame-2026-10-09-religion-before-chinggis-khaan-conference",
       "title": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
       "titleMn": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
@@ -209,6 +324,56 @@
       ],
       "url": "https://montsame.mn/mn/read/411844",
       "sourceName": "MONTSAME"
+    },
+    {
+      "id": "zms-2026-10-09-khaan-ordny-namar-2026",
+      "title": "Хаан ордны намар 2026 – Bogd Khaan Palace Museum open days",
+      "titleMn": "Хаан ордны намар 2026",
+      "titleEn": "Palace Autumn 2026 (museum open days)",
+      "start": "2026-10-09T09:00",
+      "end": "2026-10-11T18:00",
+      "allDay": false,
+      "location": "Богд хааны ордон музей",
+      "locationEn": "Bogd Khaan Palace Museum",
+      "description": "Annual open days at the Bogd Khaan Palace Museum, 09:00–18:00 daily. The opening ceremony on Oct 9 at 11:40 includes performances by actor B. Duursakh (The Voice of Mongolia 2026) and the Tsagaan Lavai ensemble.",
+      "cost": "Adults and students: two people enter on one ticket (1+1); free for elderly people, people with disabilities and children",
+      "category": "Arts & Museums",
+      "tags": [
+        "museum",
+        "open days",
+        "Bogd Khaan Palace",
+        "heritage",
+        "музей",
+        "Богд хааны ордон",
+        "нээлттэй өдөрлөг"
+      ],
+      "url": "https://www.zms.mn/a/105287",
+      "sourceName": "Zuunii Medee (zms.mn)"
+    },
+    {
+      "id": "embassy-italy-2026-10-09-italian-sports-day-webinar",
+      "title": "Italian Sports Day 2026 webinar: The Olympic Games and youth development",
+      "titleEn": "The Olympic Games and their role in promoting youth development, prosperity and peace – Football as a catalyser",
+      "start": "2026-10-09T11:00",
+      "end": "2026-10-09T12:00",
+      "allDay": false,
+      "location": "MNOC Headquarters (Mongolian National Olympic Committee) and online via Webex",
+      "locationEn": "Mongolian National Olympic Committee headquarters / Webex",
+      "description": "Webinar with the Italian and U.S. Ambassadors and the Mongolian National Olympic Committee, held in person and streamed on Webex.",
+      "category": "Talks & Learning",
+      "tags": [
+        "webinar",
+        "Olympics",
+        "football",
+        "youth",
+        "Italy",
+        "вебинар",
+        "олимп",
+        "хөлбөмбөг",
+        "залуучууд"
+      ],
+      "url": "https://ambulaanbaatar.esteri.it/en/news/dall_ambasciata/2026/10/italian-sports-day-2026/",
+      "sourceName": "Embassy of Italy in Ulaanbaatar"
     },
     {
       "id": "montsame-2026-10-10-green-show-wrestling",
@@ -242,6 +407,30 @@
       ],
       "url": "https://www.montsame.mn/en/read/411448",
       "sourceName": "MONTSAME"
+    },
+    {
+      "id": "yolo-2026-10-10-because-i-am-a-girl-forum",
+      "title": "“BECAUSE I AM A GIRL” girls' rights forum",
+      "titleMn": "“BECAUSE I AM A GIRL” охидын эрхийн чуулган",
+      "titleEn": "Because I Am a Girl – girls' rights forum",
+      "start": "2026-10-10T09:30",
+      "end": "2026-10-10T15:00",
+      "allDay": false,
+      "location": "Монголын хүүхдийн ордон",
+      "locationEn": "Mongolian Children's Palace",
+      "description": "Fourth annual girls' rights forum held around International Day of the Girl; five initiatives from the “Би охин болохоор” micro-project contest will be presented. Registration via volunteer.org.mn.",
+      "category": "Community & Civic",
+      "tags": [
+        "girls' rights",
+        "Day of the Girl",
+        "youth",
+        "forum",
+        "охидын эрх",
+        "чуулган",
+        "залуучууд"
+      ],
+      "url": "https://www.yolo.mn/news/13024",
+      "sourceName": "YOLO.mn"
     },
     {
       "id": "montsame-2026-10-11-autumn-wrestling",
@@ -351,6 +540,48 @@
       "sourceName": "Asian Movie Pulse"
     },
     {
+      "id": "urgoo-2026-10-16-street-fighter",
+      "title": "Street Fighter",
+      "titleEn": "Street Fighter",
+      "start": "2026-10-16",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Action/fantasy/comedy film opening on Urgoo screens. Rated R (adults only).",
+      "category": "Film",
+      "tags": [
+        "film",
+        "action",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001920",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
+      "id": "urgoo-2026-10-16-whalefall",
+      "title": "Whalefall",
+      "titleEn": "Whalefall",
+      "start": "2026-10-16",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Thriller opening on Urgoo screens (1 h 46 min). Rated R (adults only).",
+      "category": "Film",
+      "tags": [
+        "film",
+        "thriller",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001901",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
       "id": "allevents-2026-10-16-disability-education",
       "title": "ХӨГЖЛИЙН БЭРХШЭЭЛТЭЙ ХҮҮХДИЙН БОЛОВСРОЛЫН ЭРХ БА ИРЭЭДҮЙН БОЛОМЖ",
       "titleMn": "Хөгжлийн бэрхшээлтэй хүүхдийн боловсролын эрх ба ирээдүйн боломж",
@@ -446,6 +677,28 @@
       "sourceName": "MONTSAME"
     },
     {
+      "id": "urgoo-2026-10-23-clayface",
+      "title": "Clayface",
+      "titleEn": "Clayface",
+      "start": "2026-10-23",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Horror/thriller/sci-fi film opening on Urgoo screens. Rated R (adults only).",
+      "category": "Film",
+      "tags": [
+        "film",
+        "horror",
+        "DC",
+        "new release",
+        "кино",
+        "аймшиг",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001917",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
       "id": "bandsintown-2026-10-23-mxrningstar",
       "title": "mxrningstar: Eba's Album Release Show",
       "start": "2026-10-23T19:00",
@@ -523,6 +776,28 @@
       "sourceName": "Bandsintown"
     },
     {
+      "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "titleEn": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "start": "2026-10-30",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Animated family comedy (1 h 20 min) opening on Urgoo screens. Rated PG.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "new release",
+        "кино",
+        "хүүхэлдэйн кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001944",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
       "id": "eventx-2026-10-30-amitny-ferm",
       "title": "Амьтны ферм",
       "titleMn": "Амьтны ферм",
@@ -570,6 +845,119 @@
       ],
       "url": "https://urlag.mn/post/159750",
       "sourceName": "Urlag.mn"
+    },
+    {
+      "id": "urgoo-2026-11-06-godzilla-minus-zero",
+      "title": "Godzilla Minus Zero",
+      "titleEn": "Godzilla Minus Zero",
+      "start": "2026-11-06",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Sci-fi action film (2 h 15 min) opening on Urgoo screens. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "Godzilla",
+        "sci-fi",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001946",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
+      "id": "urgoo-2026-11-06-the-cat-in-the-hat",
+      "title": "The Cat in the Hat",
+      "titleEn": "The Cat in the Hat",
+      "start": "2026-11-06",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Animated family comedy opening on Urgoo screens. Rated G.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "Dr. Seuss",
+        "кино",
+        "хүүхэлдэйн кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001902",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
+      "id": "urgoo-2026-11-11-ghost-soldier",
+      "title": "Ghost Soldier",
+      "titleEn": "Ghost Soldier",
+      "start": "2026-11-11",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Action thriller opening on Urgoo screens. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "action",
+        "thriller",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001951",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
+      "id": "urgoo-2026-11-13-ebenezer",
+      "title": "Ebenezer",
+      "titleEn": "Ebenezer",
+      "start": "2026-11-13",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Drama/fantasy/comedy film opening on Urgoo screens. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "fantasy",
+        "comedy",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001929",
+      "sourceName": "Urgoo Cinema"
+    },
+    {
+      "id": "gdg-2026-11-14-devfest-ub-2026",
+      "title": "DevFest UB 2026",
+      "titleEn": "DevFest UB 2026",
+      "start": "2026-11-14T10:00",
+      "end": "2026-11-14T14:00",
+      "allDay": false,
+      "location": "Zakira-Od building-ийн 2 давхар (Голомт банкны хойно, Сансар кабелийн эсрэг талд)",
+      "locationEn": "Zakira-Od building, 2nd floor (north of Golomt Bank, opposite Sansar Cable)",
+      "description": "Google Developer Groups Ulaanbaatar's annual tech conference on AI in technology, business and software development: generative AI, AI agents, AI-assisted coding and AI startups. For developers, students, startups and business leaders.",
+      "category": "Talks & Learning",
+      "tags": [
+        "tech",
+        "AI",
+        "developers",
+        "Google",
+        "conference",
+        "students",
+        "технологи",
+        "хиймэл оюун",
+        "хөгжүүлэгч"
+      ],
+      "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
+      "sourceName": "GDG Ulaanbaatar"
     }
   ]
 }
