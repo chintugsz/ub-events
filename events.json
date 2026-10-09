@@ -1,0 +1,571 @@
+{
+  "updatedAt": "2026-10-09T12:43:37+08:00",
+  "publishers": [
+    {
+      "name": "MONTSAME",
+      "url": "https://www.montsame.mn/en/"
+    },
+    {
+      "name": "Bandsintown",
+      "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia"
+    },
+    {
+      "name": "Asian Movie Pulse",
+      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/"
+    },
+    {
+      "name": "allevents.in",
+      "url": "https://allevents.in/ulaanbaatar/all"
+    },
+    {
+      "name": "iKon.mn",
+      "url": "https://ikon.mn"
+    },
+    {
+      "name": "Urlag.mn",
+      "url": "https://urlag.mn"
+    },
+    {
+      "name": "EventX",
+      "url": "https://www.eventx.mn"
+    },
+    {
+      "name": "Chinggis Khaan National Museum",
+      "url": "https://chinggismuseum.com"
+    },
+    {
+      "name": "Zindaa.mn",
+      "url": "https://news.zindaa.mn"
+    },
+    {
+      "name": "TEDx",
+      "url": "https://www.ted.com"
+    },
+    {
+      "name": "Tengis Cinema",
+      "url": "https://www.tengis.mn"
+    }
+  ],
+  "events": [
+    {
+      "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
+      "title": "Их далайн салхи тал нутагт: Рафаэл ба Бернини",
+      "titleMn": "Их далайн салхи тал нутагт: Рафаэл ба Бернини",
+      "titleEn": "The Wind of the Great Ocean Across the Steppe: Raphael and Bernini",
+      "start": "2026-09-30",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Chinggis Khaan National Museum, 9th-floor special exhibition hall, J. Sambuu Street, Chingeltei District",
+      "locationEn": "Chinggis Khaan National Museum, 9th-floor special exhibition hall",
+      "description": "Special exhibition of works linked to Raphael and Bernini, open from September 30 until November 1. The museum's Mongolian announcement gives the ticket price as 20,000 MNT.",
+      "cost": "20,000₮",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "Renaissance",
+        "Baroque",
+        "Italy",
+        "museum",
+        "үзэсгэлэн",
+        "музей",
+        "Рафаэл"
+      ],
+      "url": "https://chinggismuseum.com/en/blogs/6abccbeea8e568fff17b39d3",
+      "sourceName": "Chinggis Khaan National Museum"
+    },
+    {
+      "id": "ikon-2026-10-02-domogt-khatad-haan-gallery",
+      "title": "Домогт хатад",
+      "titleMn": "Домогт хатад",
+      "titleEn": "Legendary Queens (sculpture exhibition by B. Ochirsuren)",
+      "start": "2026-10-02",
+      "end": "2026-10-30",
+      "allDay": true,
+      "location": "ХААН галерей, ХААН банк тауэр 3 давхар",
+      "locationEn": "HAAN Gallery, 3rd floor, HAAN Bank Tower",
+      "description": "Exhibition by sculptor B. Ochirsuren on Mongolia's legendary queens, open 10:00–18:00 on working days through October 30.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "sculpture",
+        "queens",
+        "history",
+        "үзэсгэлэн",
+        "баримал",
+        "хатад"
+      ],
+      "url": "https://ikon.mn/n/3qvq",
+      "sourceName": "iKon.mn"
+    },
+    {
+      "id": "montsame-2026-10-02-altan-namar-sketch-exhibition",
+      "title": "Алтан намар",
+      "titleMn": "Алтан намар",
+      "titleEn": "Golden Autumn (sketch painting exhibition)",
+      "start": "2026-10-02",
+      "end": "2026-10-11",
+      "allDay": true,
+      "location": "\"Б Контемпорари\" урлагийн галерей",
+      "locationEn": "B Contemporary art gallery",
+      "description": "The 9th annual \"Altan Namar\" sketch-painting exhibition, showing 84 works, runs through October 11.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "painting",
+        "sketch",
+        "art",
+        "үзэсгэлэн",
+        "зураг",
+        "галерей"
+      ],
+      "url": "https://montsame.mn/mn/read/411678",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "tengis-2026-10-09-finnick-2",
+      "title": "Finnick 2",
+      "titleEn": "Finnick 2",
+      "start": "2026-10-09",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Animated family film (G, 0+) showing at Tengis Cinema from October 9.",
+      "category": "Kids & Family",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "кино",
+        "хүүхэлдэйн кино",
+        "гэр бүл"
+      ],
+      "url": "https://www.tengis.mn/film/finnick2",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "tengis-2026-10-09-ghost-in-the-cell",
+      "title": "Ghost in the Cell",
+      "titleEn": "Ghost in the Cell",
+      "start": "2026-10-09",
+      "allDay": true,
+      "location": "Тэнгис кино театр (Tengis 1, Tengis Gegeentan)",
+      "locationEn": "Tengis Cinema (Tengis 1 and Tengis Gegeentan)",
+      "description": "Comedy-horror film (rated R) in cinemas from October 9. Showtimes on Oct 9 include 11:05, 15:55 and 18:00, and the schedule is posted through Oct 12.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "cinema",
+        "horror",
+        "comedy",
+        "кино",
+        "аймшгийн"
+      ],
+      "url": "https://www.tengis.mn/film/ghostinthecell",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "tengis-2026-10-09-other-mommy",
+      "title": "Other Mommy",
+      "titleEn": "Other Mommy",
+      "start": "2026-10-09",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Horror film (R, 16+) showing at Tengis Cinema from October 9.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "cinema",
+        "horror",
+        "кино",
+        "аймшгийн"
+      ],
+      "url": "https://www.tengis.mn/film/othermommy",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "montsame-2026-10-09-religion-before-chinggis-khaan-conference",
+      "title": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
+      "titleMn": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
+      "titleEn": "Religion and Beliefs on the Mongolian Steppe before Chinggis Khaan (international conference)",
+      "start": "2026-10-09T09:00",
+      "allDay": false,
+      "location": "Чингис хаан үндэсний музей",
+      "locationEn": "Chinggis Khaan National Museum",
+      "description": "International academic conference on religion and belief systems on the Mongolian steppe before Chinggis Khaan, held at the Chinggis Khaan National Museum.",
+      "category": "Talks & Learning",
+      "tags": [
+        "conference",
+        "history",
+        "religion",
+        "museum",
+        "хурал",
+        "түүх",
+        "шашин"
+      ],
+      "url": "https://montsame.mn/mn/read/411844",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "montsame-2026-10-10-green-show-wrestling",
+      "title": "Wrestling tournament sponsored by Green Show Production",
+      "titleMn": "Green Show Production-ийн ивээн тэтгэсэн бөхийн барилдаан",
+      "start": "2026-10-10",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "бөх"
+      ],
+      "url": "https://www.montsame.mn/en/read/411448",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "montsame-2026-10-10-tree-planting",
+      "title": "National Tree-Planting Day",
+      "titleMn": "Үндэсний мод тарих өдөр",
+      "start": "2026-10-10",
+      "allDay": true,
+      "location": "Улс даяар",
+      "locationEn": "Nationwide",
+      "category": "Community & Civic",
+      "tags": [
+        "volunteer",
+        "сайн дурын",
+        "outdoor"
+      ],
+      "url": "https://www.montsame.mn/en/read/411448",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "montsame-2026-10-11-autumn-wrestling",
+      "title": "256-wrestler tournament opening the autumn season for aimag and military titleholders",
+      "titleMn": "Аймаг, армийн цолтой бөхчүүдийн намрын улирлын нээлтийн 256 бөхийн барилдаан",
+      "start": "2026-10-11",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "бөх"
+      ],
+      "url": "https://www.montsame.mn/en/read/411448",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "eventx-2026-10-11-biyelgee-night-festival",
+      "title": "BIYELGEE NIGHT FESTIVAL",
+      "titleEn": "Biyelgee Night Festival",
+      "start": "2026-10-11T19:00",
+      "end": "2026-10-11T23:00",
+      "allDay": false,
+      "location": "Evento Ballroom",
+      "locationEn": "Evento Ballroom",
+      "description": "Night festival built around biyelgee, Mongolian traditional dance, running 19:00–23:00.",
+      "cost": "149,000₮ standard; 399,000₮ friends package (5 people)",
+      "category": "Music & Performance",
+      "tags": [
+        "festival",
+        "dance",
+        "biyelgee",
+        "traditional",
+        "night",
+        "бий биелгээ",
+        "наадам",
+        "үдэшлэг"
+      ],
+      "url": "https://www.eventx.mn/event/1902",
+      "sourceName": "EventX"
+    },
+    {
+      "id": "montsame-2026-10-13-valentin-valentina",
+      "title": "Валентин, Валентина",
+      "titleMn": "Валентин, Валентина",
+      "titleEn": "Valentin and Valentina",
+      "start": "2026-10-13",
+      "allDay": true,
+      "location": "Улсын драмын эрдмийн театр",
+      "locationEn": "State Academic Drama Theatre",
+      "description": "Mikhail Roshchin's play, directed by E. Bilguun, opens the theatre's 96th season on October 13.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "play",
+        "season opening",
+        "жүжиг",
+        "драмын театр"
+      ],
+      "url": "https://montsame.mn/mn/read/410905",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "eventx-2026-10-14-oktoberfest-2026-salm",
+      "title": "Октоберфест 2026",
+      "titleMn": "Октоберфест 2026",
+      "titleEn": "Oktoberfest 2026",
+      "start": "2026-10-14T18:00",
+      "end": "2026-10-24",
+      "allDay": false,
+      "location": "Salm Pub & Bar",
+      "locationEn": "Salm Pub & Bar",
+      "description": "Austrian-style new-harvest beer festival with live music daily and a DJ, open from 18:00 until 04:00 each night from October 14 to 24.",
+      "cost": "30,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "Oktoberfest",
+        "beer",
+        "live music",
+        "DJ",
+        "nightlife",
+        "фестиваль",
+        "шар айраг",
+        "амьд хөгжим"
+      ],
+      "url": "https://www.eventx.mn/event/1908",
+      "sourceName": "EventX"
+    },
+    {
+      "id": "ubiff-2026",
+      "title": "18th Ulaanbaatar International Film Festival",
+      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
+      "start": "2026-10-16",
+      "end": "2026-10-22",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "кино наадам"
+      ],
+      "description": "18 films over seven days, opening with Cristian Mungiu's \"Fjord\" at Tengis and Skywing cinemas.",
+      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
+      "sourceName": "Asian Movie Pulse"
+    },
+    {
+      "id": "allevents-2026-10-16-disability-education",
+      "title": "ХӨГЖЛИЙН БЭРХШЭЭЛТЭЙ ХҮҮХДИЙН БОЛОВСРОЛЫН ЭРХ БА ИРЭЭДҮЙН БОЛОМЖ",
+      "titleMn": "Хөгжлийн бэрхшээлтэй хүүхдийн боловсролын эрх ба ирээдүйн боломж",
+      "titleEn": "Education rights and future opportunities for children with disabilities",
+      "start": "2026-10-16T10:00",
+      "end": "2026-10-16T12:00",
+      "allDay": false,
+      "location": "Хөгжлийн бэрхшээлтэй хүний хөгжлийн ерөнхий газар",
+      "locationEn": "General Agency for Development of Persons with Disabilities",
+      "category": "Talks & Learning",
+      "tags": [
+        "conference",
+        "хэлэлцүүлэг"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/all",
+      "sourceName": "allevents.in"
+    },
+    {
+      "id": "ubiff-2026-nyamgavaa",
+      "title": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
+      "titleMn": "УБ кино наадам: И.Нямгаваагийн хоёр кино",
+      "start": "2026-10-17",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "category": "Film",
+      "tags": [
+        "film",
+        "кино"
+      ],
+      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
+      "sourceName": "Asian Movie Pulse"
+    },
+    {
+      "id": "zindaa-2026-10-17-n-undral-saikhan-ch-yum-daa",
+      "title": "Сайхан ч юм даа",
+      "titleMn": "Сайхан ч юм даа",
+      "titleEn": "It's So Beautiful (N. Undral solo concert)",
+      "start": "2026-10-17T19:00",
+      "allDay": false,
+      "location": "АСА Арена",
+      "locationEn": "ASA Arena",
+      "description": "Singer N. Undral's first solo concert, at ASA Arena on October 17 at 19:00.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "singer",
+        "solo",
+        "концерт",
+        "тоглолт",
+        "дуучин"
+      ],
+      "url": "https://news.zindaa.mn/5d8m",
+      "sourceName": "Zindaa.mn"
+    },
+    {
+      "id": "ubiff-2026-closing",
+      "title": "UBIFF closing: Garuda Awards ceremony",
+      "titleMn": "УБ кино наадмын хаалт: Гаруда шагнал гардуулах ёслол",
+      "start": "2026-10-22",
+      "allDay": true,
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "awards",
+        "кино наадам"
+      ],
+      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
+      "sourceName": "Asian Movie Pulse"
+    },
+    {
+      "id": "montsame-2026-10-23-itm-2026-tourism-mart",
+      "title": "ITM-2026 International Tourism Mart",
+      "titleEn": "ITM-2026 International Tourism Mart",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "Mega Exhibition Hall, Misheel Expo Center",
+      "locationEn": "Mega Exhibition Hall, Misheel Expo Center",
+      "description": "The 27th International Tourism Mart, organized by the Mongolian Tourism Association, runs October 23–25.",
+      "category": "Other",
+      "tags": [
+        "expo",
+        "tourism",
+        "travel",
+        "fair",
+        "аялал жуулчлал",
+        "үзэсгэлэн",
+        "яармаг"
+      ],
+      "url": "https://montsame.mn/en/read/411625",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "bandsintown-2026-10-23-mxrningstar",
+      "title": "mxrningstar: Eba's Album Release Show",
+      "start": "2026-10-23T19:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "live music",
+        "album release"
+      ],
+      "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
+      "sourceName": "Bandsintown"
+    },
+    {
+      "id": "urlag-2026-10-23-ineemtgii-khun",
+      "title": "Инээмтгий хүн",
+      "titleMn": "Инээмтгий хүн",
+      "titleEn": "The Laughing Man",
+      "start": "2026-10-23T19:00",
+      "end": "2026-10-25",
+      "allDay": false,
+      "location": "РЦНК /Оросын шинжлэх ухаан, соёлын төв/",
+      "locationEn": "Russian Centre for Science and Culture",
+      "description": "Visual drama after Victor Hugo's novel, restaged by the \"Pro\" theatre on October 23, 24 and 25 from 19:00.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "Victor Hugo",
+        "play",
+        "жүжиг",
+        "театр",
+        "визуал драм"
+      ],
+      "url": "https://urlag.mn/post/159147",
+      "sourceName": "Urlag.mn"
+    },
+    {
+      "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
+      "title": "TEDxUlaanbaatar Empathy School Youth",
+      "titleEn": "TEDxUlaanbaatar Empathy School Youth",
+      "start": "2026-10-24T09:30",
+      "end": "2026-10-24T17:45",
+      "allDay": false,
+      "location": "Ulaanbaatar Empathy School, US-15, 8th khoroo",
+      "locationEn": "Ulaanbaatar Empathy School, US-15, 8th khoroo",
+      "description": "Youth TEDx event with talks, open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "ideas",
+        "илтгэл",
+        "залуучууд",
+        "TED"
+      ],
+      "url": "https://www.ted.com/tedx/events/70557",
+      "sourceName": "TEDx"
+    },
+    {
+      "id": "bandsintown-2026-10-24-mxrningstar",
+      "title": "mxrningstar: Eba's Album Release Show",
+      "start": "2026-10-24T19:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "live music",
+        "album release"
+      ],
+      "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
+      "sourceName": "Bandsintown"
+    },
+    {
+      "id": "eventx-2026-10-30-amitny-ferm",
+      "title": "Амьтны ферм",
+      "titleMn": "Амьтны ферм",
+      "titleEn": "Animal Farm (meta-drama)",
+      "start": "2026-10-30T19:00",
+      "end": "2026-11-08",
+      "allDay": false,
+      "location": "Тусгаар тогтнолын ордон",
+      "locationEn": "Independence Palace",
+      "description": "Meta-drama based on George Orwell's \"Animal Farm\", directed by T. Tsend-Ayush, at 19:00 from October 30 to November 8. Each performance runs about 2 hours.",
+      "cost": "Партер 80,000₮ / Партер L 60,000₮ / Бэльтаж 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "Orwell",
+        "drama",
+        "play",
+        "жүжиг",
+        "мета драм",
+        "театр"
+      ],
+      "url": "https://www.eventx.mn/event/1903",
+      "sourceName": "EventX"
+    },
+    {
+      "id": "urlag-2026-10-30-suulchiin-boroo",
+      "title": "Сүүлчийн бороо",
+      "titleMn": "Сүүлчийн бороо",
+      "titleEn": "The Last Rain",
+      "start": "2026-10-30T19:00",
+      "end": "2026-11-01",
+      "allDay": false,
+      "location": "РЦНК /Оросын шинжлэх ухаан, соёлын төв/",
+      "locationEn": "Russian Centre for Science and Culture",
+      "description": "Meta-drama by the \"Pro\" theatre based on Vampilov's \"Duck Hunting\", staged October 30, 31 and November 1 from 19:00.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "meta-drama",
+        "Vampilov",
+        "play",
+        "жүжиг",
+        "мета драм",
+        "театр"
+      ],
+      "url": "https://urlag.mn/post/159750",
+      "sourceName": "Urlag.mn"
+    }
+  ]
+}
