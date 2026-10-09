@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T13:35:52+08:00",
+  "updatedAt": "2026-10-10T06:53:32+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -194,68 +194,6 @@
       "sourceName": "MONTSAME"
     },
     {
-      "id": "tengis-2026-10-09-finnick-2",
-      "title": "Finnick 2",
-      "titleEn": "Finnick 2",
-      "start": "2026-10-09",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Animated family film (G, 0+) showing at Tengis Cinema from October 9.",
-      "category": "Kids & Family",
-      "tags": [
-        "film",
-        "animation",
-        "family",
-        "кино",
-        "хүүхэлдэйн кино",
-        "гэр бүл"
-      ],
-      "url": "https://www.tengis.mn/film/finnick2",
-      "sourceName": "Tengis Cinema"
-    },
-    {
-      "id": "tengis-2026-10-09-ghost-in-the-cell",
-      "title": "Ghost in the Cell",
-      "titleEn": "Ghost in the Cell",
-      "start": "2026-10-09",
-      "allDay": true,
-      "location": "Тэнгис кино театр (Tengis 1, Tengis Gegeentan)",
-      "locationEn": "Tengis Cinema (Tengis 1 and Tengis Gegeentan)",
-      "description": "Comedy-horror film (rated R) in cinemas from October 9. Showtimes on Oct 9 include 11:05, 15:55 and 18:00, and the schedule is posted through Oct 12.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "cinema",
-        "horror",
-        "comedy",
-        "кино",
-        "аймшгийн"
-      ],
-      "url": "https://www.tengis.mn/film/ghostinthecell",
-      "sourceName": "Tengis Cinema"
-    },
-    {
-      "id": "tengis-2026-10-09-other-mommy",
-      "title": "Other Mommy",
-      "titleEn": "Other Mommy",
-      "start": "2026-10-09",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Horror film (R, 16+) showing at Tengis Cinema from October 9.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "cinema",
-        "horror",
-        "кино",
-        "аймшгийн"
-      ],
-      "url": "https://www.tengis.mn/film/othermommy",
-      "sourceName": "Tengis Cinema"
-    },
-    {
       "id": "tengis-2026-10-09-ovgor",
       "title": "Овгор (Ovgor)",
       "titleMn": "Овгор",
@@ -303,29 +241,6 @@
       "sourceName": "Zuunii Medee (zms.mn)"
     },
     {
-      "id": "montsame-2026-10-09-religion-before-chinggis-khaan-conference",
-      "title": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
-      "titleMn": "Чингис хаанаас өмнөх Монголын тал нутаг дахь шашин, шүтлэг",
-      "titleEn": "Religion and Beliefs on the Mongolian Steppe before Chinggis Khaan (international conference)",
-      "start": "2026-10-09T09:00",
-      "allDay": false,
-      "location": "Чингис хаан үндэсний музей",
-      "locationEn": "Chinggis Khaan National Museum",
-      "description": "International academic conference on religion and belief systems on the Mongolian steppe before Chinggis Khaan, held at the Chinggis Khaan National Museum.",
-      "category": "Talks & Learning",
-      "tags": [
-        "conference",
-        "history",
-        "religion",
-        "museum",
-        "хурал",
-        "түүх",
-        "шашин"
-      ],
-      "url": "https://montsame.mn/mn/read/411844",
-      "sourceName": "MONTSAME"
-    },
-    {
       "id": "zms-2026-10-09-khaan-ordny-namar-2026",
       "title": "Хаан ордны намар 2026 – Bogd Khaan Palace Museum open days",
       "titleMn": "Хаан ордны намар 2026",
@@ -349,31 +264,6 @@
       ],
       "url": "https://www.zms.mn/a/105287",
       "sourceName": "Zuunii Medee (zms.mn)"
-    },
-    {
-      "id": "embassy-italy-2026-10-09-italian-sports-day-webinar",
-      "title": "Italian Sports Day 2026 webinar: The Olympic Games and youth development",
-      "titleEn": "The Olympic Games and their role in promoting youth development, prosperity and peace – Football as a catalyser",
-      "start": "2026-10-09T11:00",
-      "end": "2026-10-09T12:00",
-      "allDay": false,
-      "location": "MNOC Headquarters (Mongolian National Olympic Committee) and online via Webex",
-      "locationEn": "Mongolian National Olympic Committee headquarters / Webex",
-      "description": "Webinar with the Italian and U.S. Ambassadors and the Mongolian National Olympic Committee, held in person and streamed on Webex.",
-      "category": "Talks & Learning",
-      "tags": [
-        "webinar",
-        "Olympics",
-        "football",
-        "youth",
-        "Italy",
-        "вебинар",
-        "олимп",
-        "хөлбөмбөг",
-        "залуучууд"
-      ],
-      "url": "https://ambulaanbaatar.esteri.it/en/news/dall_ambasciata/2026/10/italian-sports-day-2026/",
-      "sourceName": "Embassy of Italy in Ulaanbaatar"
     },
     {
       "id": "montsame-2026-10-10-green-show-wrestling",
