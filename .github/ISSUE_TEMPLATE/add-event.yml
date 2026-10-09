@@ -1,0 +1,79 @@
+name: Add an event / Арга хэмжээ нэмэх
+description: Add your event to the UB This Week app. Approved organizers' events go live automatically.
+title: "Event: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Events from approved organizers are added to the app automatically within a few minutes.
+        Others wait for the list's owner to approve them.
+
+        Батлагдсан зохион байгуулагчдын арга хэмжээ хэдхэн минутын дотор апп-д автоматаар нэмэгдэнэ.
+        Бусад нь эзэмшигч батлахыг хүлээнэ.
+  - type: input
+    id: event_name
+    attributes:
+      label: Event name / Нэр
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date / Огноо
+      description: YYYY-MM-DD
+      placeholder: "2026-10-25"
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Start time / Эхлэх цаг
+      description: 24-hour HH:MM, Ulaanbaatar time. Leave blank for an all-day event.
+      placeholder: "19:00"
+  - type: input
+    id: end_date
+    attributes:
+      label: Last day / Дуусах өдөр
+      description: Only for events that run over several days. YYYY-MM-DD
+  - type: input
+    id: place
+    attributes:
+      label: Place / Байршил
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category / Төрөл
+      options:
+        - Music & Performance
+        - Arts & Museums
+        - Sports
+        - Film
+        - Talks & Learning
+        - Outdoors & Parks
+        - Community & Civic
+        - Kids & Family
+        - Tours
+        - Online
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: price
+    attributes:
+      label: Price / Үнэ
+      placeholder: "Free / Үнэгүй, 30,000₮"
+  - type: input
+    id: link
+    attributes:
+      label: Link / Холбоос
+      description: The event or ticket page, starting with https://
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer / Зохион байгуулагч
+  - type: textarea
+    id: description
+    attributes:
+      label: Description / Тайлбар

@@ -1,0 +1,64 @@
+# Adds events that organizers submit through the "Add an event" issue form. See scripts/add-event.mjs.
+name: Add organizer event
+
+on:
+  issues:
+    types: [opened, edited]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+# One change to events.json at a time.
+concurrency:
+  group: events-json
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: >-
+      github.event.issue.state == 'open' && !github.event.issue.pull_request &&
+      contains(github.event.issue.body, '### Event name') &&
+      (github.event_name == 'issues' || startsWith(github.event.comment.body, '/approve'))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Read the event
+        id: add
+        run: node scripts/add-event.mjs
+
+      - name: Publish it
+        if: steps.add.outputs.result == 'added'
+        env:
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git add events.json
+            git commit -q -m "Add organizer event from issue #$ISSUE"
+            if git push origin HEAD:main; then exit 0; fi
+            # Someone else changed the list meanwhile: start again from theirs.
+            sleep 5
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            node scripts/add-event.mjs
+          done
+          exit 1
+
+      - name: Reply on the issue
+        if: steps.add.outputs.result != 'skip'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+          RESULT: ${{ steps.add.outputs.result }}
+          MESSAGE: ${{ steps.add.outputs.message }}
+        run: |
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body "$MESSAGE"
+          if [ "$RESULT" = added ]; then gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY"; fi

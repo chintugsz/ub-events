@@ -1,0 +1,3 @@
+# GitHub usernames of organizers whose events go live without waiting for approval, one per line.
+# The repository owner is always approved.
+chintugsz

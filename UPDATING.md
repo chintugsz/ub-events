@@ -16,12 +16,15 @@ The daily routine follows these steps. A person editing by hand should follow th
    - Ticket.mn, Shoppy.mn, tasalbar.mn and ulaanbaatar.mn can't be read automatically, so skip them.
 3. Add an event only if a page you read states its date and its place. Put that page in `url`.
    Never guess a date, time, price or venue; leave out an optional field rather than guess it.
-4. Don't add an event twice. Before adding one, check for the same title, or an obviously
+4. Events whose `id` starts with `org-` were added by organizers through the "Add an event" form.
+   Leave them alone: `check.mjs` drops them once they finish. Don't add a second copy of one.
+5. Don't add an event twice. Before adding one, check for the same title, or an obviously
    matching one, on the same day. When a source changes an event, correct it. When a source
    says an event is cancelled, remove it.
-5. Write ids as `<source>-<YYYY-MM-DD>-<short-slug>`, using lowercase letters, digits and dashes.
+6. Write ids as `<source>-<YYYY-MM-DD>-<short-slug>`, using lowercase letters, digits and dashes.
    Give a new source an entry in `publishers` too.
-6. Fill in `titleMn` and `titleEn` when you can; a faithful translation is fine. Choose a
+7. Fill in `titleMn` and `titleEn` when you can; a faithful translation is fine. Choose a
    `category` from the list in `check.mjs`. Add a few English and Mongolian `tags`.
-7. Run `node check.mjs --write` and fix anything it reports.
-8. Commit only `events.json`, with the message `Update events for YYYY-MM-DD`, and push to `main`.
+8. Run `node check.mjs --write` and fix anything it reports.
+9. Commit only `events.json`, with the message `Update events for YYYY-MM-DD`. Pull first
+   (`git pull --rebase origin main`), because organizer events can arrive at any time, then push to `main`.

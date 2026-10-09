@@ -6,6 +6,22 @@ repository every time it refreshes, so a change here shows up on phones without 
 A Claude routine updates the list every morning (Ulaanbaatar time), following
 [UPDATING.md](UPDATING.md). Every event links to the page that announced it.
 
+## Adding your own event
+
+Organizers add events with the **Add an event** form under
+[Issues → New issue](https://github.com/chintugsz/ub-events/issues/new?template=add-event.yml), or from the
+"+" button in the app, which opens the same form. They need a free GitHub account.
+
+- If the author is the owner or is listed in [organizers.txt](organizers.txt), the event goes live
+  within a few minutes. The issue is then closed with a note.
+- Anyone else's event waits for approval. The owner approves it by commenting `/approve` on the issue,
+  or adds the person's GitHub username to `organizers.txt` so their future events go live straight away.
+- If something in the form is wrong, such as a date in the past, the reply says what to fix. Editing
+  the issue checks it again.
+
+[.github/workflows/add-event.yml](.github/workflows/add-event.yml) does this with
+[scripts/add-event.mjs](scripts/add-event.mjs). Its tests run with `node --test`.
+
 ## Format
 
 ```json
