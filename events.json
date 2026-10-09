@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T12:56:52+08:00",
+  "updatedAt": "2026-10-09T12:57:18+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -570,22 +570,6 @@
       ],
       "url": "https://urlag.mn/post/159750",
       "sourceName": "Urlag.mn"
-    },
-    {
-      "id": "org-2026-12-30-1",
-      "title": "Workflow test (removed right after)",
-      "start": "2026-12-30T19:00",
-      "allDay": false,
-      "location": "Test",
-      "description": "Checks that the \"Add an event\" workflow can publish. This entry is removed from the list right after the check.",
-      "category": "Music & Performance",
-      "tags": [
-        "organizer",
-        "зохион байгуулагч"
-      ],
-      "url": "https://github.com/chintugsz/ub-events/issues/1",
-      "sourceName": "Organizers",
-      "host": "@chintugsz"
     }
   ]
 }
