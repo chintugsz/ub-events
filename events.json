@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:53:32+08:00",
+  "updatedAt": "2026-10-10T07:12:13+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -68,6 +68,10 @@
     {
       "name": "Urgoo Cinema",
       "url": "https://new.urgoo.mn/"
+    },
+    {
+      "name": "Unuudur.mn",
+      "url": "https://www.unuudur.mn"
     }
   ],
   "events": [
@@ -192,6 +196,30 @@
       ],
       "url": "https://montsame.mn/mn/read/411678",
       "sourceName": "MONTSAME"
+    },
+    {
+      "id": "urlag-2026-10-04-fine-arts-museum-60-photo-exhibition",
+      "title": "Fine Arts Museum at 60 (historical photo exhibition)",
+      "titleMn": "\"Дүрслэх урлагийн музейн-60 жил\" түүхэн гэрэл зургийн үзэсгэлэн",
+      "titleEn": "Fine Arts Museum at 60 – Historical Photo Exhibition",
+      "start": "2026-10-04",
+      "end": "2026-10-12",
+      "allDay": true,
+      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей, үзэсгэлэнгийн танхим",
+      "locationEn": "Zanabazar Museum of Fine Arts, exhibition hall",
+      "description": "Photo exhibition marking the museum's 60th anniversary, looking back at its history, activities and staff. On display until October 12.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "photography",
+        "museum",
+        "history",
+        "үзэсгэлэн",
+        "гэрэл зураг",
+        "музей"
+      ],
+      "url": "https://urlag.mn/post/159355",
+      "sourceName": "Urlag.mn"
     },
     {
       "id": "tengis-2026-10-09-ovgor",
@@ -337,6 +365,52 @@
       ],
       "url": "https://www.montsame.mn/en/read/411448",
       "sourceName": "MONTSAME"
+    },
+    {
+      "id": "unuudur-2026-10-11-davs-khiigeed-usny-shulguud-book-launch",
+      "title": "Poems of Salt and Water: B. Uuganbayar book launch",
+      "titleMn": "Б.Ууганбаяр \"Давс хийгээд усны шүлгүүд\" номын нээлт",
+      "titleEn": "\"Poems of Salt and Water\" – Book Launch by Poet B. Uuganbayar",
+      "start": "2026-10-11",
+      "allDay": true,
+      "location": "\"Хөх нар\" контемпорари арт галерей",
+      "locationEn": "Khukh Nar (Blue Sun) Contemporary Art Gallery",
+      "description": "Launch of poet B. Uuganbayar's second poetry collection, with a two-person verse play \"Далай, ус, давс\", an audiovisual installation and a poetry exhibition.",
+      "category": "Arts & Museums",
+      "tags": [
+        "poetry",
+        "book launch",
+        "literature",
+        "theatre",
+        "яруу найраг",
+        "ном",
+        "уран зохиол"
+      ],
+      "url": "https://www.unuudur.mn/a/284280",
+      "sourceName": "Unuudur.mn"
+    },
+    {
+      "id": "ikon-2026-10-11-udshiin-khemnel-jazz-concert",
+      "title": "Evening Rhythm: Bayanmongol Big Band premium jazz concert",
+      "titleMn": "Баянмонгол биг бэнд \"Үдшийн Хэмнэл\" премиум жазз концерт",
+      "titleEn": "\"Evening Rhythm\" – Bayanmongol Big Band Premium Jazz Concert",
+      "start": "2026-10-11T18:00",
+      "allDay": false,
+      "location": "Улсын Филармонийн концертын танхим",
+      "locationEn": "State Philharmonic Concert Hall",
+      "description": "The Bayanmongol Big Band, conducted by S. Saruul-Od with vocalist B. Odmandakh, plays jazz by Sammy Nestico, Pat Metheny and Bob Mintzer alongside Mongolian folk songs.",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "big band",
+        "concert",
+        "live music",
+        "жазз",
+        "концерт",
+        "хөгжим"
+      ],
+      "url": "https://ikon.mn/n/3qwe",
+      "sourceName": "iKon.mn"
     },
     {
       "id": "eventx-2026-10-11-biyelgee-night-festival",
@@ -527,6 +601,95 @@
       ],
       "url": "https://news.zindaa.mn/5d8m",
       "sourceName": "Zindaa.mn"
+    },
+    {
+      "id": "tengis-2026-10-18-rose-ubiff",
+      "title": "Rose (UBIFF screening)",
+      "titleMn": "Рөүз (UBIFF)",
+      "titleEn": "Rose",
+      "start": "2026-10-18T19:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Ulaanbaatar International Film Festival screening of a drama set in the Thirty Years' War, about a soldier claiming an abandoned estate in a remote German village. Runs 1 h 33 min.",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "UBIFF",
+        "drama",
+        "cinema",
+        "кино наадам",
+        "кино",
+        "UBIFF 2026"
+      ],
+      "url": "https://www.tengis.mn/film/roeuezubiff",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
+      "title": "Tsagaan Khadny Ungu (UBIFF documentary screening)",
+      "titleMn": "Цагаан хадны өнгө (UBIFF)",
+      "start": "2026-10-19T16:30",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival documentary following Maikhuu, one of the few women truck drivers hauling coal across the Gobi, and the human and environmental costs of Mongolia's mining boom. Runs 1 h 23 min.",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "UBIFF",
+        "documentary",
+        "Mongolian film",
+        "баримтат кино",
+        "кино наадам",
+        "монгол кино"
+      ],
+      "url": "https://www.tengis.mn/film/cagaanxadnyoengoeubiff",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "tengis-2026-10-19-fjord-ubiff",
+      "title": "Fjord (UBIFF screening)",
+      "titleMn": "Фиорд (UBIFF)",
+      "titleEn": "Fjord",
+      "start": "2026-10-19T21:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival screening of a drama about a religious Romanian-Norwegian family whose child-rearing comes under scrutiny in a remote Norwegian fjord community. Runs 2 h 26 min, PG13.",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "UBIFF",
+        "drama",
+        "cinema",
+        "кино наадам",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/fiordubiff",
+      "sourceName": "Tengis Cinema"
+    },
+    {
+      "id": "tengis-2026-10-20-niigmiin-daisan-ubiff",
+      "title": "Niigmiin Daisan (UBIFF screening)",
+      "titleMn": "Нийгмийн дайсан (UBIFF)",
+      "start": "2026-10-20T16:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival screening of a Mongolian legal drama about lawyer Tengis, forced to defend a man accused of killing a child amid public outrage. Runs 2 h 3 min.",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "UBIFF",
+        "Mongolian film",
+        "drama",
+        "кино наадам",
+        "монгол кино",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/nijgmijndajsanubiff",
+      "sourceName": "Tengis Cinema"
     },
     {
       "id": "ubiff-2026-closing",
