@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:53:32+08:00",
+  "updatedAt": "2026-10-11T07:34:00+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -72,9 +72,46 @@
     {
       "name": "Unuudur.mn",
       "url": "https://www.unuudur.mn"
+    },
+    {
+      "name": "National Museum of Mongolia",
+      "url": "https://www.nationalmuseum.mn/"
+    },
+    {
+      "name": "Art Avenue",
+      "url": "https://www.artavenue.mn/"
+    },
+    {
+      "name": "UB Life",
+      "url": "https://www.ub.life/"
     }
   ],
   "events": [
+    {
+      "id": "artavenue-2026-08-15-mining-enkhbold",
+      "title": "MINING",
+      "titleMn": "Олборлолт",
+      "titleEn": "Mining, by T. Enkhbold",
+      "start": "2026-08-15",
+      "end": "2026-12-01",
+      "allDay": true,
+      "location": "Монголын Үндэсний Урлагийн Галерей",
+      "locationEn": "Mongolian National Art Gallery",
+      "description": "A special exhibition by contemporary artist T. Enkhbold (Enkhbold Togmidshiirev), shown within the gallery's 2026 permanent exhibition. Open daily 11:00–17:00.",
+      "cost": "10,000₮ adults, 5,000₮ students and children",
+      "category": "Arts & Museums",
+      "tags": [
+        "contemporary art",
+        "exhibition",
+        "gallery",
+        "үзэсгэлэн",
+        "орчин үеийн урлаг"
+      ],
+      "url": "https://www.artavenue.mn/mining---by-enkhbold-togmidshiirev-820315-august---01-december-2026-the-national-art-gallery-of-mongolia.html",
+      "sourceName": "Art Avenue",
+      "lat": 47.919571,
+      "lng": 106.921046
+    },
     {
       "id": "urlag-2026-08-19-ervekheiin-yertonts-butterfly-exhibition",
       "title": "“Эрвээхэйн ертөнц” butterfly exhibition",
@@ -290,23 +327,51 @@
       "lng": 106.906951
     },
     {
-      "id": "montsame-2026-10-11-autumn-wrestling",
-      "title": "256-wrestler tournament opening the autumn season for aimag and military titleholders",
-      "titleMn": "Аймаг, армийн цолтой бөхчүүдийн намрын улирлын нээлтийн 256 бөхийн барилдаан",
+      "id": "nationalmuseum-2026-10-10-udshiin-muzei-sotsializm",
+      "title": "Үдшийн музей – Социализмаар аялцгаая",
+      "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
+      "titleEn": "Evening Museum – Let's Travel Through Socialism",
+      "start": "2026-10-10",
+      "end": "2026-11-19",
+      "allDay": true,
+      "location": "Монголын Үндэсний музей",
+      "locationEn": "National Museum of Mongolia",
+      "description": "A special exhibition of objects from the Mongolian People's Republic years (1950–1990): farming, industry, culture, education, science, building, foreign relations and everyday life. Open 09:00–18:00 daily, 10:00–16:00 on public holidays. During Evening Museum Week, October 10–16, the museum stays open until 20:00.",
+      "cost": "Adults 20,000₮, students 10,000₮, children free",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "history",
+        "museum",
+        "үзэсгэлэн",
+        "музей",
+        "социализм"
+      ],
+      "url": "https://www.nationalmuseum.mn/?p=exhibitions&tab=temporary&ex=22",
+      "sourceName": "National Museum of Mongolia",
+      "lat": 47.920838,
+      "lng": 106.915355
+    },
+    {
+      "id": "montsame-2026-10-11-billion-trees-national-garden-park",
+      "title": "Тэрбум мод: Үндэсний цэцэрлэгт хүрээлэнд намрын мод тарилт",
+      "titleMn": "Үндэсний цэцэрлэгт хүрээлэнд намрын мод тарилт",
+      "titleEn": "Billion Trees autumn tree planting at the National Garden Park",
       "start": "2026-10-11",
       "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "category": "Sports",
+      "location": "Үндэсний цэцэрлэгт хүрээлэн",
+      "locationEn": "National Garden Park",
+      "description": "Last day of the Billion Trees autumn planting drive at the National Garden Park. On October 10 more than 100 organizations and about 200–250 residents planted trees; trees are ordered through the park.",
+      "category": "Outdoors & Parks",
       "tags": [
-        "wrestling",
-        "бөх"
+        "tree planting",
+        "volunteering",
+        "Billion Trees",
+        "мод тарих",
+        "Тэрбум мод"
       ],
-      "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.montsame.mn/files/medium/6ac303bd9fdab.jpeg"
+      "url": "https://montsame.mn/mn/read/412064",
+      "sourceName": "MONTSAME"
     },
     {
       "id": "unuudur-2026-10-11-davs-khiigeed-usny-shulguud-book-launch",
@@ -331,6 +396,46 @@
       "url": "https://www.unuudur.mn/a/284280",
       "sourceName": "Unuudur.mn",
       "image": "https://resource4.sodonsolution.org/unuudur/image/2026/10/09/5yrouvt3whwxhg69/%E2%80%9C%D0%94%D0%B0%D0%B2%D1%81%20%D1%85%D0%B8%D0%B9%D0%B3%D1%8D%D1%8D%D0%B4%20%D1%83%D1%81%D0%BD%D1%8B%20%D1%88%D2%AF%D0%BB%D0%B3%D2%AF%D2%AF%D0%B4%E2%80%9D%20%D0%BD%D0%BE%D0%BC%D1%8B%D0%B3%20%D1%8D%D0%BD%D1%8D%20%D0%BD%D1%8F%D0%BC%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B3%D1%82%20%D1%83%D0%BD%D1%88%D0%B8%D0%B3%D1%87%D0%B4%D0%B0%D0%B4%20%D1%85%D2%AF%D1%80%D0%B3%D1%8D%D0%BD%D1%8D_l.jpg"
+    },
+    {
+      "id": "montsame-2026-10-11-autumn-wrestling",
+      "title": "256-wrestler tournament opening the autumn season for aimag and military titleholders",
+      "titleMn": "Аймаг, армийн цолтой бөхчүүдийн намрын улирлын нээлтийн 256 бөхийн барилдаан",
+      "start": "2026-10-11T11:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "бөх"
+      ],
+      "url": "https://www.montsame.mn/en/read/411448",
+      "sourceName": "MONTSAME",
+      "lat": 47.917851,
+      "lng": 106.935278,
+      "image": "https://www.montsame.mn/files/medium/6ac303bd9fdab.jpeg"
+    },
+    {
+      "id": "ted-2026-10-11-tedxshildeg-school-youth",
+      "title": "TEDxShildeg School Youth",
+      "titleEn": "TEDxShildeg School Youth",
+      "start": "2026-10-11T11:00",
+      "end": "2026-10-11T17:00",
+      "allDay": false,
+      "location": "Black Box Theatre, Хасбаатарын гудамж, Баянгол дүүрэг",
+      "locationEn": "Black Box Theatre, Khasbaatar St., Bayangol District",
+      "description": "A youth TEDx event run by students on the theme \"Receive and Give\", from 11:00 to 17:00.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "илтгэл",
+        "залуучууд"
+      ],
+      "url": "https://www.ted.com/tedx/events/70233",
+      "sourceName": "TEDx"
     },
     {
       "id": "ikon-2026-10-11-udshiin-khemnel-jazz-concert",
@@ -544,6 +649,53 @@
       "lng": 106.90449
     },
     {
+      "id": "ublife-2026-10-17-ideathon",
+      "title": "IDEATHON",
+      "titleMn": "“IDEATHON” гарааны бизнесийн санаа хөгжүүлэх хакатон",
+      "titleEn": "IDEATHON startup idea hackathon",
+      "start": "2026-10-17T09:00",
+      "end": "2026-10-18T15:00",
+      "allDay": false,
+      "location": "ШУТИС-ийн 8 дугаар байр, 12 давхрын хурлын танхим",
+      "locationEn": "Mongolian University of Science and Technology, Building 8, 12th-floor hall",
+      "description": "A two-day startup idea hackathon in the city's SPARK – UB Startup Town program, for people 18 and over interested in IT, innovation or starting a business. About 30 people are chosen and put in teams of 3–4; sign up by October 13.",
+      "cost": "Free, registration required",
+      "category": "Talks & Learning",
+      "tags": [
+        "hackathon",
+        "startup",
+        "students",
+        "хакатон",
+        "гарааны бизнес",
+        "залуучууд"
+      ],
+      "url": "https://www.ub.life/p/261009-jdhd5m",
+      "sourceName": "UB Life"
+    },
+    {
+      "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
+      "title": "Бид Харь Гарагаас Ирсэн",
+      "titleMn": "Бид Харь Гарагаас Ирсэн",
+      "titleEn": "We Came from Another Planet (UBIFF)",
+      "start": "2026-10-17T19:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of an anime drama (1 h 57 min, PG-13) about a boy in a small Japanese town and a friend's betrayal he never forgets.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "anime",
+        "film festival",
+        "кино наадам",
+        "анимэ"
+      ],
+      "url": "https://www.tengis.mn/film/bidhargaragaasirsenubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "zindaa-2026-10-17-n-undral-saikhan-ch-yum-daa",
       "title": "Сайхан ч юм даа",
       "titleMn": "Сайхан ч юм даа",
@@ -567,6 +719,75 @@
       "sourceName": "Zindaa.mn",
       "lat": 47.911971,
       "lng": 106.907256
+    },
+    {
+      "id": "tengis-2026-10-17-vivaldi-bid-khoyor-ubiff",
+      "title": "Вивалди Бид Хоёр",
+      "titleMn": "Вивалди Бид Хоёр",
+      "titleEn": "Vivaldi and I (UBIFF)",
+      "start": "2026-10-17T21:25",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of a music drama (1 h 50 min, PG-13) set in 18th-century Venice, where a young violinist's life changes when Vivaldi becomes her teacher.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "drama",
+        "music",
+        "кино наадам",
+        "Вивалди"
+      ],
+      "url": "https://www.tengis.mn/film/vivaldibidxoyorubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
+      "id": "tengis-2026-10-18-yavuulyn-khun-govd-ubiff",
+      "title": "Явуулын хүн Говьд",
+      "titleMn": "Явуулын хүн Говьд",
+      "titleEn": "A Stranger in the Gobi (UBIFF)",
+      "start": "2026-10-18T13:30",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of a drama (1 h 40 min, 6+) about a Gobi family guarding dinosaur eggs and a secret chest, visited by an uninvited extreme traveller.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "Mongolian film",
+        "Gobi",
+        "кино наадам",
+        "монгол кино"
+      ],
+      "url": "https://www.tengis.mn/film/yavuulynhuengovdubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
+      "id": "tengis-2026-10-18-khanyn-zuraach-ubiff",
+      "title": "Ханын зураач",
+      "titleMn": "Ханын зураач",
+      "titleEn": "The Wall Painter (UBIFF)",
+      "start": "2026-10-18T16:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of a drama (1 h 56 min, PG-13) about a mural painter back from Europe who lives on the roof of an old factory on Ulaanbaatar's edge.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "Mongolian film",
+        "drama",
+        "кино наадам",
+        "монгол кино"
+      ],
+      "url": "https://www.tengis.mn/film/hanynzuraachubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "tengis-2026-10-18-rose-ubiff",
@@ -668,6 +889,52 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001216/horizontal.jpg"
+    },
+    {
+      "id": "tengis-2026-10-20-durlasan-bukhen-gun-shunuur-ubiff",
+      "title": "Дурласан Бүхэн Гүн Шөнөөр",
+      "titleMn": "Дурласан Бүхэн Гүн Шөнөөр",
+      "titleEn": "All the Lovers in the Night (UBIFF)",
+      "start": "2026-10-20T22:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of a Japanese romance drama (2 h 19 min, PG-13) about a solitary editor whose routine changes when she meets a gentle physics teacher.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "romance",
+        "Japanese film",
+        "кино наадам",
+        "романтик"
+      ],
+      "url": "https://www.tengis.mn/film/durlasanbuexenguenshoenoeoerubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
+      "id": "tengis-2026-10-21-zadlaagui-zakhia-ubiff",
+      "title": "Задлаагүй Захиа",
+      "titleMn": "Задлаагүй Захиа",
+      "titleEn": "The Unopened Letter (UBIFF)",
+      "start": "2026-10-21T16:35",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Ulaanbaatar International Film Festival screening of a drama by director D. Batdelger (1 h 51 min, PG-13) about a boy who lies about his age to go to war while his mother waits.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "Mongolian film",
+        "drama",
+        "кино наадам",
+        "монгол кино"
+      ],
+      "url": "https://www.tengis.mn/film/zadlaaguejzahiaubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "ubiff-2026-closing",
@@ -803,6 +1070,29 @@
       "sourceName": "TEDx",
       "lat": 47.914447,
       "lng": 107.001978
+    },
+    {
+      "id": "montsame-2026-10-24-bayanzurkh-khairkhany-khishig-wrestling",
+      "title": "“Баянзүрх хайрханы хишиг” улс, аймгийн цолтой 256 бөхийн барилдаан",
+      "titleMn": "“Баянзүрх хайрханы хишиг” 256 бөхийн барилдаан",
+      "titleEn": "Bayanzurkh Khairkhan's Blessing: 256-wrestler tournament",
+      "start": "2026-10-24T13:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "Mongolian wrestling tournament for 256 wrestlers holding national and aimag titles, from 13:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "traditional sports",
+        "бөх",
+        "барилдаан"
+      ],
+      "url": "https://montsame.mn/mn/read/411224",
+      "sourceName": "MONTSAME",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "bandsintown-2026-10-24-mxrningstar",

@@ -391,5 +391,32 @@
       "Чингисийн талбай"
     ],
     "source": "https://wanderlog.com/place/details/10016783/s%C3%BCkhbaatar-square"
+  },
+  {
+    "name": "National Museum of Mongolia",
+    "nameMn": "Монголын Үндэсний музей",
+    "lat": 47.920838,
+    "lng": 106.915355,
+    "aliases": [
+      "Монголын Үндэсний музей",
+      "Монголын үндэсний түүхийн музей",
+      "National Museum of Mongolia",
+      "National Museum of Mongolian History"
+    ],
+    "source": "https://mapcarta.com/W155433850"
+  },
+  {
+    "name": "Mongolian National Art Gallery",
+    "nameMn": "Монголын Үндэсний Урлагийн Галерей",
+    "lat": 47.919571,
+    "lng": 106.921046,
+    "aliases": [
+      "Монголын Үндэсний Урлагийн Галерей",
+      "Үндэсний урлагийн галерей",
+      "Mongolian National Art Gallery",
+      "National Art Gallery of Mongolia",
+      "National Modern Art Gallery"
+    ],
+    "source": "https://wanderlog.com/place/details/33812/mongolian-national-art-gallery"
   }
 ]
