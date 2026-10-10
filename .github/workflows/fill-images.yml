@@ -1,0 +1,46 @@
+# Gives new events a picture from their listing's preview image. See scripts/fill-images.mjs.
+name: Add event pictures
+
+on:
+  push:
+    branches: [main]
+    paths: [events.json]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One change to events.json at a time.
+concurrency:
+  group: events-json
+  cancel-in-progress: false
+
+jobs:
+  pictures:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Find pictures
+        run: node scripts/fill-images.mjs && node check.mjs
+
+      - name: Publish them
+        run: |
+          git diff --quiet events.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git add events.json
+            git commit -q -m "Add event pictures"
+            if git push origin HEAD:main; then exit 0; fi
+            # The list changed meanwhile: start again from the new one.
+            sleep 5
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            node scripts/fill-images.mjs
+            git diff --quiet events.json && exit 0
+          done
+          exit 1

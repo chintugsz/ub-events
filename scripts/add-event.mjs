@@ -47,6 +47,7 @@ const FIELDS = {
   Category: 'category',
   Price: 'price',
   Link: 'link',
+  'Image link': 'image',
   Organizer: 'organizer',
   Description: 'description',
 };
@@ -72,7 +73,7 @@ export const ubToday = (now = new Date()) => new Date(now.getTime() + 8 * 3600 *
 /** Builds the events.json entry, or lists what the organizer needs to fix. */
 export function buildEvent(fields, { issueNumber, issueUrl, author, today }) {
   const get = (key) => (fields[key] ?? '').trim();
-  const [name, date, time, endDate, place, link] = ['name', 'date', 'time', 'endDate', 'place', 'link'].map(get);
+  const [name, date, time, endDate, place, link, image] = ['name', 'date', 'time', 'endDate', 'place', 'link', 'image'].map(get);
   const problems = [];
 
   if (!name) problems.push('The event name is missing.');
@@ -83,6 +84,7 @@ export function buildEvent(fields, { issueNumber, issueUrl, author, today }) {
   if (endDate && (!isDate(endDate) || endDate < date)) problems.push(`The last day "${endDate}" should look like 2026-10-27 and come after the date.`);
   if (!place) problems.push('The place is missing.');
   if (link && !/^https:\/\/\S+$/.test(link)) problems.push('The link should start with https://');
+  if (image && !/^https:\/\/\S+$/.test(image)) problems.push('The image link should start with https://');
   if (problems.length) return { problems };
 
   const description = get('description').slice(0, 1000);
@@ -99,6 +101,7 @@ export function buildEvent(fields, { issueNumber, issueUrl, author, today }) {
     category: toCategory(get('category')),
     tags: ['organizer', 'зохион байгуулагч'],
     url: link || issueUrl,
+    ...(image ? { image } : {}),
     sourceName: PUBLISHER,
     host: get('organizer') || `@${author}`,
   };

@@ -47,15 +47,21 @@ Organizers add events with the **Add an event** form under
 ```
 
 - `start` and `end` are `YYYY-MM-DD` or `YYYY-MM-DDTHH:MM`, in Ulaanbaatar time.
-- Optional fields are `titleMn`, `titleEn`, `end`, `allDay`, `locationEn`, `description`, `cost`
-  and `tags`.
+- Optional fields are `titleMn`, `titleEn`, `end`, `allDay`, `locationEn`, `description`, `cost`,
+  `tags`, `lat`/`lng` and `image`.
+- `lat`/`lng` put the event on the app's map. `check.mjs --write` fills them in from
+  [venues.json](venues.json), where every venue's coordinates come from OpenStreetMap or the
+  venue's own map pin (see `source`).
+- `image` is an https link to a picture of the event. The **Add event pictures** workflow fills it
+  in with the listing's own preview picture ([scripts/fill-images.mjs](scripts/fill-images.mjs)),
+  and organizers can give one in the form.
 - `sourceName` must match one of the `publishers`.
 
 ## Checking a change
 
 ```
 node check.mjs           # report problems
-node check.mjs --write   # also drop finished events, sort, and stamp updatedAt
+node check.mjs --write   # also drop finished events, add map positions, sort, and stamp updatedAt
 ```
 
 Only commit when `check.mjs` passes. This repository is public: never put API keys or passwords in it.

@@ -60,6 +60,11 @@ body:
       label: Link / Холбоос
       description: The event or ticket page, starting with https://
   - type: input
+    id: image
+    attributes:
+      label: Image link / Зургийн холбоос
+      description: A poster or photo for the event, starting with https:// (optional) / Постер эсвэл зураг (заавал биш)
+  - type: input
     id: organizer
     attributes:
       label: Organizer / Зохион байгуулагч

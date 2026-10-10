@@ -1,0 +1,395 @@
+[
+  {
+    "name": "National Museum of Natural History",
+    "nameMn": "Байгалийн шинжлэх ухааны үндэсний музей",
+    "lat": 47.923435,
+    "lng": 106.905827,
+    "aliases": [
+      "Байгалийн шинжлэх ухааны үндэсний музей",
+      "National Museum of Natural History",
+      "Байгалийн түүхийн музей",
+      "Natural History Museum",
+      "Mongolian Natural History Museum",
+      "National Museum of Natural Sciences"
+    ],
+    "source": "OpenStreetMap: the Liberty Square building, which the museum's own contact page gives (the new building at Ikh Tengeriin Am wasn't finished in March 2026)"
+  },
+  {
+    "name": "Lkham Gallery",
+    "nameMn": "Лхам галерей",
+    "lat": 47.913526,
+    "lng": 106.915485,
+    "aliases": [
+      "Лхам галерей",
+      "Lkham Gallery",
+      "LKHAM",
+      "LKHAM Gallery",
+      "LKHAM International Contemporary Art Gallery"
+    ],
+    "source": "https://maps.app.goo.gl/zFQVE5YSXm2nu5EV6"
+  },
+  {
+    "name": "Chinggis Khaan National Museum",
+    "nameMn": "Чингис хаан үндэсний музей",
+    "lat": 47.922685,
+    "lng": 106.914879,
+    "aliases": [
+      "Чингис хаан үндэсний музей",
+      "Chinggis Khaan National Museum",
+      "Chinggis Khaan National Museum (J. Sambuu Street)",
+      "Chinggis Khaan Museum",
+      "Genghis Khan National Museum"
+    ],
+    "source": "https://mapcarta.com/W906834907"
+  },
+  {
+    "name": "Khan Bank Tower (HAAN Gallery)",
+    "nameMn": "ХААН банк тауэр",
+    "lat": 47.903719,
+    "lng": 106.911959,
+    "aliases": [
+      "ХААН банк тауэр",
+      "Khan Bank Tower",
+      "Khan Bank Tower (HAAN Gallery)",
+      "Khaan Bank Tower",
+      "Хаан Банк цамхаг",
+      "HAAN Gallery",
+      "ХААН галерей",
+      "Haan Gallery"
+    ],
+    "source": "https://mapcarta.com/W666410537"
+  },
+  {
+    "name": "B Contemporary Art Gallery",
+    "nameMn": "\"Б Контемпорари\" урлагийн галерей",
+    "lat": 47.929437,
+    "lng": 106.928734,
+    "aliases": [
+      "\"Б Контемпорари\" урлагийн галерей",
+      "Б Контемпорари",
+      "B Contemporary art gallery",
+      "B Contemporary",
+      "Бий Контемпорари Арт Галерей",
+      "B contemporary art gallery"
+    ],
+    "source": "https://www.trip.com/travel-guide/attraction/ulaanbaatar/b-contemporary-art-gallery-142276056"
+  },
+  {
+    "name": "Zanabazar Museum of Fine Arts",
+    "nameMn": "Занабазарын нэрэмжит Дүрслэх урлагийн музей",
+    "lat": 47.920172,
+    "lng": 106.90967,
+    "aliases": [
+      "Занабазарын нэрэмжит Дүрслэх урлагийн музей",
+      "Zanabazar Museum of Fine Arts",
+      "The Fine Arts Zanabazar Museum",
+      "Fine Arts Zanabazar Museum",
+      "Zanabazar Museum"
+    ],
+    "source": "https://mapcarta.com/W219748545"
+  },
+  {
+    "name": "Tengis Cinema",
+    "nameMn": "Тэнгис кино театр",
+    "lat": 47.922806,
+    "lng": 106.90449,
+    "aliases": [
+      "Тэнгис кино театр",
+      "Tengis Cinema",
+      "Tengis 1",
+      "Тэнгис 1",
+      "Tengis Cinema (the main \"Tengis 1\" cinema near Liberty Square)",
+      "Tengis Kino Teatr"
+    ],
+    "source": "https://mapcarta.com/W129230047"
+  },
+  {
+    "name": "Bogd Khaan Palace Museum",
+    "nameMn": "Богд хааны ордон музей",
+    "lat": 47.897421,
+    "lng": 106.906951,
+    "aliases": [
+      "Богд хааны ордон музей",
+      "Bogd Khaan Palace Museum",
+      "Bogd Khan Palace Museum",
+      "Winter Palace of the Bogd Khan",
+      "Green Palace",
+      "The Museum of the Bogd Khaan"
+    ],
+    "source": "https://mapcarta.com/W394198638"
+  },
+  {
+    "name": "Mongolian Wrestling Palace",
+    "nameMn": "Монгол бөхийн өргөө",
+    "lat": 47.917851,
+    "lng": 106.935278,
+    "aliases": [
+      "Монгол бөхийн өргөө",
+      "Mongolian Wrestling Palace",
+      "Бөхийн өргөө",
+      "Wrestling Palace",
+      "Bökhiin Örgöö",
+      "Bukhiin Urguu",
+      "Bokhiin Orgoo"
+    ],
+    "source": "https://mapcarta.com/W134370652"
+  },
+  {
+    "name": "Mongolian Children's Palace",
+    "nameMn": "Монголын хүүхдийн ордон",
+    "lat": 47.912728,
+    "lng": 106.916088,
+    "aliases": [
+      "Монголын хүүхдийн ордон",
+      "Mongolian Children's Palace",
+      "Хүүхдийн ордон",
+      "Children's Palace",
+      "The Children's Palace"
+    ],
+    "source": "https://wanderlog.com/place/details/10208489/the-childrens-palace"
+  },
+  {
+    "name": "State Philharmonic",
+    "nameMn": "Улсын Филармони",
+    "lat": 47.919534,
+    "lng": 106.920049,
+    "aliases": [
+      "Улсын Филармони",
+      "State Philharmonic",
+      "State Philharmonic (concert hall)",
+      "Улсын филармони",
+      "Mongolian State Philharmonic",
+      "Ulsyn Filarmoni"
+    ],
+    "source": "https://mapcarta.com/N2490707650"
+  },
+  {
+    "name": "State Academic Drama Theatre",
+    "nameMn": "Улсын драмын эрдмийн театр",
+    "lat": 47.914621,
+    "lng": 106.914258,
+    "aliases": [
+      "Улсын драмын эрдмийн театр",
+      "State Academic Drama Theatre",
+      "National Academic Drama Theatre",
+      "Mongolian State Academic Drama Theatre",
+      "Улсын Драмын Эрдмийн Театр",
+      "Drama Theatre",
+      "Ulsyn Dramyn Erdmiin Teatr"
+    ],
+    "source": "https://mapcarta.com/W388105059"
+  },
+  {
+    "name": "Salm Pub & Bar",
+    "nameMn": "Salm Pub & Bar",
+    "lat": 47.925847,
+    "lng": 106.916055,
+    "aliases": [
+      "Salm Pub & Bar",
+      "SALM PUB & BAR",
+      "Salm Pub",
+      "Salm Brau",
+      "Salm Brau Pub"
+    ],
+    "source": "https://wanderlog.com/place/details/1461932/salm-pub--bar"
+  },
+  {
+    "name": "Urgoo Cinema (Urgoo 1)",
+    "nameMn": "Өргөө кино театр",
+    "lat": 47.923515,
+    "lng": 106.87492,
+    "aliases": [
+      "Өргөө кино театр",
+      "Urgoo Cinema",
+      "Urgoo 1",
+      "Өргөө 1",
+      "Өргөө 1,5 IMAX Хороолол",
+      "Urgoo 1, 5 IMAX Khoroolol",
+      "Өргөө Кино Театр"
+    ],
+    "source": "https://mapcarta.com/W155447732"
+  },
+  {
+    "name": "Urgoo Cinema II",
+    "nameMn": "Өргөө II",
+    "lat": 47.921665,
+    "lng": 106.922482,
+    "aliases": [
+      "Urgoo Cinema II",
+      "Urgoo 2",
+      "Urgoo II",
+      "Өргөө 2",
+      "Өргөө II"
+    ],
+    "source": "https://mapcarta.com/N2516004436"
+  },
+  {
+    "name": "Urgoo IMAX (Shangri-La)",
+    "nameMn": "Өргөө имакс",
+    "lat": 47.913701,
+    "lng": 106.921644,
+    "aliases": [
+      "Urgoo IMAX",
+      "Urgoo IMAX Shangri-La",
+      "Өргөө имакс"
+    ],
+    "source": "https://mapcarta.com/N5006215122"
+  },
+  {
+    "name": "ASA Arena",
+    "nameMn": "АСА Арена",
+    "lat": 47.911971,
+    "lng": 106.907256,
+    "aliases": [
+      "АСА Арена",
+      "ASA Arena",
+      "Аса Арена",
+      "Asa Circus",
+      "State Circus",
+      "Mongolian National Circus",
+      "Монгол Улсын Цирк"
+    ],
+    "source": "https://mapcarta.com/W344181085"
+  },
+  {
+    "name": "Misheel Expo Center",
+    "nameMn": "Мишээл Экспо",
+    "lat": 47.89204,
+    "lng": 106.885535,
+    "aliases": [
+      "Мишээл Экспо",
+      "Misheel Expo",
+      "Misheel Expo Center",
+      "Мишээл Экспо төв",
+      "Misheel Expo Centre"
+    ],
+    "source": "https://wanderlog.com/place/details/2521411/misheel-expo"
+  },
+  {
+    "name": "Fat Cat Jazz Club",
+    "nameMn": "Fat Cat Jazz Club",
+    "lat": 47.915201,
+    "lng": 106.917441,
+    "aliases": [
+      "Fat Cat Jazz Club",
+      "Fat Cat"
+    ],
+    "source": "https://mapcarta.com/N6452841082"
+  },
+  {
+    "name": "Russian Centre for Science and Culture",
+    "nameMn": "Оросын шинжлэх ухаан, соёлын төв",
+    "lat": 47.926224,
+    "lng": 106.935273,
+    "aliases": [
+      "Оросын шинжлэх ухаан, соёлын төв",
+      "Оросын шинжлэх ухаан, соёлын төв (РЦНК)",
+      "РЦНК",
+      "Russian Centre for Science and Culture",
+      "Оросын Шинжлэх Ухаан Соёлын Төв",
+      "Russian Center for Science and Culture",
+      "Russian House",
+      "Русский дом"
+    ],
+    "source": "https://mapcarta.com/W219766686"
+  },
+  {
+    "name": "Ulaanbaatar Empathy School",
+    "nameMn": "Ulaanbaatar Empathy School",
+    "lat": 47.914447,
+    "lng": 107.001978,
+    "aliases": [
+      "Ulaanbaatar Empathy School",
+      "UB Empathy School",
+      "Empathy School",
+      "UBES"
+    ],
+    "source": "https://ubempathy.edupage.org/contact/"
+  },
+  {
+    "name": "Independence Palace",
+    "nameMn": "Тусгаар тогтнолын ордон",
+    "lat": 47.918775,
+    "lng": 106.921609,
+    "aliases": [
+      "Тусгаар тогтнолын ордон",
+      "Independence Palace",
+      "The Palace of Independence",
+      "Palace of Independence",
+      "Tusgaar Togtnolyn Ordon"
+    ],
+    "source": "https://mapcarta.com/W220892281"
+  },
+  {
+    "name": "Steppe Arena",
+    "nameMn": "Степпе Арена",
+    "lat": 47.847528,
+    "lng": 106.793257,
+    "aliases": [
+      "Steppe Arena",
+      "AIC Steppe Arena",
+      "Степпе Арена",
+      "Мөсөн өргөө",
+      "Степпе Арена - Мөсөн өргөө",
+      "Ice House"
+    ],
+    "source": "https://mapcarta.com/W904727718"
+  },
+  {
+    "name": "Buyant-Ukhaa Sports Palace",
+    "nameMn": "Буянт Ухаа Спорт Ордон",
+    "lat": 47.854437,
+    "lng": 106.784967,
+    "aliases": [
+      "Buyant-Ukhaa Sports Palace",
+      "Buyant Ukhaa Sport Palace",
+      "Buyant Ukhaa Sport Ordon",
+      "Буянт Ухаа Спорт Ордон",
+      "Буянт-Ухаа Спорт Цогцолбор",
+      "Buyant-Ukhaa Sports Complex"
+    ],
+    "source": "https://mapcarta.com/N2268098595"
+  },
+  {
+    "name": "Central Stadium",
+    "nameMn": "Төв цэнгэлдэх хүрээлэн",
+    "lat": 47.902166,
+    "lng": 106.916296,
+    "aliases": [
+      "Central Stadium",
+      "National Sports Stadium",
+      "Төв цэнгэлдэх хүрээлэн"
+    ],
+    "source": "https://mapcarta.com/W108195289"
+  },
+  {
+    "name": "State Opera and Ballet Theatre",
+    "nameMn": "Улсын дуурь бүжгийн эрдмийн театр",
+    "lat": 47.918629,
+    "lng": 106.919859,
+    "aliases": [
+      "State Opera and Ballet Theatre",
+      "State Academic Theatre of Opera and Ballet",
+      "Mongolian State Academic Theatre of Opera and Ballet",
+      "National Academic Theatre of Opera",
+      "Улсын дуурь бүжгийн эрдмийн театр",
+      "Дуурь бүжгийн театр",
+      "Opera House"
+    ],
+    "source": "https://mapcarta.com/W220892826"
+  },
+  {
+    "name": "Sukhbaatar Square",
+    "nameMn": "Сүхбаатарын талбай",
+    "lat": 47.919045,
+    "lng": 106.91755,
+    "aliases": [
+      "Sukhbaatar Square",
+      "Sükhbaatar Square",
+      "Сүхбаатарын талбай",
+      "Chinggis Square",
+      "Чингисийн талбай"
+    ],
+    "source": "https://wanderlog.com/place/details/10016783/s%C3%BCkhbaatar-square"
+  }
+]

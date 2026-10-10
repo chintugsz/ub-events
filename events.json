@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T07:12:13+08:00",
+  "updatedAt": "2026-10-10T13:38:35+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -97,7 +97,9 @@
         "музей"
       ],
       "url": "https://urlag.mn/post/155586",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "lat": 47.923435,
+      "lng": 106.905827
     },
     {
       "id": "yolo-2026-09-10-khellegiig-ilerkhiilekhui-lkham-gallery",
@@ -121,7 +123,9 @@
         "Франц"
       ],
       "url": "https://www.yolo.mn/news/12915",
-      "sourceName": "YOLO.mn"
+      "sourceName": "YOLO.mn",
+      "lat": 47.913526,
+      "lng": 106.915485
     },
     {
       "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
@@ -147,7 +151,9 @@
         "Рафаэл"
       ],
       "url": "https://chinggismuseum.com/en/blogs/6abccbeea8e568fff17b39d3",
-      "sourceName": "Chinggis Khaan National Museum"
+      "sourceName": "Chinggis Khaan National Museum",
+      "lat": 47.922685,
+      "lng": 106.914879
     },
     {
       "id": "ikon-2026-10-02-domogt-khatad-haan-gallery",
@@ -171,7 +177,9 @@
         "хатад"
       ],
       "url": "https://ikon.mn/n/3qvq",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "lat": 47.903719,
+      "lng": 106.911959
     },
     {
       "id": "montsame-2026-10-02-altan-namar-sketch-exhibition",
@@ -195,7 +203,9 @@
         "галерей"
       ],
       "url": "https://montsame.mn/mn/read/411678",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "lat": 47.929437,
+      "lng": 106.928734
     },
     {
       "id": "urlag-2026-10-04-fine-arts-museum-60-photo-exhibition",
@@ -219,7 +229,9 @@
         "музей"
       ],
       "url": "https://urlag.mn/post/159355",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "lat": 47.920172,
+      "lng": 106.90967
     },
     {
       "id": "tengis-2026-10-09-ovgor",
@@ -242,7 +254,9 @@
         "Овгор"
       ],
       "url": "https://www.tengis.mn/film/ovgor",
-      "sourceName": "Tengis Cinema"
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "zms-2026-10-09-mongolyn-ikh-khuree-khiiduud-exhibition",
@@ -266,7 +280,9 @@
         "Богд хааны ордон"
       ],
       "url": "https://www.zms.mn/a/105287",
-      "sourceName": "Zuunii Medee (zms.mn)"
+      "sourceName": "Zuunii Medee (zms.mn)",
+      "lat": 47.897421,
+      "lng": 106.906951
     },
     {
       "id": "zms-2026-10-09-khaan-ordny-namar-2026",
@@ -291,7 +307,9 @@
         "нээлттэй өдөрлөг"
       ],
       "url": "https://www.zms.mn/a/105287",
-      "sourceName": "Zuunii Medee (zms.mn)"
+      "sourceName": "Zuunii Medee (zms.mn)",
+      "lat": 47.897421,
+      "lng": 106.906951
     },
     {
       "id": "montsame-2026-10-10-green-show-wrestling",
@@ -307,7 +325,9 @@
         "бөх"
       ],
       "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "montsame-2026-10-10-tree-planting",
@@ -348,7 +368,9 @@
         "залуучууд"
       ],
       "url": "https://www.yolo.mn/news/13024",
-      "sourceName": "YOLO.mn"
+      "sourceName": "YOLO.mn",
+      "lat": 47.912728,
+      "lng": 106.916088
     },
     {
       "id": "montsame-2026-10-11-autumn-wrestling",
@@ -364,7 +386,9 @@
         "бөх"
       ],
       "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "unuudur-2026-10-11-davs-khiigeed-usny-shulguud-book-launch",
@@ -410,7 +434,9 @@
         "хөгжим"
       ],
       "url": "https://ikon.mn/n/3qwe",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
     },
     {
       "id": "eventx-2026-10-11-biyelgee-night-festival",
@@ -457,7 +483,9 @@
         "драмын театр"
       ],
       "url": "https://montsame.mn/mn/read/410905",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "lat": 47.914621,
+      "lng": 106.914258
     },
     {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
@@ -483,7 +511,9 @@
         "амьд хөгжим"
       ],
       "url": "https://www.eventx.mn/event/1908",
-      "sourceName": "EventX"
+      "sourceName": "EventX",
+      "lat": 47.925847,
+      "lng": 106.916055
     },
     {
       "id": "ubiff-2026",
@@ -501,7 +531,9 @@
       ],
       "description": "18 films over seven days, opening with Cristian Mungiu's \"Fjord\" at Tengis and Skywing cinemas.",
       "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse"
+      "sourceName": "Asian Movie Pulse",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "urgoo-2026-10-16-street-fighter",
@@ -522,7 +554,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001920",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-10-16-whalefall",
@@ -543,7 +577,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001901",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "allevents-2026-10-16-disability-education",
@@ -577,7 +613,9 @@
         "кино"
       ],
       "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse"
+      "sourceName": "Asian Movie Pulse",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "zindaa-2026-10-17-n-undral-saikhan-ch-yum-daa",
@@ -600,7 +638,9 @@
         "дуучин"
       ],
       "url": "https://news.zindaa.mn/5d8m",
-      "sourceName": "Zindaa.mn"
+      "sourceName": "Zindaa.mn",
+      "lat": 47.911971,
+      "lng": 106.907256
     },
     {
       "id": "tengis-2026-10-18-rose-ubiff",
@@ -623,7 +663,9 @@
         "UBIFF 2026"
       ],
       "url": "https://www.tengis.mn/film/roeuezubiff",
-      "sourceName": "Tengis Cinema"
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
@@ -645,7 +687,9 @@
         "монгол кино"
       ],
       "url": "https://www.tengis.mn/film/cagaanxadnyoengoeubiff",
-      "sourceName": "Tengis Cinema"
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "tengis-2026-10-19-fjord-ubiff",
@@ -667,7 +711,9 @@
         "кино"
       ],
       "url": "https://www.tengis.mn/film/fiordubiff",
-      "sourceName": "Tengis Cinema"
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "tengis-2026-10-20-niigmiin-daisan-ubiff",
@@ -689,7 +735,9 @@
         "кино"
       ],
       "url": "https://www.tengis.mn/film/nijgmijndajsanubiff",
-      "sourceName": "Tengis Cinema"
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "ubiff-2026-closing",
@@ -727,7 +775,9 @@
         "яармаг"
       ],
       "url": "https://montsame.mn/en/read/411625",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "lat": 47.89204,
+      "lng": 106.885535
     },
     {
       "id": "urgoo-2026-10-23-clayface",
@@ -749,7 +799,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001917",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "bandsintown-2026-10-23-mxrningstar",
@@ -764,7 +816,9 @@
         "album release"
       ],
       "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
-      "sourceName": "Bandsintown"
+      "sourceName": "Bandsintown",
+      "lat": 47.915201,
+      "lng": 106.917441
     },
     {
       "id": "urlag-2026-10-23-ineemtgii-khun",
@@ -788,7 +842,9 @@
         "визуал драм"
       ],
       "url": "https://urlag.mn/post/159147",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "lat": 47.926224,
+      "lng": 106.935273
     },
     {
       "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
@@ -811,7 +867,9 @@
         "TED"
       ],
       "url": "https://www.ted.com/tedx/events/70557",
-      "sourceName": "TEDx"
+      "sourceName": "TEDx",
+      "lat": 47.914447,
+      "lng": 107.001978
     },
     {
       "id": "bandsintown-2026-10-24-mxrningstar",
@@ -826,7 +884,9 @@
         "album release"
       ],
       "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
-      "sourceName": "Bandsintown"
+      "sourceName": "Bandsintown",
+      "lat": 47.915201,
+      "lng": 106.917441
     },
     {
       "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
@@ -848,7 +908,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001944",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -873,7 +935,9 @@
         "театр"
       ],
       "url": "https://www.eventx.mn/event/1903",
-      "sourceName": "EventX"
+      "sourceName": "EventX",
+      "lat": 47.918775,
+      "lng": 106.921609
     },
     {
       "id": "urlag-2026-10-30-suulchiin-boroo",
@@ -897,7 +961,9 @@
         "театр"
       ],
       "url": "https://urlag.mn/post/159750",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "lat": 47.926224,
+      "lng": 106.935273
     },
     {
       "id": "urgoo-2026-11-06-godzilla-minus-zero",
@@ -919,7 +985,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001946",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-11-06-the-cat-in-the-hat",
@@ -941,7 +1009,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001902",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-11-11-ghost-soldier",
@@ -963,7 +1033,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001951",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-11-13-ebenezer",
@@ -985,7 +1057,9 @@
         "Өргөө"
       ],
       "url": "https://new.urgoo.mn/movies/HO00001929",
-      "sourceName": "Urgoo Cinema"
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "gdg-2026-11-14-devfest-ub-2026",

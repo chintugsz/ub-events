@@ -1,8 +1,10 @@
 // Checks events.json before it is published, so a bad edit can't break the app.
 //   node check.mjs          report problems, change nothing
-//   node check.mjs --write  also drop finished events, sort, and stamp updatedAt
-// Exits with 1 if any event is invalid.
+//   node check.mjs --write  also drop finished events, put events on the map (venues.json),
+//                           sort, and stamp updatedAt
+// Exits with 1 if any event or venue is invalid.
 import { readFileSync, writeFileSync } from 'node:fs';
+import { checkVenues, findVenue, inMongolia, placeEvents, readVenues } from './scripts/venues.mjs';
 
 const FILE = new URL('./events.json', import.meta.url);
 const CATEGORIES = [
@@ -17,7 +19,8 @@ const today = ubNow.slice(0, 10);
 
 const feed = JSON.parse(readFileSync(FILE, 'utf8'));
 const publishers = new Set((feed.publishers ?? []).map((p) => p.name));
-const errors = [];
+const venues = readVenues();
+const errors = checkVenues(venues).map((p) => `venues.json: ${p}`);
 const seen = new Set();
 
 for (const ev of feed.events ?? []) {
@@ -32,8 +35,11 @@ for (const ev of feed.events ?? []) {
   if (!/^https:\/\//.test(ev.url ?? '')) bad('missing https source url');
   if (!publishers.has(ev.sourceName)) bad(`sourceName "${ev.sourceName}" is not in publishers`);
   if (ev.category !== undefined && !CATEGORIES.includes(ev.category)) bad(`unknown category "${ev.category}"`);
+  if ((ev.lat !== undefined || ev.lng !== undefined) && !inMongolia(ev.lat, ev.lng)) bad('lat and lng must both be numbers inside Mongolia');
+  if (ev.image !== undefined && !/^https:\/\/\S+$/.test(ev.image)) bad('image must be an https link');
 }
 
+const findsVenue = (ev) => !!findVenue(ev, venues);
 const lastDay = (ev) => (ev.end ?? ev.start ?? '').slice(0, 10);
 const finished = (feed.events ?? []).filter((ev) => lastDay(ev) < today);
 const upcoming = (feed.events ?? []).filter((ev) => lastDay(ev) >= today);
@@ -43,6 +49,9 @@ for (const ev of upcoming) bySource[ev.sourceName] = (bySource[ev.sourceName] ??
 console.log(`Today in Ulaanbaatar: ${today}`);
 console.log(`${upcoming.length} upcoming, ${finished.length} finished`);
 for (const [name, n] of Object.entries(bySource).sort((a, b) => b[1] - a[1])) console.log(`  ${name}: ${n}`);
+const unplaced = upcoming.filter((ev) => ev.lat === undefined && !findsVenue(ev));
+console.log(`${upcoming.length - unplaced.length} on the map, ${upcoming.filter((ev) => ev.image).length} with a picture`);
+if (unplaced.length) console.log(`  Not on the map: ${unplaced.map((ev) => ev.location || '(no location)').join('; ')}`);
 
 if (errors.length) {
   console.error(`\n${errors.length} problem(s):`);
@@ -51,6 +60,8 @@ if (errors.length) {
 }
 
 if (process.argv.includes('--write')) {
+  const placed = placeEvents(upcoming, venues);
+  if (placed) console.log(`Put ${placed} event(s) on the map from venues.json.`);
   upcoming.sort((a, b) => a.start.localeCompare(b.start) || a.id.localeCompare(b.id));
   const out = { updatedAt: `${ubNow.slice(0, 19)}+08:00`, publishers: feed.publishers, events: upcoming };
   writeFileSync(FILE, JSON.stringify(out, null, 2) + '\n');

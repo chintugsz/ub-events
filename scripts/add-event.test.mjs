@@ -36,6 +36,10 @@ Music & Performance
 
 _No response_
 
+### Image link / Зургийн холбоос
+
+https://example.mn/poster.jpg
+
 ### Organizer / Зохион байгуулагч
 
 UB Jazz
@@ -57,6 +61,7 @@ test('reads the form answers', () => {
     category: 'Music & Performance',
     price: '30,000₮',
     link: '',
+    image: 'https://example.mn/poster.jpg',
     organizer: 'UB Jazz',
     description: 'Live quartet.\nTwo sets.',
   });
@@ -76,6 +81,7 @@ test('builds an entry that links back to the issue when no link is given', () =>
     category: 'Music & Performance',
     tags: ['organizer', 'зохион байгуулагч'],
     url: 'https://github.com/o/r/issues/7',
+    image: 'https://example.mn/poster.jpg',
     sourceName: 'Organizers',
     host: 'UB Jazz',
   });
@@ -123,4 +129,11 @@ test('adding twice replaces the first copy and lists the publisher once', () => 
 
 test('Ulaanbaatar date', () => {
   assert.equal(ubToday(new Date('2026-10-08T16:30:00Z')), '2026-10-09');
+});
+
+test('keeps a poster link, and asks for https', () => {
+  const { event } = buildEvent(parseIssueBody(BODY), CONTEXT);
+  assert.equal(event.image, 'https://example.mn/poster.jpg');
+  const { problems } = buildEvent({ ...parseIssueBody(BODY), image: 'http://example.mn/p.jpg' }, CONTEXT);
+  assert.deepEqual(problems, ['The image link should start with https://']);
 });

@@ -31,6 +31,15 @@ The daily routine follows these steps. A person editing by hand should follow th
    Give a new source an entry in `publishers` too.
 7. Fill in `titleMn` and `titleEn` when you can; a faithful translation is fine. Choose a
    `category` from the list in `check.mjs`. Add a few English and Mongolian `tags`.
-8. Run `node check.mjs --write` and fix anything it reports.
-9. Commit only `events.json`, with the message `Update events for YYYY-MM-DD`. Pull first
-   (`git pull --rebase origin main`), because organizer events can arrive at any time, then push to `main`.
+8. Map positions: `check.mjs --write` gives each event the coordinates of the venue in
+   `venues.json` that its `location` names. When it reports an event as "Not on the map", look
+   the venue up and add it to `venues.json` with its English and Mongolian names, the spellings
+   events use (`aliases`), and `lat`/`lng` read from OpenStreetMap (mapcarta.com shows OSM
+   data) or the venue's own map pin. Put that page in `source`. Never estimate coordinates from
+   an address; leave the venue out instead. Skip "Nationwide" and online events.
+9. Pictures: don't add `image` by hand. After each push, a GitHub workflow
+   (`.github/workflows/fill-images.yml`) adds the listing's own preview picture.
+10. Run `node check.mjs --write` and fix anything it reports.
+11. Commit `events.json` (and `venues.json` if you added venues), with the message
+    `Update events for YYYY-MM-DD`. Pull first
+    (`git pull --rebase origin main`), because organizer events can arrive at any time, then push to `main`.
