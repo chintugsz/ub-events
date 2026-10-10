@@ -110,7 +110,8 @@
       "url": "https://www.artavenue.mn/mining---by-enkhbold-togmidshiirev-820315-august---01-december-2026-the-national-art-gallery-of-mongolia.html",
       "sourceName": "Art Avenue",
       "lat": 47.919571,
-      "lng": 106.921046
+      "lng": 106.921046,
+      "image": "https://www.artavenue.mn/uploads/6/9/6/3/69639339/img-6218.jpeg"
     },
     {
       "id": "urlag-2026-08-19-ervekheiin-yertonts-butterfly-exhibition",
@@ -371,7 +372,8 @@
         "Тэрбум мод"
       ],
       "url": "https://montsame.mn/mn/read/412064",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "image": "https://montsame.mn/files/medium/6ac9de3db4e79.jpeg"
     },
     {
       "id": "unuudur-2026-10-11-davs-khiigeed-usny-shulguud-book-launch",
@@ -670,7 +672,8 @@
         "залуучууд"
       ],
       "url": "https://www.ub.life/p/261009-jdhd5m",
-      "sourceName": "UB Life"
+      "sourceName": "UB Life",
+      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-926539e5-4046-4dbe-a8e9-346ce8d9b9a5.jpg"
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -693,7 +696,8 @@
       "url": "https://www.tengis.mn/film/bidhargaragaasirsenubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001192/horizontal.jpg"
     },
     {
       "id": "zindaa-2026-10-17-n-undral-saikhan-ch-yum-daa",
@@ -741,7 +745,8 @@
       "url": "https://www.tengis.mn/film/vivaldibidxoyorubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001193/horizontal.png"
     },
     {
       "id": "tengis-2026-10-18-yavuulyn-khun-govd-ubiff",
@@ -764,7 +769,8 @@
       "url": "https://www.tengis.mn/film/yavuulynhuengovdubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001213/horizontal.png"
     },
     {
       "id": "tengis-2026-10-18-khanyn-zuraach-ubiff",
@@ -787,7 +793,8 @@
       "url": "https://www.tengis.mn/film/hanynzuraachubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001214/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-18-rose-ubiff",
@@ -911,7 +918,8 @@
       "url": "https://www.tengis.mn/film/durlasanbuexenguenshoenoeoerubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001198/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-21-zadlaagui-zakhia-ubiff",
@@ -934,7 +942,8 @@
       "url": "https://www.tengis.mn/film/zadlaaguejzahiaubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001104/horizontal.jpg"
     },
     {
       "id": "ubiff-2026-closing",
