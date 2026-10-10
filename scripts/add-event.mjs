@@ -127,8 +127,8 @@ export function addToFeed(feed, event, repo) {
 
 const MESSAGES = {
   added: () =>
-    'Added to UB This Week. It shows in the app after a pull-to-refresh.\n\n' +
-    'UB This Week апп-д нэмэгдлээ. Апп-аа доош татаж шинэчилбэл харагдана.',
+    'Added to Yaahii?. It shows in the app after a pull-to-refresh.\n\n' +
+    'Yaahii? апп-д нэмэгдлээ. Апп-аа доош татаж шинэчилбэл харагдана.',
   waiting: (author, owner) =>
     `Thanks! This event is waiting for approval, because @${author} isn't on the organizers list yet. ` +
     `@${owner} can approve it by commenting \`/approve\`, or add @${author} to organizers.txt so future events go live automatically.\n\n` +

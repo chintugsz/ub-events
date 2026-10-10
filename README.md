@@ -1,6 +1,6 @@
 # UB events
 
-This is the events list for the **UB This Week** app. The app reads `events.json` from this
+This is the events list for the **Yaahii?** app. The app reads `events.json` from this
 repository every time it refreshes, so a change here shows up on phones without reinstalling the app.
 
 A Claude routine updates the list every morning (Ulaanbaatar time), following

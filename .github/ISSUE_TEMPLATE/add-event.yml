@@ -1,5 +1,5 @@
 name: Add an event / Арга хэмжээ нэмэх
-description: Add your event to the UB This Week app. Approved organizers' events go live automatically.
+description: Add your event to the Yaahii? app. Approved organizers' events go live automatically.
 title: "Event: "
 body:
   - type: markdown
