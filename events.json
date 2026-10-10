@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T13:38:35+08:00",
+  "updatedAt": "2026-10-11T06:53:32+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -101,33 +101,6 @@
       "lat": 47.923435,
       "lng": 106.905827,
       "image": "https://urlag.mn/wp-content/uploads/2026/08/43c8107ca7df57b2953861882abf5b60.png"
-    },
-    {
-      "id": "yolo-2026-09-10-khellegiig-ilerkhiilekhui-lkham-gallery",
-      "title": "“Хэллэгийг илэрхийлэхүй” Mongolian–French exhibition",
-      "titleMn": "Хэллэгийг илэрхийлэхүй",
-      "titleEn": "Gesture of Language",
-      "start": "2026-09-10",
-      "end": "2026-10-10",
-      "allDay": true,
-      "location": "Лхам галерей",
-      "locationEn": "Lkham Gallery",
-      "description": "Joint exhibition by Mongolian and French artists; last days on Oct 9–10.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "contemporary art",
-        "France",
-        "gallery",
-        "үзэсгэлэн",
-        "галерей",
-        "Франц"
-      ],
-      "url": "https://www.yolo.mn/news/12915",
-      "sourceName": "YOLO.mn",
-      "lat": 47.913526,
-      "lng": 106.915485,
-      "image": "https://www.yolo.mn//img/uploads/content/1789524229807-428080a7.jpeg"
     },
     {
       "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
@@ -315,68 +288,6 @@
       "sourceName": "Zuunii Medee (zms.mn)",
       "lat": 47.897421,
       "lng": 106.906951
-    },
-    {
-      "id": "montsame-2026-10-10-green-show-wrestling",
-      "title": "Wrestling tournament sponsored by Green Show Production",
-      "titleMn": "Green Show Production-ийн ивээн тэтгэсэн бөхийн барилдаан",
-      "start": "2026-10-10",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "бөх"
-      ],
-      "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME",
-      "lat": 47.917851,
-      "lng": 106.935278
-    },
-    {
-      "id": "montsame-2026-10-10-tree-planting",
-      "title": "National Tree-Planting Day",
-      "titleMn": "Үндэсний мод тарих өдөр",
-      "start": "2026-10-10",
-      "allDay": true,
-      "location": "Улс даяар",
-      "locationEn": "Nationwide",
-      "category": "Community & Civic",
-      "tags": [
-        "volunteer",
-        "сайн дурын",
-        "outdoor"
-      ],
-      "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME"
-    },
-    {
-      "id": "yolo-2026-10-10-because-i-am-a-girl-forum",
-      "title": "“BECAUSE I AM A GIRL” girls' rights forum",
-      "titleMn": "“BECAUSE I AM A GIRL” охидын эрхийн чуулган",
-      "titleEn": "Because I Am a Girl – girls' rights forum",
-      "start": "2026-10-10T09:30",
-      "end": "2026-10-10T15:00",
-      "allDay": false,
-      "location": "Монголын хүүхдийн ордон",
-      "locationEn": "Mongolian Children's Palace",
-      "description": "Fourth annual girls' rights forum held around International Day of the Girl; five initiatives from the “Би охин болохоор” micro-project contest will be presented. Registration via volunteer.org.mn.",
-      "category": "Community & Civic",
-      "tags": [
-        "girls' rights",
-        "Day of the Girl",
-        "youth",
-        "forum",
-        "охидын эрх",
-        "чуулган",
-        "залуучууд"
-      ],
-      "url": "https://www.yolo.mn/news/13024",
-      "sourceName": "YOLO.mn",
-      "lat": 47.912728,
-      "lng": 106.916088,
-      "image": "https://www.yolo.mn//img/uploads/content/1791443743448-e1ae0fe2.jpg"
     },
     {
       "id": "montsame-2026-10-11-autumn-wrestling",
