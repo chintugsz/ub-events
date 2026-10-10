@@ -81,8 +81,22 @@ async function previewOf(pageUrl) {
   }
 }
 
+/** Pages that several events link to are roundups (a weekly listing, a festival programme); their picture isn't any one event's. */
+export function roundupPages(events) {
+  const count = new Map();
+  for (const ev of events) if (ev.url) count.set(ev.url, (count.get(ev.url) ?? 0) + 1);
+  return new Set([...count].filter(([, n]) => n > 1).map(([url]) => url));
+}
+
 export async function fillImages(feed, { log = console.log } = {}) {
-  const pages = [...new Set(feed.events.filter((ev) => !ev.image && ev.url && !NO_PREVIEW.test(ev.url)).map((ev) => ev.url))];
+  const roundups = roundupPages(feed.events);
+  const pages = [
+    ...new Set(
+      feed.events
+        .filter((ev) => !ev.image && ev.url && !NO_PREVIEW.test(ev.url) && !roundups.has(ev.url))
+        .map((ev) => ev.url),
+    ),
+  ];
   const found = new Map();
   for (const page of pages) {
     const { image, why } = await previewOf(page);
