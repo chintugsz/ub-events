@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T07:34:00+08:00",
+  "updatedAt": "2026-10-12T06:54:28+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -196,32 +196,6 @@
       "image": "https://content.ikon.mn/news/2026/10/8/3ce7b6_Legend_of_the_Queens_cover_16x9_x974.jpg"
     },
     {
-      "id": "montsame-2026-10-02-altan-namar-sketch-exhibition",
-      "title": "Алтан намар",
-      "titleMn": "Алтан намар",
-      "titleEn": "Golden Autumn (sketch painting exhibition)",
-      "start": "2026-10-02",
-      "end": "2026-10-11",
-      "allDay": true,
-      "location": "\"Б Контемпорари\" урлагийн галерей",
-      "locationEn": "B Contemporary art gallery",
-      "description": "The 9th annual \"Altan Namar\" sketch-painting exhibition, showing 84 works, runs through October 11.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "painting",
-        "sketch",
-        "art",
-        "үзэсгэлэн",
-        "зураг",
-        "галерей"
-      ],
-      "url": "https://montsame.mn/mn/read/411678",
-      "sourceName": "MONTSAME",
-      "lat": 47.929437,
-      "lng": 106.928734
-    },
-    {
       "id": "urlag-2026-10-04-fine-arts-museum-60-photo-exhibition",
       "title": "Fine Arts Museum at 60 (historical photo exhibition)",
       "titleMn": "\"Дүрслэх урлагийн музейн-60 жил\" түүхэн гэрэл зургийн үзэсгэлэн",
@@ -301,33 +275,6 @@
       "lng": 106.906951
     },
     {
-      "id": "zms-2026-10-09-khaan-ordny-namar-2026",
-      "title": "Хаан ордны намар 2026 – Bogd Khaan Palace Museum open days",
-      "titleMn": "Хаан ордны намар 2026",
-      "titleEn": "Palace Autumn 2026 (museum open days)",
-      "start": "2026-10-09T09:00",
-      "end": "2026-10-11T18:00",
-      "allDay": false,
-      "location": "Богд хааны ордон музей",
-      "locationEn": "Bogd Khaan Palace Museum",
-      "description": "Annual open days at the Bogd Khaan Palace Museum, 09:00–18:00 daily. The opening ceremony on Oct 9 at 11:40 includes performances by actor B. Duursakh (The Voice of Mongolia 2026) and the Tsagaan Lavai ensemble.",
-      "cost": "Adults and students: two people enter on one ticket (1+1); free for elderly people, people with disabilities and children",
-      "category": "Arts & Museums",
-      "tags": [
-        "museum",
-        "open days",
-        "Bogd Khaan Palace",
-        "heritage",
-        "музей",
-        "Богд хааны ордон",
-        "нээлттэй өдөрлөг"
-      ],
-      "url": "https://www.zms.mn/a/105287",
-      "sourceName": "Zuunii Medee (zms.mn)",
-      "lat": 47.897421,
-      "lng": 106.906951
-    },
-    {
       "id": "nationalmuseum-2026-10-10-udshiin-muzei-sotsializm",
       "title": "Үдшийн музей – Социализмаар аялцгаая",
       "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
@@ -352,144 +299,6 @@
       "sourceName": "National Museum of Mongolia",
       "lat": 47.920838,
       "lng": 106.915355
-    },
-    {
-      "id": "montsame-2026-10-11-billion-trees-national-garden-park",
-      "title": "Тэрбум мод: Үндэсний цэцэрлэгт хүрээлэнд намрын мод тарилт",
-      "titleMn": "Үндэсний цэцэрлэгт хүрээлэнд намрын мод тарилт",
-      "titleEn": "Billion Trees autumn tree planting at the National Garden Park",
-      "start": "2026-10-11",
-      "allDay": true,
-      "location": "Үндэсний цэцэрлэгт хүрээлэн",
-      "locationEn": "National Garden Park",
-      "description": "Last day of the Billion Trees autumn planting drive at the National Garden Park. On October 10 more than 100 organizations and about 200–250 residents planted trees; trees are ordered through the park.",
-      "category": "Outdoors & Parks",
-      "tags": [
-        "tree planting",
-        "volunteering",
-        "Billion Trees",
-        "мод тарих",
-        "Тэрбум мод"
-      ],
-      "url": "https://montsame.mn/mn/read/412064",
-      "sourceName": "MONTSAME",
-      "image": "https://montsame.mn/files/medium/6ac9de3db4e79.jpeg"
-    },
-    {
-      "id": "unuudur-2026-10-11-davs-khiigeed-usny-shulguud-book-launch",
-      "title": "Poems of Salt and Water: B. Uuganbayar book launch",
-      "titleMn": "Б.Ууганбаяр \"Давс хийгээд усны шүлгүүд\" номын нээлт",
-      "titleEn": "\"Poems of Salt and Water\" – Book Launch by Poet B. Uuganbayar",
-      "start": "2026-10-11",
-      "allDay": true,
-      "location": "\"Хөх нар\" контемпорари арт галерей",
-      "locationEn": "Khukh Nar (Blue Sun) Contemporary Art Gallery",
-      "description": "Launch of poet B. Uuganbayar's second poetry collection, with a two-person verse play \"Далай, ус, давс\", an audiovisual installation and a poetry exhibition.",
-      "category": "Arts & Museums",
-      "tags": [
-        "poetry",
-        "book launch",
-        "literature",
-        "theatre",
-        "яруу найраг",
-        "ном",
-        "уран зохиол"
-      ],
-      "url": "https://www.unuudur.mn/a/284280",
-      "sourceName": "Unuudur.mn",
-      "image": "https://resource4.sodonsolution.org/unuudur/image/2026/10/09/5yrouvt3whwxhg69/%E2%80%9C%D0%94%D0%B0%D0%B2%D1%81%20%D1%85%D0%B8%D0%B9%D0%B3%D1%8D%D1%8D%D0%B4%20%D1%83%D1%81%D0%BD%D1%8B%20%D1%88%D2%AF%D0%BB%D0%B3%D2%AF%D2%AF%D0%B4%E2%80%9D%20%D0%BD%D0%BE%D0%BC%D1%8B%D0%B3%20%D1%8D%D0%BD%D1%8D%20%D0%BD%D1%8F%D0%BC%20%D0%B3%D0%B0%D1%80%D0%B0%D0%B3%D1%82%20%D1%83%D0%BD%D1%88%D0%B8%D0%B3%D1%87%D0%B4%D0%B0%D0%B4%20%D1%85%D2%AF%D1%80%D0%B3%D1%8D%D0%BD%D1%8D_l.jpg"
-    },
-    {
-      "id": "montsame-2026-10-11-autumn-wrestling",
-      "title": "256-wrestler tournament opening the autumn season for aimag and military titleholders",
-      "titleMn": "Аймаг, армийн цолтой бөхчүүдийн намрын улирлын нээлтийн 256 бөхийн барилдаан",
-      "start": "2026-10-11T11:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "бөх"
-      ],
-      "url": "https://www.montsame.mn/en/read/411448",
-      "sourceName": "MONTSAME",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.montsame.mn/files/medium/6ac303bd9fdab.jpeg"
-    },
-    {
-      "id": "ted-2026-10-11-tedxshildeg-school-youth",
-      "title": "TEDxShildeg School Youth",
-      "titleEn": "TEDxShildeg School Youth",
-      "start": "2026-10-11T11:00",
-      "end": "2026-10-11T17:00",
-      "allDay": false,
-      "location": "Black Box Theatre, Хасбаатарын гудамж, Баянгол дүүрэг",
-      "locationEn": "Black Box Theatre, Khasbaatar St., Bayangol District",
-      "description": "A youth TEDx event run by students on the theme \"Receive and Give\", from 11:00 to 17:00.",
-      "category": "Talks & Learning",
-      "tags": [
-        "TEDx",
-        "talks",
-        "youth",
-        "илтгэл",
-        "залуучууд"
-      ],
-      "url": "https://www.ted.com/tedx/events/70233",
-      "sourceName": "TEDx"
-    },
-    {
-      "id": "ikon-2026-10-11-udshiin-khemnel-jazz-concert",
-      "title": "Evening Rhythm: Bayanmongol Big Band premium jazz concert",
-      "titleMn": "Баянмонгол биг бэнд \"Үдшийн Хэмнэл\" премиум жазз концерт",
-      "titleEn": "\"Evening Rhythm\" – Bayanmongol Big Band Premium Jazz Concert",
-      "start": "2026-10-11T18:00",
-      "allDay": false,
-      "location": "Улсын Филармонийн концертын танхим",
-      "locationEn": "State Philharmonic Concert Hall",
-      "description": "The Bayanmongol Big Band, conducted by S. Saruul-Od with vocalist B. Odmandakh, plays jazz by Sammy Nestico, Pat Metheny and Bob Mintzer alongside Mongolian folk songs.",
-      "category": "Music & Performance",
-      "tags": [
-        "jazz",
-        "big band",
-        "concert",
-        "live music",
-        "жазз",
-        "концерт",
-        "хөгжим"
-      ],
-      "url": "https://ikon.mn/n/3qwe",
-      "sourceName": "iKon.mn",
-      "lat": 47.919534,
-      "lng": 106.920049,
-      "image": "https://content.ikon.mn/news/2026/10/9/rldycf_18_1__x974.jpg"
-    },
-    {
-      "id": "eventx-2026-10-11-biyelgee-night-festival",
-      "title": "BIYELGEE NIGHT FESTIVAL",
-      "titleEn": "Biyelgee Night Festival",
-      "start": "2026-10-11T19:00",
-      "end": "2026-10-11T23:00",
-      "allDay": false,
-      "location": "Evento Ballroom",
-      "locationEn": "Evento Ballroom",
-      "description": "Night festival built around biyelgee, Mongolian traditional dance, running 19:00–23:00.",
-      "cost": "149,000₮ standard; 399,000₮ friends package (5 people)",
-      "category": "Music & Performance",
-      "tags": [
-        "festival",
-        "dance",
-        "biyelgee",
-        "traditional",
-        "night",
-        "бий биелгээ",
-        "наадам",
-        "үдэшлэг"
-      ],
-      "url": "https://www.eventx.mn/event/1902",
-      "sourceName": "EventX",
-      "image": "https://d12slmbmp0aiwz.cloudfront.net/3_A786_DA_3_49_C6_43_E4_85_D1_F6_E4_C3769_F77_e530f152b8.png"
     },
     {
       "id": "montsame-2026-10-13-valentin-valentina",
