@@ -1,0 +1,43 @@
+# Every morning after the update, checks the list is fresh and full (scripts/health.mjs). When it
+# isn't, opens one issue, which GitHub emails to the owner; the issue closes itself once fixed.
+name: List health
+
+on:
+  schedule:
+    - cron: '30 1 * * *' # 09:30 in Ulaanbaatar
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check the list
+        id: health
+        run: |
+          set +e
+          node scripts/health.mjs > report.txt
+          echo "failed=$?" >> "$GITHUB_OUTPUT"
+          cat report.txt
+
+      - name: Open or close the alert
+        env:
+          GH_TOKEN: ${{ github.token }}
+          FAILED: ${{ steps.health.outputs.failed }}
+        run: |
+          title="The events list needs attention"
+          open=$(gh issue list --state open --search "\"$title\" in:title" --json number --jq '.[0].number')
+          if [ "$FAILED" != "0" ]; then
+            body="$(printf 'The morning check found:\n\n%s\n\nThe app keeps working, but people see an old or thin list until this is fixed. This issue closes itself once the check passes.' "$(cat report.txt)")"
+            if [ -n "$open" ]; then gh issue comment "$open" --body "$body"; else gh issue create --title "$title" --body "$body"; fi
+          elif [ -n "$open" ]; then
+            gh issue close "$open" --comment "The list is fresh and full again."
+          fi
