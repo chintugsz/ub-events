@@ -79,3 +79,9 @@ The `docs` folder holds the app's home page, [privacy policy](docs/privacy.html)
 [help page](docs/help.html), in Mongolian and English. The app links to them, and the App Store and
 Google Play ask for them. They are served by GitHub Pages at https://chintugsz.github.io/ub-events/
 once Pages is turned on (Settings → Pages → Deploy from a branch → `main`, `/docs`).
+
+## Organizers without GitHub
+
+The app's **+** form can send events to a Google Sheet instead of GitHub, so organizers need no
+account. The owner approves them in the sheet and they are published every half hour. See
+[sheet/README.md](sheet/README.md).
