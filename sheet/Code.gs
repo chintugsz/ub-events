@@ -22,22 +22,24 @@ const MAX_PER_HOUR = 60;
 function sheet_() {
   const ss = SpreadsheetApp.getActive();
   let sheet = ss.getSheetByName(SHEET_NAME);
-  if (!sheet) sheet = ss.insertSheet(SHEET_NAME, 0);
-  if (sheet.getLastRow() === 0) {
-    sheet.appendRow(HEADERS);
-    sheet.setFrozenRows(1);
-    sheet.getRange(1, 1, 1, HEADERS.length).setFontWeight('bold');
-    // Dates and times stay as typed instead of turning into spreadsheet dates.
-    sheet.getRange('D:F').setNumberFormat('@');
-    const status = SpreadsheetApp.newDataValidation().requireValueInList(STATUSES, true).build();
-    sheet.getRange('B2:B').setDataValidation(status);
+  if (!sheet) {
+    // A sheet started from the headers alone: use its first tab.
+    const first = ss.getSheets()[0];
+    const a1 = first.getRange('A1').getValue();
+    sheet = a1 === '' || a1 === HEADERS[0] ? first.setName(SHEET_NAME) : ss.insertSheet(SHEET_NAME, 0);
   }
+  if (sheet.getLastRow() === 0) sheet.appendRow(HEADERS);
   return sheet;
 }
 
-/** Runs when the sheet opens, so it is always set up. */
+/** Runs when the sheet opens: bold headers, a Status dropdown, and dates kept as typed. */
 function onOpen() {
-  sheet_();
+  const sheet = sheet_();
+  sheet.setFrozenRows(1);
+  sheet.getRange(1, 1, 1, HEADERS.length).setFontWeight('bold');
+  sheet.getRange('D:F').setNumberFormat('@');
+  const status = SpreadsheetApp.newDataValidation().requireValueInList(STATUSES, true).build();
+  sheet.getRange('B2:B').setDataValidation(status);
 }
 
 function json_(value) {
@@ -69,7 +71,9 @@ function doPost(e) {
   lock.waitLock(10000);
   try {
     const id = Utilities.getUuid().replace(/-/g, '').slice(0, 8);
-    sheet_().appendRow([
+    const sheet = sheet_();
+    sheet.getRange('D:F').setNumberFormat('@');
+    sheet.appendRow([
       new Date(), 'New', values.name, values.date, values.time, values.endDate, values.place, values.category,
       values.price, values.link, values.image, values.organizer, values.description, values.contact, id,
     ]);
@@ -91,7 +95,7 @@ function doPost(e) {
 }
 
 function cell_(value, pattern) {
-  if (value instanceof Date) return Utilities.formatDate(value, 'Asia/Ulaanbaatar', pattern);
+  if (value instanceof Date) return Utilities.formatDate(value, SpreadsheetApp.getActive().getSpreadsheetTimeZone(), pattern);
   return String(value || '').trim();
 }
 
