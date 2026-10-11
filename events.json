@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:54:28+08:00",
+  "updatedAt": "2026-10-12T07:30:32+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -84,6 +84,14 @@
     {
       "name": "UB Life",
       "url": "https://www.ub.life/"
+    },
+    {
+      "name": "World Cube Association",
+      "url": "https://www.worldcubeassociation.org/"
+    },
+    {
+      "name": "LiveSoccerTV",
+      "url": "https://www.livesoccertv.com/"
     }
   ],
   "events": [
@@ -302,6 +310,27 @@
       "lng": 106.915355
     },
     {
+      "id": "montsame-2026-10-13-first-women-photographers-exhibition",
+      "title": "Монголын анхны эмэгтэй гэрэл зурагчин Б.Улятайхүү, Ц.Нина, С.Туяа нарын уран бүтээлийн үзэсгэлэн",
+      "titleMn": "Монголын анхны эмэгтэй гэрэл зурагчдын үзэсгэлэн",
+      "titleEn": "Mongolia's first women photographers: exhibition opening",
+      "start": "2026-10-13",
+      "allDay": true,
+      "location": "Архивын ерөнхий газрын цогцолбор",
+      "locationEn": "General Archival Authority complex",
+      "description": "Opening of an exhibition of work by Mongolia's first women photographers, B. Ulyataikhuu, Ts. Nina and S. Tuyaa, marking 200 years of photography.",
+      "category": "Arts & Museums",
+      "tags": [
+        "photography",
+        "exhibition",
+        "history",
+        "гэрэл зураг",
+        "үзэсгэлэн"
+      ],
+      "url": "https://montsame.mn/mn/read/412033",
+      "sourceName": "MONTSAME"
+    },
+    {
       "id": "montsame-2026-10-13-valentin-valentina",
       "title": "Валентин, Валентина",
       "titleMn": "Валентин, Валентина",
@@ -354,6 +383,29 @@
       "lat": 47.925847,
       "lng": 106.916055,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_ac761ff225_a696aea069.jpg"
+    },
+    {
+      "id": "montsame-2026-10-15-bravo-circus",
+      "title": "“BRAVO CIRCUS” циркийн тоглолт",
+      "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
+      "titleEn": "BRAVO CIRCUS show",
+      "start": "2026-10-15",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A circus performance at the Mongolian Wrestling Palace, listed in MONTSAME's calendar for the week of October 12–18.",
+      "category": "Music & Performance",
+      "tags": [
+        "circus",
+        "show",
+        "family",
+        "цирк",
+        "тоглолт"
+      ],
+      "url": "https://montsame.mn/mn/read/412033",
+      "sourceName": "MONTSAME",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ubiff-2026",
@@ -441,6 +493,29 @@
       "url": "https://allevents.in/ulaanbaatar/all",
       "sourceName": "allevents.in",
       "image": "https://cdn2.allevents.in/transup/20/37cb5ead2f4af585469eaf08b752c8/all.webp"
+    },
+    {
+      "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
+      "title": "“Монголын орон зай” 8 ангит чуулбар хөгжмийн бүтээлийн тоглолт",
+      "titleMn": "“Монголын орон зай” чуулбар хөгжмийн тоглолт",
+      "titleEn": "Mongolian Space: an eight-part suite in concert",
+      "start": "2026-10-17",
+      "allDay": true,
+      "location": "Улсын Филармонийн концертын танхим",
+      "locationEn": "State Philharmonic Concert Hall",
+      "description": "Concert performance of the eight-part musical suite \"Mongolian Space\" at the State Philharmonic concert hall.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "orchestra",
+        "концерт",
+        "филармони",
+        "хөгжим"
+      ],
+      "url": "https://montsame.mn/mn/read/412033",
+      "sourceName": "MONTSAME",
+      "lat": 47.919534,
+      "lng": 106.920049
     },
     {
       "id": "ubiff-2026-nyamgavaa",
@@ -557,6 +632,27 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001193/horizontal.png"
+    },
+    {
+      "id": "livesoccertv-2026-10-18-ulaanbaatar-vs-tuv-azarganuud",
+      "title": "Улаанбаатар – Төв Азарганууд",
+      "titleMn": "Улаанбаатар – Төв Азарганууд",
+      "titleEn": "FC Ulaanbaatar vs Tuv Azarganuud",
+      "start": "2026-10-18",
+      "allDay": true,
+      "location": "МХБХ-ны Хөлбөмбөгийн төв",
+      "locationEn": "MFF Football Centre",
+      "description": "Mongolian Premier League round 9 match between FC Ulaanbaatar and Tuv Azarganuud at the MFF Football Centre.",
+      "category": "Sports",
+      "tags": [
+        "football",
+        "soccer",
+        "league",
+        "хөлбөмбөг",
+        "лиг"
+      ],
+      "url": "https://www.livesoccertv.com/pt/match/ulaanbaatar-vs-tuv-azarganuud/drgw2m",
+      "sourceName": "LiveSoccerTV"
     },
     {
       "id": "tengis-2026-10-18-yavuulyn-khun-govd-ubiff",
@@ -866,29 +962,27 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
     },
     {
-      "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
-      "title": "TEDxUlaanbaatar Empathy School Youth",
-      "titleEn": "TEDxUlaanbaatar Empathy School Youth",
-      "start": "2026-10-24T09:30",
-      "end": "2026-10-24T17:45",
-      "allDay": false,
-      "location": "Ulaanbaatar Empathy School, US-15, 8th khoroo",
-      "locationEn": "Ulaanbaatar Empathy School, US-15, 8th khoroo",
-      "description": "Youth TEDx event with talks, open to the public.",
-      "category": "Talks & Learning",
+      "id": "wca-2026-10-24-mongolian-championship",
+      "title": "Mongolian Championship 2026",
+      "titleMn": "Шоо эвлүүлэгчдийн Монголын аварга шалгаруулах тэмцээн 2026",
+      "titleEn": "Mongolian Speedcubing Championship 2026",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "Канад сургууль, Хүннү гудамж, Хан-Уул дүүрэг, 18-р хороо",
+      "locationEn": "Canadian School of Ulaanbaatar auditorium (3rd floor), Hunnu Street, Khan-Uul District",
+      "description": "The official World Cube Association national speedcubing championship: 3x3 and more puzzles from 2x2 to 7x7, Megaminx, Clock, Skewb and Square-1. Up to 105 competitors; spectators are welcome.",
+      "cost": "Spectators 5,000₮; competitors from 90,000₮",
+      "category": "Sports",
       "tags": [
-        "TEDx",
-        "talks",
-        "youth",
-        "ideas",
-        "илтгэл",
-        "залуучууд",
-        "TED"
+        "speedcubing",
+        "Rubik's cube",
+        "competition",
+        "кубик",
+        "тэмцээн"
       ],
-      "url": "https://www.ted.com/tedx/events/70557",
-      "sourceName": "TEDx",
-      "lat": 47.914447,
-      "lng": 107.001978
+      "url": "https://www.worldcubeassociation.org/competitions/MongolianChampionship2026",
+      "sourceName": "World Cube Association"
     },
     {
       "id": "montsame-2026-10-24-bayanzurkh-khairkhany-khishig-wrestling",
@@ -929,6 +1023,29 @@
       "sourceName": "Bandsintown",
       "lat": 47.915201,
       "lng": 106.917441
+    },
+    {
+      "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
+      "title": "TEDxUlaanbaatar Empathy School Youth",
+      "titleEn": "TEDxUlaanbaatar Empathy School Youth",
+      "start": "2026-10-25T09:30",
+      "end": "2026-10-25T17:45",
+      "allDay": false,
+      "location": "MOnte ballroom, 4 давхар, Хан-Уул дүүрэг, 11-р хороо",
+      "locationEn": "MOnte ballroom, 4th floor, Khan-Uul District, 11th khoroo",
+      "description": "Youth TEDx event with talks, open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "ideas",
+        "илтгэл",
+        "залуучууд",
+        "TED"
+      ],
+      "url": "https://www.ted.com/tedx/events/70557",
+      "sourceName": "TEDx"
     },
     {
       "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
