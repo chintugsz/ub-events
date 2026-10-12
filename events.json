@@ -329,7 +329,8 @@
         "ардын урлаг"
       ],
       "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
     },
     {
       "id": "ticketmn-2026-10-13-nomadic-legend",
@@ -350,7 +351,8 @@
         "өв соёл"
       ],
       "url": "https://www.ticket.mn/event/2607",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
     },
     {
       "id": "ticketmn-2026-10-13-bugd-ineeh-durtai",
@@ -371,7 +373,8 @@
         "шоу тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3246",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png"
     },
     {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
@@ -421,7 +424,8 @@
         "стэнд ап"
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb68903190abb651ec420f",
-      "sourceName": "UB Comedy Club"
+      "sourceName": "UB Comedy Club",
+      "image": "https://api.ubcomedy.mn/uploads/1791715472902_cover_Polish_20261011_182941310.png"
     },
     {
       "id": "ikon-2026-10-15-hr-day",
@@ -442,7 +446,8 @@
         "карьер"
       ],
       "url": "https://ikon.mn/n/3qwr",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "image": "https://content.ikon.mn/news/2026/10/9/rs7etc_n__x974.jpg"
     },
     {
       "id": "montsame-2026-10-15-bravo-circus",
@@ -486,7 +491,8 @@
         "стэнд ап"
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6a593190abb651ec429c",
-      "sourceName": "UB Comedy Club"
+      "sourceName": "UB Comedy Club",
+      "image": "https://api.ubcomedy.mn/uploads/1791715929400_cover_Polish_20261011_182858104.png"
     },
     {
       "id": "ticketmn-2026-10-16-khair-tugeeye",
@@ -507,7 +513,8 @@
         "шоу тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3270",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-10-02T185941.978.png"
     },
     {
       "id": "ticketmn-2026-10-16-khairyn-ayalguu",
@@ -527,7 +534,8 @@
         "дуурь"
       ],
       "url": "https://www.ticket.mn/event/3254",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/1200_1200.png"
     },
     {
       "id": "ubiff-2026",
@@ -635,7 +643,8 @@
         "инээдэм"
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6af03190abb651ec42c7",
-      "sourceName": "UB Comedy Club"
+      "sourceName": "UB Comedy Club",
+      "image": "https://api.ubcomedy.mn/uploads/1791734615876_cover_10.16%20cover%20(1).png"
     },
     {
       "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
@@ -679,7 +688,8 @@
         "сургалт"
       ],
       "url": "https://www.ticket.mn/event/3206",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/3-4.png"
     },
     {
       "id": "ticketmn-2026-10-17-latin-dance-championship",
@@ -700,7 +710,8 @@
         "тэмцээн"
       ],
       "url": "https://www.ticket.mn/event/3279",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-07T164454.611.png"
     },
     {
       "id": "ubiff-2026-nyamgavaa",
@@ -763,7 +774,8 @@
         "уран бүтээлийн тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3259",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-86.png"
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -833,7 +845,8 @@
         "инээдэм"
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6c2c3190abb651ec434d",
-      "sourceName": "UB Comedy Club"
+      "sourceName": "UB Comedy Club",
+      "image": "https://api.ubcomedy.mn/uploads/1791716396269_cover_Polish_20261011_183531410.png"
     },
     {
       "id": "tengis-2026-10-17-vivaldi-bid-khoyor-ubiff",
@@ -1049,7 +1062,8 @@
         "шоу"
       ],
       "url": "https://www.ubcomedy.mn/shows/6accca8f3190abb651ec7285",
-      "sourceName": "UB Comedy Club"
+      "sourceName": "UB Comedy Club",
+      "image": "https://api.ubcomedy.mn/uploads/1791806095293_cover_10.20%20cover.png"
     },
     {
       "id": "tengis-2026-10-20-durlasan-bukhen-gun-shunuur-ubiff",
@@ -1119,7 +1133,8 @@
       "url": "https://www.ticket.mn/event/3264",
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97_cMowVmc.png"
     },
     {
       "id": "ubiff-2026-closing",
@@ -1252,7 +1267,8 @@
         "үзэсгэлэн"
       ],
       "url": "https://ikon.mn/n/3qs9",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "image": "https://content.ikon.mn/news/2026/10/5/rxzwzd_Cover_x974.jpg"
     },
     {
       "id": "ticketmn-2026-10-24-best-of-overture",
@@ -1274,7 +1290,8 @@
       "url": "https://www.ticket.mn/event/3278",
       "sourceName": "Ticket.mn",
       "lat": 47.919534,
-      "lng": 106.920049
+      "lng": 106.920049,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140935.343.png"
     },
     {
       "id": "ticketmn-2026-10-24-future-tourism-forum",
@@ -1295,7 +1312,8 @@
         "аялал жуулчлал"
       ],
       "url": "https://www.ticket.mn/event/3282",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T165709.780.png"
     },
     {
       "id": "ticketmn-2026-10-24-worlds-best-music",
@@ -1315,7 +1333,8 @@
         "камерын чуулга"
       ],
       "url": "https://www.ticket.mn/event/3220",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-09-04T165305.427.png"
     },
     {
       "id": "wca-2026-10-24-mongolian-championship",
@@ -1399,7 +1418,8 @@
         "ардын урлаг"
       ],
       "url": "https://www.ticket.mn/event/2641",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/1200630.png"
     },
     {
       "id": "ticketmn-2026-10-25-namryn-uyanga",
@@ -1417,7 +1437,8 @@
         "тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3267",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-94.png"
     },
     {
       "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
@@ -1462,7 +1483,8 @@
         "halloween"
       ],
       "url": "https://www.ticket.mn/event/2842",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/addams_stand2.jpg"
     },
     {
       "id": "ticketmn-2026-10-30-airagtai-udesh",
@@ -1483,7 +1505,8 @@
         "соёл"
       ],
       "url": "https://www.ticket.mn/event/3248",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/airag-poster-1200X630-copy-1.jpg"
     },
     {
       "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
@@ -1582,7 +1605,8 @@
         "хандивын тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3281",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T121736.644.png"
     },
     {
       "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
@@ -1603,7 +1627,8 @@
       "url": "https://www.ticket.mn/event/3284",
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-12T122947.959.png"
     },
     {
       "id": "ticketmn-2026-11-06-romeo-juliet-ballet",
@@ -1624,7 +1649,8 @@
         "театр"
       ],
       "url": "https://www.ticket.mn/event/3276",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140245.241.png"
     },
     {
       "id": "urgoo-2026-11-06-godzilla-minus-zero",
@@ -1696,7 +1722,8 @@
       "url": "https://www.ticket.mn/event/3283",
       "sourceName": "Ticket.mn",
       "lat": 47.854437,
-      "lng": 106.784967
+      "lng": 106.784967,
+      "image": "https://www.ticket.mn/files/concerts/sliders/Banner-1200x630-1-1.png"
     },
     {
       "id": "urgoo-2026-11-11-ghost-soldier",
@@ -1743,7 +1770,8 @@
       "url": "https://www.ticket.mn/event/3280",
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T111309.604.png"
     },
     {
       "id": "urgoo-2026-11-13-ebenezer",
