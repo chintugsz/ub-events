@@ -418,5 +418,43 @@
       "National Modern Art Gallery"
     ],
     "source": "https://wanderlog.com/place/details/33812/mongolian-national-art-gallery"
+  },
+  {
+    "name": "Central Cultural Palace",
+    "nameMn": "Соёлын төв өргөө",
+    "lat": 47.919491,
+    "lng": 106.919385,
+    "aliases": [
+      "Соёлын төв өргөө",
+      "Соёлын Төв Өргөө",
+      "Central Cultural Palace",
+      "Cultural Central Palace"
+    ],
+    "source": "https://wanderlog.com/place/details/48994/central-cultural-palace"
+  },
+  {
+    "name": "Mongolian Trade Union Cultural Center Palace",
+    "nameMn": "Монголын үйлдвэрчний эвлэлийн соёлын төв ордон",
+    "lat": 47.914228,
+    "lng": 106.893028,
+    "aliases": [
+      "МҮЭСТО",
+      "Монголын үйлдвэрчний эвлэлийн соёлын төв ордон",
+      "Үйлдвэрчний эвлэлийн соёлын төв ордон",
+      "Trade Union Cultural Center"
+    ],
+    "source": "https://mapcarta.com/W155566742"
+  },
+  {
+    "name": "UB Comedy Club",
+    "nameMn": "UB Comedy Club",
+    "lat": 47.914007,
+    "lng": 106.908807,
+    "aliases": [
+      "UB Comedy Club",
+      "Ub Comedy Club",
+      "УБ Комеди Клуб"
+    ],
+    "source": "https://wanderlog.com/place/details/11006948/ub-comedy-club"
   }
 ]

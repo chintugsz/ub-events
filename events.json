@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T03:51:58+08:00",
+  "updatedAt": "2026-10-13T06:55:58+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -374,7 +374,9 @@
       ],
       "url": "https://www.ticket.mn/event/3246",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
@@ -425,7 +427,9 @@
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb68903190abb651ec420f",
       "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791715472902_cover_Polish_20261011_182941310.png"
+      "image": "https://api.ubcomedy.mn/uploads/1791715472902_cover_Polish_20261011_182941310.png",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ikon-2026-10-15-hr-day",
@@ -492,7 +496,9 @@
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6a593190abb651ec429c",
       "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791715929400_cover_Polish_20261011_182858104.png"
+      "image": "https://api.ubcomedy.mn/uploads/1791715929400_cover_Polish_20261011_182858104.png",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-10-16-khair-tugeeye",
@@ -514,7 +520,9 @@
       ],
       "url": "https://www.ticket.mn/event/3270",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-10-02T185941.978.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-10-02T185941.978.png",
+      "lat": 47.914228,
+      "lng": 106.893028
     },
     {
       "id": "ticketmn-2026-10-16-khairyn-ayalguu",
@@ -535,7 +543,9 @@
       ],
       "url": "https://www.ticket.mn/event/3254",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/1200_1200.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/1200_1200.png",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "ubiff-2026",
@@ -644,7 +654,9 @@
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6af03190abb651ec42c7",
       "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791734615876_cover_10.16%20cover%20(1).png"
+      "image": "https://api.ubcomedy.mn/uploads/1791734615876_cover_10.16%20cover%20(1).png",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
@@ -689,7 +701,9 @@
       ],
       "url": "https://www.ticket.mn/event/3206",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/3-4.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/3-4.png",
+      "lat": 47.914228,
+      "lng": 106.893028
     },
     {
       "id": "ticketmn-2026-10-17-latin-dance-championship",
@@ -775,7 +789,9 @@
       ],
       "url": "https://www.ticket.mn/event/3259",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-86.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-86.png",
+      "lat": 47.914228,
+      "lng": 106.893028
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -846,7 +862,9 @@
       ],
       "url": "https://www.ubcomedy.mn/shows/6acb6c2c3190abb651ec434d",
       "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791716396269_cover_Polish_20261011_183531410.png"
+      "image": "https://api.ubcomedy.mn/uploads/1791716396269_cover_Polish_20261011_183531410.png",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "tengis-2026-10-17-vivaldi-bid-khoyor-ubiff",
@@ -1063,7 +1081,9 @@
       ],
       "url": "https://www.ubcomedy.mn/shows/6accca8f3190abb651ec7285",
       "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791806095293_cover_10.20%20cover.png"
+      "image": "https://api.ubcomedy.mn/uploads/1791806095293_cover_10.20%20cover.png",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "tengis-2026-10-20-durlasan-bukhen-gun-shunuur-ubiff",
@@ -1334,7 +1354,9 @@
       ],
       "url": "https://www.ticket.mn/event/3220",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-09-04T165305.427.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-09-04T165305.427.png",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "wca-2026-10-24-mongolian-championship",
@@ -1438,7 +1460,9 @@
       ],
       "url": "https://www.ticket.mn/event/3267",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-94.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-94.png",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
@@ -1606,7 +1630,9 @@
       ],
       "url": "https://www.ticket.mn/event/3281",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T121736.644.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T121736.644.png",
+      "lat": 47.914228,
+      "lng": 106.893028
     },
     {
       "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
@@ -1650,7 +1676,9 @@
       ],
       "url": "https://www.ticket.mn/event/3276",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140245.241.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140245.241.png",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "urgoo-2026-11-06-godzilla-minus-zero",
