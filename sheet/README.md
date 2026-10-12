@@ -1,6 +1,7 @@
 # Organizer review sheet
 
-Organizers add events from the **+** button in the Yaahii? app without any account. The app sends
+Organizers add events without any account, from the **+** button in the Yaahii? app or from the
+web form [docs/add.html](../docs/add.html) (https://chintugsz.github.io/ub-events/add.html). Both send
 each event to a Google Sheet owned by the app's owner, through the script in [Code.gs](Code.gs).
 
 1. A new event arrives as a row with **Status: New**, and the owner gets an email.
@@ -16,7 +17,7 @@ each event to a Google Sheet owned by the app's owner, through the script in [Co
 2. Replace everything in the editor with [Code.gs](Code.gs) and save.
 3. **Deploy → New deployment**, type **Web app**, *Execute as:* **Me**, *Who has access:* **Anyone**,
    then **Deploy** and allow the permissions it asks for.
-4. Copy the **Web app URL** (it ends in `/exec`). It goes in `sheet/url.txt` here and in the app's
-   `SUBMIT_URL` (`src/config.ts`).
+4. Copy the **Web app URL** (it ends in `/exec`). It goes in `sheet/url.txt` and `docs/add.html`
+   here, and in the app's `SUBMIT_URL` (`src/config.ts`).
 
 The GitHub issue form keeps working for anyone who prefers it.

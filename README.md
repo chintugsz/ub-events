@@ -82,6 +82,6 @@ once Pages is turned on (Settings → Pages → Deploy from a branch → `main`,
 
 ## Organizers without GitHub
 
-The app's **+** form can send events to a Google Sheet instead of GitHub, so organizers need no
-account. The owner approves them in the sheet and they are published every half hour. See
+The app's **+** form and the web form at https://chintugsz.github.io/ub-events/add.html send
+events to a Google Sheet instead of GitHub, so organizers need no account. The owner approves them in the sheet and they are published every half hour. See
 [sheet/README.md](sheet/README.md).

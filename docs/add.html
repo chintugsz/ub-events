@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="mn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Add an event to Yaahii?</title>
+<meta name="description" content="Арга хэмжээгээ Yaahii?-д үнэгүй нэмээрэй. List your Ulaanbaatar event on Yaahii? for free.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header><div class="logo">Y?</div><h1>Арга хэмжээ нэмэх</h1></header>
+  <nav><a href="./">Yaahii?</a><a href="help.html">Тусламж / Help</a></nav>
+
+  <div id="intro">
+    <p>Арга хэмжээгээ Yaahii?-д <strong>үнэгүй</strong> нэмээрэй. Бүртгэл хэрэггүй. Бид шалгаад нийтэлнэ,
+    ихэвчлэн нэг өдрийн дотор.</p>
+    <p class="muted" lang="en">List your Ulaanbaatar event on Yaahii? for free, no account needed. We check every
+    event before it goes live, usually within a day.</p>
+  </div>
+
+  <form id="form" novalidate>
+    <label>Нэр <small>Event name</small><input name="name" maxlength="150" required></label>
+    <div class="row">
+      <label>Огноо <small>Date</small><input name="date" type="date" required></label>
+      <label>Эхлэх цаг <small>Start time (optional)</small><input name="time" type="time"></label>
+    </div>
+    <label>Дуусах өдөр <small>Last day, only if it runs several days</small><input name="endDate" type="date"></label>
+    <label>Байршил <small>Place</small><input name="place" maxlength="300" required></label>
+    <label>Төрөл <small>Category</small>
+      <select name="category">
+        <option value="Music & Performance">Хөгжим, тайз / Music & Performance</option>
+        <option value="Arts & Museums">Урлаг, музей / Arts & Museums</option>
+        <option value="Sports">Спорт / Sports</option>
+        <option value="Talks & Learning">Яриа, сургалт / Talks & Learning</option>
+        <option value="Community & Civic">Олон нийт / Community</option>
+        <option value="Outdoors & Parks">Гадаа, байгаль / Outdoors</option>
+        <option value="Film">Кино / Film</option>
+        <option value="Tours">Аялал / Tours</option>
+        <option value="Kids & Family">Хүүхэд, гэр бүл / Kids & Family</option>
+        <option value="Online">Онлайн / Online</option>
+        <option value="Other" selected>Бусад / Other</option>
+      </select>
+    </label>
+    <label>Үнэ <small>Price, e.g. Үнэгүй, 30,000₮</small><input name="price" maxlength="100"></label>
+    <label>Холбоос <small>Link to tickets or the event page (https://…)</small><input name="link" type="url" placeholder="https://"></label>
+    <label>Зургийн холбоос <small>Poster picture link (https://…)</small><input name="image" type="url" placeholder="https://"></label>
+    <label>Зохион байгуулагч <small>Organizer</small><input name="organizer" maxlength="150"></label>
+    <label>Тайлбар <small>Description</small><textarea name="description" maxlength="1000"></textarea></label>
+    <label>Утас эсвэл имэйл <small>Phone or email. Only used to check the event, never shown.</small><input name="contact" maxlength="150" required></label>
+    <label class="hp" aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label>
+    <div class="problems" id="problems" role="alert"></div>
+    <button class="button" type="submit" id="send">Илгээх / Send</button>
+  </form>
+
+  <div id="sent" hidden>
+    <h2>Баярлалаа! 🎉</h2>
+    <p>Арга хэмжээ тань ирлээ. Шалгасны дараа Yaahii?-д гарна.</p>
+    <p class="muted" lang="en">Thank you! Your event arrived. It shows in Yaahii? once it has been checked.</p>
+    <p><a class="button" href="add.html">Өөр арга хэмжээ нэмэх / Add another</a></p>
+  </div>
+</main>
+<script>
+// Sends to the same review sheet as the app's form (see sheet/ in the events repo).
+const SUBMIT_URL = 'https://script.google.com/macros/s/AKfycbw-_hpKhAP8QB8bEqN4d4LmzJWrUURtXkVgVvd_GlNjR6b0V0jqV9Vl4lKmT2i1LT44zA/exec';
+const form = document.getElementById('form');
+const problemsBox = document.getElementById('problems');
+const send = document.getElementById('send');
+// Ulaanbaatar is UTC+8 all year.
+const today = new Date(Date.now() + 8 * 3600 * 1000).toISOString().slice(0, 10);
+form.date.min = today;
+form.date.value = today;
+
+function problemsWith(ev) {
+  const out = [];
+  if (!ev.name) out.push('Нэрээ оруулна уу. / Add the event name.');
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(ev.date)) out.push('Огноогоо оруулна уу. / Add the date.');
+  else if (ev.date < today) out.push('Энэ огноо өнгөрсөн байна. / That date has passed.');
+  if (ev.endDate && ev.endDate < ev.date) out.push('Дуусах өдөр эхлэх өдрөөс хойш байх ёстой. / The last day should come after the date.');
+  if (!ev.place) out.push('Байршлаа оруулна уу. / Add the place.');
+  if (ev.link && !/^https:\/\/\S+$/.test(ev.link)) out.push('Холбоос https:// -ээр эхлэх ёстой. / The link should start with https://');
+  if (ev.image && !/^https:\/\/\S+$/.test(ev.image)) out.push('Зургийн холбоос https:// -ээр эхлэх ёстой. / The image link should start with https://');
+  if (ev.contact.length < 5) out.push('Утас эсвэл имэйлээ оруулна уу. / Add a phone number or email.');
+  return out;
+}
+
+form.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const ev = Object.fromEntries([...new FormData(form)].map(([k, v]) => [k, String(v).trim()]));
+  const problems = problemsWith(ev);
+  problemsBox.innerHTML = problems.map((p) => `• ${p}`).join('<br>');
+  if (problems.length) return;
+  send.disabled = true;
+  send.textContent = 'Илгээж байна… / Sending…';
+  try {
+    // text/plain keeps this a simple request, which Apps Script accepts from browsers.
+    const res = await fetch(SUBMIT_URL, { method: 'POST', headers: { 'Content-Type': 'text/plain;charset=utf-8' }, body: JSON.stringify(ev) });
+    const reply = await res.json();
+    if (!reply.ok) throw new Error(reply.error);
+    form.hidden = true;
+    document.getElementById('intro').hidden = true;
+    document.getElementById('sent').hidden = false;
+    window.scrollTo(0, 0);
+  } catch {
+    problemsBox.textContent = 'Илгээж чадсангүй. Дахин оролдоно уу. / It didn’t send. Please try again.';
+  } finally {
+    send.disabled = false;
+    send.textContent = 'Илгээх / Send';
+  }
+});
+</script>
+</body>
+</html>
