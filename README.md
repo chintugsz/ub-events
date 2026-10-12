@@ -8,19 +8,17 @@ A Claude routine updates the list every morning (Ulaanbaatar time), following
 
 ## Adding your own event
 
-Organizers add events with the **Add an event** form under
-[Issues → New issue](https://github.com/chintugsz/ub-events/issues/new?template=add-event.yml), or from the
-"+" button in the app, which opens the same form. They need a free GitHub account.
+Organizers add events with the **+** button in the app or the web form at
+https://chintugsz.github.io/ub-events/add.html, in Mongolian or English. Neither needs an account.
+Both send the event to the owner's Google Sheet ("Yaahii? organizer submissions"). The owner sets
+the row's Status to **Approve**, and the "Add approved events" workflow
+([.github/workflows/add-from-sheet.yml](.github/workflows/add-from-sheet.yml)) publishes it within
+half an hour. Setting it to **Reject** keeps it out. See [sheet/README.md](sheet/README.md).
 
-- If the author is the owner or is listed in [organizers.txt](organizers.txt), the event goes live
-  within a few minutes. The issue is then closed with a note.
-- Anyone else's event waits for approval. The owner approves it by commenting `/approve` on the issue,
-  or adds the person's GitHub username to `organizers.txt` so their future events go live straight away.
-- If something in the form is wrong, such as a date in the past, the reply says what to fix. Editing
-  the issue checks it again.
-
-[.github/workflows/add-event.yml](.github/workflows/add-event.yml) does this with
-[scripts/add-event.mjs](scripts/add-event.mjs). Its tests run with `node --test scripts/*.test.mjs`.
+The older GitHub issue form ([.github/workflows/add-event.yml](.github/workflows/add-event.yml) and
+[scripts/add-event.mjs](scripts/add-event.mjs)) still works for the owner and anyone listed in
+[organizers.txt](organizers.txt), but the app and the web pages no longer point to it. The tests run
+with `node --test scripts/*.test.mjs`.
 
 ## Format
 
@@ -79,9 +77,3 @@ The `docs` folder holds the app's home page, [privacy policy](docs/privacy.html)
 [help page](docs/help.html), in Mongolian and English. The app links to them, and the App Store and
 Google Play ask for them. They are served by GitHub Pages at https://chintugsz.github.io/ub-events/
 once Pages is turned on (Settings → Pages → Deploy from a branch → `main`, `/docs`).
-
-## Organizers without GitHub
-
-The app's **+** form and the web form at https://chintugsz.github.io/ub-events/add.html send
-events to a Google Sheet instead of GitHub, so organizers need no account. The owner approves them in the sheet and they are published every half hour. See
-[sheet/README.md](sheet/README.md).

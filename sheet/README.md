@@ -20,4 +20,5 @@ each event to a Google Sheet owned by the app's owner, through the script in [Co
 4. Copy the **Web app URL** (it ends in `/exec`). It goes in `sheet/url.txt` and `docs/add.html`
    here, and in the app's `SUBMIT_URL` (`src/config.ts`).
 
-The GitHub issue form keeps working for anyone who prefers it.
+The app and the web pages send organizers here only; they no longer link to the
+GitHub issue form.

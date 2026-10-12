@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:30:32+08:00",
+  "updatedAt": "2026-10-13T03:51:58+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -47,7 +47,7 @@
     },
     {
       "name": "Organizers",
-      "url": "https://github.com/chintugsz/ub-events/issues"
+      "url": "https://chintugsz.github.io/ub-events/add.html"
     },
     {
       "name": "Zuunii Medee (zms.mn)",
@@ -92,6 +92,14 @@
     {
       "name": "LiveSoccerTV",
       "url": "https://www.livesoccertv.com/"
+    },
+    {
+      "name": "Ticket.mn",
+      "url": "https://www.ticket.mn/old/"
+    },
+    {
+      "name": "UB Comedy Club",
+      "url": "https://www.ubcomedy.mn/shows"
     }
   ],
   "events": [
@@ -204,59 +212,6 @@
       "image": "https://content.ikon.mn/news/2026/10/8/3ce7b6_Legend_of_the_Queens_cover_16x9_x974.jpg"
     },
     {
-      "id": "urlag-2026-10-04-fine-arts-museum-60-photo-exhibition",
-      "title": "Fine Arts Museum at 60 (historical photo exhibition)",
-      "titleMn": "\"Дүрслэх урлагийн музейн-60 жил\" түүхэн гэрэл зургийн үзэсгэлэн",
-      "titleEn": "Fine Arts Museum at 60 – Historical Photo Exhibition",
-      "start": "2026-10-04",
-      "end": "2026-10-12",
-      "allDay": true,
-      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей, үзэсгэлэнгийн танхим",
-      "locationEn": "Zanabazar Museum of Fine Arts, exhibition hall",
-      "description": "Photo exhibition marking the museum's 60th anniversary, looking back at its history, activities and staff. On display until October 12.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "photography",
-        "museum",
-        "history",
-        "үзэсгэлэн",
-        "гэрэл зураг",
-        "музей"
-      ],
-      "url": "https://urlag.mn/post/159355",
-      "sourceName": "Urlag.mn",
-      "lat": 47.920172,
-      "lng": 106.90967,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/1-2.jpg"
-    },
-    {
-      "id": "tengis-2026-10-09-ovgor",
-      "title": "Овгор (Ovgor)",
-      "titleMn": "Овгор",
-      "start": "2026-10-09",
-      "end": "2026-10-12",
-      "allDay": true,
-      "location": "Тэнгис кино театр (Тэнгис 1, Тэнгис Гэгээнтэн)",
-      "locationEn": "Tengis Cinema (Tengis 1, Tengis Gegeenten)",
-      "description": "New Mongolian crime/action feature set in a 1980s Selenge timber factory. Released Oct 8, 2026; Tengis lists daily showtimes Oct 9–12.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "Mongolian film",
-        "action",
-        "crime",
-        "кино",
-        "монгол кино",
-        "Овгор"
-      ],
-      "url": "https://www.tengis.mn/film/ovgor",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001209/horizontal.jpg"
-    },
-    {
       "id": "zms-2026-10-09-mongolyn-ikh-khuree-khiiduud-exhibition",
       "title": "“Монголын их хүрээ хийдүүд” special exhibition",
       "titleMn": "Монголын их хүрээ хийдүүд",
@@ -356,6 +311,69 @@
       "image": "https://montsame.mn/files/medium/6aba18da82851.jpeg"
     },
     {
+      "id": "ticketmn-2026-10-13-mongolian-wonderful-arts",
+      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
+      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
+      "titleEn": "Wonders of Mongolian Art – folk performance",
+      "start": "2026-10-13",
+      "end": "2026-10-24",
+      "allDay": true,
+      "location": "Зам тээврийн яам, Их нүүдэл танхим",
+      "locationEn": "Ministry of Road and Transport, Ikh Nüüdel Hall",
+      "description": "Traditional Mongolian performing-arts show on 13, 14, 16, 17, 19 and 24 October.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional",
+        "урлагийн тоглолт",
+        "ардын урлаг"
+      ],
+      "url": "https://www.ticket.mn/event/3272",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-13-nomadic-legend",
+      "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
+      "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
+      "titleEn": "Nomadic Legend – folk art and heritage show",
+      "start": "2026-10-13",
+      "end": "2026-10-31",
+      "allDay": true,
+      "location": "ТБД андуудын баруун талд \"ГАН ЗАМ\" палас",
+      "locationEn": "\"Gan Zam\" Palace",
+      "description": "Daily folk-art and cultural-heritage performance listed for every day from 13 to 31 October.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional",
+        "ардын урлаг",
+        "өв соёл"
+      ],
+      "url": "https://www.ticket.mn/event/2607",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-13-bugd-ineeh-durtai",
+      "title": "\"БҮГД ИНЭЭХ ДУРТАЙ\" инээдмийн энтертаймент шоу тоглолт",
+      "titleMn": "Бүгд инээх дуртай",
+      "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
+      "start": "2026-10-13T19:00",
+      "end": "2026-10-23",
+      "allDay": false,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
+      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.23.",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "show",
+        "инээдэм",
+        "шоу тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3246",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
       "title": "Октоберфест 2026",
       "titleMn": "Октоберфест 2026",
@@ -385,6 +403,48 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_ac761ff225_a696aea069.jpg"
     },
     {
+      "id": "ubcomedy-2026-10-14-ladies-night",
+      "title": "Ladies Night",
+      "titleEn": "Ladies Night (UB Comedy Club)",
+      "start": "2026-10-14T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy night at UB Comedy Club. 18+ only; tickets are non-refundable and the lineup may change.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдэм",
+        "стэнд ап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6acb68903190abb651ec420f",
+      "sourceName": "UB Comedy Club"
+    },
+    {
+      "id": "ikon-2026-10-15-hr-day",
+      "title": "Монголын хүний нөөцийн ажилтны өдөр (HR Day)",
+      "titleMn": "Монголын хүний нөөцийн ажилтны өдөр",
+      "titleEn": "Mongolia HR Day",
+      "start": "2026-10-15",
+      "allDay": true,
+      "location": "Корпорейт Конвеншн Центр болон Худалдаа аж үйлдвэрийн их танхим",
+      "locationEn": "The Corporate Convention Centre and the Mongolian National Chamber of Commerce and Industry Great Hall",
+      "description": "HR Day where companies share best practices and discuss solutions; students and local participants can attend on discounted terms.",
+      "category": "Talks & Learning",
+      "tags": [
+        "HR",
+        "careers",
+        "business",
+        "хүний нөөц",
+        "карьер"
+      ],
+      "url": "https://ikon.mn/n/3qwr",
+      "sourceName": "iKon.mn"
+    },
+    {
       "id": "montsame-2026-10-15-bravo-circus",
       "title": "“BRAVO CIRCUS” циркийн тоглолт",
       "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
@@ -406,6 +466,68 @@
       "sourceName": "MONTSAME",
       "lat": 47.917851,
       "lng": 106.935278
+    },
+    {
+      "id": "ubcomedy-2026-10-15-top-thursday",
+      "title": "Top Thursday",
+      "titleEn": "Top Thursday (UB Comedy Club)",
+      "start": "2026-10-15T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Thursday stand-up show at UB Comedy Club with Olya, Sodoo, Bataa, Khosoo, Mandakh, Bayasaa and Dabi. 18+ only.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдэм",
+        "стэнд ап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6acb6a593190abb651ec429c",
+      "sourceName": "UB Comedy Club"
+    },
+    {
+      "id": "ticketmn-2026-10-16-khair-tugeeye",
+      "title": "\"ХАЙР ТҮГЭЭЕ\" инээдмийн шоу тоглолт",
+      "titleMn": "Хайр түгээе",
+      "titleEn": "Spread Love – comedy show",
+      "start": "2026-10-16",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "МҮЭСТО (Монголын үйлдвэрчний эвлэлийн соёлын төв ордон), Баруун 4 зам",
+      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO), West 4 Roads",
+      "description": "A brand-new comedy show by Shine Üe Production, staged daily over the listed dates.",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "show",
+        "инээдэм",
+        "шоу тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3270",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-16-khairyn-ayalguu",
+      "title": "\"ХАЙРЫН АЯЛГУУ\" тоглолт",
+      "titleMn": "Хайрын аялгуу",
+      "titleEn": "Melody of Love – G. Enkhnaran solo concert",
+      "start": "2026-10-16",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
+      "description": "Solo concert by G. Enkhnaran, opera soloist of the State Academic Theatre of Opera and Ballet.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "opera",
+        "тоглолт",
+        "дуурь"
+      ],
+      "url": "https://www.ticket.mn/event/3254",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ubiff-2026",
@@ -495,6 +617,27 @@
       "image": "https://cdn2.allevents.in/transup/20/37cb5ead2f4af585469eaf08b752c8/all.webp"
     },
     {
+      "id": "ubcomedy-2026-10-16-dark-beer-dark-jokes",
+      "title": "Dark Beer & Dark Jokes presented by Guinness",
+      "titleEn": "Dark Beer & Dark Jokes presented by Guinness",
+      "start": "2026-10-16T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Dark-humour stand-up night presented by Guinness, with Olya, Khosoo, Ensi, Bolor, Amraka, Jack, Sodoo and Buyaka. 18+ only.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "dark humour",
+        "18+",
+        "инээдэм"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6acb6af03190abb651ec42c7",
+      "sourceName": "UB Comedy Club"
+    },
+    {
       "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
       "title": "“Монголын орон зай” 8 ангит чуулбар хөгжмийн бүтээлийн тоглолт",
       "titleMn": "“Монголын орон зай” чуулбар хөгжмийн тоглолт",
@@ -516,6 +659,48 @@
       "sourceName": "MONTSAME",
       "lat": 47.919534,
       "lng": 106.920049
+    },
+    {
+      "id": "ticketmn-2026-10-17-dald-ukhamsar-ba-sankhuu",
+      "title": "ДАЛД УХАМСАР БА САНХҮҮ",
+      "titleMn": "Далд ухамсар ба санхүү",
+      "titleEn": "Subconscious and Finance (seminar)",
+      "start": "2026-10-17",
+      "allDay": true,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
+      "description": "A session on how past experiences, beliefs, emotions and habits shape our relationship with money, helping participants explore their inner beliefs about money.",
+      "category": "Talks & Learning",
+      "tags": [
+        "talk",
+        "personal finance",
+        "seminar",
+        "санхүү",
+        "сургалт"
+      ],
+      "url": "https://www.ticket.mn/event/3206",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-17-latin-dance-championship",
+      "title": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
+      "titleMn": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
+      "titleEn": "Mongolian DanceSport Federation National Championship – choreographic Latin dance (incl. Formation Cup)",
+      "start": "2026-10-17",
+      "allDay": true,
+      "location": "Баянгол дүүргийн биеийн тамир, спортын хороо",
+      "locationEn": "Bayangol District Physical Culture and Sports Committee",
+      "description": "National championship in choreographic Latin dance organised by the Mongolian DanceSport Federation, including the Formation Cup.",
+      "category": "Sports",
+      "tags": [
+        "dance",
+        "dancesport",
+        "latin",
+        "бүжиг",
+        "тэмцээн"
+      ],
+      "url": "https://www.ticket.mn/event/3279",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ubiff-2026-nyamgavaa",
@@ -559,6 +744,26 @@
       "url": "https://www.ub.life/p/261009-jdhd5m",
       "sourceName": "UB Life",
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-926539e5-4046-4dbe-a8e9-346ce8d9b9a5.jpg"
+    },
+    {
+      "id": "ticketmn-2026-10-17-monkhod-orshikh-nutag",
+      "title": "\"МӨНХӨД ОРШИХ НУТАГ\" уран бүтээлийн тоглолт",
+      "titleMn": "Мөнхөд орших нутаг",
+      "titleEn": "Eternal Homeland – S. Khuurelbaatar's first solo concert",
+      "start": "2026-10-17T14:00",
+      "allDay": false,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
+      "description": "First solo concert of S. Khuurelbaatar, lead singer of the Central Military Song and Dance Ensemble, with guest artists.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "folk",
+        "тоглолт",
+        "уран бүтээлийн тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3259",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -608,6 +813,27 @@
       "sourceName": "Zindaa.mn",
       "lat": 47.911971,
       "lng": 106.907256
+    },
+    {
+      "id": "ubcomedy-2026-10-17-wild-weekend",
+      "title": "Wild Weekend",
+      "titleEn": "Wild Weekend (UB Comedy Club)",
+      "start": "2026-10-17T19:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Saturday stand-up show at UB Comedy Club with Enerel, Dabi, Bolor, Ensi, Bataa, Angarag and Bayasaa. 18+ only.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "weekend",
+        "18+",
+        "инээдэм"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6acb6c2c3190abb651ec434d",
+      "sourceName": "UB Comedy Club"
     },
     {
       "id": "tengis-2026-10-17-vivaldi-bid-khoyor-ubiff",
@@ -804,6 +1030,28 @@
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001216/horizontal.jpg"
     },
     {
+      "id": "ubcomedy-2026-10-20-manai-hun-family-show",
+      "title": "Манай Хүн Гэр Бүлийн Шоу",
+      "titleMn": "Манай Хүн Гэр Бүлийн Шоу",
+      "titleEn": "Our Family Show (UB Comedy Club)",
+      "start": "2026-10-20T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Comedy show at UB Comedy Club with Dabi, Khosoo, Bataa and Jack. 18+ only.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдэм",
+        "шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6accca8f3190abb651ec7285",
+      "sourceName": "UB Comedy Club"
+    },
+    {
       "id": "tengis-2026-10-20-durlasan-bukhen-gun-shunuur-ubiff",
       "title": "Дурласан Бүхэн Гүн Шөнөөр",
       "titleMn": "Дурласан Бүхэн Гүн Шөнөөр",
@@ -850,6 +1098,28 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001104/horizontal.jpg"
+    },
+    {
+      "id": "ticketmn-2026-10-21-namryn-hit",
+      "title": "\"НАМРЫН ХИТ\" 2026 тоглолт",
+      "titleMn": "Намрын хит 2026",
+      "titleEn": "Autumn Hits 2026 concert",
+      "start": "2026-10-21T19:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "One-night joint concert by amateur (public) singers; three lucky audience members win prizes including a trip to China.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "тоглолт",
+        "хит"
+      ],
+      "url": "https://www.ticket.mn/event/3264",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ubiff-2026-closing",
@@ -962,6 +1232,92 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
     },
     {
+      "id": "ikon-2026-10-24-gyeongbuk-education-fair",
+      "title": "“Кёнбугт суралцацгаая – 2026” Солонгосын боловсролын үзэсгэлэн",
+      "titleMn": "Кёнбугт суралцацгаая – 2026",
+      "titleEn": "Let's Study in Gyeongbuk 2026 – Korean education fair",
+      "start": "2026-10-24",
+      "allDay": true,
+      "location": "Галлериа Улаанбаатар",
+      "locationEn": "Galleria Ulaanbaatar",
+      "description": "Korean education fair by Gyeongbuk Institute Mongolia with free visa consultation from the Korean Visa Application Center; places are limited and advance registration is required.",
+      "cost": "Free visa consultation; advance registration required",
+      "category": "Talks & Learning",
+      "tags": [
+        "study abroad",
+        "Korea",
+        "education fair",
+        "Солонгос",
+        "боловсрол",
+        "үзэсгэлэн"
+      ],
+      "url": "https://ikon.mn/n/3qs9",
+      "sourceName": "iKon.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-24-best-of-overture",
+      "title": "\"BEST OF OVERTURE\" концерт",
+      "titleEn": "Best of Overture – State Philharmonic Symphony Orchestra",
+      "start": "2026-10-24",
+      "allDay": true,
+      "location": "Улсын филармони",
+      "locationEn": "State Philharmonic",
+      "description": "Concert of famous overtures by the State Philharmonic Symphony Orchestra, conducted by B. Batbaatar and B. Anar, opening with Borodin's Prince Igor overture.",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "orchestra",
+        "symphony",
+        "концерт",
+        "симфони"
+      ],
+      "url": "https://www.ticket.mn/event/3278",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
+    },
+    {
+      "id": "ticketmn-2026-10-24-future-tourism-forum",
+      "title": "FUTURE TOURISM FORUM",
+      "titleEn": "ITM Mongolia 2026 – Future Tourism Forum (AI • Digital • Business • Growth)",
+      "start": "2026-10-24",
+      "allDay": true,
+      "location": "CROCUS Event Hall",
+      "locationEn": "CROCUS Event Hall",
+      "description": "Knowledge forum for tourism-sector investors, managers and entrepreneurs on AI, digital, business and growth, held as part of ITM Mongolia 2026.",
+      "category": "Talks & Learning",
+      "tags": [
+        "forum",
+        "tourism",
+        "AI",
+        "business",
+        "форум",
+        "аялал жуулчлал"
+      ],
+      "url": "https://www.ticket.mn/event/3282",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-24-worlds-best-music",
+      "title": "The World’s Best Music",
+      "titleEn": "The World's Best Music – BN Team chamber ensemble",
+      "start": "2026-10-24",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
+      "description": "Special concert by the BN Team chamber ensemble playing music by Ludovico Einaudi, Hans Zimmer, Ennio Morricone, Joe Hisaishi and others.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "film music",
+        "classical",
+        "тоглолт",
+        "камерын чуулга"
+      ],
+      "url": "https://www.ticket.mn/event/3220",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "wca-2026-10-24-mongolian-championship",
       "title": "Mongolian Championship 2026",
       "titleMn": "Шоо эвлүүлэгчдийн Монголын аварга шалгаруулах тэмцээн 2026",
@@ -1025,6 +1381,45 @@
       "lng": 106.917441
     },
     {
+      "id": "ticketmn-2026-10-25-horse-head-fiddle",
+      "title": "\"HORSE HEAD FIDDLE\" АРДЫН УРЛАГИЙН ТОГЛОЛТ",
+      "titleMn": "Морин хуурын ардын урлагийн тоглолт",
+      "titleEn": "Horse Head Fiddle – folk art performance",
+      "start": "2026-10-25",
+      "end": "2026-10-31",
+      "allDay": true,
+      "location": "Palazzo tower",
+      "locationEn": "Palazzo Tower",
+      "description": "Folk-art concert featuring the horse-head fiddle on 25, 30 and 31 October.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "morin khuur",
+        "морин хуур",
+        "ардын урлаг"
+      ],
+      "url": "https://www.ticket.mn/event/2641",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-25-namryn-uyanga",
+      "title": "\"НАМРЫН УЯНГА\" Б.Эрдэнэбаярын тоглолт",
+      "titleMn": "Намрын уянга",
+      "titleEn": "Autumn Melody – B. Erdenebayar concert",
+      "start": "2026-10-25",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
+      "description": "Concert by singer B. Erdenebayar.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3267",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
       "title": "TEDxUlaanbaatar Empathy School Youth",
       "titleEn": "TEDxUlaanbaatar Empathy School Youth",
@@ -1046,6 +1441,49 @@
       ],
       "url": "https://www.ted.com/tedx/events/70557",
       "sourceName": "TEDx"
+    },
+    {
+      "id": "ticketmn-2026-10-30-addams-family-musical",
+      "title": "\"THE ADDAMS FAMILY\" мюзикл",
+      "titleMn": "Аддамсын гэр бүл",
+      "titleEn": "The Addams Family (musical)",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "allDay": true,
+      "location": "Улсын хүүхэд залуучуудын театр",
+      "locationEn": "State Youth and Children's Theatre",
+      "description": "Officially licensed staging of The Addams Family musical, a comedy about being yourself and being different.",
+      "category": "Music & Performance",
+      "tags": [
+        "musical",
+        "theatre",
+        "мюзикл",
+        "театр",
+        "halloween"
+      ],
+      "url": "https://www.ticket.mn/event/2842",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-30-airagtai-udesh",
+      "title": "АЙРАГТАЙ ҮДЭШ",
+      "titleMn": "Айрагтай үдэш",
+      "titleEn": "Evening with Airag",
+      "start": "2026-10-30",
+      "allDay": true,
+      "location": "FLORA Wedding Hall — ХУД, Зайсан, Цацралт төвийн 4 давхар",
+      "locationEn": "FLORA Wedding Hall, 4th floor of Tsatsralt Center, Zaisan, Khan-Uul District",
+      "description": "An evening promoting Mongolian national arts and cultural heritage.",
+      "category": "Music & Performance",
+      "tags": [
+        "culture",
+        "heritage",
+        "airag",
+        "айраг",
+        "соёл"
+      ],
+      "url": "https://www.ticket.mn/event/3248",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
@@ -1128,6 +1566,67 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
     },
     {
+      "id": "ticketmn-2026-10-31-eejdee",
+      "title": "\"ЭЭЖДЭЭ\" хандивын тоглолт",
+      "titleMn": "Ээждээ",
+      "titleEn": "For Mom – charity concert",
+      "start": "2026-10-31",
+      "allDay": true,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
+      "description": "Charity concert titled \"Eejdee\" (For Mom).",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "charity",
+        "хандивын тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3281",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
+      "title": "\"БУЖИГНУУЛНА ХОЁУЛАА\" уран бүтээлийн тоглолт",
+      "titleMn": "Бужигнуулна хоёулаа",
+      "titleEn": "Bujignuulna Khoyuulaa – concert",
+      "start": "2026-11-02",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A concert of the artists' work; performers are not named on the listing.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "тоглолт",
+        "уран бүтээлийн тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3284",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
+      "id": "ticketmn-2026-11-06-romeo-juliet-ballet",
+      "title": "ROMEO JULIET BALLET",
+      "titleMn": "Ромео Жульетта",
+      "titleEn": "Romeo and Juliet (ballet)",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
+      "description": "Prokofiev's Romeo and Juliet ballet, a joint production of the State Academic Theatre of Opera and Ballet and the Imperial Theatre, on 6 and 8 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "ballet",
+        "Prokofiev",
+        "балет",
+        "театр"
+      ],
+      "url": "https://www.ticket.mn/event/3276",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "urgoo-2026-11-06-godzilla-minus-zero",
       "title": "Godzilla Minus Zero",
       "titleEn": "Godzilla Minus Zero",
@@ -1178,6 +1677,28 @@
       "image": "https://new.urgoo.mn/movies/HO00001902/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "ticketmn-2026-11-07-hot-stage-kpop-masterz",
+      "title": "HOT STAGE x K*POP MASTERZ CONCERT",
+      "titleEn": "HOT STAGE × K-POP MASTERZ in Ulaanbaatar 2026",
+      "start": "2026-11-07",
+      "allDay": true,
+      "location": "Буянт Ухаа Спортын ордон",
+      "locationEn": "Buyant-Ukhaa Sports Palace",
+      "description": "K-POP MASTERZ international concert series comes to Ulaanbaatar for the first time with HOT STAGE; urlag.mn (12 Oct 2026) reports HWASA as the first announced artist.",
+      "category": "Music & Performance",
+      "tags": [
+        "K-pop",
+        "concert",
+        "HWASA",
+        "кейпоп",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3283",
+      "sourceName": "Ticket.mn",
+      "lat": 47.854437,
+      "lng": 106.784967
+    },
+    {
       "id": "urgoo-2026-11-11-ghost-soldier",
       "title": "Ghost Soldier",
       "titleEn": "Ghost Soldier",
@@ -1201,6 +1722,28 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001951/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-12-battulga-my-first-concert",
+      "title": "\"BATTULGA 2026\" My First Concert",
+      "titleMn": "Б.Баттулга – My First Concert",
+      "titleEn": "BATTULGA 2026 – My First Concert",
+      "start": "2026-11-12",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "First solo concert by singer Batkhuugiin Battulga, with guests including S. Batsukh, A. Ankhbayar and B. Chantsaldulam.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "solo concert",
+        "тоглолт",
+        "бие даасан тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3280",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "urgoo-2026-11-13-ebenezer",
