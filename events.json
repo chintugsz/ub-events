@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T06:55:58+08:00",
+  "updatedAt": "2026-10-13T07:07:27+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -706,6 +706,28 @@
       "lng": 106.893028
     },
     {
+      "id": "ticketmn-2026-10-17-happy-prince",
+      "title": "\"Аз жаргалтай ханхүү\" хүүхэлдэйн жүжиг",
+      "titleMn": "Аз жаргалтай ханхүү",
+      "titleEn": "The Happy Prince (puppet play)",
+      "start": "2026-10-17",
+      "end": "2026-10-18",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "Puppet play for young audiences about real and surface value, and what happiness is and where to find it. It opens with a swallow left behind on a riverbank when winter comes.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн жүжиг",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/2724",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-10-17-latin-dance-championship",
       "title": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
       "titleMn": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
@@ -726,6 +748,28 @@
       "url": "https://www.ticket.mn/event/3279",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-07T164454.611.png"
+    },
+    {
+      "id": "ticketmn-2026-10-17-my-lovely-tooth-journey",
+      "title": "\"Миний хөөрхөн шүдний аялал\"",
+      "titleMn": "Миний хөөрхөн шүдний аялал",
+      "titleEn": "My Lovely Tooth's Journey (children's puppet show)",
+      "start": "2026-10-17",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "Children's show about a 5-year-old boy who won't brush his teeth and loves sweets, until an old man called Silver Elder visits him in a dream and teaches him why brushing matters. Plays on 17, 18, 24 and 25 October.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн театр",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/2723",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ubiff-2026-nyamgavaa",
@@ -910,6 +954,27 @@
       ],
       "url": "https://www.livesoccertv.com/pt/match/ulaanbaatar-vs-tuv-azarganuud/drgw2m",
       "sourceName": "LiveSoccerTV"
+    },
+    {
+      "id": "ticketmn-2026-10-18-hello-olmasss",
+      "title": "Сайн уу? ОЛМАССС хүүхдийн жүжиг",
+      "titleMn": "Сайн уу? ОЛМАССС",
+      "titleEn": "Hello? OLMASSS (children's play)",
+      "start": "2026-10-18",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "Улаанбаатар театр",
+      "locationEn": "Ulaanbaatar Theatre",
+      "description": "Children's play set in an autumn forest, where four children on an eco-trip with their teacher run into something unexpected involving 'talking snow'. Plays on 18, 24 and 25 October.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхдийн жүжиг",
+        "theatre",
+        "театр"
+      ],
+      "url": "https://www.ticket.mn/event/2845",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "tengis-2026-10-18-yavuulyn-khun-govd-ubiff",
