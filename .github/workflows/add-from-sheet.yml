@@ -1,0 +1,44 @@
+# Publishes events approved in the organizer review sheet. See scripts/add-from-sheet.mjs and sheet/.
+name: Add approved events
+
+on:
+  schedule:
+    - cron: '7,37 * * * *' # every half hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One change to events.json at a time.
+concurrency:
+  group: events-json
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Read approved events
+        run: node scripts/add-from-sheet.mjs
+
+      - name: Publish them
+        run: |
+          git diff --quiet events.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git add events.json
+            git commit -q -m "Add approved organizer events"
+            if git push origin HEAD:main; then exit 0; fi
+            # The list changed meanwhile: start again from the new one.
+            sleep 5
+            git fetch -q origin main
+            git reset -q --hard origin/main
+            node scripts/add-from-sheet.mjs
+          done
+          exit 1

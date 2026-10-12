@@ -1,0 +1,2 @@
+# The review sheet web app address (ends in /exec), set once the sheet is deployed. See sheet/README.md.
+https://script.google.com/macros/s/AKfycbw-_hpKhAP8QB8bEqN4d4LmzJWrUURtXkVgVvd_GlNjR6b0V0jqV9Vl4lKmT2i1LT44zA/exec

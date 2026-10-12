@@ -20,7 +20,7 @@ Organizers add events with the **Add an event** form under
   the issue checks it again.
 
 [.github/workflows/add-event.yml](.github/workflows/add-event.yml) does this with
-[scripts/add-event.mjs](scripts/add-event.mjs). Its tests run with `node --test`.
+[scripts/add-event.mjs](scripts/add-event.mjs). Its tests run with `node --test scripts/*.test.mjs`.
 
 ## Format
 
@@ -65,3 +65,23 @@ node check.mjs --write   # also drop finished events, add map positions, sort, a
 ```
 
 Only commit when `check.mjs` passes. This repository is public: never put API keys or passwords in it.
+
+## Is the list healthy?
+
+The **List health** workflow ([scripts/health.mjs](scripts/health.mjs)) runs every morning at 09:30
+Ulaanbaatar time. If the list hasn't been updated for 36 hours, or fewer than 15 events fall in the
+coming week, it opens an issue called "The events list needs attention" (GitHub emails the owner),
+and closes it once the list is fine again.
+
+## The app's web pages
+
+The `docs` folder holds the app's home page, [privacy policy](docs/privacy.html) and
+[help page](docs/help.html), in Mongolian and English. The app links to them, and the App Store and
+Google Play ask for them. They are served by GitHub Pages at https://chintugsz.github.io/ub-events/
+once Pages is turned on (Settings → Pages → Deploy from a branch → `main`, `/docs`).
+
+## Organizers without GitHub
+
+The app's **+** form and the web form at https://chintugsz.github.io/ub-events/add.html send
+events to a Google Sheet instead of GitHub, so organizers need no account. The owner approves them in the sheet and they are published every half hour. See
+[sheet/README.md](sheet/README.md).
