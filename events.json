@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T06:53:40+08:00",
+  "updatedAt": "2026-10-14T07:16:23+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -314,11 +314,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-10-23",
+      "end": "2026-10-25",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.23.",
+      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.25.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -331,6 +331,30 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png",
       "lat": 47.919491,
       "lng": 106.919385
+    },
+    {
+      "id": "ticketmn-2026-10-14-valentin-valentina",
+      "title": "М. РОЩИН «ВАЛЕНТИН ВАЛЕНТИНА»",
+      "titleMn": "Валентин, Валентина",
+      "titleEn": "Valentin and Valentina (M. Roshchin)",
+      "start": "2026-10-14",
+      "end": "2026-10-20",
+      "allDay": true,
+      "location": "Улсын Драмын Эрдмийн Театр",
+      "locationEn": "State Academic Drama Theatre",
+      "description": "Mikhail Roshchin's play about first love, directed by E. Bilguun, which opened the theatre's 96th season. Plays every day from 14 to 20 October.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "play",
+        "жүжиг",
+        "драмын театр"
+      ],
+      "url": "https://www.ticket.mn/event/3242",
+      "sourceName": "Ticket.mn",
+      "lat": 47.914621,
+      "lng": 106.914258
     },
     {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
@@ -416,7 +440,7 @@
       "allDay": true,
       "location": "Монгол бөхийн өргөө",
       "locationEn": "Mongolian Wrestling Palace",
-      "description": "A circus performance at the Mongolian Wrestling Palace, listed in MONTSAME's calendar for the week of October 12–18.",
+      "description": "A circus show at the Mongolian Wrestling Palace on 15, 16, 17 and 18 October.",
       "category": "Music & Performance",
       "tags": [
         "circus",
@@ -425,10 +449,11 @@
         "цирк",
         "тоглолт"
       ],
-      "url": "https://montsame.mn/mn/read/412033",
-      "sourceName": "MONTSAME",
+      "url": "https://www.ticket.mn/event/3258",
+      "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "end": "2026-10-18"
     },
     {
       "id": "ubcomedy-2026-10-15-top-thursday",
@@ -500,26 +525,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/1200_1200.png",
       "lat": 47.919491,
       "lng": 106.919385
-    },
-    {
-      "id": "ubiff-2026",
-      "title": "18th Ulaanbaatar International Film Festival",
-      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
-      "start": "2026-10-16",
-      "end": "2026-10-22",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "кино наадам"
-      ],
-      "description": "18 films over seven days, opening with Cristian Mungiu's \"Fjord\" at Tengis and Skywing cinemas.",
-      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse",
-      "lat": 47.922806,
-      "lng": 106.90449
     },
     {
       "id": "urgoo-2026-10-16-street-fighter",
@@ -728,18 +733,20 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
     },
     {
-      "id": "ubiff-2026-nyamgavaa",
-      "title": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
-      "titleMn": "УБ кино наадам: И.Нямгаваагийн хоёр кино",
+      "id": "ubiff-2026",
+      "title": "18th Ulaanbaatar International Film Festival",
+      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
       "start": "2026-10-17",
+      "end": "2026-10-22",
       "allDay": true,
       "location": "Тэнгис кино театр",
       "locationEn": "Tengis Cinema",
       "category": "Film",
       "tags": [
-        "film",
-        "кино"
+        "film festival",
+        "кино наадам"
       ],
+      "description": "18 films over six days at Tengis and Skywing cinemas. Ticket.mn and MONTSAME give 17 October as the opening day.",
       "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
       "sourceName": "Asian Movie Pulse",
       "lat": 47.922806,
@@ -771,6 +778,30 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-926539e5-4046-4dbe-a8e9-346ce8d9b9a5.jpg"
     },
     {
+      "id": "ikon-2026-10-17-loro-piana-open-days",
+      "title": "Loro Piana 2026 оны LVMH Journées Particulières арга хэмжээний хүрээнд Улаанбаатар дахь үйлдвэрээ олон нийтэд нээнэ",
+      "titleMn": "Лоро Пьянагийн үйлдвэр олон нийтэд нээлттэй өдөр",
+      "titleEn": "Loro Piana factory open days (LVMH Journées Particulières)",
+      "start": "2026-10-17T14:00",
+      "end": "2026-10-18T17:00",
+      "allDay": false,
+      "location": "Лоро Пьянагийн үйлдвэр, Улаанбаатар",
+      "locationEn": "Loro Piana factory, Ulaanbaatar",
+      "description": "Loro Piana's cashmere factory, its only production site outside Italy, opens to visitors who register in advance on the LVMH Journées Particulières site. Open Saturday 17 October 14:00–17:00 and Sunday 18 October 10:00–17:00.",
+      "cost": "Free, registration required",
+      "category": "Tours",
+      "tags": [
+        "factory tour",
+        "cashmere",
+        "LVMH",
+        "ноолуур",
+        "үйлдвэр",
+        "аялал"
+      ],
+      "url": "https://ikon.mn/n/3qyu",
+      "sourceName": "iKon.mn"
+    },
+    {
       "id": "ticketmn-2026-10-17-monkhod-orshikh-nutag",
       "title": "\"МӨНХӨД ОРШИХ НУТАГ\" уран бүтээлийн тоглолт",
       "titleMn": "Мөнхөд орших нутаг",
@@ -792,6 +823,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-86.png",
       "lat": 47.914228,
       "lng": 106.893028
+    },
+    {
+      "id": "ubiff-2026-nyamgavaa",
+      "title": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
+      "titleMn": "УБ кино наадам: И.Нямгаваагийн хоёр кино",
+      "start": "2026-10-17T14:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "category": "Film",
+      "tags": [
+        "film",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/nandinerdeneubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449,
+      "titleEn": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
+      "description": "Two festival screenings in Tengis 1: \"Нандин Эрдэнэ\" at 14:00 (R 16+) and \"Гарын таван хуруу\" at 16:30 (PG-13)."
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -1008,6 +1059,29 @@
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001194/horizontal.jpg"
     },
     {
+      "id": "tengis-2026-10-18-ul-tanikh-okhin-ubiff",
+      "title": "Үл Таних Охин UBIFF",
+      "titleMn": "Үл таних охин",
+      "titleEn": "The Unknown Girl (UBIFF)",
+      "start": "2026-10-18T21:10",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Ulaanbaatar International Film Festival screening of a drama (2 h 8 min, PG-13) about a girl who passes through three host families between the ages of 6 and 18, taking a new name each time.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "film festival",
+        "drama",
+        "кино наадам",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/ueltanixoxinubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
       "title": "Tsagaan Khadny Ungu (UBIFF documentary screening)",
       "titleMn": "Цагаан хадны өнгө (UBIFF)",
@@ -1031,6 +1105,29 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001215/horizontal.jpg"
+    },
+    {
+      "id": "tengis-2026-10-19-etsgiin-nutag-ubiff",
+      "title": "Эцгийн Нутаг UBIFF",
+      "titleMn": "Эцгийн нутаг",
+      "titleEn": "Fatherland (UBIFF)",
+      "start": "2026-10-19T19:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival screening of a historical drama (1 h 22 min, PG-13) in which Thomas Mann and his daughter Erika travel through divided postwar Germany in 1949.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "film festival",
+        "historical drama",
+        "кино наадам",
+        "түүхэн кино"
+      ],
+      "url": "https://www.tengis.mn/film/ecgijnnutagubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "tengis-2026-10-19-fjord-ubiff",
@@ -1083,6 +1180,29 @@
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001216/horizontal.jpg"
     },
     {
+      "id": "tengis-2026-10-20-zeregtsee-tuukhuud-ubiff",
+      "title": "Зэрэгцээ Түүхүүд UBIFF",
+      "titleMn": "Зэрэгцээ түүхүүд",
+      "titleEn": "Parallel Tales (UBIFF)",
+      "start": "2026-10-20T19:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival screening of a romantic drama (2 h 19 min) about a writer who secretly watches her neighbours until the story she imagines merges with reality.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "film festival",
+        "drama",
+        "кино наадам",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/zeregceetueuexueuedubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "ubcomedy-2026-10-20-manai-hun-family-show",
       "title": "Манай Хүн Гэр Бүлийн Шоу",
       "titleMn": "Манай Хүн Гэр Бүлийн Шоу",
@@ -1132,6 +1252,29 @@
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001198/horizontal.jpg"
     },
     {
+      "id": "tengis-2026-10-21-amid-uldekh-temtsel-ubiff",
+      "title": "Амьд Үлдэx Тэмцэл UBIFF",
+      "titleMn": "Амьд үлдэх тэмцэл",
+      "titleEn": "Struggle for Survival (UBIFF)",
+      "start": "2026-10-21T14:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival documentary (2 h 12 min, PG 6+) filmed on four continents about how people adapt to environmental change, including a family planting an oasis in the Gobi.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "documentary",
+        "climate",
+        "баримтат кино",
+        "кино наадам"
+      ],
+      "url": "https://www.tengis.mn/film/amdueldextemcelubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "tengis-2026-10-21-zadlaagui-zakhia-ubiff",
       "title": "Задлаагүй Захиа",
       "titleMn": "Задлаагүй Захиа",
@@ -1156,6 +1299,29 @@
       "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001104/horizontal.jpg"
     },
     {
+      "id": "tengis-2026-10-21-aldaany-saikhan-ubiff",
+      "title": "Алдааны Сайxан UBIFF",
+      "titleMn": "Алдааны сайхан",
+      "titleEn": "The Beauty of Mistakes (UBIFF)",
+      "start": "2026-10-21T19:00",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival screening (1 h 34 min, PG 6+) about three generations of men in one family, and a father, Tero, left alone when his son Henry moves out.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "film festival",
+        "family",
+        "кино наадам",
+        "кино"
+      ],
+      "url": "https://www.tengis.mn/film/aldaanysajxanubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "ticketmn-2026-10-21-namryn-hit",
       "title": "\"НАМРЫН ХИТ\" 2026 тоглолт",
       "titleMn": "Намрын хит 2026",
@@ -1177,6 +1343,29 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97_cMowVmc.png"
+    },
+    {
+      "id": "tengis-2026-10-21-uulyn-nomor-ubiff",
+      "title": "Уулын Нөмөр UBIFF",
+      "titleMn": "Уулын нөмөр",
+      "titleEn": "Shelter of the Mountain (UBIFF)",
+      "start": "2026-10-21T21:10",
+      "allDay": false,
+      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
+      "locationEn": "Tengis Cinema, Hall 1",
+      "description": "Festival documentary (1 h 45 min, PG-13) about a shepherd mother and daughter in Montenegro's highlands resisting NATO military training on their family's mountain.",
+      "category": "Film",
+      "tags": [
+        "UBIFF",
+        "documentary",
+        "Montenegro",
+        "баримтат кино",
+        "кино наадам"
+      ],
+      "url": "https://www.tengis.mn/film/uulynnoemoerubiff",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "ubiff-2026-closing",
@@ -1245,6 +1434,32 @@
       "image": "https://new.urgoo.mn/movies/HO00001917/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "yolo-2026-10-23-educationusa-fair",
+      "title": "АНУ-ын 16 их сургууль, коллежийн төлөөлөл оролцох боловсролын өдөрлөг",
+      "titleMn": "АНУ-ын их сургуулиудын боловсролын өдөрлөг",
+      "titleEn": "U.S. university fair with 16 universities and colleges",
+      "start": "2026-10-23T15:00",
+      "end": "2026-10-23T18:00",
+      "allDay": false,
+      "location": "Монголын Хүүхдийн ордон",
+      "locationEn": "Mongolian Children's Palace",
+      "description": "EducationUSA Mongolia fair where representatives of 16 U.S. universities and colleges, including Arizona State, Syracuse, Drexel and Temple, meet students who plan to study in the U.S. Register through the Google form linked on the page.",
+      "cost": "Free, registration required",
+      "category": "Talks & Learning",
+      "tags": [
+        "study abroad",
+        "EducationUSA",
+        "university fair",
+        "гадаадад суралцах",
+        "боловсрол",
+        "АНУ"
+      ],
+      "url": "https://yolo.mn/news/13037",
+      "sourceName": "YOLO.mn",
+      "lat": 47.912728,
+      "lng": 106.916088
+    },
+    {
       "id": "bandsintown-2026-10-23-mxrningstar",
       "title": "mxrningstar: Eba's Album Release Show",
       "start": "2026-10-23T19:00",
@@ -1256,7 +1471,7 @@
         "live music",
         "album release"
       ],
-      "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
+      "url": "https://www.bandsintown.com/e/108994057-mxrningstar-at-fat-cat-jazz-club-ulaanbaatar",
       "sourceName": "Bandsintown",
       "lat": 47.915201,
       "lng": 106.917441
@@ -1438,7 +1653,7 @@
         "live music",
         "album release"
       ],
-      "url": "https://www.bandsintown.com/c/ulaanbaatar-mongolia",
+      "url": "https://www.bandsintown.com/e/108994058-mxrningstar-at-fat-cat-jazz-club-ulaanbaatar",
       "sourceName": "Bandsintown",
       "lat": 47.915201,
       "lng": 106.917441
@@ -1799,6 +2014,27 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001951/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urlag-2026-11-11-norson-zurkh-musical",
+      "title": "Норсон зүрх",
+      "titleMn": "Норсон зүрх",
+      "titleEn": "Drenched Heart (musical)",
+      "start": "2026-11-11",
+      "allDay": true,
+      "location": "UG Palace",
+      "locationEn": "UG Palace",
+      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Performances start on 11 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "musical",
+        "Khurd",
+        "мюзикл",
+        "Хурд хамтлаг",
+        "тайз"
+      ],
+      "url": "https://urlag.mn/post/160048",
+      "sourceName": "Urlag.mn"
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
