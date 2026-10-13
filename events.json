@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:07:27+08:00",
+  "updatedAt": "2026-10-14T06:53:40+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -263,52 +263,6 @@
       "sourceName": "National Museum of Mongolia",
       "lat": 47.920838,
       "lng": 106.915355
-    },
-    {
-      "id": "montsame-2026-10-13-first-women-photographers-exhibition",
-      "title": "Монголын анхны эмэгтэй гэрэл зурагчин Б.Улятайхүү, Ц.Нина, С.Туяа нарын уран бүтээлийн үзэсгэлэн",
-      "titleMn": "Монголын анхны эмэгтэй гэрэл зурагчдын үзэсгэлэн",
-      "titleEn": "Mongolia's first women photographers: exhibition opening",
-      "start": "2026-10-13",
-      "allDay": true,
-      "location": "Архивын ерөнхий газрын цогцолбор",
-      "locationEn": "General Archival Authority complex",
-      "description": "Opening of an exhibition of work by Mongolia's first women photographers, B. Ulyataikhuu, Ts. Nina and S. Tuyaa, marking 200 years of photography.",
-      "category": "Arts & Museums",
-      "tags": [
-        "photography",
-        "exhibition",
-        "history",
-        "гэрэл зураг",
-        "үзэсгэлэн"
-      ],
-      "url": "https://montsame.mn/mn/read/412033",
-      "sourceName": "MONTSAME"
-    },
-    {
-      "id": "montsame-2026-10-13-valentin-valentina",
-      "title": "Валентин, Валентина",
-      "titleMn": "Валентин, Валентина",
-      "titleEn": "Valentin and Valentina",
-      "start": "2026-10-13",
-      "allDay": true,
-      "location": "Улсын драмын эрдмийн театр",
-      "locationEn": "State Academic Drama Theatre",
-      "description": "Mikhail Roshchin's play, directed by E. Bilguun, opens the theatre's 96th season on October 13.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "drama",
-        "play",
-        "season opening",
-        "жүжиг",
-        "драмын театр"
-      ],
-      "url": "https://montsame.mn/mn/read/410905",
-      "sourceName": "MONTSAME",
-      "lat": 47.914621,
-      "lng": 106.914258,
-      "image": "https://montsame.mn/files/medium/6aba18da82851.jpeg"
     },
     {
       "id": "ticketmn-2026-10-13-mongolian-wonderful-arts",
