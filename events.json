@@ -354,7 +354,8 @@
       "url": "https://www.ticket.mn/event/3242",
       "sourceName": "Ticket.mn",
       "lat": 47.914621,
-      "lng": 106.914258
+      "lng": 106.914258,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-81.png"
     },
     {
       "id": "eventx-2026-10-14-oktoberfest-2026-salm",
@@ -453,7 +454,8 @@
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
       "lng": 106.935278,
-      "end": "2026-10-18"
+      "end": "2026-10-18",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
     },
     {
       "id": "ubcomedy-2026-10-15-top-thursday",
@@ -799,7 +801,8 @@
         "аялал"
       ],
       "url": "https://ikon.mn/n/3qyu",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "image": "https://content.ikon.mn/news/2026/10/13/yopcj3_1_x974.jpg"
     },
     {
       "id": "ticketmn-2026-10-17-monkhod-orshikh-nutag",
@@ -842,7 +845,8 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "titleEn": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
-      "description": "Two festival screenings in Tengis 1: \"Нандин Эрдэнэ\" at 14:00 (R 16+) and \"Гарын таван хуруу\" at 16:30 (PG-13)."
+      "description": "Two festival screenings in Tengis 1: \"Нандин Эрдэнэ\" at 14:00 (R 16+) and \"Гарын таван хуруу\" at 16:30 (PG-13).",
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001202/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
@@ -1079,7 +1083,8 @@
       "url": "https://www.tengis.mn/film/ueltanixoxinubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001195/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
@@ -1127,7 +1132,8 @@
       "url": "https://www.tengis.mn/film/ecgijnnutagubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001196/horizontal.png"
     },
     {
       "id": "tengis-2026-10-19-fjord-ubiff",
@@ -1200,7 +1206,8 @@
       "url": "https://www.tengis.mn/film/zeregceetueuexueuedubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001197/horizontal.jpg"
     },
     {
       "id": "ubcomedy-2026-10-20-manai-hun-family-show",
@@ -1272,7 +1279,8 @@
       "url": "https://www.tengis.mn/film/amdueldextemcelubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001201/horizontal.png"
     },
     {
       "id": "tengis-2026-10-21-zadlaagui-zakhia-ubiff",
@@ -1319,7 +1327,8 @@
       "url": "https://www.tengis.mn/film/aldaanysajxanubiff",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001199/horizontal.jpg"
     },
     {
       "id": "ticketmn-2026-10-21-namryn-hit",
@@ -1457,7 +1466,8 @@
       "url": "https://yolo.mn/news/13037",
       "sourceName": "YOLO.mn",
       "lat": 47.912728,
-      "lng": 106.916088
+      "lng": 106.916088,
+      "image": "https://www.yolo.mn//img/uploads/content/1791770033611-f9f4d2ae.png"
     },
     {
       "id": "bandsintown-2026-10-23-mxrningstar",
@@ -2034,7 +2044,8 @@
         "тайз"
       ],
       "url": "https://urlag.mn/post/160048",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png"
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
