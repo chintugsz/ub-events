@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:16:23+08:00",
+  "updatedAt": "2026-10-15T06:53:55+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -385,30 +385,6 @@
       "lat": 47.925847,
       "lng": 106.916055,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_ac761ff225_a696aea069.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-10-14-ladies-night",
-      "title": "Ladies Night",
-      "titleEn": "Ladies Night (UB Comedy Club)",
-      "start": "2026-10-14T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Stand-up comedy night at UB Comedy Club. 18+ only; tickets are non-refundable and the lineup may change.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдэм",
-        "стэнд ап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6acb68903190abb651ec420f",
-      "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791715472902_cover_Polish_20261011_182941310.png",
-      "lat": 47.914007,
-      "lng": 106.908807
     },
     {
       "id": "ikon-2026-10-15-hr-day",
