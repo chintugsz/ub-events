@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:53:55+08:00",
+  "updatedAt": "2026-10-15T07:07:13+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -338,11 +338,11 @@
       "titleMn": "Валентин, Валентина",
       "titleEn": "Valentin and Valentina (M. Roshchin)",
       "start": "2026-10-14",
-      "end": "2026-10-20",
+      "end": "2026-10-25",
       "allDay": true,
       "location": "Улсын Драмын Эрдмийн Театр",
       "locationEn": "State Academic Drama Theatre",
-      "description": "Mikhail Roshchin's play about first love, directed by E. Bilguun, which opened the theatre's 96th season. Plays every day from 14 to 20 October.",
+      "description": "Mikhail Roshchin's play about first love, directed by E. Bilguun, which opened the theatre's 96th season. Plays every day from 14 to 25 October.",
       "category": "Music & Performance",
       "tags": [
         "theatre",
@@ -1394,6 +1394,30 @@
       "image": "https://montsame.mn/files/medium/6ac49d7fde3e6.jpeg"
     },
     {
+      "id": "montsame-2026-10-23-national-chess-championship",
+      "title": "Монгол Улсын 2026 оны аварга шалгаруулах эрэгтэйчүүдийн 64, эмэгтэйчүүдийн 56 дахь удаагийн шигшээ тэмцээн",
+      "titleMn": "Шатрын Монгол Улсын 2026 оны аварга шалгаруулах шигшээ тэмцээн",
+      "titleEn": "2026 Mongolian National Chess Championship finals (64th men's, 56th women's)",
+      "start": "2026-10-23",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Union Cultural Center Palace (MUESTO)",
+      "description": "The final of the national chess championship, with 12 players in each of the men's and women's sections. The top five in each section earn places at the Asian Team Championship in Abu Dhabi.",
+      "category": "Sports",
+      "tags": [
+        "chess",
+        "championship",
+        "шатар",
+        "тэмцээн",
+        "аварга"
+      ],
+      "url": "https://montsame.mn/mn/read/412462",
+      "sourceName": "MONTSAME",
+      "lat": 47.914228,
+      "lng": 106.893028
+    },
+    {
       "id": "urgoo-2026-10-23-clayface",
       "title": "Clayface",
       "titleEn": "Clayface",
@@ -1710,6 +1734,29 @@
       ],
       "url": "https://www.ted.com/tedx/events/70557",
       "sourceName": "TEDx"
+    },
+    {
+      "id": "urlag-2026-10-29-bayarlana-daa",
+      "title": "“Баярлана даа” уран бүтээлийн тоглолт",
+      "titleMn": "“Баярлана даа” уран бүтээлийн тоглолт",
+      "titleEn": "\"Bayarlana Daa\": long-song singer Z. Erdene-Ochir's first concert",
+      "start": "2026-10-29",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian National Wrestling Palace",
+      "description": "The first solo concert by Z. Erdene-Ochir, a singer of urtiin duu (Mongolian long song), named after a song by his teacher, Honoured Artist N. Chuluunkhuu.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "long song",
+        "traditional music",
+        "тоглолт",
+        "уртын дуу"
+      ],
+      "url": "https://urlag.mn/post/160141",
+      "sourceName": "Urlag.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-10-30-addams-family-musical",
