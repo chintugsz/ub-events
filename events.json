@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T06:54:08+08:00",
+  "updatedAt": "2026-10-16T07:13:56+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -100,6 +100,10 @@
     {
       "name": "UB Comedy Club",
       "url": "https://www.ubcomedy.mn/shows"
+    },
+    {
+      "name": "HappeningNext",
+      "url": "https://happeningnext.com/ulaanbaatar"
     }
   ],
   "events": [
@@ -421,7 +425,7 @@
       "allDay": true,
       "location": "МҮЭСТО (Монголын үйлдвэрчний эвлэлийн соёлын төв ордон), Баруун 4 зам",
       "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO), West 4 Roads",
-      "description": "A brand-new comedy show by Shine Üe Production, staged daily over the listed dates.",
+      "description": "A brand-new comedy show by Shine Üe Production, on 16–20 and 23–25 October (no shows on 21–22 October).",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -505,6 +509,27 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001901/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urlag-2026-10-16-orshikhuin-mor-exhibition",
+      "title": "“Оршихуйн мөр”",
+      "titleMn": "Б.Нармандахын “Оршихуйн мөр” бие даасан үзэсгэлэн",
+      "titleEn": "Traces of Existence: B. Narmandakh solo exhibition",
+      "start": "2026-10-16",
+      "end": "2026-10-23",
+      "allDay": true,
+      "location": "Монголын уран зургийн галерей",
+      "locationEn": "Mongolian Painting Gallery",
+      "description": "First solo exhibition by leather artist B. Narmandakh, mixing traditional Mongolian leather-art techniques with conceptual work on time and Cretaceous fossils. Six semi-relief pieces can be touched by visually impaired visitors. On until 23 October.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "leather art",
+        "үзэсгэлэн",
+        "арьсан урлаг"
+      ],
+      "url": "https://urlag.mn/post/160227",
+      "sourceName": "Urlag.mn"
     },
     {
       "id": "allevents-2026-10-16-disability-education",
@@ -1760,6 +1785,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/airag-poster-1200X630-copy-1.jpg"
     },
     {
+      "id": "ticketmn-2026-10-30-remember-me-coco",
+      "title": "НАМАЙГ ДУРСААРАЙ КОКО",
+      "titleMn": "Намайг дурсаарай, Коко",
+      "titleEn": "Remember Me, Coco (children's play)",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "allDay": true,
+      "location": "Ug palace event hall",
+      "locationEn": "UG Palace event hall",
+      "description": "Children's play about Miguel, a boy who loves music although his family bans it, and his journey through Mexican festivities and the spirit world. Plays on 30 and 31 October.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "theatre",
+        "Coco",
+        "хүүхдийн жүжиг",
+        "Коко"
+      ],
+      "url": "https://www.ticket.mn/event/3286",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
       "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "titleEn": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -2049,6 +2096,30 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T111309.604.png"
+    },
+    {
+      "id": "happeningnext-2026-11-12-mongolian-bible-translation-conference",
+      "title": "Библийн монгол орчуулгын 720, бүрэн орчуулга хэвлэгдсэний 180 жилийн ой ба ОУЭШХурал",
+      "titleMn": "Библийн монгол орчуулгын 720 жилийн ой, олон улсын эрдэм шинжилгээний хурал",
+      "titleEn": "Mongolian Bible translation anniversary: international academic conference",
+      "start": "2026-11-12T09:30",
+      "end": "2026-11-13",
+      "allDay": false,
+      "location": "Чингис хаан Үндэсний музей, МУИС-ийн Номын сан",
+      "locationEn": "Chinggis Khaan National Museum; National University of Mongolia Library",
+      "description": "Conference by the Mongolian Bible Society marking 720 years since the first Mongolian Bible translation and 180 years since the complete translation, with sessions on history, linguistics and translation, and religion and culture. Open to scholars and the interested public; 12 November starts at 09:30.",
+      "category": "Talks & Learning",
+      "tags": [
+        "conference",
+        "history",
+        "translation",
+        "эрдэм шинжилгээний хурал",
+        "түүх"
+      ],
+      "url": "https://happeningnext.com/event/Библийн-монгол-орчуулгын-720-бүрэн-орчуулга-хэвлэгдсэний-180-жилийн-ой-ба-ОУЭШХурал-eid3a0e6euawd",
+      "sourceName": "HappeningNext",
+      "lat": 47.922685,
+      "lng": 106.914879
     },
     {
       "id": "urgoo-2026-11-13-ebenezer",
