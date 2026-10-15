@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:07:13+08:00",
+  "updatedAt": "2026-10-16T06:54:08+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -387,28 +387,6 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_ac761ff225_a696aea069.jpg"
     },
     {
-      "id": "ikon-2026-10-15-hr-day",
-      "title": "Монголын хүний нөөцийн ажилтны өдөр (HR Day)",
-      "titleMn": "Монголын хүний нөөцийн ажилтны өдөр",
-      "titleEn": "Mongolia HR Day",
-      "start": "2026-10-15",
-      "allDay": true,
-      "location": "Корпорейт Конвеншн Центр болон Худалдаа аж үйлдвэрийн их танхим",
-      "locationEn": "The Corporate Convention Centre and the Mongolian National Chamber of Commerce and Industry Great Hall",
-      "description": "HR Day where companies share best practices and discuss solutions; students and local participants can attend on discounted terms.",
-      "category": "Talks & Learning",
-      "tags": [
-        "HR",
-        "careers",
-        "business",
-        "хүний нөөц",
-        "карьер"
-      ],
-      "url": "https://ikon.mn/n/3qwr",
-      "sourceName": "iKon.mn",
-      "image": "https://content.ikon.mn/news/2026/10/9/rs7etc_n__x974.jpg"
-    },
-    {
       "id": "montsame-2026-10-15-bravo-circus",
       "title": "“BRAVO CIRCUS” циркийн тоглолт",
       "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
@@ -432,30 +410,6 @@
       "lng": 106.935278,
       "end": "2026-10-18",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
-    },
-    {
-      "id": "ubcomedy-2026-10-15-top-thursday",
-      "title": "Top Thursday",
-      "titleEn": "Top Thursday (UB Comedy Club)",
-      "start": "2026-10-15T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Thursday stand-up show at UB Comedy Club with Olya, Sodoo, Bataa, Khosoo, Mandakh, Bayasaa and Dabi. 18+ only.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдэм",
-        "стэнд ап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6acb6a593190abb651ec429c",
-      "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791715929400_cover_Polish_20261011_182858104.png",
-      "lat": 47.914007,
-      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-10-16-khair-tugeeye",
