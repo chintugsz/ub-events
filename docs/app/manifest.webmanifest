@@ -1,0 +1,17 @@
+{
+  "name": "Yaahii?",
+  "short_name": "Yaahii?",
+  "description": "Улаанбаатарт юу болж байгааг нэг дороос.",
+  "lang": "mn",
+  "start_url": "/ub-events/app/",
+  "scope": "/ub-events/app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF6EF",
+  "theme_color": "#C4272F",
+  "icons": [
+    { "src": "/ub-events/app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/ub-events/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/ub-events/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
