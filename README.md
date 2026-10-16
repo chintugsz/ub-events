@@ -76,4 +76,11 @@ and closes it once the list is fine again.
 The `docs` folder holds the app's home page, [privacy policy](docs/privacy.html) and
 [help page](docs/help.html), in Mongolian and English. The app links to them, and the App Store and
 Google Play ask for them. They are served by GitHub Pages at https://chintugsz.github.io/ub-events/
-once Pages is turned on (Settings → Pages → Deploy from a branch → `main`, `/docs`).
+(Settings → Pages → Deploy from a branch → `main`, `/docs`).
+
+`docs/app` is the web version of the app itself, at https://chintugsz.github.io/ub-events/app/, for
+friends to try on any phone without installing anything. It is built from the app's code
+(`npm run build:web` there, then copy its `dist/` here as `docs/app/` and `dist/404.html` as
+`docs/404.html`). Don't edit these files by hand. `docs/404.html` makes a link to any screen, such
+as a shared event, open the app, and `docs/.nojekyll` stops GitHub from leaving out the `_expo`
+folder the app runs from.
