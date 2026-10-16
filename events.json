@@ -525,7 +525,8 @@
       "url": "https://montsame.mn/mn/read/412033",
       "sourceName": "MONTSAME",
       "lat": 47.919534,
-      "lng": 106.920049
+      "lng": 106.920049,
+      "image": "https://montsame.mn/files/medium/6ac8aa11df85c.jpeg"
     },
     {
       "id": "ticketmn-2026-10-17-dald-ukhamsar-ba-sankhuu",
@@ -1446,7 +1447,8 @@
         "хүүхэд"
       ],
       "url": "https://www.ticket.mn/event/2825",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/aladdin_stand.jpg"
     },
     {
       "id": "ticketmn-2026-10-24-best-of-overture",
@@ -1883,7 +1885,8 @@
       "url": "https://www.ticket.mn/event/3288",
       "sourceName": "Ticket.mn",
       "lat": 47.914228,
-      "lng": 106.893028
+      "lng": 106.893028,
+      "image": "https://www.ticket.mn/files/concerts/sliders/IMG_5010.jpeg"
     },
     {
       "id": "ticketmn-2026-11-06-romeo-juliet-ballet",
@@ -2000,7 +2003,8 @@
         "тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3291",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T155053.345.png"
     },
     {
       "id": "urgoo-2026-11-11-ghost-soldier",
@@ -2117,7 +2121,8 @@
       "url": "https://www.ticket.mn/event/3289",
       "sourceName": "Ticket.mn",
       "lat": 47.926224,
-      "lng": 106.935273
+      "lng": 106.935273,
+      "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
     },
     {
       "id": "urgoo-2026-11-13-ebenezer",
@@ -2164,7 +2169,8 @@
       "url": "https://www.ticket.mn/event/3293",
       "sourceName": "Ticket.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T171545.497.png"
     },
     {
       "id": "gdg-2026-11-14-devfest-ub-2026",
