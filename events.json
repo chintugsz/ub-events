@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:54:09+08:00",
+  "updatedAt": "2026-10-17T07:18:54+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -416,6 +416,29 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
     },
     {
+      "id": "montsame-2026-10-16-deed-es-exhibition",
+      "title": "\"Дээд эс\" бие даасан үзэсгэлэн",
+      "titleMn": "П.Байгалын \"Дээд эс\" бие даасан үзэсгэлэн",
+      "titleEn": "Higher Cell: P. Baigal solo exhibition",
+      "start": "2026-10-16",
+      "end": "2026-11-06",
+      "allDay": true,
+      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
+      "locationEn": "Zanabazar Museum of Fine Arts",
+      "description": "The sixth solo exhibition by artist and art scholar Pürevsükh Baigal. It opened on 16 October and is open to the public until 6 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "art",
+        "үзэсгэлэн",
+        "уран зураг"
+      ],
+      "url": "https://montsame.mn/mn/read/412778",
+      "sourceName": "MONTSAME",
+      "lat": 47.920172,
+      "lng": 106.90967
+    },
+    {
       "id": "ticketmn-2026-10-16-khair-tugeeye",
       "title": "\"ХАЙР ТҮГЭЭЕ\" инээдмийн шоу тоглолт",
       "titleMn": "Хайр түгээе",
@@ -438,6 +461,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-10-02T185941.978.png",
       "lat": 47.914228,
       "lng": 106.893028
+    },
+    {
+      "id": "ubiff-2026",
+      "title": "18th Ulaanbaatar International Film Festival",
+      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
+      "start": "2026-10-16",
+      "end": "2026-10-22",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "category": "Film",
+      "tags": [
+        "film festival",
+        "кино наадам"
+      ],
+      "description": "18 films over seven days at Tengis and Skywing cinemas. It opened on 16 October with Cristian Mungiu's \"Fjord\".",
+      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
+      "sourceName": "Asian Movie Pulse",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "urlag-2026-10-16-orshikhuin-mor-exhibition",
@@ -575,26 +618,6 @@
       "url": "https://www.ticket.mn/event/2723",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
-    },
-    {
-      "id": "ubiff-2026",
-      "title": "18th Ulaanbaatar International Film Festival",
-      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
-      "start": "2026-10-17",
-      "end": "2026-10-22",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "кино наадам"
-      ],
-      "description": "18 films over six days at Tengis and Skywing cinemas. Ticket.mn and MONTSAME give 17 October as the opening day.",
-      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse",
-      "lat": 47.922806,
-      "lng": 106.90449
     },
     {
       "id": "ublife-2026-10-17-ideathon",
@@ -1405,6 +1428,27 @@
       "image": "https://content.ikon.mn/news/2026/10/5/rxzwzd_Cover_x974.jpg"
     },
     {
+      "id": "ticketmn-2026-10-24-aladdin-puppet-play",
+      "title": "\"Аладдин - 1001 шөнийн үлгэр\" хүүхэлдэйн жүжиг",
+      "titleMn": "Аладдин - 1001 шөнийн үлгэр",
+      "titleEn": "Aladdin: A Tale of 1001 Nights (puppet play)",
+      "start": "2026-10-24",
+      "end": "2026-10-25",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "Puppet play retelling Aladdin, with the magic lamp and the Genie, Princess Jasmine and the villain Jafar. Plays on 24 and 25 October.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "puppet theatre",
+        "хүүхэлдэйн жүжиг",
+        "хүүхэд"
+      ],
+      "url": "https://www.ticket.mn/event/2825",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-10-24-best-of-overture",
       "title": "\"BEST OF OVERTURE\" концерт",
       "titleEn": "Best of Overture – State Philharmonic Symphony Orchestra",
@@ -1819,6 +1863,29 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-12T122947.959.png"
     },
     {
+      "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
+      "title": "\"НАМАЙГ ДАГУУЛААД ЯВААЧ\" инээдмийн драмын жүжиг",
+      "titleMn": "Намайг дагуулаад яваач",
+      "titleEn": "Take Me With You (comedy-drama)",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "allDay": true,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Union Cultural Center Palace (MUESTO)",
+      "description": "Comedy-drama about Sasha and Tamara, who loved each other years ago and meet again. Plays on 6, 7 and 8 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "comedy",
+        "жүжиг",
+        "инээдмийн"
+      ],
+      "url": "https://www.ticket.mn/event/3288",
+      "sourceName": "Ticket.mn",
+      "lat": 47.914228,
+      "lng": 106.893028
+    },
+    {
       "id": "ticketmn-2026-11-06-romeo-juliet-ballet",
       "title": "ROMEO JULIET BALLET",
       "titleMn": "Ромео Жульетта",
@@ -1916,6 +1983,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Banner-1200x630-1-1.png"
     },
     {
+      "id": "ticketmn-2026-11-07-one-night-premium-show",
+      "title": "\"ONE NIGHT\" Premium Show",
+      "titleMn": "\"ONE NIGHT\" Premium Show",
+      "titleEn": "ONE NIGHT Premium Show",
+      "start": "2026-11-07",
+      "allDay": true,
+      "location": "Zaisan Hill Event hall",
+      "locationEn": "Zaisan Hill Event Hall",
+      "description": "An autumn show by Magic Squad Mongolia with a new production, its own stage design and special guest artists.",
+      "category": "Music & Performance",
+      "tags": [
+        "show",
+        "magic",
+        "шоу",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3291",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "urgoo-2026-11-11-ghost-soldier",
       "title": "Ghost Soldier",
       "titleEn": "Ghost Soldier",
@@ -2010,6 +2097,29 @@
       "lng": 106.914879
     },
     {
+      "id": "ticketmn-2026-11-13-tuunii-buruu",
+      "title": "\"ТҮҮНИЙ БУРУУ\" орчин үеийн сэтгэл зүйн драмын жүжиг",
+      "titleMn": "Түүний буруу",
+      "titleEn": "Her Fault (psychological drama)",
+      "start": "2026-11-13",
+      "end": "2026-11-22",
+      "allDay": true,
+      "location": "РЦНК",
+      "locationEn": "Russian Centre for Science and Culture",
+      "description": "Pro Theatre's psychological drama about a mother who invents an online identity to get close to her son. Plays on 13, 14 and 15 November and again on 20, 21 and 22 November; ages 12+.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "жүжиг",
+        "Pro theatre"
+      ],
+      "url": "https://www.ticket.mn/event/3289",
+      "sourceName": "Ticket.mn",
+      "lat": 47.926224,
+      "lng": 106.935273
+    },
+    {
       "id": "urgoo-2026-11-13-ebenezer",
       "title": "Ebenezer",
       "titleEn": "Ebenezer",
@@ -2033,6 +2143,28 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-14-world-of-classical-music",
+      "title": "The World of Classical Music",
+      "titleMn": "The World of Classical Music",
+      "titleEn": "The World of Classical Music",
+      "start": "2026-11-14",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "The BN Team Orchestra plays Mozart, Tchaikovsky and Vivaldi, from The Nutcracker to The Four Seasons.",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "orchestra",
+        "концерт",
+        "сонгодог хөгжим"
+      ],
+      "url": "https://www.ticket.mn/event/3293",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "gdg-2026-11-14-devfest-ub-2026",
