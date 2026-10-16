@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T07:13:56+08:00",
+  "updatedAt": "2026-10-17T06:54:09+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -440,77 +440,6 @@
       "lng": 106.893028
     },
     {
-      "id": "ticketmn-2026-10-16-khairyn-ayalguu",
-      "title": "\"ХАЙРЫН АЯЛГУУ\" тоглолт",
-      "titleMn": "Хайрын аялгуу",
-      "titleEn": "Melody of Love – G. Enkhnaran solo concert",
-      "start": "2026-10-16",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Solo concert by G. Enkhnaran, opera soloist of the State Academic Theatre of Opera and Ballet.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "opera",
-        "тоглолт",
-        "дуурь"
-      ],
-      "url": "https://www.ticket.mn/event/3254",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/1200_1200.png",
-      "lat": 47.919491,
-      "lng": 106.919385
-    },
-    {
-      "id": "urgoo-2026-10-16-street-fighter",
-      "title": "Street Fighter",
-      "titleEn": "Street Fighter",
-      "start": "2026-10-16",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Action/fantasy/comedy film opening on Urgoo screens. Rated R (adults only).",
-      "category": "Film",
-      "tags": [
-        "film",
-        "action",
-        "new release",
-        "кино",
-        "нээлт",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001920",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001920/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-10-16-whalefall",
-      "title": "Whalefall",
-      "titleEn": "Whalefall",
-      "start": "2026-10-16",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Thriller opening on Urgoo screens (1 h 46 min). Rated R (adults only).",
-      "category": "Film",
-      "tags": [
-        "film",
-        "thriller",
-        "new release",
-        "кино",
-        "нээлт",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001901",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001901/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
       "id": "urlag-2026-10-16-orshikhuin-mor-exhibition",
       "title": "“Оршихуйн мөр”",
       "titleMn": "Б.Нармандахын “Оршихуйн мөр” бие даасан үзэсгэлэн",
@@ -531,49 +460,6 @@
       "url": "https://urlag.mn/post/160227",
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/847571123_1628673205964048_1119443954857895055_n.jpg"
-    },
-    {
-      "id": "allevents-2026-10-16-disability-education",
-      "title": "ХӨГЖЛИЙН БЭРХШЭЭЛТЭЙ ХҮҮХДИЙН БОЛОВСРОЛЫН ЭРХ БА ИРЭЭДҮЙН БОЛОМЖ",
-      "titleMn": "Хөгжлийн бэрхшээлтэй хүүхдийн боловсролын эрх ба ирээдүйн боломж",
-      "titleEn": "Education rights and future opportunities for children with disabilities",
-      "start": "2026-10-16T10:00",
-      "end": "2026-10-16T12:00",
-      "allDay": false,
-      "location": "Хөгжлийн бэрхшээлтэй хүний хөгжлийн ерөнхий газар",
-      "locationEn": "General Agency for Development of Persons with Disabilities",
-      "category": "Talks & Learning",
-      "tags": [
-        "conference",
-        "хэлэлцүүлэг"
-      ],
-      "url": "https://allevents.in/ulaanbaatar/all",
-      "sourceName": "allevents.in",
-      "image": "https://cdn2.allevents.in/transup/20/37cb5ead2f4af585469eaf08b752c8/all.webp"
-    },
-    {
-      "id": "ubcomedy-2026-10-16-dark-beer-dark-jokes",
-      "title": "Dark Beer & Dark Jokes presented by Guinness",
-      "titleEn": "Dark Beer & Dark Jokes presented by Guinness",
-      "start": "2026-10-16T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Dark-humour stand-up night presented by Guinness, with Olya, Khosoo, Ensi, Bolor, Amraka, Jack, Sodoo and Buyaka. 18+ only.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "dark humour",
-        "18+",
-        "инээдэм"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6acb6af03190abb651ec42c7",
-      "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791734615876_cover_10.16%20cover%20(1).png",
-      "lat": 47.914007,
-      "lng": 106.908807
     },
     {
       "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
