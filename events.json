@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:18:54+08:00",
+  "updatedAt": "2026-10-18T06:54:30+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -505,54 +505,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/847571123_1628673205964048_1119443954857895055_n.jpg"
     },
     {
-      "id": "montsame-2026-10-17-mongolyn-oron-zai-concert",
-      "title": "“Монголын орон зай” 8 ангит чуулбар хөгжмийн бүтээлийн тоглолт",
-      "titleMn": "“Монголын орон зай” чуулбар хөгжмийн тоглолт",
-      "titleEn": "Mongolian Space: an eight-part suite in concert",
-      "start": "2026-10-17",
-      "allDay": true,
-      "location": "Улсын Филармонийн концертын танхим",
-      "locationEn": "State Philharmonic Concert Hall",
-      "description": "Concert performance of the eight-part musical suite \"Mongolian Space\" at the State Philharmonic concert hall.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "orchestra",
-        "концерт",
-        "филармони",
-        "хөгжим"
-      ],
-      "url": "https://montsame.mn/mn/read/412033",
-      "sourceName": "MONTSAME",
-      "lat": 47.919534,
-      "lng": 106.920049,
-      "image": "https://montsame.mn/files/medium/6ac8aa11df85c.jpeg"
-    },
-    {
-      "id": "ticketmn-2026-10-17-dald-ukhamsar-ba-sankhuu",
-      "title": "ДАЛД УХАМСАР БА САНХҮҮ",
-      "titleMn": "Далд ухамсар ба санхүү",
-      "titleEn": "Subconscious and Finance (seminar)",
-      "start": "2026-10-17",
-      "allDay": true,
-      "location": "МҮЭСТО",
-      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
-      "description": "A session on how past experiences, beliefs, emotions and habits shape our relationship with money, helping participants explore their inner beliefs about money.",
-      "category": "Talks & Learning",
-      "tags": [
-        "talk",
-        "personal finance",
-        "seminar",
-        "санхүү",
-        "сургалт"
-      ],
-      "url": "https://www.ticket.mn/event/3206",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/3-4.png",
-      "lat": 47.914228,
-      "lng": 106.893028
-    },
-    {
       "id": "ticketmn-2026-10-17-happy-prince",
       "title": "\"Аз жаргалтай ханхүү\" хүүхэлдэйн жүжиг",
       "titleMn": "Аз жаргалтай ханхүү",
@@ -574,28 +526,6 @@
       "url": "https://www.ticket.mn/event/2724",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/az_jargaltai_hanhuu_stand_yJg5u4w.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-17-latin-dance-championship",
-      "title": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
-      "titleMn": "МБСХ Улсын аварга шалгаруулах хореографик латин бүжгийн тэмцээн",
-      "titleEn": "Mongolian DanceSport Federation National Championship – choreographic Latin dance (incl. Formation Cup)",
-      "start": "2026-10-17",
-      "allDay": true,
-      "location": "Баянгол дүүргийн биеийн тамир, спортын хороо",
-      "locationEn": "Bayangol District Physical Culture and Sports Committee",
-      "description": "National championship in choreographic Latin dance organised by the Mongolian DanceSport Federation, including the Formation Cup.",
-      "category": "Sports",
-      "tags": [
-        "dance",
-        "dancesport",
-        "latin",
-        "бүжиг",
-        "тэмцээн"
-      ],
-      "url": "https://www.ticket.mn/event/3279",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-07T164454.611.png"
     },
     {
       "id": "ticketmn-2026-10-17-my-lovely-tooth-journey",
@@ -669,147 +599,6 @@
       "url": "https://ikon.mn/n/3qyu",
       "sourceName": "iKon.mn",
       "image": "https://content.ikon.mn/news/2026/10/13/yopcj3_1_x974.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-17-monkhod-orshikh-nutag",
-      "title": "\"МӨНХӨД ОРШИХ НУТАГ\" уран бүтээлийн тоглолт",
-      "titleMn": "Мөнхөд орших нутаг",
-      "titleEn": "Eternal Homeland – S. Khuurelbaatar's first solo concert",
-      "start": "2026-10-17T14:00",
-      "allDay": false,
-      "location": "МҮЭСТО",
-      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
-      "description": "First solo concert of S. Khuurelbaatar, lead singer of the Central Military Song and Dance Ensemble, with guest artists.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "folk",
-        "тоглолт",
-        "уран бүтээлийн тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3259",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-86.png",
-      "lat": 47.914228,
-      "lng": 106.893028
-    },
-    {
-      "id": "ubiff-2026-nyamgavaa",
-      "title": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
-      "titleMn": "УБ кино наадам: И.Нямгаваагийн хоёр кино",
-      "start": "2026-10-17T14:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "category": "Film",
-      "tags": [
-        "film",
-        "кино"
-      ],
-      "url": "https://www.tengis.mn/film/nandinerdeneubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "titleEn": "UBIFF: two films by Ichinkhorloo Nyamgavaa",
-      "description": "Two festival screenings in Tengis 1: \"Нандин Эрдэнэ\" at 14:00 (R 16+) and \"Гарын таван хуруу\" at 16:30 (PG-13).",
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001202/horizontal.jpg"
-    },
-    {
-      "id": "tengis-2026-10-17-bid-khari-garagaas-irsen-ubiff",
-      "title": "Бид Харь Гарагаас Ирсэн",
-      "titleMn": "Бид Харь Гарагаас Ирсэн",
-      "titleEn": "We Came from Another Planet (UBIFF)",
-      "start": "2026-10-17T19:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Ulaanbaatar International Film Festival screening of an anime drama (1 h 57 min, PG-13) about a boy in a small Japanese town and a friend's betrayal he never forgets.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "anime",
-        "film festival",
-        "кино наадам",
-        "анимэ"
-      ],
-      "url": "https://www.tengis.mn/film/bidhargaragaasirsenubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001192/horizontal.jpg"
-    },
-    {
-      "id": "zindaa-2026-10-17-n-undral-saikhan-ch-yum-daa",
-      "title": "Сайхан ч юм даа",
-      "titleMn": "Сайхан ч юм даа",
-      "titleEn": "It's So Beautiful (N. Undral solo concert)",
-      "start": "2026-10-17T19:00",
-      "allDay": false,
-      "location": "АСА Арена",
-      "locationEn": "ASA Arena",
-      "description": "Singer N. Undral's first solo concert, at ASA Arena on October 17 at 19:00.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "pop",
-        "singer",
-        "solo",
-        "концерт",
-        "тоглолт",
-        "дуучин"
-      ],
-      "url": "https://news.zindaa.mn/5d8m",
-      "sourceName": "Zindaa.mn",
-      "lat": 47.911971,
-      "lng": 106.907256
-    },
-    {
-      "id": "ubcomedy-2026-10-17-wild-weekend",
-      "title": "Wild Weekend",
-      "titleEn": "Wild Weekend (UB Comedy Club)",
-      "start": "2026-10-17T19:30",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Saturday stand-up show at UB Comedy Club with Enerel, Dabi, Bolor, Ensi, Bataa, Angarag and Bayasaa. 18+ only.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "weekend",
-        "18+",
-        "инээдэм"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6acb6c2c3190abb651ec434d",
-      "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791716396269_cover_Polish_20261011_183531410.png",
-      "lat": 47.914007,
-      "lng": 106.908807
-    },
-    {
-      "id": "tengis-2026-10-17-vivaldi-bid-khoyor-ubiff",
-      "title": "Вивалди Бид Хоёр",
-      "titleMn": "Вивалди Бид Хоёр",
-      "titleEn": "Vivaldi and I (UBIFF)",
-      "start": "2026-10-17T21:25",
-      "allDay": false,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Ulaanbaatar International Film Festival screening of a music drama (1 h 50 min, PG-13) set in 18th-century Venice, where a young violinist's life changes when Vivaldi becomes her teacher.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "drama",
-        "music",
-        "кино наадам",
-        "Вивалди"
-      ],
-      "url": "https://www.tengis.mn/film/vivaldibidxoyorubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001193/horizontal.png"
     },
     {
       "id": "livesoccertv-2026-10-18-ulaanbaatar-vs-tuv-azarganuud",
