@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T06:54:30+08:00",
+  "updatedAt": "2026-10-18T07:15:53+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -399,7 +399,7 @@
       "allDay": true,
       "location": "Монгол бөхийн өргөө",
       "locationEn": "Mongolian Wrestling Palace",
-      "description": "A circus show at the Mongolian Wrestling Palace on 15, 16, 17 and 18 October.",
+      "description": "A circus show at the Mongolian Wrestling Palace, two shows a day. After its 15–18 October run it plays again on 25 October and on 31 October and 1 November.",
       "category": "Music & Performance",
       "tags": [
         "circus",
@@ -412,7 +412,7 @@
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
       "lng": 106.935278,
-      "end": "2026-10-18",
+      "end": "2026-11-01",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
     },
     {
