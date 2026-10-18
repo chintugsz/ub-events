@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T06:54:02+08:00",
+  "updatedAt": "2026-10-19T07:16:56+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -817,6 +817,30 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97_cMowVmc.png"
     },
     {
+      "id": "ubcomedy-2026-10-21-tengisiin-nasny-bayar",
+      "title": "Тэнгисийн Насны Баяр",
+      "titleMn": "Тэнгисийн Насны Баяр",
+      "titleEn": "Tengis's Birthday Show",
+      "start": "2026-10-21T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy night celebrating comedian Tengis's birthday, with Beegii, Angarag, Ensi, Ochiroo, Khosoo, Bolor and Tengis. Ages 18+; tickets are non-refundable.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу",
+        "стэндап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ad4b002d6bf32e9fe0150c1",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "tengis-2026-10-21-uulyn-nomor-ubiff",
       "title": "Уулын Нөмөр UBIFF",
       "titleMn": "Уулын нөмөр",
@@ -853,6 +877,30 @@
       ],
       "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
       "sourceName": "Asian Movie Pulse"
+    },
+    {
+      "id": "ubcomedy-2026-10-22-duremgui-durvudukh",
+      "title": "Дүрэмгүй Дөрөвдөх",
+      "titleMn": "Дүрэмгүй Дөрөвдөх",
+      "titleEn": "No-Rules Thursday",
+      "start": "2026-10-22T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Thursday stand-up comedy show with Bayaraa, Bolor, Bayasaa, Olya, Enerel, Ensi and Bataa. Ages 18+; tickets are non-refundable.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу",
+        "стэндап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ad4b05ad6bf32e9fe0150d9",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "montsame-2026-10-23-itm-2026-tourism-mart",
@@ -1000,6 +1048,30 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
+    },
+    {
+      "id": "ubcomedy-2026-10-23-tavdakhiin-tesrelt",
+      "title": "Тавдахийн Тэсрэлт",
+      "titleMn": "Тавдахийн Тэсрэлт",
+      "titleEn": "Friday Blast",
+      "start": "2026-10-23T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Friday stand-up comedy show with Amraka, Mandakh, Dabi, Jack, Beegii, Bayaraa and Olya. Ages 18+; tickets are non-refundable.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу",
+        "стэндап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ad4b0c1d6bf32e9fe0150ed",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ikon-2026-10-24-gyeongbuk-education-fair",
@@ -1178,6 +1250,54 @@
       "sourceName": "Bandsintown",
       "lat": 47.915201,
       "lng": 106.917441
+    },
+    {
+      "id": "ubcomedy-2026-10-24-khagassainy-khoshignol",
+      "title": "Хагассайны Хошигнол",
+      "titleMn": "Хагассайны Хошигнол",
+      "titleEn": "Saturday Jokes",
+      "start": "2026-10-24T19:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Early Saturday stand-up comedy show with Khosoo, Ensi, Amraka, Angarag, Tengis, Bayaraa and Dabi. Ages 18+; tickets are non-refundable.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу",
+        "стэндап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ad4b120d6bf32e9fe015123",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "ubcomedy-2026-10-24-the-debate-show",
+      "title": "The Debate Show",
+      "titleMn": "The Debate Show",
+      "titleEn": "The Debate Show",
+      "start": "2026-10-24T22:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Late-night comedy debate show with Buyaka, Khosoo, Bayasaa, Bayaraa, Ensi, Dabi and Tengis. Ages 18+; tickets are non-refundable.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "debate",
+        "18+",
+        "инээдмийн шоу",
+        "мэтгэлцээн"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ad4b171d6bf32e9fe015130",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-10-25-horse-head-fiddle",
