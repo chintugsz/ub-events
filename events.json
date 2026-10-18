@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T07:15:53+08:00",
+  "updatedAt": "2026-10-19T06:54:02+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -505,29 +505,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/847571123_1628673205964048_1119443954857895055_n.jpg"
     },
     {
-      "id": "ticketmn-2026-10-17-happy-prince",
-      "title": "\"Аз жаргалтай ханхүү\" хүүхэлдэйн жүжиг",
-      "titleMn": "Аз жаргалтай ханхүү",
-      "titleEn": "The Happy Prince (puppet play)",
-      "start": "2026-10-17",
-      "end": "2026-10-18",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "Puppet play for young audiences about real and surface value, and what happiness is and where to find it. It opens with a swallow left behind on a riverbank when winter comes.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн жүжиг",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/2724",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/az_jargaltai_hanhuu_stand_yJg5u4w.jpg"
-    },
-    {
       "id": "ticketmn-2026-10-17-my-lovely-tooth-journey",
       "title": "\"Миний хөөрхөн шүдний аялал\"",
       "titleMn": "Миний хөөрхөн шүдний аялал",
@@ -551,77 +528,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
     },
     {
-      "id": "ublife-2026-10-17-ideathon",
-      "title": "IDEATHON",
-      "titleMn": "“IDEATHON” гарааны бизнесийн санаа хөгжүүлэх хакатон",
-      "titleEn": "IDEATHON startup idea hackathon",
-      "start": "2026-10-17T09:00",
-      "end": "2026-10-18T15:00",
-      "allDay": false,
-      "location": "ШУТИС-ийн 8 дугаар байр, 12 давхрын хурлын танхим",
-      "locationEn": "Mongolian University of Science and Technology, Building 8, 12th-floor hall",
-      "description": "A two-day startup idea hackathon in the city's SPARK – UB Startup Town program, for people 18 and over interested in IT, innovation or starting a business. About 30 people are chosen and put in teams of 3–4; sign up by October 13.",
-      "cost": "Free, registration required",
-      "category": "Talks & Learning",
-      "tags": [
-        "hackathon",
-        "startup",
-        "students",
-        "хакатон",
-        "гарааны бизнес",
-        "залуучууд"
-      ],
-      "url": "https://www.ub.life/p/261009-jdhd5m",
-      "sourceName": "UB Life",
-      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-926539e5-4046-4dbe-a8e9-346ce8d9b9a5.jpg"
-    },
-    {
-      "id": "ikon-2026-10-17-loro-piana-open-days",
-      "title": "Loro Piana 2026 оны LVMH Journées Particulières арга хэмжээний хүрээнд Улаанбаатар дахь үйлдвэрээ олон нийтэд нээнэ",
-      "titleMn": "Лоро Пьянагийн үйлдвэр олон нийтэд нээлттэй өдөр",
-      "titleEn": "Loro Piana factory open days (LVMH Journées Particulières)",
-      "start": "2026-10-17T14:00",
-      "end": "2026-10-18T17:00",
-      "allDay": false,
-      "location": "Лоро Пьянагийн үйлдвэр, Улаанбаатар",
-      "locationEn": "Loro Piana factory, Ulaanbaatar",
-      "description": "Loro Piana's cashmere factory, its only production site outside Italy, opens to visitors who register in advance on the LVMH Journées Particulières site. Open Saturday 17 October 14:00–17:00 and Sunday 18 October 10:00–17:00.",
-      "cost": "Free, registration required",
-      "category": "Tours",
-      "tags": [
-        "factory tour",
-        "cashmere",
-        "LVMH",
-        "ноолуур",
-        "үйлдвэр",
-        "аялал"
-      ],
-      "url": "https://ikon.mn/n/3qyu",
-      "sourceName": "iKon.mn",
-      "image": "https://content.ikon.mn/news/2026/10/13/yopcj3_1_x974.jpg"
-    },
-    {
-      "id": "livesoccertv-2026-10-18-ulaanbaatar-vs-tuv-azarganuud",
-      "title": "Улаанбаатар – Төв Азарганууд",
-      "titleMn": "Улаанбаатар – Төв Азарганууд",
-      "titleEn": "FC Ulaanbaatar vs Tuv Azarganuud",
-      "start": "2026-10-18",
-      "allDay": true,
-      "location": "МХБХ-ны Хөлбөмбөгийн төв",
-      "locationEn": "MFF Football Centre",
-      "description": "Mongolian Premier League round 9 match between FC Ulaanbaatar and Tuv Azarganuud at the MFF Football Centre.",
-      "category": "Sports",
-      "tags": [
-        "football",
-        "soccer",
-        "league",
-        "хөлбөмбөг",
-        "лиг"
-      ],
-      "url": "https://www.livesoccertv.com/pt/match/ulaanbaatar-vs-tuv-azarganuud/drgw2m",
-      "sourceName": "LiveSoccerTV"
-    },
-    {
       "id": "ticketmn-2026-10-18-hello-olmasss",
       "title": "Сайн уу? ОЛМАССС хүүхдийн жүжиг",
       "titleMn": "Сайн уу? ОЛМАССС",
@@ -642,104 +548,6 @@
       "url": "https://www.ticket.mn/event/2845",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
-    },
-    {
-      "id": "tengis-2026-10-18-yavuulyn-khun-govd-ubiff",
-      "title": "Явуулын хүн Говьд",
-      "titleMn": "Явуулын хүн Говьд",
-      "titleEn": "A Stranger in the Gobi (UBIFF)",
-      "start": "2026-10-18T13:30",
-      "allDay": false,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Ulaanbaatar International Film Festival screening of a drama (1 h 40 min, 6+) about a Gobi family guarding dinosaur eggs and a secret chest, visited by an uninvited extreme traveller.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "Mongolian film",
-        "Gobi",
-        "кино наадам",
-        "монгол кино"
-      ],
-      "url": "https://www.tengis.mn/film/yavuulynhuengovdubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001213/horizontal.png"
-    },
-    {
-      "id": "tengis-2026-10-18-khanyn-zuraach-ubiff",
-      "title": "Ханын зураач",
-      "titleMn": "Ханын зураач",
-      "titleEn": "The Wall Painter (UBIFF)",
-      "start": "2026-10-18T16:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Ulaanbaatar International Film Festival screening of a drama (1 h 56 min, PG-13) about a mural painter back from Europe who lives on the roof of an old factory on Ulaanbaatar's edge.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "Mongolian film",
-        "drama",
-        "кино наадам",
-        "монгол кино"
-      ],
-      "url": "https://www.tengis.mn/film/hanynzuraachubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001214/horizontal.jpg"
-    },
-    {
-      "id": "tengis-2026-10-18-rose-ubiff",
-      "title": "Rose (UBIFF screening)",
-      "titleMn": "Рөүз (UBIFF)",
-      "titleEn": "Rose",
-      "start": "2026-10-18T19:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Ulaanbaatar International Film Festival screening of a drama set in the Thirty Years' War, about a soldier claiming an abandoned estate in a remote German village. Runs 1 h 33 min.",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "UBIFF",
-        "drama",
-        "cinema",
-        "кино наадам",
-        "кино",
-        "UBIFF 2026"
-      ],
-      "url": "https://www.tengis.mn/film/roeuezubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001194/horizontal.jpg"
-    },
-    {
-      "id": "tengis-2026-10-18-ul-tanikh-okhin-ubiff",
-      "title": "Үл Таних Охин UBIFF",
-      "titleMn": "Үл таних охин",
-      "titleEn": "The Unknown Girl (UBIFF)",
-      "start": "2026-10-18T21:10",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Ulaanbaatar International Film Festival screening of a drama (2 h 8 min, PG-13) about a girl who passes through three host families between the ages of 6 and 18, taking a new name each time.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "film festival",
-        "drama",
-        "кино наадам",
-        "кино"
-      ],
-      "url": "https://www.tengis.mn/film/ueltanixoxinubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001195/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
