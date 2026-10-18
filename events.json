@@ -838,7 +838,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ad4b002d6bf32e9fe0150c1",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792323586930_cover_10.21%20cover.png"
     },
     {
       "id": "tengis-2026-10-21-uulyn-nomor-ubiff",
@@ -900,7 +901,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ad4b05ad6bf32e9fe0150d9",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792323674596_cover_10.22%20cover.png"
     },
     {
       "id": "montsame-2026-10-23-itm-2026-tourism-mart",
@@ -1071,7 +1073,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ad4b0c1d6bf32e9fe0150ed",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792323777726_cover_10.23%20cover.png"
     },
     {
       "id": "ikon-2026-10-24-gyeongbuk-education-fair",
@@ -1273,7 +1276,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ad4b120d6bf32e9fe015123",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792323872088_cover_10.24%20cover.png"
     },
     {
       "id": "ubcomedy-2026-10-24-the-debate-show",
@@ -1297,7 +1301,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ad4b171d6bf32e9fe015130",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792323953696_cover_debate%20cover.png"
     },
     {
       "id": "ticketmn-2026-10-25-horse-head-fiddle",
