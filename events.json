@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T07:16:56+08:00",
+  "updatedAt": "2026-10-20T06:54:30+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -548,80 +548,6 @@
       "url": "https://www.ticket.mn/event/2845",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
-    },
-    {
-      "id": "tengis-2026-10-19-tsagaan-khadny-ongo-ubiff",
-      "title": "Tsagaan Khadny Ungu (UBIFF documentary screening)",
-      "titleMn": "Цагаан хадны өнгө (UBIFF)",
-      "start": "2026-10-19T16:30",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Festival documentary following Maikhuu, one of the few women truck drivers hauling coal across the Gobi, and the human and environmental costs of Mongolia's mining boom. Runs 1 h 23 min.",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "UBIFF",
-        "documentary",
-        "Mongolian film",
-        "баримтат кино",
-        "кино наадам",
-        "монгол кино"
-      ],
-      "url": "https://www.tengis.mn/film/cagaanxadnyoengoeubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001215/horizontal.jpg"
-    },
-    {
-      "id": "tengis-2026-10-19-etsgiin-nutag-ubiff",
-      "title": "Эцгийн Нутаг UBIFF",
-      "titleMn": "Эцгийн нутаг",
-      "titleEn": "Fatherland (UBIFF)",
-      "start": "2026-10-19T19:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Festival screening of a historical drama (1 h 22 min, PG-13) in which Thomas Mann and his daughter Erika travel through divided postwar Germany in 1949.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "film festival",
-        "historical drama",
-        "кино наадам",
-        "түүхэн кино"
-      ],
-      "url": "https://www.tengis.mn/film/ecgijnnutagubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001196/horizontal.png"
-    },
-    {
-      "id": "tengis-2026-10-19-fjord-ubiff",
-      "title": "Fjord (UBIFF screening)",
-      "titleMn": "Фиорд (UBIFF)",
-      "titleEn": "Fjord",
-      "start": "2026-10-19T21:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Festival screening of a drama about a religious Romanian-Norwegian family whose child-rearing comes under scrutiny in a remote Norwegian fjord community. Runs 2 h 26 min, PG13.",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "UBIFF",
-        "drama",
-        "cinema",
-        "кино наадам",
-        "кино"
-      ],
-      "url": "https://www.tengis.mn/film/fiordubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001191/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-20-niigmiin-daisan-ubiff",
