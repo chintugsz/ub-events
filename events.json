@@ -1296,7 +1296,8 @@
       "url": "https://www.ticket.mn/event/3294",
       "sourceName": "Ticket.mn",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-19T120841.652.png"
     },
     {
       "id": "urlag-2026-10-29-bayarlana-daa",
@@ -1437,7 +1438,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001955",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001955/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -1844,7 +1846,8 @@
       "url": "https://www.ticket.mn/event/3296",
       "sourceName": "Ticket.mn",
       "lat": 47.911971,
-      "lng": 106.907256
+      "lng": 106.907256,
+      "image": "https://www.ticket.mn/files/concerts/sliders/58f63ec0-c5aa-4512-88c8-89b10f8433f5_6m62ShC.jpg"
     },
     {
       "id": "ticketmn-2026-11-14-world-of-classical-music",
