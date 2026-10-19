@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T06:54:30+08:00",
+  "updatedAt": "2026-10-20T07:12:42+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -318,11 +318,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-10-25",
+      "end": "2026-10-28",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.25.",
+      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.28.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -1027,28 +1027,6 @@
       "image": "https://content.ikon.mn/news/2026/10/5/rxzwzd_Cover_x974.jpg"
     },
     {
-      "id": "ticketmn-2026-10-24-aladdin-puppet-play",
-      "title": "\"Аладдин - 1001 шөнийн үлгэр\" хүүхэлдэйн жүжиг",
-      "titleMn": "Аладдин - 1001 шөнийн үлгэр",
-      "titleEn": "Aladdin: A Tale of 1001 Nights (puppet play)",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "Puppet play retelling Aladdin, with the magic lamp and the Genie, Princess Jasmine and the villain Jafar. Plays on 24 and 25 October.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "puppet theatre",
-        "хүүхэлдэйн жүжиг",
-        "хүүхэд"
-      ],
-      "url": "https://www.ticket.mn/event/2825",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/aladdin_stand.jpg"
-    },
-    {
       "id": "ticketmn-2026-10-24-best-of-overture",
       "title": "\"BEST OF OVERTURE\" концерт",
       "titleEn": "Best of Overture – State Philharmonic Symphony Orchestra",
@@ -1297,6 +1275,30 @@
       "sourceName": "TEDx"
     },
     {
+      "id": "ticketmn-2026-10-29-nekhel-premiere",
+      "title": "\"НЭХЭЛ\" уран сайхны кино нээлт",
+      "titleMn": "\"Нэхэл\" уран сайхны киноны нээлт",
+      "titleEn": "Nekhel: feature film premiere",
+      "start": "2026-10-29",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Premiere of the Mongolian horror and family film \"Nekhel\" (1 h 25 min, PG-13), watched together with its makers and cast. It opens at Urgoo cinemas the same day.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "premiere",
+        "Mongolian film",
+        "кино",
+        "нээлт",
+        "монгол кино"
+      ],
+      "url": "https://www.ticket.mn/event/3294",
+      "sourceName": "Ticket.mn",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "urlag-2026-10-29-bayarlana-daa",
       "title": "“Баярлана даа” уран бүтээлийн тоглолт",
       "titleMn": "“Баярлана даа” уран бүтээлийн тоглолт",
@@ -1412,6 +1414,30 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001944/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urgoo-2026-10-30-the-cycle",
+      "title": "The Cycle",
+      "titleMn": "The Cycle",
+      "titleEn": "The Cycle",
+      "start": "2026-10-30",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Horror-thriller (1 h 51 min, PG-13) about a woman who digs into the hidden past of her father, missing for 36 years, after his body is found. Opens at Urgoo cinemas.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "horror",
+        "thriller",
+        "new release",
+        "кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001955",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -1796,6 +1822,29 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
+      "title": "С.Сэрчмаа \"ЭРХ САРАН\" тоглолт",
+      "titleMn": "С.Сэрчмаа \"Эрх саран\" тоглолт",
+      "titleEn": "S. Serchmaa: Erkh Saran concert",
+      "start": "2026-11-14",
+      "allDay": true,
+      "location": "АСА Арена",
+      "locationEn": "ASA Arena",
+      "description": "One-night concert by pop singer S. Serchmaa, performing her hits from over the years.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "Mongolian music",
+        "тоглолт",
+        "поп"
+      ],
+      "url": "https://www.ticket.mn/event/3296",
+      "sourceName": "Ticket.mn",
+      "lat": 47.911971,
+      "lng": 106.907256
     },
     {
       "id": "ticketmn-2026-11-14-world-of-classical-music",
