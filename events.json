@@ -706,7 +706,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001957",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001957/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ubcomedy-2026-10-22-duremgui-durvudukh",
@@ -1199,7 +1200,8 @@
         "форум"
       ],
       "url": "https://www.itworldmongolia.mn/",
-      "sourceName": "IT World Mongolia"
+      "sourceName": "IT World Mongolia",
+      "image": "https://itworldmongolia.mn/api/og?lang=mn&t=hero&v=2026102107"
     },
     {
       "id": "ticketmn-2026-10-29-nekhel-premiere",
@@ -1846,7 +1848,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001921",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001921/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "eventx-2026-11-20-special-concert-2026",
@@ -1870,7 +1873,8 @@
       "url": "https://www.eventx.mn/event/1905",
       "sourceName": "EventX",
       "lat": 47.847528,
-      "lng": 106.793257
+      "lng": 106.793257,
+      "image": "https://d12slmbmp0aiwz.cloudfront.net/1600_X900_264c80ea23.jpg"
     }
   ]
 }
