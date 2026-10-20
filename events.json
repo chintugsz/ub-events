@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T07:12:42+08:00",
+  "updatedAt": "2026-10-21T06:54:21+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -132,33 +132,6 @@
       "lat": 47.919571,
       "lng": 106.921046,
       "image": "https://www.artavenue.mn/uploads/6/9/6/3/69639339/img-6218.jpeg"
-    },
-    {
-      "id": "urlag-2026-08-19-ervekheiin-yertonts-butterfly-exhibition",
-      "title": "“Эрвээхэйн ертөнц” butterfly exhibition",
-      "titleMn": "Эрвээхэйн ертөнц",
-      "titleEn": "The World of Butterflies",
-      "start": "2026-08-19",
-      "end": "2026-10-20",
-      "allDay": true,
-      "location": "Байгалийн шинжлэх ухааны үндэсний музей",
-      "locationEn": "National Museum of Natural History",
-      "description": "Temporary butterfly exhibition opened alongside COP17, open to the public until Oct 20.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "butterflies",
-        "nature",
-        "family",
-        "үзэсгэлэн",
-        "эрвээхэй",
-        "музей"
-      ],
-      "url": "https://urlag.mn/post/155586",
-      "sourceName": "Urlag.mn",
-      "lat": 47.923435,
-      "lng": 106.905827,
-      "image": "https://urlag.mn/wp-content/uploads/2026/08/43c8107ca7df57b2953861882abf5b60.png"
     },
     {
       "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
@@ -548,104 +521,6 @@
       "url": "https://www.ticket.mn/event/2845",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
-    },
-    {
-      "id": "tengis-2026-10-20-niigmiin-daisan-ubiff",
-      "title": "Niigmiin Daisan (UBIFF screening)",
-      "titleMn": "Нийгмийн дайсан (UBIFF)",
-      "start": "2026-10-20T16:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Festival screening of a Mongolian legal drama about lawyer Tengis, forced to defend a man accused of killing a child amid public outrage. Runs 2 h 3 min.",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "UBIFF",
-        "Mongolian film",
-        "drama",
-        "кино наадам",
-        "монгол кино",
-        "кино"
-      ],
-      "url": "https://www.tengis.mn/film/nijgmijndajsanubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001216/horizontal.jpg"
-    },
-    {
-      "id": "tengis-2026-10-20-zeregtsee-tuukhuud-ubiff",
-      "title": "Зэрэгцээ Түүхүүд UBIFF",
-      "titleMn": "Зэрэгцээ түүхүүд",
-      "titleEn": "Parallel Tales (UBIFF)",
-      "start": "2026-10-20T19:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр, Тэнгис 1 танхим",
-      "locationEn": "Tengis Cinema, Hall 1",
-      "description": "Festival screening of a romantic drama (2 h 19 min) about a writer who secretly watches her neighbours until the story she imagines merges with reality.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "film festival",
-        "drama",
-        "кино наадам",
-        "кино"
-      ],
-      "url": "https://www.tengis.mn/film/zeregceetueuexueuedubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001197/horizontal.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-10-20-manai-hun-family-show",
-      "title": "Манай Хүн Гэр Бүлийн Шоу",
-      "titleMn": "Манай Хүн Гэр Бүлийн Шоу",
-      "titleEn": "Our Family Show (UB Comedy Club)",
-      "start": "2026-10-20T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Comedy show at UB Comedy Club with Dabi, Khosoo, Bataa and Jack. 18+ only.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдэм",
-        "шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6accca8f3190abb651ec7285",
-      "sourceName": "UB Comedy Club",
-      "image": "https://api.ubcomedy.mn/uploads/1791806095293_cover_10.20%20cover.png",
-      "lat": 47.914007,
-      "lng": 106.908807
-    },
-    {
-      "id": "tengis-2026-10-20-durlasan-bukhen-gun-shunuur-ubiff",
-      "title": "Дурласан Бүхэн Гүн Шөнөөр",
-      "titleMn": "Дурласан Бүхэн Гүн Шөнөөр",
-      "titleEn": "All the Lovers in the Night (UBIFF)",
-      "start": "2026-10-20T22:00",
-      "allDay": false,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Ulaanbaatar International Film Festival screening of a Japanese romance drama (2 h 19 min, PG-13) about a solitary editor whose routine changes when she meets a gentle physics teacher.",
-      "category": "Film",
-      "tags": [
-        "UBIFF",
-        "romance",
-        "Japanese film",
-        "кино наадам",
-        "романтик"
-      ],
-      "url": "https://www.tengis.mn/film/durlasanbuexenguenshoenoeoerubiff",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001198/horizontal.jpg"
     },
     {
       "id": "tengis-2026-10-21-amid-uldekh-temtsel-ubiff",
