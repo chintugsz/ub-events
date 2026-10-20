@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T06:54:21+08:00",
+  "updatedAt": "2026-10-21T07:15:19+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -104,6 +104,10 @@
     {
       "name": "HappeningNext",
       "url": "https://happeningnext.com/ulaanbaatar"
+    },
+    {
+      "name": "IT World Mongolia",
+      "url": "https://www.itworldmongolia.mn/"
     }
   ],
   "events": [
@@ -681,6 +685,30 @@
       "sourceName": "Asian Movie Pulse"
     },
     {
+      "id": "urgoo-2026-10-22-sain-uu-amidral-mini-zurkh-uuchil",
+      "title": "Сайн уу, амьдрал минь: Зүрх уучил",
+      "titleMn": "Сайн уу, амьдрал минь: Зүрх уучил",
+      "titleEn": "Hello, My Life: Forgive, Heart",
+      "start": "2026-10-22",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Mongolian drama about Sansar and Nandia, who face old wounds and mistakes and decide whether to rebuild their love and trust (1 h 50 min, PG-13). Opens at Urgoo and Tengis cinemas.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "drama",
+        "Mongolian film",
+        "кино",
+        "нээлт",
+        "монгол кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001957",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
+    },
+    {
       "id": "ubcomedy-2026-10-22-duremgui-durvudukh",
       "title": "Дүрэмгүй Дөрөвдөх",
       "titleMn": "Дүрэмгүй Дөрөвдөх",
@@ -994,14 +1022,14 @@
     },
     {
       "id": "montsame-2026-10-24-bayanzurkh-khairkhany-khishig-wrestling",
-      "title": "“Баянзүрх хайрханы хишиг” улс, аймгийн цолтой 256 бөхийн барилдаан",
-      "titleMn": "“Баянзүрх хайрханы хишиг” 256 бөхийн барилдаан",
-      "titleEn": "Bayanzurkh Khairkhan's Blessing: 256-wrestler tournament",
-      "start": "2026-10-24T13:00",
+      "title": "НИЙСЛЭЛИЙН 387 ЖИЛИЙН ОЙН БАРИЛДААН",
+      "titleMn": "Нийслэлийн 387 жилийн ойн барилдаан",
+      "titleEn": "Capital city 387th anniversary wrestling tournament",
+      "start": "2026-10-24T11:00",
       "allDay": false,
       "location": "Монгол бөхийн өргөө",
       "locationEn": "Mongolian Wrestling Palace",
-      "description": "Mongolian wrestling tournament for 256 wrestlers holding national and aimag titles, from 13:00.",
+      "description": "Mongolian wrestling tournament for 256 wrestlers holding national and aimag titles, marking the capital's 387th anniversary, from 11:00. MONTSAME first announced it as \"Баянзүрх хайрханы хишиг\".",
       "category": "Sports",
       "tags": [
         "wrestling",
@@ -1010,8 +1038,8 @@
         "бөх",
         "барилдаан"
       ],
-      "url": "https://montsame.mn/mn/read/411224",
-      "sourceName": "MONTSAME",
+      "url": "https://www.ticket.mn/event/3298",
+      "sourceName": "Ticket.mn",
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://montsame.mn/files/medium/6abe048cbf2f0.jpeg"
@@ -1148,6 +1176,30 @@
       ],
       "url": "https://www.ted.com/tedx/events/70557",
       "sourceName": "TEDx"
+    },
+    {
+      "id": "itworld-2026-10-28-it-world-forum-expo",
+      "title": "IT WORLD ’26 | INTERNATIONAL FORUM & EXPO",
+      "titleMn": "IT WORLD ’26 олон улсын форум, үзэсгэлэн",
+      "titleEn": "IT WORLD ’26 International Forum & Expo",
+      "start": "2026-10-28T08:30",
+      "end": "2026-10-28T16:30",
+      "allDay": false,
+      "location": "“Шангри-Ла” зочид буудал",
+      "locationEn": "Shangri-La Hotel Ulaanbaatar, Olympic Street 19",
+      "description": "One-day IT industry forum and expo run by MITA and other Mongolian IT associations, on AI and data governance, data centres, cybersecurity, public-private cooperation and startups.",
+      "cost": "89,000₮",
+      "category": "Talks & Learning",
+      "tags": [
+        "technology",
+        "AI",
+        "forum",
+        "expo",
+        "мэдээллийн технологи",
+        "форум"
+      ],
+      "url": "https://www.itworldmongolia.mn/",
+      "sourceName": "IT World Mongolia"
     },
     {
       "id": "ticketmn-2026-10-29-nekhel-premiere",
@@ -1772,6 +1824,53 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
       "sourceName": "GDG Ulaanbaatar",
       "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
+    },
+    {
+      "id": "urgoo-2026-11-20-hunger-games-sunrise-on-the-reaping",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "titleMn": "The Hunger Games: Sunrise on the Reaping",
+      "titleEn": "The Hunger Games: Sunrise on the Reaping",
+      "start": "2026-11-20",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "The new Hunger Games prequel (science fiction, action, PG-13) opens at Urgoo cinemas.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "Hunger Games",
+        "sci-fi",
+        "кино",
+        "нээлт"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001921",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
+    },
+    {
+      "id": "eventx-2026-11-20-special-concert-2026",
+      "title": "Special Concert 2026",
+      "titleMn": "Special Concert 2026",
+      "titleEn": "Special Concert 2026",
+      "start": "2026-11-20T18:00",
+      "allDay": false,
+      "location": "AIC Steppe Arena",
+      "locationEn": "AIC Steppe Arena",
+      "description": "ENEREL, GANGAA, THUNDER and VANDEBO, who each held their own shows this summer, play together on one stage. Ages 16+.",
+      "cost": "109,000₮–179,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "hip-hop",
+        "тоглолт",
+        "концерт"
+      ],
+      "url": "https://www.eventx.mn/event/1905",
+      "sourceName": "EventX",
+      "lat": 47.847528,
+      "lng": 106.793257
     }
   ]
 }
