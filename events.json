@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T06:54:16+08:00",
+  "updatedAt": "2026-10-22T07:09:53+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -108,6 +108,10 @@
     {
       "name": "IT World Mongolia",
       "url": "https://www.itworldmongolia.mn/"
+    },
+    {
+      "name": "News.mn",
+      "url": "https://news.mn/"
     }
   ],
   "events": [
@@ -295,11 +299,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-10-28",
+      "end": "2026-10-30",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.28.",
+      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.30.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -525,6 +529,29 @@
       "url": "https://www.ticket.mn/event/2845",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
+    },
+    {
+      "id": "newsmn-2026-10-22-nutgiin-salkhi-exhibition",
+      "title": "\"Нутгийн салхи\" үзэсгэлэн",
+      "titleMn": "\"Нутгийн салхи\" үзэсгэлэн",
+      "titleEn": "Wind of the Homeland (exhibition)",
+      "start": "2026-10-22",
+      "end": "2026-10-23",
+      "allDay": true,
+      "location": "МУЭ-ийн \"Арт\" галерей",
+      "locationEn": "Union of Mongolian Artists Art Gallery",
+      "description": "Joint exhibition by sculptor J. Enkhtuvshin and painter Ts. Davaanyam, on show until 23 October.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "sculpture",
+        "painting",
+        "үзэсгэлэн",
+        "уран зураг",
+        "баримал"
+      ],
+      "url": "https://news.mn/r/2894207/",
+      "sourceName": "News.mn"
     },
     {
       "id": "ubiff-2026-closing",
@@ -1327,6 +1354,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-12T122947.959.png"
     },
     {
+      "id": "ticketmn-2026-11-02-tengeriin-elch-temujin",
+      "title": "\"ТЭНГЭРИЙН ЭЛЧ ТЭМҮЖИН\" жүжиг",
+      "titleMn": "\"Тэнгэрийн элч Тэмүжин\" жүжиг",
+      "titleEn": "Temüjin, Envoy of Heaven (play)",
+      "start": "2026-11-02",
+      "allDay": true,
+      "location": "Улсын хүүхэд залуучуудын театр",
+      "locationEn": "State Youth and Children's Theatre",
+      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. One performance.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "historical drama",
+        "Chinggis Khaan",
+        "жүжиг",
+        "театр",
+        "Тэмүжин"
+      ],
+      "url": "https://www.ticket.mn/event/3300",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
       "title": "\"НАМАЙГ ДАГУУЛААД ЯВААЧ\" инээдмийн драмын жүжиг",
       "titleMn": "Намайг дагуулаад яваач",
@@ -1732,6 +1781,28 @@
       "lat": 47.847528,
       "lng": 106.793257,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600_X900_264c80ea23.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-21-love-letters",
+      "title": "\"Love Letters\" романтик драмын жүжиг",
+      "titleMn": "\"Love Letters\" романтик драмын жүжиг",
+      "titleEn": "Love Letters (romantic drama)",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "allDay": true,
+      "location": "Чингис хаан зочид буудал \"Өргөө\" танхим",
+      "locationEn": "Chinggis Khaan Hotel, Urguu hall",
+      "description": "Romantic drama staged by the Mongol theatre, on 21, 22, 28 and 29 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "romantic drama",
+        "жүжиг",
+        "театр",
+        "Монгол театр"
+      ],
+      "url": "https://www.ticket.mn/event/3292",
+      "sourceName": "Ticket.mn"
     }
   ]
 }
