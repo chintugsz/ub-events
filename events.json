@@ -551,7 +551,8 @@
         "баримал"
       ],
       "url": "https://news.mn/r/2894207/",
-      "sourceName": "News.mn"
+      "sourceName": "News.mn",
+      "image": "https://news.mn/wp-content/uploads/2025/11/hutuch-580x365-1-1.jpg"
     },
     {
       "id": "ubiff-2026-closing",
@@ -1373,7 +1374,8 @@
         "Тэмүжин"
       ],
       "url": "https://www.ticket.mn/event/3300",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -1802,7 +1804,8 @@
         "Монгол театр"
       ],
       "url": "https://www.ticket.mn/event/3292",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Ticket-1200x630-copy-1-_6084.jpg"
     }
   ]
 }
