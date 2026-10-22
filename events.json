@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:09:53+08:00",
+  "updatedAt": "2026-10-23T06:54:44+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -444,26 +444,6 @@
       "lng": 106.893028
     },
     {
-      "id": "ubiff-2026",
-      "title": "18th Ulaanbaatar International Film Festival",
-      "titleMn": "“Улаанбаатар” олон улсын XVIII кино наадам",
-      "start": "2026-10-16",
-      "end": "2026-10-22",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "кино наадам"
-      ],
-      "description": "18 films over seven days at Tengis and Skywing cinemas. It opened on 16 October with Cristian Mungiu's \"Fjord\".",
-      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse",
-      "lat": 47.922806,
-      "lng": 106.90449
-    },
-    {
       "id": "urlag-2026-10-16-orshikhuin-mor-exhibition",
       "title": "“Оршихуйн мөр”",
       "titleMn": "Б.Нармандахын “Оршихуйн мөр” бие даасан үзэсгэлэн",
@@ -553,71 +533,6 @@
       "url": "https://news.mn/r/2894207/",
       "sourceName": "News.mn",
       "image": "https://news.mn/wp-content/uploads/2025/11/hutuch-580x365-1-1.jpg"
-    },
-    {
-      "id": "ubiff-2026-closing",
-      "title": "UBIFF closing: Garuda Awards ceremony",
-      "titleMn": "УБ кино наадмын хаалт: Гаруда шагнал гардуулах ёслол",
-      "start": "2026-10-22",
-      "allDay": true,
-      "category": "Film",
-      "tags": [
-        "film festival",
-        "awards",
-        "кино наадам"
-      ],
-      "url": "https://asianmoviepulse.com/2026/09/ulaanbaatar-2026/",
-      "sourceName": "Asian Movie Pulse"
-    },
-    {
-      "id": "urgoo-2026-10-22-sain-uu-amidral-mini-zurkh-uuchil",
-      "title": "Сайн уу, амьдрал минь: Зүрх уучил",
-      "titleMn": "Сайн уу, амьдрал минь: Зүрх уучил",
-      "titleEn": "Hello, My Life: Forgive, Heart",
-      "start": "2026-10-22",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Mongolian drama about Sansar and Nandia, who face old wounds and mistakes and decide whether to rebuild their love and trust (1 h 50 min, PG-13). Opens at Urgoo and Tengis cinemas.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "drama",
-        "Mongolian film",
-        "кино",
-        "нээлт",
-        "монгол кино"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001957",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001957/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "ubcomedy-2026-10-22-duremgui-durvudukh",
-      "title": "Дүрэмгүй Дөрөвдөх",
-      "titleMn": "Дүрэмгүй Дөрөвдөх",
-      "titleEn": "No-Rules Thursday",
-      "start": "2026-10-22T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Thursday stand-up comedy show with Bayaraa, Bolor, Bayasaa, Olya, Enerel, Ensi and Bataa. Ages 18+; tickets are non-refundable.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу",
-        "стэндап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ad4b05ad6bf32e9fe0150d9",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792323674596_cover_10.22%20cover.png"
     },
     {
       "id": "montsame-2026-10-23-itm-2026-tourism-mart",
