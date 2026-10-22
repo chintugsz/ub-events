@@ -1244,7 +1244,8 @@
         "косплей"
       ],
       "url": "https://ikon.mn/n/3r7t",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "image": "https://content.ikon.mn/news/2026/10/22/comtla_1.Banner_x974.jpg"
     },
     {
       "id": "ticketmn-2026-10-31-eejdee",
@@ -1622,7 +1623,8 @@
       "url": "https://news.mn/r/2894481/",
       "sourceName": "News.mn",
       "lat": 47.847528,
-      "lng": 106.793257
+      "lng": 106.793257,
+      "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
     },
     {
       "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
@@ -1790,7 +1792,8 @@
       "url": "https://www.ticket.mn/event/3302",
       "sourceName": "Ticket.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png"
     }
   ]
 }
