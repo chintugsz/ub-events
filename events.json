@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T06:54:44+08:00",
+  "updatedAt": "2026-10-23T07:11:04+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -299,11 +299,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-10-30",
+      "end": "2026-11-01",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show running daily from 19:00 (the run began 2026.10.05); Ticket.mn lists dates through 2026.10.30.",
+      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows through 2026.11.01, with no show on 29 October.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -1226,6 +1226,27 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
     },
     {
+      "id": "ikon-2026-10-31-encanto-halloween",
+      "title": "Хамгийн гоё Halloween Encanto Centro Mall-д болно",
+      "titleMn": "Halloween, Encanto Centro Mall",
+      "titleEn": "Halloween at Encanto Centro Mall",
+      "start": "2026-10-31",
+      "allDay": true,
+      "location": "Encanto Centro Mall, Нарны зам",
+      "locationEn": "Encanto Centro Mall, Narny Zam",
+      "description": "Halloween day at the mall with a cosplay contest, free face painting for children and a candy booth.",
+      "category": "Kids & Family",
+      "tags": [
+        "Halloween",
+        "cosplay",
+        "family",
+        "Хэллоуин",
+        "косплей"
+      ],
+      "url": "https://ikon.mn/n/3r7t",
+      "sourceName": "iKon.mn"
+    },
+    {
       "id": "ticketmn-2026-10-31-eejdee",
       "title": "\"ЭЭЖДЭЭ\" хандивын тоглолт",
       "titleMn": "Ээждээ",
@@ -1278,7 +1299,7 @@
       "allDay": true,
       "location": "Улсын хүүхэд залуучуудын театр",
       "locationEn": "State Youth and Children's Theatre",
-      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. One performance.",
+      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. Plays on 2, 3 and 4 November.",
       "category": "Music & Performance",
       "tags": [
         "theatre",
@@ -1290,7 +1311,8 @@
       ],
       "url": "https://www.ticket.mn/event/3300",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png",
+      "end": "2026-11-04"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -1468,7 +1490,7 @@
       "allDay": true,
       "location": "UG Palace",
       "locationEn": "UG Palace",
-      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Performances start on 11 November.",
+      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 18 November.",
       "category": "Music & Performance",
       "tags": [
         "musical",
@@ -1479,7 +1501,8 @@
       ],
       "url": "https://urlag.mn/post/160048",
       "sourceName": "Urlag.mn",
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png"
+      "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
+      "end": "2026-11-18"
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
@@ -1576,6 +1599,30 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "newsmn-2026-11-14-imagine-art-festival",
+      "title": "\"Imagine\" арт фестиваль",
+      "titleMn": "Өсвөрийн уран бүтээлчдийн \"Imagine\" арт фестиваль",
+      "titleEn": "Imagine youth art festival",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "location": "AIC Степпе Арена",
+      "locationEn": "AIC Steppe Arena",
+      "description": "Two-day youth art festival by the Gonchigsumlaa Foundation, with an immersive LED digital-art show of works from its drawing contest for ages 15–19, plus creative activities for families.",
+      "category": "Arts & Museums",
+      "tags": [
+        "art festival",
+        "youth",
+        "digital art",
+        "урлагийн наадам",
+        "залуус"
+      ],
+      "url": "https://news.mn/r/2894481/",
+      "sourceName": "News.mn",
+      "lat": 47.847528,
+      "lng": 106.793257
     },
     {
       "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
@@ -1721,6 +1768,29 @@
       "url": "https://www.ticket.mn/event/3292",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/Ticket-1200x630-copy-1-_6084.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-21-nuance-25",
+      "title": "Нюанс хамтлаг 25 жил",
+      "titleMn": "Нюанс хамтлаг 25 жил",
+      "titleEn": "Nuance: 25 years",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "Anniversary concert for Nuance, described as Mongolia's first pop-opera group, marking 25 years.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop-opera",
+        "anniversary",
+        "тоглолт",
+        "Нюанс"
+      ],
+      "url": "https://www.ticket.mn/event/3302",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     }
   ]
 }
