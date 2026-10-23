@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T07:11:04+08:00",
+  "updatedAt": "2026-10-24T06:53:54+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -444,28 +444,6 @@
       "lng": 106.893028
     },
     {
-      "id": "urlag-2026-10-16-orshikhuin-mor-exhibition",
-      "title": "“Оршихуйн мөр”",
-      "titleMn": "Б.Нармандахын “Оршихуйн мөр” бие даасан үзэсгэлэн",
-      "titleEn": "Traces of Existence: B. Narmandakh solo exhibition",
-      "start": "2026-10-16",
-      "end": "2026-10-23",
-      "allDay": true,
-      "location": "Монголын уран зургийн галерей",
-      "locationEn": "Mongolian Painting Gallery",
-      "description": "First solo exhibition by leather artist B. Narmandakh, mixing traditional Mongolian leather-art techniques with conceptual work on time and Cretaceous fossils. Six semi-relief pieces can be touched by visually impaired visitors. On until 23 October.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "leather art",
-        "үзэсгэлэн",
-        "арьсан урлаг"
-      ],
-      "url": "https://urlag.mn/post/160227",
-      "sourceName": "Urlag.mn",
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/847571123_1628673205964048_1119443954857895055_n.jpg"
-    },
-    {
       "id": "ticketmn-2026-10-17-my-lovely-tooth-journey",
       "title": "\"Миний хөөрхөн шүдний аялал\"",
       "titleMn": "Миний хөөрхөн шүдний аялал",
@@ -509,30 +487,6 @@
       "url": "https://www.ticket.mn/event/2845",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
-    },
-    {
-      "id": "newsmn-2026-10-22-nutgiin-salkhi-exhibition",
-      "title": "\"Нутгийн салхи\" үзэсгэлэн",
-      "titleMn": "\"Нутгийн салхи\" үзэсгэлэн",
-      "titleEn": "Wind of the Homeland (exhibition)",
-      "start": "2026-10-22",
-      "end": "2026-10-23",
-      "allDay": true,
-      "location": "МУЭ-ийн \"Арт\" галерей",
-      "locationEn": "Union of Mongolian Artists Art Gallery",
-      "description": "Joint exhibition by sculptor J. Enkhtuvshin and painter Ts. Davaanyam, on show until 23 October.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "sculpture",
-        "painting",
-        "үзэсгэлэн",
-        "уран зураг",
-        "баримал"
-      ],
-      "url": "https://news.mn/r/2894207/",
-      "sourceName": "News.mn",
-      "image": "https://news.mn/wp-content/uploads/2025/11/hutuch-580x365-1-1.jpg"
     },
     {
       "id": "montsame-2026-10-23-itm-2026-tourism-mart",
@@ -586,75 +540,6 @@
       "image": "https://montsame.mn/files/medium/6acf01bd049a2.jpeg"
     },
     {
-      "id": "urgoo-2026-10-23-clayface",
-      "title": "Clayface",
-      "titleEn": "Clayface",
-      "start": "2026-10-23",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Horror/thriller/sci-fi film opening on Urgoo screens. Rated R (adults only).",
-      "category": "Film",
-      "tags": [
-        "film",
-        "horror",
-        "DC",
-        "new release",
-        "кино",
-        "аймшиг",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001917",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001917/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "yolo-2026-10-23-educationusa-fair",
-      "title": "АНУ-ын 16 их сургууль, коллежийн төлөөлөл оролцох боловсролын өдөрлөг",
-      "titleMn": "АНУ-ын их сургуулиудын боловсролын өдөрлөг",
-      "titleEn": "U.S. university fair with 16 universities and colleges",
-      "start": "2026-10-23T15:00",
-      "end": "2026-10-23T18:00",
-      "allDay": false,
-      "location": "Монголын Хүүхдийн ордон",
-      "locationEn": "Mongolian Children's Palace",
-      "description": "EducationUSA Mongolia fair where representatives of 16 U.S. universities and colleges, including Arizona State, Syracuse, Drexel and Temple, meet students who plan to study in the U.S. Register through the Google form linked on the page.",
-      "cost": "Free, registration required",
-      "category": "Talks & Learning",
-      "tags": [
-        "study abroad",
-        "EducationUSA",
-        "university fair",
-        "гадаадад суралцах",
-        "боловсрол",
-        "АНУ"
-      ],
-      "url": "https://yolo.mn/news/13037",
-      "sourceName": "YOLO.mn",
-      "lat": 47.912728,
-      "lng": 106.916088,
-      "image": "https://www.yolo.mn//img/uploads/content/1791770033611-f9f4d2ae.png"
-    },
-    {
-      "id": "bandsintown-2026-10-23-mxrningstar",
-      "title": "mxrningstar: Eba's Album Release Show",
-      "start": "2026-10-23T19:00",
-      "allDay": false,
-      "location": "Fat Cat Jazz Club",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "live music",
-        "album release"
-      ],
-      "url": "https://www.bandsintown.com/e/108994057-mxrningstar-at-fat-cat-jazz-club-ulaanbaatar",
-      "sourceName": "Bandsintown",
-      "lat": 47.915201,
-      "lng": 106.917441
-    },
-    {
       "id": "urlag-2026-10-23-ineemtgii-khun",
       "title": "Инээмтгий хүн",
       "titleMn": "Инээмтгий хүн",
@@ -680,31 +565,6 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-10-23-tavdakhiin-tesrelt",
-      "title": "Тавдахийн Тэсрэлт",
-      "titleMn": "Тавдахийн Тэсрэлт",
-      "titleEn": "Friday Blast",
-      "start": "2026-10-23T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Friday stand-up comedy show with Amraka, Mandakh, Dabi, Jack, Beegii, Bayaraa and Olya. Ages 18+; tickets are non-refundable.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу",
-        "стэндап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ad4b0c1d6bf32e9fe0150ed",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792323777726_cover_10.23%20cover.png"
     },
     {
       "id": "ikon-2026-10-24-gyeongbuk-education-fair",
