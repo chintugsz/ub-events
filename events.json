@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T06:53:54+08:00",
+  "updatedAt": "2026-10-24T07:12:10+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -1654,6 +1654,28 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png"
+    },
+    {
+      "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
+      "title": "\"МЯНГАТЫН ХӨӨРХӨН ОХИН\" концерт",
+      "titleMn": "Мянгатын хөөрхөн охин",
+      "titleEn": "The Lovely Girl of Myangad (concert)",
+      "start": "2026-11-23",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "One-night concert, \"Myangatyn Khöörkhön Okhin\", at the Mongolian Wrestling Palace.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "Mongolian music",
+        "тоглолт",
+        "концерт"
+      ],
+      "url": "https://www.ticket.mn/event/3299",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     }
   ]
 }
