@@ -626,7 +626,8 @@
         "Үндэсний дээд лиг"
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule",
-      "sourceName": "Mongolian Basketball Association"
+      "sourceName": "Mongolian Basketball Association",
+      "image": "https://mongolia.basketball/media/08/0816402a30bb2a6812ed52e7f02ea4f0d4a9582607772caa182513007954f687.png"
     },
     {
       "id": "ublife-2026-10-26-looktv-haunted-house",
@@ -648,7 +649,8 @@
         "Хэллоуин"
       ],
       "url": "https://www.ub.life/p/261022-mz7w1w",
-      "sourceName": "UB Life"
+      "sourceName": "UB Life",
+      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
     },
     {
       "id": "itworld-2026-10-28-it-world-forum-expo",
@@ -721,7 +723,8 @@
         "тэмцээн"
       ],
       "url": "https://www.ub.life/p/261022-rtgxqm",
-      "sourceName": "UB Life"
+      "sourceName": "UB Life",
+      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-55c693bf-de67-41a4-9dd0-5f09959d5a5b.jpg"
     },
     {
       "id": "urlag-2026-10-29-bayarlana-daa",
@@ -1172,7 +1175,8 @@
       "url": "https://www.ticket.mn/event/3308",
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://www.ticket.mn/files/concerts/sliders/ticket-hevtee_6297.jpg"
     },
     {
       "id": "urgoo-2026-11-11-ghost-soldier",
@@ -1557,7 +1561,8 @@
       "url": "https://www.eventx.mn/event/1909",
       "sourceName": "EventX",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_072a5a6551.jpg"
     }
   ]
 }
