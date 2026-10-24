@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T06:54:42+08:00",
+  "updatedAt": "2026-10-25T07:21:11+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -112,6 +112,10 @@
     {
       "name": "News.mn",
       "url": "https://news.mn/"
+    },
+    {
+      "name": "Mongolian Basketball Association",
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule"
     }
   ],
   "events": [
@@ -277,11 +281,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-11-01",
+      "end": "2026-11-04",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows through 2026.11.01, with no show on 29 October.",
+      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows through 2026.11.04, with no show on 29 October.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -605,6 +609,48 @@
       "sourceName": "TEDx"
     },
     {
+      "id": "mba-2026-10-25-the-league-games",
+      "title": "Үндэсний дээд лиг (The League) 2026-27",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games",
+      "start": "2026-10-25T11:00",
+      "allDay": false,
+      "location": "M BANK ARENA",
+      "locationEn": "M Bank Arena",
+      "description": "Three top-league basketball games: Ömnögoviin Khülegüüd vs SÜA TLJ Tüshig Bagana at 11:00, Sono Brothers vs Baruuny Daichid at 13:30, and BCH Knights vs SG Apes at 16:00.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг",
+        "Үндэсний дээд лиг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "ublife-2026-10-26-looktv-haunted-house",
+      "title": "LookTV Haunted House",
+      "titleMn": "LookTV Haunted House",
+      "titleEn": "LookTV Haunted House",
+      "start": "2026-10-26",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Пассаж төв",
+      "locationEn": "Passage Center",
+      "description": "LookTV's week-long Halloween haunted house, now in its third year, built around stories of people who vanished without a trace. Visitors take part in the story.",
+      "cost": "14,900₮",
+      "category": "Other",
+      "tags": [
+        "Halloween",
+        "haunted house",
+        "аймшгийн байшин",
+        "Хэллоуин"
+      ],
+      "url": "https://www.ub.life/p/261022-mz7w1w",
+      "sourceName": "UB Life"
+    },
+    {
       "id": "itworld-2026-10-28-it-world-forum-expo",
       "title": "IT WORLD ’26 | INTERNATIONAL FORUM & EXPO",
       "titleMn": "IT WORLD ’26 олон улсын форум, үзэсгэлэн",
@@ -653,6 +699,29 @@
       "lat": 47.922806,
       "lng": 106.90449,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-19T120841.652.png"
+    },
+    {
+      "id": "ublife-2026-10-29-mct-ea-ulaanbaatar",
+      "title": "MCT EA Ulaanbaatar",
+      "titleMn": "Монголын анхны MLBB фестиваль “MCT EA Ulaanbaatar”",
+      "titleEn": "MCT EA Ulaanbaatar: Mobile Legends esports festival",
+      "start": "2026-10-29",
+      "end": "2026-10-31",
+      "allDay": true,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "International Mobile Legends: Bang Bang esports tournament with six teams from China, Mongolia, Japan and South Korea. The finals are on 31 October, with a performance by rapper Trishna, plus watch parties and in-game prize draws.",
+      "category": "Sports",
+      "tags": [
+        "esports",
+        "MLBB",
+        "Mobile Legends",
+        "gaming",
+        "киберспорт",
+        "тэмцээн"
+      ],
+      "url": "https://www.ub.life/p/261022-rtgxqm",
+      "sourceName": "UB Life"
     },
     {
       "id": "urlag-2026-10-29-bayarlana-daa",
@@ -1084,6 +1153,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T155053.345.png"
     },
     {
+      "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
+      "title": "ХИШИГ-11 Нэгэн Тайз",
+      "titleMn": "ХИШИГ-11 Нэгэн тайз",
+      "titleEn": "HISHIG-11: One Stage (concert)",
+      "start": "2026-11-11",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "Concert marking 11 years of Hishig Production, with leading contemporary performers.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "тоглолт",
+        "Хишиг продакшн"
+      ],
+      "url": "https://www.ticket.mn/event/3308",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
       "id": "urgoo-2026-11-11-ghost-soldier",
       "title": "Ghost Soldier",
       "titleEn": "Ghost Soldier",
@@ -1443,6 +1534,30 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-20T162018.281.png"
+    },
+    {
+      "id": "eventx-2026-11-24-samandyn-khuu",
+      "title": "Самандын Хүү",
+      "titleMn": "Самандын хүү",
+      "titleEn": "Son of Samand: S. Javkhlan concert",
+      "start": "2026-11-24T19:00",
+      "end": "2026-11-24T23:00",
+      "allDay": false,
+      "location": "Бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "Concert by People's Artist S. Javkhlan with well-loved Mongolian songs about the homeland, mothers and fathers, and family memories.",
+      "cost": "66,000₮; FanZone 99,000₮; VIP 250,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "Javkhlan",
+        "тоглолт",
+        "Жавхлан"
+      ],
+      "url": "https://www.eventx.mn/event/1909",
+      "sourceName": "EventX",
+      "lat": 47.917851,
+      "lng": 106.935278
     }
   ]
 }
