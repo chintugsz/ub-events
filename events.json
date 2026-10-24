@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T07:12:10+08:00",
+  "updatedAt": "2026-10-25T06:54:42+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -250,28 +250,6 @@
       "lng": 106.915355
     },
     {
-      "id": "ticketmn-2026-10-13-mongolian-wonderful-arts",
-      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
-      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
-      "titleEn": "Wonders of Mongolian Art – folk performance",
-      "start": "2026-10-13",
-      "end": "2026-10-24",
-      "allDay": true,
-      "location": "Зам тээврийн яам, Их нүүдэл танхим",
-      "locationEn": "Ministry of Road and Transport, Ikh Nüüdel Hall",
-      "description": "Traditional Mongolian performing-arts show on 13, 14, 16, 17, 19 and 24 October.",
-      "category": "Music & Performance",
-      "tags": [
-        "folk",
-        "traditional",
-        "урлагийн тоглолт",
-        "ардын урлаг"
-      ],
-      "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
-    },
-    {
       "id": "ticketmn-2026-10-13-nomadic-legend",
       "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
       "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
@@ -341,35 +319,6 @@
       "lat": 47.914621,
       "lng": 106.914258,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-81.png"
-    },
-    {
-      "id": "eventx-2026-10-14-oktoberfest-2026-salm",
-      "title": "Октоберфест 2026",
-      "titleMn": "Октоберфест 2026",
-      "titleEn": "Oktoberfest 2026",
-      "start": "2026-10-14T18:00",
-      "end": "2026-10-24",
-      "allDay": false,
-      "location": "Salm Pub & Bar",
-      "locationEn": "Salm Pub & Bar",
-      "description": "Austrian-style new-harvest beer festival with live music daily and a DJ, open from 18:00 until 04:00 each night from October 14 to 24.",
-      "cost": "30,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "Oktoberfest",
-        "beer",
-        "live music",
-        "DJ",
-        "nightlife",
-        "фестиваль",
-        "шар айраг",
-        "амьд хөгжим"
-      ],
-      "url": "https://www.eventx.mn/event/1908",
-      "sourceName": "EventX",
-      "lat": 47.925847,
-      "lng": 106.916055,
-      "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_ac761ff225_a696aea069.jpg"
     },
     {
       "id": "montsame-2026-10-15-bravo-circus",
@@ -567,98 +516,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
     },
     {
-      "id": "ikon-2026-10-24-gyeongbuk-education-fair",
-      "title": "“Кёнбугт суралцацгаая – 2026” Солонгосын боловсролын үзэсгэлэн",
-      "titleMn": "Кёнбугт суралцацгаая – 2026",
-      "titleEn": "Let's Study in Gyeongbuk 2026 – Korean education fair",
-      "start": "2026-10-24",
-      "allDay": true,
-      "location": "Галлериа Улаанбаатар",
-      "locationEn": "Galleria Ulaanbaatar",
-      "description": "Korean education fair by Gyeongbuk Institute Mongolia with free visa consultation from the Korean Visa Application Center; places are limited and advance registration is required.",
-      "cost": "Free visa consultation; advance registration required",
-      "category": "Talks & Learning",
-      "tags": [
-        "study abroad",
-        "Korea",
-        "education fair",
-        "Солонгос",
-        "боловсрол",
-        "үзэсгэлэн"
-      ],
-      "url": "https://ikon.mn/n/3qs9",
-      "sourceName": "iKon.mn",
-      "image": "https://content.ikon.mn/news/2026/10/5/rxzwzd_Cover_x974.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-24-best-of-overture",
-      "title": "\"BEST OF OVERTURE\" концерт",
-      "titleEn": "Best of Overture – State Philharmonic Symphony Orchestra",
-      "start": "2026-10-24",
-      "allDay": true,
-      "location": "Улсын филармони",
-      "locationEn": "State Philharmonic",
-      "description": "Concert of famous overtures by the State Philharmonic Symphony Orchestra, conducted by B. Batbaatar and B. Anar, opening with Borodin's Prince Igor overture.",
-      "category": "Music & Performance",
-      "tags": [
-        "classical",
-        "orchestra",
-        "symphony",
-        "концерт",
-        "симфони"
-      ],
-      "url": "https://www.ticket.mn/event/3278",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919534,
-      "lng": 106.920049,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140935.343.png"
-    },
-    {
-      "id": "ticketmn-2026-10-24-future-tourism-forum",
-      "title": "FUTURE TOURISM FORUM",
-      "titleEn": "ITM Mongolia 2026 – Future Tourism Forum (AI • Digital • Business • Growth)",
-      "start": "2026-10-24",
-      "allDay": true,
-      "location": "CROCUS Event Hall",
-      "locationEn": "CROCUS Event Hall",
-      "description": "Knowledge forum for tourism-sector investors, managers and entrepreneurs on AI, digital, business and growth, held as part of ITM Mongolia 2026.",
-      "category": "Talks & Learning",
-      "tags": [
-        "forum",
-        "tourism",
-        "AI",
-        "business",
-        "форум",
-        "аялал жуулчлал"
-      ],
-      "url": "https://www.ticket.mn/event/3282",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T165709.780.png"
-    },
-    {
-      "id": "ticketmn-2026-10-24-worlds-best-music",
-      "title": "The World’s Best Music",
-      "titleEn": "The World's Best Music – BN Team chamber ensemble",
-      "start": "2026-10-24",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Special concert by the BN Team chamber ensemble playing music by Ludovico Einaudi, Hans Zimmer, Ennio Morricone, Joe Hisaishi and others.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "film music",
-        "classical",
-        "тоглолт",
-        "камерын чуулга"
-      ],
-      "url": "https://www.ticket.mn/event/3220",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-09-04T165305.427.png",
-      "lat": 47.919491,
-      "lng": 106.919385
-    },
-    {
       "id": "wca-2026-10-24-mongolian-championship",
       "title": "Mongolian Championship 2026",
       "titleMn": "Шоо эвлүүлэгчдийн Монголын аварга шалгаруулах тэмцээн 2026",
@@ -680,97 +537,6 @@
       ],
       "url": "https://www.worldcubeassociation.org/competitions/MongolianChampionship2026",
       "sourceName": "World Cube Association"
-    },
-    {
-      "id": "montsame-2026-10-24-bayanzurkh-khairkhany-khishig-wrestling",
-      "title": "НИЙСЛЭЛИЙН 387 ЖИЛИЙН ОЙН БАРИЛДААН",
-      "titleMn": "Нийслэлийн 387 жилийн ойн барилдаан",
-      "titleEn": "Capital city 387th anniversary wrestling tournament",
-      "start": "2026-10-24T11:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "Mongolian wrestling tournament for 256 wrestlers holding national and aimag titles, marking the capital's 387th anniversary, from 11:00. MONTSAME first announced it as \"Баянзүрх хайрханы хишиг\".",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "traditional sports",
-        "бөх",
-        "барилдаан"
-      ],
-      "url": "https://www.ticket.mn/event/3298",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://montsame.mn/files/medium/6abe048cbf2f0.jpeg"
-    },
-    {
-      "id": "bandsintown-2026-10-24-mxrningstar",
-      "title": "mxrningstar: Eba's Album Release Show",
-      "start": "2026-10-24T19:00",
-      "allDay": false,
-      "location": "Fat Cat Jazz Club",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "live music",
-        "album release"
-      ],
-      "url": "https://www.bandsintown.com/e/108994058-mxrningstar-at-fat-cat-jazz-club-ulaanbaatar",
-      "sourceName": "Bandsintown",
-      "lat": 47.915201,
-      "lng": 106.917441
-    },
-    {
-      "id": "ubcomedy-2026-10-24-khagassainy-khoshignol",
-      "title": "Хагассайны Хошигнол",
-      "titleMn": "Хагассайны Хошигнол",
-      "titleEn": "Saturday Jokes",
-      "start": "2026-10-24T19:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Early Saturday stand-up comedy show with Khosoo, Ensi, Amraka, Angarag, Tengis, Bayaraa and Dabi. Ages 18+; tickets are non-refundable.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу",
-        "стэндап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ad4b120d6bf32e9fe015123",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792323872088_cover_10.24%20cover.png"
-    },
-    {
-      "id": "ubcomedy-2026-10-24-the-debate-show",
-      "title": "The Debate Show",
-      "titleMn": "The Debate Show",
-      "titleEn": "The Debate Show",
-      "start": "2026-10-24T22:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Late-night comedy debate show with Buyaka, Khosoo, Bayasaa, Bayaraa, Ensi, Dabi and Tengis. Ages 18+; tickets are non-refundable.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "debate",
-        "18+",
-        "инээдмийн шоу",
-        "мэтгэлцээн"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ad4b171d6bf32e9fe015130",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792323953696_cover_debate%20cover.png"
     },
     {
       "id": "ticketmn-2026-10-25-horse-head-fiddle",
