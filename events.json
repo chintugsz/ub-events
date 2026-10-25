@@ -372,7 +372,8 @@
       "url": "https://urlag.mn/post/160794",
       "sourceName": "Urlag.mn",
       "lat": 47.919045,
-      "lng": 106.91755
+      "lng": 106.91755,
+      "image": "https://urlag.mn/wp-content/uploads/2026/10/862399599_973145138588775_5171650933282200280_n.jpg"
     },
     {
       "id": "ublife-2026-10-26-looktv-haunted-house",
@@ -467,7 +468,8 @@
       "url": "https://www.ubcomedy.mn/shows/6addc943d6bf32e9fe02f782",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792919875273_cover_10.28%20cover.png"
     },
     {
       "id": "ticketmn-2026-10-29-nekhel-premiere",
@@ -563,7 +565,8 @@
       "url": "https://www.ubcomedy.mn/shows/6addc9aed6bf32e9fe02f7af",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792919982856_cover_10.29%20cover.png"
     },
     {
       "id": "montsame-2026-10-30-1000-journalists-forum",
@@ -828,7 +831,8 @@
       "url": "https://www.ubcomedy.mn/shows/6addca29d6bf32e9fe02f7ed",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792920105835_cover_10.30%20cover.png"
     },
     {
       "id": "ubcomedy-2026-10-30-friday-after-hours",
@@ -851,7 +855,8 @@
       "url": "https://www.ubcomedy.mn/shows/6addcef3d6bf32e9fe02f893",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792921331031_cover_10.30%20cover%202.png"
     },
     {
       "id": "ikon-2026-10-31-encanto-halloween",
@@ -944,7 +949,8 @@
       "url": "https://www.ubcomedy.mn/shows/6addcf48d6bf32e9fe02f8ad",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1792921416383_cover_10.31%20cover.png"
     },
     {
       "id": "mba-2026-11-01-the-league-games",
@@ -1214,7 +1220,8 @@
       "url": "https://www.mnb.mn/article/altan-tsomyn-tuluu-shildeg-7-bag-ursuldunu-5193",
       "sourceName": "MNB",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://assets.mnb.mn/media/2026/10/d3639dade55e-image.full.webp"
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -1646,7 +1653,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001947",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
     }
   ]
 }
