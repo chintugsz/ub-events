@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T07:21:11+08:00",
+  "updatedAt": "2026-10-26T06:54:28+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -300,31 +300,6 @@
       "lng": 106.919385
     },
     {
-      "id": "ticketmn-2026-10-14-valentin-valentina",
-      "title": "М. РОЩИН «ВАЛЕНТИН ВАЛЕНТИНА»",
-      "titleMn": "Валентин, Валентина",
-      "titleEn": "Valentin and Valentina (M. Roshchin)",
-      "start": "2026-10-14",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Улсын Драмын Эрдмийн Театр",
-      "locationEn": "State Academic Drama Theatre",
-      "description": "Mikhail Roshchin's play about first love, directed by E. Bilguun, which opened the theatre's 96th season. Plays every day from 14 to 25 October.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "drama",
-        "play",
-        "жүжиг",
-        "драмын театр"
-      ],
-      "url": "https://www.ticket.mn/event/3242",
-      "sourceName": "Ticket.mn",
-      "lat": 47.914621,
-      "lng": 106.914258,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-81.png"
-    },
-    {
       "id": "montsame-2026-10-15-bravo-circus",
       "title": "“BRAVO CIRCUS” циркийн тоглолт",
       "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
@@ -373,101 +348,6 @@
       "lng": 106.90967
     },
     {
-      "id": "ticketmn-2026-10-16-khair-tugeeye",
-      "title": "\"ХАЙР ТҮГЭЭЕ\" инээдмийн шоу тоглолт",
-      "titleMn": "Хайр түгээе",
-      "titleEn": "Spread Love – comedy show",
-      "start": "2026-10-16",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "МҮЭСТО (Монголын үйлдвэрчний эвлэлийн соёлын төв ордон), Баруун 4 зам",
-      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO), West 4 Roads",
-      "description": "A brand-new comedy show by Shine Üe Production, on 16–20 and 23–25 October (no shows on 21–22 October).",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "show",
-        "инээдэм",
-        "шоу тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3270",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-2026-10-02T185941.978.png",
-      "lat": 47.914228,
-      "lng": 106.893028
-    },
-    {
-      "id": "ticketmn-2026-10-17-my-lovely-tooth-journey",
-      "title": "\"Миний хөөрхөн шүдний аялал\"",
-      "titleMn": "Миний хөөрхөн шүдний аялал",
-      "titleEn": "My Lovely Tooth's Journey (children's puppet show)",
-      "start": "2026-10-17",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "Children's show about a 5-year-old boy who won't brush his teeth and loves sweets, until an old man called Silver Elder visits him in a dream and teaches him why brushing matters. Plays on 17, 18, 24 and 25 October.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн театр",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/2723",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-18-hello-olmasss",
-      "title": "Сайн уу? ОЛМАССС хүүхдийн жүжиг",
-      "titleMn": "Сайн уу? ОЛМАССС",
-      "titleEn": "Hello? OLMASSS (children's play)",
-      "start": "2026-10-18",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Улаанбаатар театр",
-      "locationEn": "Ulaanbaatar Theatre",
-      "description": "Children's play set in an autumn forest, where four children on an eco-trip with their teacher run into something unexpected involving 'talking snow'. Plays on 18, 24 and 25 October.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхдийн жүжиг",
-        "theatre",
-        "театр"
-      ],
-      "url": "https://www.ticket.mn/event/2845",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_78.png"
-    },
-    {
-      "id": "montsame-2026-10-23-itm-2026-tourism-mart",
-      "title": "ITM-2026 International Tourism Mart",
-      "titleEn": "ITM-2026 International Tourism Mart",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Mega Exhibition Hall, Misheel Expo Center",
-      "locationEn": "Mega Exhibition Hall, Misheel Expo Center",
-      "description": "The 27th International Tourism Mart, organized by the Mongolian Tourism Association, runs October 23–25.",
-      "category": "Other",
-      "tags": [
-        "expo",
-        "tourism",
-        "travel",
-        "fair",
-        "аялал жуулчлал",
-        "үзэсгэлэн",
-        "яармаг"
-      ],
-      "url": "https://montsame.mn/en/read/411625",
-      "sourceName": "MONTSAME",
-      "lat": 47.89204,
-      "lng": 106.885535,
-      "image": "https://montsame.mn/files/medium/6ac49d7fde3e6.jpeg"
-    },
-    {
       "id": "montsame-2026-10-23-national-chess-championship",
       "title": "Монгол Улсын 2026 оны аварга шалгаруулах эрэгтэйчүүдийн 64, эмэгтэйчүүдийн 56 дахь удаагийн шигшээ тэмцээн",
       "titleMn": "Шатрын Монгол Улсын 2026 оны аварга шалгаруулах шигшээ тэмцээн",
@@ -493,56 +373,6 @@
       "image": "https://montsame.mn/files/medium/6acf01bd049a2.jpeg"
     },
     {
-      "id": "urlag-2026-10-23-ineemtgii-khun",
-      "title": "Инээмтгий хүн",
-      "titleMn": "Инээмтгий хүн",
-      "titleEn": "The Laughing Man",
-      "start": "2026-10-23T19:00",
-      "end": "2026-10-25",
-      "allDay": false,
-      "location": "РЦНК /Оросын шинжлэх ухаан, соёлын төв/",
-      "locationEn": "Russian Centre for Science and Culture",
-      "description": "Visual drama after Victor Hugo's novel, restaged by the \"Pro\" theatre on October 23, 24 and 25 from 19:00.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "drama",
-        "Victor Hugo",
-        "play",
-        "жүжиг",
-        "театр",
-        "визуал драм"
-      ],
-      "url": "https://urlag.mn/post/159147",
-      "sourceName": "Urlag.mn",
-      "lat": 47.926224,
-      "lng": 106.935273,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/26564874dcf6271bc01f60e8384c4fc8-1024x611-1.jpg"
-    },
-    {
-      "id": "wca-2026-10-24-mongolian-championship",
-      "title": "Mongolian Championship 2026",
-      "titleMn": "Шоо эвлүүлэгчдийн Монголын аварга шалгаруулах тэмцээн 2026",
-      "titleEn": "Mongolian Speedcubing Championship 2026",
-      "start": "2026-10-24",
-      "end": "2026-10-25",
-      "allDay": true,
-      "location": "Канад сургууль, Хүннү гудамж, Хан-Уул дүүрэг, 18-р хороо",
-      "locationEn": "Canadian School of Ulaanbaatar auditorium (3rd floor), Hunnu Street, Khan-Uul District",
-      "description": "The official World Cube Association national speedcubing championship: 3x3 and more puzzles from 2x2 to 7x7, Megaminx, Clock, Skewb and Square-1. Up to 105 competitors; spectators are welcome.",
-      "cost": "Spectators 5,000₮; competitors from 90,000₮",
-      "category": "Sports",
-      "tags": [
-        "speedcubing",
-        "Rubik's cube",
-        "competition",
-        "кубик",
-        "тэмцээн"
-      ],
-      "url": "https://www.worldcubeassociation.org/competitions/MongolianChampionship2026",
-      "sourceName": "World Cube Association"
-    },
-    {
       "id": "ticketmn-2026-10-25-horse-head-fiddle",
       "title": "\"HORSE HEAD FIDDLE\" АРДЫН УРЛАГИЙН ТОГЛОЛТ",
       "titleMn": "Морин хуурын ардын урлагийн тоглолт",
@@ -563,71 +393,6 @@
       "url": "https://www.ticket.mn/event/2641",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/1200630.png"
-    },
-    {
-      "id": "ticketmn-2026-10-25-namryn-uyanga",
-      "title": "\"НАМРЫН УЯНГА\" Б.Эрдэнэбаярын тоглолт",
-      "titleMn": "Намрын уянга",
-      "titleEn": "Autumn Melody – B. Erdenebayar concert",
-      "start": "2026-10-25",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Concert by singer B. Erdenebayar.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3267",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-94.png",
-      "lat": 47.919491,
-      "lng": 106.919385
-    },
-    {
-      "id": "ted-2026-10-24-tedxulaanbaatar-empathy-school-youth",
-      "title": "TEDxUlaanbaatar Empathy School Youth",
-      "titleEn": "TEDxUlaanbaatar Empathy School Youth",
-      "start": "2026-10-25T09:30",
-      "end": "2026-10-25T17:45",
-      "allDay": false,
-      "location": "MOnte ballroom, 4 давхар, Хан-Уул дүүрэг, 11-р хороо",
-      "locationEn": "MOnte ballroom, 4th floor, Khan-Uul District, 11th khoroo",
-      "description": "Youth TEDx event with talks, open to the public.",
-      "category": "Talks & Learning",
-      "tags": [
-        "TEDx",
-        "talks",
-        "youth",
-        "ideas",
-        "илтгэл",
-        "залуучууд",
-        "TED"
-      ],
-      "url": "https://www.ted.com/tedx/events/70557",
-      "sourceName": "TEDx"
-    },
-    {
-      "id": "mba-2026-10-25-the-league-games",
-      "title": "Үндэсний дээд лиг (The League) 2026-27",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games",
-      "start": "2026-10-25T11:00",
-      "allDay": false,
-      "location": "M BANK ARENA",
-      "locationEn": "M Bank Arena",
-      "description": "Three top-league basketball games: Ömnögoviin Khülegüüd vs SÜA TLJ Tüshig Bagana at 11:00, Sono Brothers vs Baruuny Daichid at 13:30, and BCH Knights vs SG Apes at 16:00.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг",
-        "Үндэсний дээд лиг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule",
-      "sourceName": "Mongolian Basketball Association",
-      "image": "https://mongolia.basketball/media/08/0816402a30bb2a6812ed52e7f02ea4f0d4a9582607772caa182513007954f687.png"
     },
     {
       "id": "ublife-2026-10-26-looktv-haunted-house",
