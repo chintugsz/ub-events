@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T06:54:28+08:00",
+  "updatedAt": "2026-10-26T07:20:32+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -116,6 +116,10 @@
     {
       "name": "Mongolian Basketball Association",
       "url": "https://mongolia.basketball/mn/competitions/league/schedule"
+    },
+    {
+      "name": "MNB",
+      "url": "https://www.mnb.mn/"
     }
   ],
   "events": [
@@ -259,11 +263,11 @@
       "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
       "titleEn": "Nomadic Legend – folk art and heritage show",
       "start": "2026-10-13",
-      "end": "2026-10-31",
+      "end": "2026-10-30",
       "allDay": true,
       "location": "ТБД андуудын баруун талд \"ГАН ЗАМ\" палас",
       "locationEn": "\"Gan Zam\" Palace",
-      "description": "Daily folk-art and cultural-heritage performance listed for every day from 13 to 31 October.",
+      "description": "Daily folk-art and cultural-heritage performance; Ticket.mn lists shows every day until 30 October.",
       "category": "Music & Performance",
       "tags": [
         "folk",
@@ -298,31 +302,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png",
       "lat": 47.919491,
       "lng": 106.919385
-    },
-    {
-      "id": "montsame-2026-10-15-bravo-circus",
-      "title": "“BRAVO CIRCUS” циркийн тоглолт",
-      "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
-      "titleEn": "BRAVO CIRCUS show",
-      "start": "2026-10-15",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A circus show at the Mongolian Wrestling Palace, two shows a day. After its 15–18 October run it plays again on 25 October and on 31 October and 1 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "circus",
-        "show",
-        "family",
-        "цирк",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3258",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "end": "2026-11-01",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
     },
     {
       "id": "montsame-2026-10-16-deed-es-exhibition",
@@ -373,26 +352,27 @@
       "image": "https://montsame.mn/files/medium/6acf01bd049a2.jpeg"
     },
     {
-      "id": "ticketmn-2026-10-25-horse-head-fiddle",
-      "title": "\"HORSE HEAD FIDDLE\" АРДЫН УРЛАГИЙН ТОГЛОЛТ",
-      "titleMn": "Морин хуурын ардын урлагийн тоглолт",
-      "titleEn": "Horse Head Fiddle – folk art performance",
-      "start": "2026-10-25",
+      "id": "urlag-2026-10-24-chin-zurkhnii-delbee",
+      "title": "“Чин зүрхний дэлбээ” хамтарсан үзэсгэлэн",
+      "titleMn": "“Чин зүрхний дэлбээ” хамтарсан үзэсгэлэн",
+      "titleEn": "Petals of a Sincere Heart (joint painting exhibition)",
+      "start": "2026-10-24",
       "end": "2026-10-31",
       "allDay": true,
-      "location": "Palazzo tower",
-      "locationEn": "Palazzo Tower",
-      "description": "Folk-art concert featuring the horse-head fiddle on 25, 30 and 31 October.",
-      "category": "Music & Performance",
+      "location": "Монголын Урчуудын Эвлэлийн галерей, Сүхбаатарын талбайн урд",
+      "locationEn": "Union of Mongolian Artists Gallery, south of Sukhbaatar Square",
+      "description": "Joint painting exhibition by Ya. Bulgan and Ö. Barkhüü, open daily 10:00–18:00 until 31 October.",
+      "category": "Arts & Museums",
       "tags": [
-        "folk",
-        "morin khuur",
-        "морин хуур",
-        "ардын урлаг"
+        "exhibition",
+        "painting",
+        "үзэсгэлэн",
+        "уран зураг"
       ],
-      "url": "https://www.ticket.mn/event/2641",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/1200630.png"
+      "url": "https://urlag.mn/post/160794",
+      "sourceName": "Urlag.mn",
+      "lat": 47.919045,
+      "lng": 106.91755
     },
     {
       "id": "ublife-2026-10-26-looktv-haunted-house",
@@ -418,6 +398,29 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
     },
     {
+      "id": "montsame-2026-10-28-mongol-empire-diplomacy-conference",
+      "title": "\"Их Монгол улсын дипломат бодлого: Түүх, орчин үе\" олон улсын эрдэм шинжилгээний хурал",
+      "titleMn": "Их Монгол улсын дипломат бодлого: Түүх, орчин үе",
+      "titleEn": "Diplomatic Policy of the Great Mongol State: History and Today (international conference)",
+      "start": "2026-10-28",
+      "allDay": true,
+      "location": "\"Чингис хаан\" үндэсний музей",
+      "locationEn": "Chinggis Khaan National Museum",
+      "description": "International academic conference on the diplomatic policy of the Mongol Empire, past and present.",
+      "category": "Talks & Learning",
+      "tags": [
+        "conference",
+        "history",
+        "diplomacy",
+        "хурал",
+        "түүх"
+      ],
+      "url": "https://montsame.mn/mn/read/413408",
+      "sourceName": "MONTSAME",
+      "lat": 47.922685,
+      "lng": 106.914879
+    },
+    {
       "id": "itworld-2026-10-28-it-world-forum-expo",
       "title": "IT WORLD ’26 | INTERNATIONAL FORUM & EXPO",
       "titleMn": "IT WORLD ’26 олон улсын форум, үзэсгэлэн",
@@ -441,6 +444,30 @@
       "url": "https://www.itworldmongolia.mn/",
       "sourceName": "IT World Mongolia",
       "image": "https://itworldmongolia.mn/api/og?lang=mn&t=hero&v=2026102107"
+    },
+    {
+      "id": "ubcomedy-2026-10-28-songodog-show",
+      "title": "Сонгодог Шоу",
+      "titleMn": "Сонгодог Шоу",
+      "titleEn": "Classic Show",
+      "start": "2026-10-28T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy night. Ages 18+; tickets are non-refundable and the lineup may change.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу",
+        "стэндап"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6addc943d6bf32e9fe02f782",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-10-29-nekhel-premiere",
@@ -516,27 +543,95 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%97.%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D1%8D-%D0%9E%D1%87%D0%B8%D1%80.png"
     },
     {
-      "id": "ticketmn-2026-10-30-addams-family-musical",
-      "title": "\"THE ADDAMS FAMILY\" мюзикл",
-      "titleMn": "Аддамсын гэр бүл",
-      "titleEn": "The Addams Family (musical)",
+      "id": "ubcomedy-2026-10-29-thursday-showcase",
+      "title": "Пүрэв Гарагийн Showcase",
+      "titleMn": "Пүрэв Гарагийн Showcase",
+      "titleEn": "Thursday Showcase",
+      "start": "2026-10-29T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Weekly Thursday stand-up showcase. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "showcase",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6addc9aed6bf32e9fe02f7af",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "montsame-2026-10-30-1000-journalists-forum",
+      "title": "1000 сэтгүүлчийн форум",
+      "titleMn": "1000 сэтгүүлчийн форум",
+      "titleEn": "1,000 Journalists Forum",
+      "start": "2026-10-30",
+      "allDay": true,
+      "location": "Монголын Хүүхдийн ордон",
+      "locationEn": "Mongolian Children's Palace",
+      "description": "Large forum for journalists and media professionals.",
+      "category": "Talks & Learning",
+      "tags": [
+        "forum",
+        "media",
+        "journalism",
+        "форум",
+        "сэтгүүл зүй"
+      ],
+      "url": "https://montsame.mn/mn/read/413408",
+      "sourceName": "MONTSAME",
+      "lat": 47.912728,
+      "lng": 106.916088
+    },
+    {
+      "id": "montsame-2026-10-30-zavkhan-2026-sports-festival",
+      "title": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
+      "titleMn": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
+      "titleEn": "Zavkhan 2026: 2nd grand sports festival",
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Буянт-Ухаа спортын ордон",
+      "locationEn": "Buyant-Ukhaa Sports Palace",
+      "description": "Multi-sport festival organised by the Zavkhan aimag native council, over three days.",
+      "category": "Sports",
+      "tags": [
+        "sports festival",
+        "спорт",
+        "наадам",
+        "Завхан"
+      ],
+      "url": "https://montsame.mn/mn/read/413408",
+      "sourceName": "MONTSAME",
+      "lat": 47.854437,
+      "lng": 106.784967
+    },
+    {
+      "id": "ticketmn-2026-10-25-horse-head-fiddle",
+      "title": "\"HORSE HEAD FIDDLE\" АРДЫН УРЛАГИЙН ТОГЛОЛТ",
+      "titleMn": "Морин хуурын ардын урлагийн тоглолт",
+      "titleEn": "Horse Head Fiddle – folk art performance",
       "start": "2026-10-30",
       "end": "2026-10-31",
       "allDay": true,
-      "location": "Улсын хүүхэд залуучуудын театр",
-      "locationEn": "State Youth and Children's Theatre",
-      "description": "Officially licensed staging of The Addams Family musical, a comedy about being yourself and being different.",
+      "location": "Palazzo tower",
+      "locationEn": "Palazzo Tower",
+      "description": "Folk-art concert featuring the horse-head fiddle on 30 and 31 October.",
       "category": "Music & Performance",
       "tags": [
-        "musical",
-        "theatre",
-        "мюзикл",
-        "театр",
-        "halloween"
+        "folk",
+        "morin khuur",
+        "морин хуур",
+        "ардын урлаг"
       ],
-      "url": "https://www.ticket.mn/event/2842",
+      "url": "https://www.ticket.mn/event/2641",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/addams_stand2.jpg"
+      "image": "https://www.ticket.mn/files/concerts/sliders/1200630.png"
     },
     {
       "id": "ticketmn-2026-10-30-airagtai-udesh",
@@ -634,6 +729,29 @@
       "image": "https://new.urgoo.mn/movies/HO00001955/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "ticketmn-2026-10-30-addams-family-musical",
+      "title": "\"THE ADDAMS FAMILY\" мюзикл",
+      "titleMn": "Аддамсын гэр бүл",
+      "titleEn": "The Addams Family (musical)",
+      "start": "2026-10-30T15:00",
+      "end": "2026-10-31",
+      "allDay": false,
+      "location": "Улсын хүүхэд залуучуудын театр",
+      "locationEn": "State Youth and Children's Theatre",
+      "description": "Officially licensed staging of The Addams Family musical, a comedy about being yourself and being different, at 15:00 on 30 and 31 October.",
+      "category": "Music & Performance",
+      "tags": [
+        "musical",
+        "theatre",
+        "мюзикл",
+        "театр",
+        "halloween"
+      ],
+      "url": "https://www.ticket.mn/event/2842",
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/addams_stand2.jpg"
+    },
+    {
       "id": "eventx-2026-10-30-amitny-ferm",
       "title": "Амьтны ферм",
       "titleMn": "Амьтны ферм",
@@ -689,6 +807,53 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
     },
     {
+      "id": "ubcomedy-2026-10-30-spooky-sapporo",
+      "title": "Spooky Sapporo",
+      "titleMn": "Spooky Sapporo",
+      "titleEn": "Spooky Sapporo",
+      "start": "2026-10-30T19:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Halloween-week stand-up comedy show. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "Halloween",
+        "18+",
+        "инээдмийн шоу",
+        "Хэллоуин"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6addca29d6bf32e9fe02f7ed",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "ubcomedy-2026-10-30-friday-after-hours",
+      "title": "Friday After Hours",
+      "titleMn": "Friday After Hours",
+      "titleEn": "Friday After Hours",
+      "start": "2026-10-30T22:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Late-night Friday stand-up show. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "late night",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6addcef3d6bf32e9fe02f893",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "ikon-2026-10-31-encanto-halloween",
       "title": "Хамгийн гоё Halloween Encanto Centro Mall-д болно",
       "titleMn": "Halloween, Encanto Centro Mall",
@@ -711,6 +876,31 @@
       "image": "https://content.ikon.mn/news/2026/10/22/comtla_1.Banner_x974.jpg"
     },
     {
+      "id": "montsame-2026-10-15-bravo-circus",
+      "title": "“BRAVO CIRCUS” циркийн тоглолт",
+      "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
+      "titleEn": "BRAVO CIRCUS show",
+      "start": "2026-10-31",
+      "allDay": true,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A circus show at the Mongolian Wrestling Palace, with two shows a day on 31 October and 1 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "circus",
+        "show",
+        "family",
+        "цирк",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3258",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278,
+      "end": "2026-11-01",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
+    },
+    {
       "id": "ticketmn-2026-10-31-eejdee",
       "title": "\"ЭЭЖДЭЭ\" хандивын тоглолт",
       "titleMn": "Ээждээ",
@@ -731,6 +921,49 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T121736.644.png",
       "lat": 47.914228,
       "lng": 106.893028
+    },
+    {
+      "id": "ubcomedy-2026-10-31-halloween-laughter",
+      "title": "Halloween Laughter",
+      "titleMn": "Halloween Laughter",
+      "titleEn": "Halloween Laughter",
+      "start": "2026-10-31T19:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Halloween-night stand-up comedy show. Ages 18+; arrive 30 minutes early.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "Halloween",
+        "18+",
+        "инээдмийн шоу",
+        "Хэллоуин"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6addcf48d6bf32e9fe02f8ad",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "mba-2026-11-01-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/01)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (1 Nov)",
+      "start": "2026-11-01T11:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Three men's games: Khaan Shonkhoruud vs Baruuny Daichid at 11:00, BCH Knights vs Darkhan United at 13:30, and Omni Erdenet Miners vs Ömnögoviin Khülegüüd at 16:00.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
@@ -777,6 +1010,45 @@
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png",
       "end": "2026-11-04"
+    },
+    {
+      "id": "mba-2026-11-02-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/02)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (2 Nov)",
+      "start": "2026-11-02T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Two men's games: SG Apes vs SÜA TLJ Tüshig Bagana at 18:00 and Selenge Bodons vs Sono Brothers at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-11-03-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/03)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (3 Nov)",
+      "start": "2026-11-03T13:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Khaan Shonkhoruud vs Darkhan United at 13:00, Baruuny Daichid vs Omni Erdenet Miners at 15:30 and Ömnögoviin Khülegüüd vs BCH Knights at 20:30, plus a women's game, Ulaanbaatar Amazons vs Aravt, at 18:00.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг",
+        "women's basketball"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -919,6 +1191,30 @@
       "url": "https://www.ticket.mn/event/3291",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T155053.345.png"
+    },
+    {
+      "id": "mnb-2026-11-07-altan-tsom-wrestling-opener",
+      "title": "Алтан цомын барилдааны шинэ улирлын нээлт",
+      "titleMn": "Алтан цомын барилдааны шинэ улирлын нээлт",
+      "titleEn": "Altan Tsom team wrestling: new season opener",
+      "start": "2026-11-07T14:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "Opening round of the Altan Tsom (Golden Cup) team wrestling season, with seven teams. Opening bouts: Uvs Nuur Davjaa vs Ev Mongol, Shunkhlai vs MCS Energy, and Ajnai vs Khovd Davjaa.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "Altan Tsom",
+        "бөх",
+        "барилдаан",
+        "Алтан цом"
+      ],
+      "url": "https://www.mnb.mn/article/altan-tsomyn-tuluu-shildeg-7-bag-ursuldunu-5193",
+      "sourceName": "MNB",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -1328,6 +1624,29 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_072a5a6551.jpg"
+    },
+    {
+      "id": "urgoo-2026-11-25-hexed",
+      "title": "Hexed",
+      "titleMn": "Hexed",
+      "titleEn": "Hexed",
+      "start": "2026-11-25",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Animated family adventure (PG): a teenager discovers magic powers and is pulled into Hexe, a realm of witches, together with her cautious mother.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "кино",
+        "хүүхэлдэйн кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001947",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     }
   ]
 }
