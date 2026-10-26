@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T06:53:56+08:00",
+  "updatedAt": "2026-10-27T07:15:22+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -1511,6 +1511,48 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600_X900_264c80ea23.jpg"
     },
     {
+      "id": "tedx-2026-11-21-shine-mongol-harumafuji",
+      "title": "TEDxShine Mongol Harumafuji School",
+      "titleMn": "TEDxShine Mongol Harumafuji School",
+      "titleEn": "TEDxShine Mongol Harumafuji School",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "Шинэ Монгол Харүмафүжи сургууль, спорт заал (3 давхар), Хан-Уул дүүрэг, 23-р хороо",
+      "locationEn": "Shine Mongol Harumafuji School, Sports Hall (3rd floor), Khan-Uul District, 23rd khoroo",
+      "description": "An independently organised TEDx event in the youth format, held at the Shine Mongol Harumafuji School. Open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "илтгэл",
+        "залуучууд"
+      ],
+      "url": "https://www.ted.com/tedx/events/70569",
+      "sourceName": "TEDx"
+    },
+    {
+      "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
+      "title": "TEDxUlaanbaatar Elite Youth",
+      "titleMn": "TEDxUlaanbaatar Elite Youth",
+      "titleEn": "TEDxUlaanbaatar Elite Youth",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "Ulaanbaatar Elite International School, Conference Hall, Сүхбаатар дүүрэг, 2-р хороо, Сөүлийн гудамж",
+      "locationEn": "Ulaanbaatar Elite International School, Conference Hall, Seoul Street, Sukhbaatar District",
+      "description": "An independently organised TEDx event in the youth format, with talks sharing ideas worth spreading. Open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "илтгэл",
+        "залуучууд"
+      ],
+      "url": "https://www.ted.com/tedx/events/70234",
+      "sourceName": "TEDx"
+    },
+    {
       "id": "ticketmn-2026-11-21-love-letters",
       "title": "\"Love Letters\" романтик драмын жүжиг",
       "titleMn": "\"Love Letters\" романтик драмын жүжиг",
@@ -1556,6 +1598,30 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png"
+    },
+    {
+      "id": "newsmn-2026-11-21-altan-tsom-wrestling",
+      "title": "Алтан цомын төлөөх барилдаан",
+      "titleMn": "Алтан цомын төлөөх барилдаан",
+      "titleEn": "Altan Tsom (Golden Cup) team wrestling",
+      "start": "2026-11-21T15:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A November bout of the Altan Tsom (Golden Cup) national team wrestling competition, at the Mongolian Wrestling Palace from 15:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "Altan Tsom",
+        "бөх",
+        "барилдаан",
+        "Алтан цом"
+      ],
+      "url": "https://news.mn/r/2895297/",
+      "sourceName": "News.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
@@ -1628,6 +1694,30 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "newsmn-2026-11-29-altan-tsom-wrestling",
+      "title": "Алтан цомын төлөөх барилдаан",
+      "titleMn": "Алтан цомын төлөөх барилдаан",
+      "titleEn": "Altan Tsom (Golden Cup) team wrestling",
+      "start": "2026-11-29T15:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A November bout of the Altan Tsom (Golden Cup) national team wrestling competition, at the Mongolian Wrestling Palace from 15:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "Altan Tsom",
+        "бөх",
+        "барилдаан",
+        "Алтан цом"
+      ],
+      "url": "https://news.mn/r/2895297/",
+      "sourceName": "News.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     }
   ]
 }
