@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T07:15:22+08:00",
+  "updatedAt": "2026-10-28T07:18:03+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -349,6 +349,30 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/862399599_973145138588775_5171650933282200280_n.jpg"
     },
     {
+      "id": "montsame-2026-10-26-great-tea-road-exhibition",
+      "title": "\"Түмэн газрын цайны зам дагуух монголчууд\" үзэсгэлэн",
+      "titleMn": "Түмэн газрын цайны зам дагуух монголчууд",
+      "titleEn": "Mongolians Along the Great Tea Road (exhibition)",
+      "start": "2026-10-26",
+      "end": "2026-10-29",
+      "allDay": true,
+      "location": "Чингис хааны үндэсний музей",
+      "locationEn": "Chinggis Khaan National Museum",
+      "description": "Photographs and artefacts on how the trading towns of Ikh Khuree, Maimaachin and Kyakhta shaped Mongolia along the tea route. Runs until 29 October.",
+      "category": "Arts & Museums",
+      "tags": [
+        "history",
+        "exhibition",
+        "museum",
+        "түүх",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.montsame.mn/en/read/413793",
+      "sourceName": "MONTSAME",
+      "lat": 47.922685,
+      "lng": 106.914879
+    },
+    {
       "id": "ublife-2026-10-26-looktv-haunted-house",
       "title": "LookTV Haunted House",
       "titleMn": "LookTV Haunted House",
@@ -393,6 +417,27 @@
       "sourceName": "MONTSAME",
       "lat": 47.922685,
       "lng": 106.914879
+    },
+    {
+      "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
+      "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
+      "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
+      "titleEn": "Ts. Khash: Memories Kept on Photographic Film",
+      "start": "2026-10-28",
+      "end": "2026-11-12",
+      "allDay": true,
+      "location": "Улаан гэр галерей (Монголын урлагийн зөвлөлийн дэргэдэх)",
+      "locationEn": "Red Ger Gallery, Arts Council of Mongolia",
+      "description": "A photo exhibition marking photographer Khash's 85th anniversary, with pictures of childhood friends, daily life, home culture and schooling.",
+      "category": "Arts & Museums",
+      "tags": [
+        "photography",
+        "exhibition",
+        "гэрэл зураг",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.ub.life/p/261027-gs2n72",
+      "sourceName": "UB Life"
     },
     {
       "id": "itworld-2026-10-28-it-world-forum-expo",
@@ -630,6 +675,28 @@
       "url": "https://www.ticket.mn/event/3248",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/airag-poster-1200X630-copy-1.jpg"
+    },
+    {
+      "id": "ticketmn-2026-10-30-mongolian-wonders-of-art",
+      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
+      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
+      "titleEn": "Wonders of Mongolian Art (folk performance)",
+      "start": "2026-10-30",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Зам тээврийн яам, Их нүүдэл танхим",
+      "locationEn": "Ministry of Road and Transport, \"Ikh Nuudel\" hall",
+      "description": "A folk-art show by the \"Khuur Magnai\" ensemble with long song, horse-head fiddle and traditional dance. On 30 October and 1 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional music",
+        "morin khuur",
+        "ардын урлаг",
+        "морин хуур"
+      ],
+      "url": "https://www.ticket.mn/event/3272",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-10-30-remember-me-coco",
@@ -901,6 +968,50 @@
       "lng": 106.893028
     },
     {
+      "id": "ticketmn-2026-10-31-khuukheldein-chinee-eej",
+      "title": "\"Хүүхэлдэйн чинээ ээж\" хүүхэлдэйн жүжиг",
+      "titleMn": "Хүүхэлдэйн чинээ ээж",
+      "titleEn": "A Mum the Size of a Doll (puppet play)",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A puppet play about a wilful girl who leaves home after quarrelling with her mother and meets a strange creature called \"Resentment\". On 31 October and 1 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн театр",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/2856",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-10-31-my-lovely-tooth-journey",
+      "title": "\"Миний хөөрхөн шүдний аялал\"",
+      "titleMn": "Миний хөөрхөн шүдний аялал",
+      "titleEn": "My Lovely Tooth's Journey (children's puppet show)",
+      "start": "2026-10-31",
+      "end": "2026-11-01",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A children's puppet play about a five-year-old who won't brush his teeth and learns why it matters in a dream adventure. On 31 October and 1 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн театр",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/2723",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ubcomedy-2026-10-31-halloween-laughter",
       "title": "Halloween Laughter",
       "titleMn": "Halloween Laughter",
@@ -991,6 +1102,31 @@
       "end": "2026-11-04"
     },
     {
+      "id": "ublife-2026-11-02-japan-mongolia-photo-exhibition",
+      "title": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн \"Тогтвортой хөгжлийн зорилтын төлөөх соёлын солилцоо\"",
+      "titleMn": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн",
+      "titleEn": "Japan–Mongolia photo exhibition: Cultural Exchange for the Sustainable Development Goals",
+      "start": "2026-11-02",
+      "end": "2026-11-06",
+      "allDay": true,
+      "location": "Монголын Уран Зургийн галерей, III давхрын Их танхим, Хөх танхим",
+      "locationEn": "Mongolian National Art Gallery, 3rd floor, Grand Hall and Blue Hall",
+      "description": "Japanese and Mongolian photographers show work on living with nature and sustainability, including pieces from Tokyo Photo Month.",
+      "category": "Arts & Museums",
+      "tags": [
+        "photography",
+        "exhibition",
+        "гэрэл зураг",
+        "үзэсгэлэн",
+        "Japan",
+        "Япон"
+      ],
+      "url": "https://www.ub.life/p/261027-gs2n72",
+      "sourceName": "UB Life",
+      "lat": 47.919571,
+      "lng": 106.921046
+    },
+    {
       "id": "mba-2026-11-02-the-league-games",
       "title": "The League: сагсан бөмбөгийн тоглолтууд (11/02)",
       "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
@@ -1028,6 +1164,28 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "urlag-2026-11-05-jargaagui-nar",
+      "title": "\"Жаргаагүй нар\" түүхэн эмгэнэлт жүжиг",
+      "titleMn": "Жаргаагүй нар",
+      "titleEn": "The Sun That Never Set (historical tragedy)",
+      "start": "2026-11-05",
+      "allDay": true,
+      "location": "Улсын драмын эрдмийн театр (УДЭТ)",
+      "locationEn": "State Academic Drama Theatre",
+      "description": "The drama theatre revives Sh. Gurbazar's play about writer D. Natsagdorj, directed by Ch. Tuvshin, for his 120th birth anniversary. Back on stage from 5 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "жүжиг",
+        "театр"
+      ],
+      "url": "https://urlag.mn/post/161138",
+      "sourceName": "Urlag.mn",
+      "lat": 47.914621,
+      "lng": 106.914258
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -1149,6 +1307,28 @@
       "lat": 47.854437,
       "lng": 106.784967,
       "image": "https://www.ticket.mn/files/concerts/sliders/Banner-1200x630-1-1.png"
+    },
+    {
+      "id": "ticketmn-2026-11-07-muchrun-khuruut",
+      "title": "\"МӨЧРӨН ХУРУУТ\" хүүхэлдэйн жүжиг",
+      "titleMn": "Мөчрөн хуруут",
+      "titleEn": "Twig Fingers (puppet play)",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A children's puppet play about honesty and protecting nature. On 7 and 8 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн театр",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/3091",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-11-07-one-night-premium-show",
@@ -1389,6 +1569,28 @@
       "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
     },
     {
+      "id": "ticketmn-2026-11-14-mungunii-energiin-nuuts",
+      "title": "\"МӨНГӨНИЙ ЭНЕРГИЙН НУУЦ\"",
+      "titleMn": "Мөнгөний энергийн нууц",
+      "titleEn": "The Secret of Money Energy (seminar)",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "location": "Зайсан, Highland Park",
+      "locationEn": "Highland Park, Zaisan",
+      "description": "A paid two-day seminar on how people think about money, success and abundance, on 14 and 15 November.",
+      "category": "Talks & Learning",
+      "tags": [
+        "seminar",
+        "money",
+        "self-improvement",
+        "семинар",
+        "мөнгө"
+      ],
+      "url": "https://www.ticket.mn/event/3310",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
       "title": "С.Сэрчмаа \"ЭРХ САРАН\" тоглолт",
       "titleMn": "С.Сэрчмаа \"Эрх саран\" тоглолт",
@@ -1624,6 +1826,29 @@
       "lng": 106.935278
     },
     {
+      "id": "ublife-2026-11-22-gamma-agency-30-exhibition-opening",
+      "title": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
+      "titleMn": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
+      "titleEn": "Gamma Agency 30th anniversary exhibition: opening",
+      "start": "2026-11-22",
+      "allDay": true,
+      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
+      "locationEn": "Zanabazar Museum of Fine Arts",
+      "description": "Opening of an exhibition tracing Mongolian photojournalism through Gamma, founded in 1996 as Mongolia's first independent professional photo agency.",
+      "category": "Arts & Museums",
+      "tags": [
+        "photography",
+        "exhibition",
+        "гэрэл зураг",
+        "үзэсгэлэн",
+        "photojournalism"
+      ],
+      "url": "https://www.ub.life/p/261027-gs2n72",
+      "sourceName": "UB Life",
+      "lat": 47.920172,
+      "lng": 106.90967
+    },
+    {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
       "title": "\"МЯНГАТЫН ХӨӨРХӨН ОХИН\" концерт",
       "titleMn": "Мянгатын хөөрхөн охин",
@@ -1694,6 +1919,52 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-26-quincy-jones-tribute",
+      "title": "Quincy Jones Tribute Concert",
+      "titleMn": "Куинси Жонсод зориулсан хүндэтгэлийн тоглолт",
+      "titleEn": "Quincy Jones Tribute Concert",
+      "start": "2026-11-26",
+      "end": "2026-11-27",
+      "allDay": true,
+      "location": "Улсын филармони",
+      "locationEn": "State Philharmonic",
+      "description": "A tribute concert to producer Quincy Jones, who worked with Michael Jackson, Frank Sinatra, Ray Charles and Aretha Franklin. On 26 and 27 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "jazz",
+        "tribute",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3312",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
+    },
+    {
+      "id": "urgoo-2026-11-27-focker-in-law",
+      "title": "Focker-In-Law",
+      "titleEn": "Focker-In-Law",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Comedy-romance opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "comedy",
+        "new release",
+        "кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001927",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
