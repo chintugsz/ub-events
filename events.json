@@ -370,7 +370,8 @@
       "url": "https://www.montsame.mn/en/read/413793",
       "sourceName": "MONTSAME",
       "lat": 47.922685,
-      "lng": 106.914879
+      "lng": 106.914879,
+      "image": "https://www.montsame.mn/files/medium/6ae060533a6ab.jpeg"
     },
     {
       "id": "ublife-2026-10-26-looktv-haunted-house",
@@ -696,7 +697,8 @@
         "морин хуур"
       ],
       "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
     },
     {
       "id": "ticketmn-2026-10-30-remember-me-coco",
@@ -987,7 +989,8 @@
         "theatre"
       ],
       "url": "https://www.ticket.mn/event/2856",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/huuheldei_eej_stand.jpg"
     },
     {
       "id": "ticketmn-2026-10-31-my-lovely-tooth-journey",
@@ -1009,7 +1012,8 @@
         "theatre"
       ],
       "url": "https://www.ticket.mn/event/2723",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
     },
     {
       "id": "ubcomedy-2026-10-31-halloween-laughter",
@@ -1185,7 +1189,8 @@
       "url": "https://urlag.mn/post/161138",
       "sourceName": "Urlag.mn",
       "lat": 47.914621,
-      "lng": 106.914258
+      "lng": 106.914258,
+      "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%A8%D0%B8%D0%BD%D1%8D%D0%B1%D0%B0%D1%8F%D1%80.png"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -1328,7 +1333,8 @@
         "theatre"
       ],
       "url": "https://www.ticket.mn/event/3091",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/ggdgsg.png"
     },
     {
       "id": "ticketmn-2026-11-07-one-night-premium-show",
@@ -1588,7 +1594,8 @@
         "мөнгө"
       ],
       "url": "https://www.ticket.mn/event/3310",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6688090607394842366_Mungunii_energi_1731x909_ticket.png"
     },
     {
       "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
@@ -1942,7 +1949,8 @@
       "url": "https://www.ticket.mn/event/3312",
       "sourceName": "Ticket.mn",
       "lat": 47.919534,
-      "lng": 106.920049
+      "lng": 106.920049,
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T131701.158.png"
     },
     {
       "id": "urgoo-2026-11-27-focker-in-law",
@@ -1964,7 +1972,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001927",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
