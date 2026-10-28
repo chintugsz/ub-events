@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T06:54:21+08:00",
+  "updatedAt": "2026-10-29T07:21:30+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -258,11 +258,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-11-04",
+      "end": "2026-11-08",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows through 2026.11.04, with no show on 29 October.",
+      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows on 30 and 31 October and 1–4, 7 and 8 November.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -559,28 +559,6 @@
       "sourceName": "MONTSAME",
       "lat": 47.854437,
       "lng": 106.784967
-    },
-    {
-      "id": "ticketmn-2026-10-25-horse-head-fiddle",
-      "title": "\"HORSE HEAD FIDDLE\" АРДЫН УРЛАГИЙН ТОГЛОЛТ",
-      "titleMn": "Морин хуурын ардын урлагийн тоглолт",
-      "titleEn": "Horse Head Fiddle – folk art performance",
-      "start": "2026-10-30",
-      "end": "2026-10-31",
-      "allDay": true,
-      "location": "Palazzo tower",
-      "locationEn": "Palazzo Tower",
-      "description": "Folk-art concert featuring the horse-head fiddle on 30 and 31 October.",
-      "category": "Music & Performance",
-      "tags": [
-        "folk",
-        "morin khuur",
-        "морин хуур",
-        "ардын урлаг"
-      ],
-      "url": "https://www.ticket.mn/event/2641",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/1200630.png"
     },
     {
       "id": "ticketmn-2026-10-30-airagtai-udesh",
@@ -1017,7 +995,7 @@
       "allDay": true,
       "location": "Улсын хүүхэд залуучуудын театр",
       "locationEn": "State Youth and Children's Theatre",
-      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. Plays on 2, 3 and 4 November.",
+      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. Plays on 2 November.",
       "category": "Music & Performance",
       "tags": [
         "theatre",
@@ -1029,8 +1007,7 @@
       ],
       "url": "https://www.ticket.mn/event/3300",
       "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png",
-      "end": "2026-11-04"
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png"
     },
     {
       "id": "ublife-2026-11-02-japan-mongolia-photo-exhibition",
@@ -1105,7 +1082,7 @@
       "allDay": true,
       "location": "Улсын драмын эрдмийн театр (УДЭТ)",
       "locationEn": "State Academic Drama Theatre",
-      "description": "The drama theatre revives Sh. Gurbazar's play about writer D. Natsagdorj, directed by Ch. Tuvshin, for his 120th birth anniversary. Back on stage from 5 November.",
+      "description": "The drama theatre revives Sh. Gurbazar's play about writer D. Natsagdorj, directed by Ch. Tuvshin, for his 120th birth anniversary. Shows every day from 5 to 17 November.",
       "category": "Music & Performance",
       "tags": [
         "theatre",
@@ -1113,11 +1090,12 @@
         "жүжиг",
         "театр"
       ],
-      "url": "https://urlag.mn/post/161138",
-      "sourceName": "Urlag.mn",
+      "url": "https://www.ticket.mn/event/3314",
+      "sourceName": "Ticket.mn",
       "lat": 47.914621,
       "lng": 106.914258,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%A8%D0%B8%D0%BD%D1%8D%D0%B1%D0%B0%D1%8F%D1%80.png"
+      "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%A8%D0%B8%D0%BD%D1%8D%D0%B1%D0%B0%D1%8F%D1%80.png",
+      "end": "2026-11-17"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -1331,31 +1309,6 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/ticket-hevtee_6297.jpg"
-    },
-    {
-      "id": "urgoo-2026-11-11-ghost-soldier",
-      "title": "Ghost Soldier",
-      "titleEn": "Ghost Soldier",
-      "start": "2026-11-11",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Action thriller opening on Urgoo screens. Rated PG-13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "action",
-        "thriller",
-        "new release",
-        "кино",
-        "нээлт",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001951",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001951/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "urlag-2026-11-11-norson-zurkh-musical",
@@ -1736,6 +1689,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png"
     },
     {
+      "id": "urlag-2026-11-21-amarkhuu-khairyn-gegee",
+      "title": "Дуучин Б.Амархүү \"Хайрын гэгээ\" тоглолт",
+      "titleMn": "Б.Амархүү \"Хайрын гэгээ\" тоглолт",
+      "titleEn": "B. Amarkhuu: \"Radiance of Love\" concert",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "М банк арена",
+      "locationEn": "M Bank Arena",
+      "description": "Concert by B. Amarkhuu, a singer and Honoured Artist of Russia's Buryat Republic.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "Buryat",
+        "singer",
+        "концерт",
+        "тоглолт",
+        "буриад"
+      ],
+      "url": "https://urlag.mn/post/161297",
+      "sourceName": "Urlag.mn"
+    },
+    {
       "id": "newsmn-2026-11-21-altan-tsom-wrestling",
       "title": "Алтан цомын төлөөх барилдаан",
       "titleMn": "Алтан цомын төлөөх барилдаан",
@@ -1901,6 +1876,54 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-28-suragch-nas-3",
+      "title": "\"СУРАГЧ НАС 3\" Монгол Бүжгийн Хүүхдийн Их Наадам",
+      "titleMn": "Сурагч нас 3: Монгол Бүжгийн Хүүхдийн Их Наадам",
+      "titleEn": "School Years 3: Mongolian Dance Children's Grand Festival",
+      "start": "2026-11-28",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A grand festival of Mongolian dance performed by children's ensembles.",
+      "category": "Kids & Family",
+      "tags": [
+        "dance",
+        "kids",
+        "festival",
+        "бүжиг",
+        "хүүхэд",
+        "наадам"
+      ],
+      "url": "https://www.ticket.mn/event/3212",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
+      "id": "ticketmn-2026-11-28-suragch-nas-4",
+      "title": "\"СУРАГЧ НАС 4\" Буриад Бүжгийн Хүүхдийн Анхдугаар Их Наадам",
+      "titleMn": "Сурагч нас 4: Буриад Бүжгийн Хүүхдийн Анхдугаар Их Наадам",
+      "titleEn": "School Years 4: First Buryat Dance Children's Grand Festival",
+      "start": "2026-11-28",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "The first grand festival of Buryat dance performed by children's ensembles.",
+      "category": "Kids & Family",
+      "tags": [
+        "dance",
+        "kids",
+        "festival",
+        "бүжиг",
+        "хүүхэд",
+        "наадам"
+      ],
+      "url": "https://www.ticket.mn/event/3211",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
