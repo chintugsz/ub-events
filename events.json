@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T07:18:03+08:00",
+  "updatedAt": "2026-10-29T06:54:21+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -397,29 +397,6 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
     },
     {
-      "id": "montsame-2026-10-28-mongol-empire-diplomacy-conference",
-      "title": "\"Их Монгол улсын дипломат бодлого: Түүх, орчин үе\" олон улсын эрдэм шинжилгээний хурал",
-      "titleMn": "Их Монгол улсын дипломат бодлого: Түүх, орчин үе",
-      "titleEn": "Diplomatic Policy of the Great Mongol State: History and Today (international conference)",
-      "start": "2026-10-28",
-      "allDay": true,
-      "location": "\"Чингис хаан\" үндэсний музей",
-      "locationEn": "Chinggis Khaan National Museum",
-      "description": "International academic conference on the diplomatic policy of the Mongol Empire, past and present.",
-      "category": "Talks & Learning",
-      "tags": [
-        "conference",
-        "history",
-        "diplomacy",
-        "хурал",
-        "түүх"
-      ],
-      "url": "https://montsame.mn/mn/read/413408",
-      "sourceName": "MONTSAME",
-      "lat": 47.922685,
-      "lng": 106.914879
-    },
-    {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
       "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
       "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
@@ -439,56 +416,6 @@
       ],
       "url": "https://www.ub.life/p/261027-gs2n72",
       "sourceName": "UB Life"
-    },
-    {
-      "id": "itworld-2026-10-28-it-world-forum-expo",
-      "title": "IT WORLD ’26 | INTERNATIONAL FORUM & EXPO",
-      "titleMn": "IT WORLD ’26 олон улсын форум, үзэсгэлэн",
-      "titleEn": "IT WORLD ’26 International Forum & Expo",
-      "start": "2026-10-28T08:30",
-      "end": "2026-10-28T16:30",
-      "allDay": false,
-      "location": "“Шангри-Ла” зочид буудал",
-      "locationEn": "Shangri-La Hotel Ulaanbaatar, Olympic Street 19",
-      "description": "One-day IT industry forum and expo run by MITA and other Mongolian IT associations, on AI and data governance, data centres, cybersecurity, public-private cooperation and startups.",
-      "cost": "89,000₮",
-      "category": "Talks & Learning",
-      "tags": [
-        "technology",
-        "AI",
-        "forum",
-        "expo",
-        "мэдээллийн технологи",
-        "форум"
-      ],
-      "url": "https://www.itworldmongolia.mn/",
-      "sourceName": "IT World Mongolia",
-      "image": "https://itworldmongolia.mn/api/og?lang=mn&t=hero&v=2026102107"
-    },
-    {
-      "id": "ubcomedy-2026-10-28-songodog-show",
-      "title": "Сонгодог Шоу",
-      "titleMn": "Сонгодог Шоу",
-      "titleEn": "Classic Show",
-      "start": "2026-10-28T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Stand-up comedy night. Ages 18+; tickets are non-refundable and the lineup may change.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу",
-        "стэндап"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6addc943d6bf32e9fe02f782",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792919875273_cover_10.28%20cover.png"
     },
     {
       "id": "ticketmn-2026-10-29-nekhel-premiere",
