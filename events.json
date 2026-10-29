@@ -393,7 +393,8 @@
       "url": "https://www.mnb.mn/article/teevriin-tsagdaagiin-albany-90-jiliin-oid-zoriulsan-gerel-zurgiin-uzesgelen-gargajee-4631",
       "sourceName": "MNB",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://assets.mnb.mn/media/2026/10/6278c33f56d2-screenshot-2026-10-29-090150.full.webp"
     },
     {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
@@ -508,7 +509,8 @@
       "url": "https://www.tengis.mn/film/bueuenijbaavgajnuudnuuchamgaalagch",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001223/horizontal.jpg"
     },
     {
       "id": "ticketmn-2026-10-30-airagtai-udesh",
@@ -1518,7 +1520,8 @@
         "дуурь"
       ],
       "url": "https://www.ticket.mn/event/3321",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/IMG_7281.png"
     },
     {
       "id": "ticketmn-2026-11-14-mungunii-energiin-nuuts",
@@ -1798,7 +1801,8 @@
         "үзэсгэлэн худалдаа"
       ],
       "url": "https://happeningnext.com/event/iwam-2026-winter-charity-fair-eid1ar6ibudmk",
-      "sourceName": "HappeningNext"
+      "sourceName": "HappeningNext",
+      "image": "https://cdn2.happeningnext.com/ai-banners/ai_banner_6ae308704d3e2.jpg"
     },
     {
       "id": "newsmn-2026-11-21-altan-tsom-wrestling",
@@ -1939,7 +1943,8 @@
       "url": "https://www.ticket.mn/event/3319",
       "sourceName": "Ticket.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/Amarjargal-1200X630.jpg"
     },
     {
       "id": "ticketmn-2026-11-26-quincy-jones-tribute",
