@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T07:21:30+08:00",
+  "updatedAt": "2026-10-30T06:53:47+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -349,31 +349,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/862399599_973145138588775_5171650933282200280_n.jpg"
     },
     {
-      "id": "montsame-2026-10-26-great-tea-road-exhibition",
-      "title": "\"Түмэн газрын цайны зам дагуух монголчууд\" үзэсгэлэн",
-      "titleMn": "Түмэн газрын цайны зам дагуух монголчууд",
-      "titleEn": "Mongolians Along the Great Tea Road (exhibition)",
-      "start": "2026-10-26",
-      "end": "2026-10-29",
-      "allDay": true,
-      "location": "Чингис хааны үндэсний музей",
-      "locationEn": "Chinggis Khaan National Museum",
-      "description": "Photographs and artefacts on how the trading towns of Ikh Khuree, Maimaachin and Kyakhta shaped Mongolia along the tea route. Runs until 29 October.",
-      "category": "Arts & Museums",
-      "tags": [
-        "history",
-        "exhibition",
-        "museum",
-        "түүх",
-        "үзэсгэлэн"
-      ],
-      "url": "https://www.montsame.mn/en/read/413793",
-      "sourceName": "MONTSAME",
-      "lat": 47.922685,
-      "lng": 106.914879,
-      "image": "https://www.montsame.mn/files/medium/6ae060533a6ab.jpeg"
-    },
-    {
       "id": "ublife-2026-10-26-looktv-haunted-house",
       "title": "LookTV Haunted House",
       "titleMn": "LookTV Haunted House",
@@ -418,31 +393,6 @@
       "sourceName": "UB Life"
     },
     {
-      "id": "ticketmn-2026-10-29-nekhel-premiere",
-      "title": "\"НЭХЭЛ\" уран сайхны кино нээлт",
-      "titleMn": "\"Нэхэл\" уран сайхны киноны нээлт",
-      "titleEn": "Nekhel: feature film premiere",
-      "start": "2026-10-29",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Premiere of the Mongolian horror and family film \"Nekhel\" (1 h 25 min, PG-13), watched together with its makers and cast. It opens at Urgoo cinemas the same day.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "premiere",
-        "Mongolian film",
-        "кино",
-        "нээлт",
-        "монгол кино"
-      ],
-      "url": "https://www.ticket.mn/event/3294",
-      "sourceName": "Ticket.mn",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-19T120841.652.png"
-    },
-    {
       "id": "ublife-2026-10-29-mct-ea-ulaanbaatar",
       "title": "MCT EA Ulaanbaatar",
       "titleMn": "Монголын анхны MLBB фестиваль “MCT EA Ulaanbaatar”",
@@ -465,54 +415,6 @@
       "url": "https://www.ub.life/p/261022-rtgxqm",
       "sourceName": "UB Life",
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-55c693bf-de67-41a4-9dd0-5f09959d5a5b.jpg"
-    },
-    {
-      "id": "urlag-2026-10-29-bayarlana-daa",
-      "title": "“Баярлана даа” уран бүтээлийн тоглолт",
-      "titleMn": "“Баярлана даа” уран бүтээлийн тоглолт",
-      "titleEn": "\"Bayarlana Daa\": long-song singer Z. Erdene-Ochir's first concert",
-      "start": "2026-10-29",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian National Wrestling Palace",
-      "description": "The first solo concert by Z. Erdene-Ochir, a singer of urtiin duu (Mongolian long song), named after a song by his teacher, Honoured Artist N. Chuluunkhuu.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "long song",
-        "traditional music",
-        "тоглолт",
-        "уртын дуу"
-      ],
-      "url": "https://urlag.mn/post/160141",
-      "sourceName": "Urlag.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%97.%D0%AD%D1%80%D0%B4%D1%8D%D0%BD%D1%8D-%D0%9E%D1%87%D0%B8%D1%80.png"
-    },
-    {
-      "id": "ubcomedy-2026-10-29-thursday-showcase",
-      "title": "Пүрэв Гарагийн Showcase",
-      "titleMn": "Пүрэв Гарагийн Showcase",
-      "titleEn": "Thursday Showcase",
-      "start": "2026-10-29T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Weekly Thursday stand-up showcase. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "showcase",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6addc9aed6bf32e9fe02f7af",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792919982856_cover_10.29%20cover.png"
     },
     {
       "id": "montsame-2026-10-30-1000-journalists-forum",
