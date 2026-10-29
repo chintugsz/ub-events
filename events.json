@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T06:53:47+08:00",
+  "updatedAt": "2026-10-30T07:15:32+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -372,6 +372,30 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
     },
     {
+      "id": "mnb-2026-10-28-transport-police-90-photo-exhibition",
+      "title": "Тээврийн цагдаагийн албаны 90 жилийн ойд зориулсан гэрэл зургийн үзэсгэлэн",
+      "titleMn": "Тээврийн цагдаагийн албаны 90 жилийн ойн гэрэл зургийн үзэсгэлэн",
+      "titleEn": "Transport Police 90th anniversary photo exhibition",
+      "start": "2026-10-28",
+      "end": "2026-10-30",
+      "allDay": true,
+      "location": "Соёлын төв өргөөний \"Уран зургийн галерей\"",
+      "locationEn": "Art Gallery, Central Cultural Palace",
+      "description": "More than 900 photographs of the Transport Police Service's history and of its officers' work, daily life and families. Open until 30 October.",
+      "category": "Arts & Museums",
+      "tags": [
+        "photography",
+        "exhibition",
+        "history",
+        "гэрэл зураг",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.mnb.mn/article/teevriin-tsagdaagiin-albany-90-jiliin-oid-zoriulsan-gerel-zurgiin-uzesgelen-gargajee-4631",
+      "sourceName": "MNB",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
       "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
       "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
@@ -461,6 +485,30 @@
       "sourceName": "MONTSAME",
       "lat": 47.854437,
       "lng": 106.784967
+    },
+    {
+      "id": "tengis-2026-10-30-boonie-bears-secret-guardian",
+      "title": "Бүүний Баавгайнууд: Нууц Хамгаалагч",
+      "titleMn": "Бүүний Баавгайнууд: Нууц Хамгаалагч",
+      "titleEn": "Boonie Bears: The Secret Guardian",
+      "start": "2026-10-30",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Animated family film (1 h 38 min) opening at Tengis. Rated G 0+.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "new release",
+        "кино",
+        "хүүхэлдэйн кино"
+      ],
+      "url": "https://www.tengis.mn/film/bueuenijbaavgajnuudnuuchamgaalagch",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "ticketmn-2026-10-30-airagtai-udesh",
@@ -976,6 +1024,25 @@
       "sourceName": "Mongolian Basketball Association"
     },
     {
+      "id": "mba-2026-11-04-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/04)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (4 Nov)",
+      "start": "2026-11-04T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Sono Brothers vs SUA TLG Tushig Bagana at 18:00 and SG Apes vs Selenge Bodons at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
       "id": "urlag-2026-11-05-jargaagui-nar",
       "title": "\"Жаргаагүй нар\" түүхэн эмгэнэлт жүжиг",
       "titleMn": "Жаргаагүй нар",
@@ -1098,6 +1165,25 @@
       "image": "https://new.urgoo.mn/movies/HO00001902/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "mba-2026-11-06-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/06)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (6 Nov)",
+      "start": "2026-11-06T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Sono Brothers vs Khan Falcons at 15:30, BCH Knights vs SUA TLG Tushig Bagana at 18:00 and Selenge Bodons vs South Gobi Broncos at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
       "id": "ticketmn-2026-11-07-hot-stage-kpop-masterz",
       "title": "HOT STAGE x K*POP MASTERZ CONCERT",
       "titleEn": "HOT STAGE × K-POP MASTERZ in Ulaanbaatar 2026",
@@ -1188,6 +1274,63 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://assets.mnb.mn/media/2026/10/d3639dade55e-image.full.webp"
+    },
+    {
+      "id": "mba-2026-11-07-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/07)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (7 Nov)",
+      "start": "2026-11-07T16:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Darkhan United vs Omni Erdenet Miners at 16:00 and Western Warriors vs SG Apes at 18:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-11-08-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/08)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (8 Nov)",
+      "start": "2026-11-08T16:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Sono Brothers vs BCH Knights at 16:00 and South Gobi Broncos vs Khan Falcons at 18:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-11-09-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/09)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (9 Nov)",
+      "start": "2026-11-09T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Selenge Bodons vs SUA TLG Tushig Bagana at 18:00 and SG Apes vs Omni Erdenet Miners at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -1355,6 +1498,27 @@
       "lat": 47.847528,
       "lng": 106.793257,
       "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-14-khuurkhun-khaliun",
+      "title": "\"ХӨӨРХӨН ХАЛИУН\" тоглолт",
+      "titleMn": "\"Хөөрхөн халиун\" тоглолт",
+      "titleEn": "\"Lovely Khaliun\" concert",
+      "start": "2026-11-14",
+      "allDay": true,
+      "location": "Skywing center",
+      "locationEn": "Skywing Center, Zaisan",
+      "description": "A classical concert of arias and songs by Puccini and Verdi and by Mongolian composers D. Luvsansharav and B. Sharav.",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "opera",
+        "concert",
+        "сонгодог",
+        "дуурь"
+      ],
+      "url": "https://www.ticket.mn/event/3321",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-11-14-mungunii-energiin-nuuts",
@@ -1614,6 +1778,29 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%90%D0%BC%D0%B0%D1%80%D1%85%D2%AF%D2%AF.png"
     },
     {
+      "id": "happeningnext-2026-11-21-iwam-winter-charity-fair",
+      "title": "IWAM 2026 Winter Charity Fair",
+      "titleMn": "IWAM 2026 өвлийн хандивын үзэсгэлэн худалдаа",
+      "titleEn": "IWAM 2026 Winter Charity Fair",
+      "start": "2026-11-21T10:00",
+      "end": "2026-11-21T15:00",
+      "allDay": false,
+      "location": "International School of Ulaanbaatar (opposite Khan-Uul Emart)",
+      "locationEn": "International School of Ulaanbaatar (opposite Khan-Uul Emart)",
+      "description": "The International Women's Association of Mongolia's winter charity fair, with local artisans, food, raffles and handmade crafts. Proceeds go to local charities.",
+      "category": "Community & Civic",
+      "tags": [
+        "charity",
+        "fair",
+        "crafts",
+        "market",
+        "хандив",
+        "үзэсгэлэн худалдаа"
+      ],
+      "url": "https://happeningnext.com/event/iwam-2026-winter-charity-fair-eid1ar6ibudmk",
+      "sourceName": "HappeningNext"
+    },
+    {
       "id": "newsmn-2026-11-21-altan-tsom-wrestling",
       "title": "Алтан цомын төлөөх барилдаан",
       "titleMn": "Алтан цомын төлөөх барилдаан",
@@ -1731,6 +1918,28 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-26-minii-jinkhene-amidral",
+      "title": "\"Миний жинхэнэ амьдрал\" тоглолт",
+      "titleMn": "\"Миний жинхэнэ амьдрал\" тоглолт",
+      "titleEn": "\"My Real Life\" concert",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A concert by singer B. Amarjargal, Honoured Artist, of the \"Ulaanbaatar\" theatre.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "singer",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3319",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "ticketmn-2026-11-26-quincy-jones-tribute",
