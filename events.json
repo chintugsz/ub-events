@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T06:54:15+08:00",
+  "updatedAt": "2026-10-31T07:15:27+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -784,6 +784,27 @@
       "sourceName": "Mongolian Basketball Association"
     },
     {
+      "id": "ticketmn-2026-11-04-nomadic-legend",
+      "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
+      "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
+      "titleEn": "Nomadic Legend – folk art and heritage show",
+      "start": "2026-11-04T17:00",
+      "end": "2026-11-30",
+      "allDay": false,
+      "location": "ТБД андуудын баруун талд \"ГАН ЗАМ\" палас",
+      "locationEn": "\"Gan Zam\" Palace",
+      "description": "The Tsagaan Lavai ensemble's folk-art and cultural-heritage show at 17:00. Ticket.mn lists shows on 4, 6–8, 12–14, 16, 18–21, 23, 25–28 and 30 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional",
+        "ардын урлаг",
+        "өв соёл"
+      ],
+      "url": "https://www.ticket.mn/event/2607",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "mba-2026-11-04-the-league-games",
       "title": "The League: сагсан бөмбөгийн тоглолтууд (11/04)",
       "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
@@ -1258,6 +1279,28 @@
       "lat": 47.847528,
       "lng": 106.793257,
       "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-14-khos-egshiglen",
+      "title": "\"ХОС ЭГШИГЛЭН\" тоглолт",
+      "titleMn": "\"Хос эгшиглэн\" тоглолт",
+      "titleEn": "\"Khos Egshiglen\" (A Pair in Harmony) concert",
+      "start": "2026-11-14",
+      "allDay": true,
+      "location": "МҮЭСТО",
+      "locationEn": "Mongolian Trade Union Cultural Center Palace",
+      "description": "A concert by a married pair of artists, looking back on their student days and the years they have shared in life and music.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "singers",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3324",
+      "sourceName": "Ticket.mn",
+      "lat": 47.914228,
+      "lng": 106.893028
     },
     {
       "id": "ticketmn-2026-11-14-khuurkhun-khaliun",
