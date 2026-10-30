@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T07:15:32+08:00",
+  "updatedAt": "2026-10-31T06:54:15+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -178,33 +178,6 @@
       "lng": 106.914879
     },
     {
-      "id": "ikon-2026-10-02-domogt-khatad-haan-gallery",
-      "title": "Домогт хатад",
-      "titleMn": "Домогт хатад",
-      "titleEn": "Legendary Queens (sculpture exhibition by B. Ochirsuren)",
-      "start": "2026-10-02",
-      "end": "2026-10-30",
-      "allDay": true,
-      "location": "ХААН галерей, ХААН банк тауэр 3 давхар",
-      "locationEn": "HAAN Gallery, 3rd floor, HAAN Bank Tower",
-      "description": "Exhibition by sculptor B. Ochirsuren on Mongolia's legendary queens, open 10:00–18:00 on working days through October 30.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "sculpture",
-        "queens",
-        "history",
-        "үзэсгэлэн",
-        "баримал",
-        "хатад"
-      ],
-      "url": "https://ikon.mn/n/3qvq",
-      "sourceName": "iKon.mn",
-      "lat": 47.903719,
-      "lng": 106.911959,
-      "image": "https://content.ikon.mn/news/2026/10/8/3ce7b6_Legend_of_the_Queens_cover_16x9_x974.jpg"
-    },
-    {
       "id": "nationalmuseum-2026-10-10-udshiin-muzei-sotsializm",
       "title": "Үдшийн музей – Социализмаар аялцгаая",
       "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
@@ -229,28 +202,6 @@
       "sourceName": "National Museum of Mongolia",
       "lat": 47.920838,
       "lng": 106.915355
-    },
-    {
-      "id": "ticketmn-2026-10-13-nomadic-legend",
-      "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
-      "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
-      "titleEn": "Nomadic Legend – folk art and heritage show",
-      "start": "2026-10-13",
-      "end": "2026-10-30",
-      "allDay": true,
-      "location": "ТБД андуудын баруун талд \"ГАН ЗАМ\" палас",
-      "locationEn": "\"Gan Zam\" Palace",
-      "description": "Daily folk-art and cultural-heritage performance; Ticket.mn lists shows every day until 30 October.",
-      "category": "Music & Performance",
-      "tags": [
-        "folk",
-        "traditional",
-        "ардын урлаг",
-        "өв соёл"
-      ],
-      "url": "https://www.ticket.mn/event/2607",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
     },
     {
       "id": "ticketmn-2026-10-13-bugd-ineeh-durtai",
@@ -372,31 +323,6 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
     },
     {
-      "id": "mnb-2026-10-28-transport-police-90-photo-exhibition",
-      "title": "Тээврийн цагдаагийн албаны 90 жилийн ойд зориулсан гэрэл зургийн үзэсгэлэн",
-      "titleMn": "Тээврийн цагдаагийн албаны 90 жилийн ойн гэрэл зургийн үзэсгэлэн",
-      "titleEn": "Transport Police 90th anniversary photo exhibition",
-      "start": "2026-10-28",
-      "end": "2026-10-30",
-      "allDay": true,
-      "location": "Соёлын төв өргөөний \"Уран зургийн галерей\"",
-      "locationEn": "Art Gallery, Central Cultural Palace",
-      "description": "More than 900 photographs of the Transport Police Service's history and of its officers' work, daily life and families. Open until 30 October.",
-      "category": "Arts & Museums",
-      "tags": [
-        "photography",
-        "exhibition",
-        "history",
-        "гэрэл зураг",
-        "үзэсгэлэн"
-      ],
-      "url": "https://www.mnb.mn/article/teevriin-tsagdaagiin-albany-90-jiliin-oid-zoriulsan-gerel-zurgiin-uzesgelen-gargajee-4631",
-      "sourceName": "MNB",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://assets.mnb.mn/media/2026/10/6278c33f56d2-screenshot-2026-10-29-090150.full.webp"
-    },
-    {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
       "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
       "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
@@ -442,29 +368,6 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-55c693bf-de67-41a4-9dd0-5f09959d5a5b.jpg"
     },
     {
-      "id": "montsame-2026-10-30-1000-journalists-forum",
-      "title": "1000 сэтгүүлчийн форум",
-      "titleMn": "1000 сэтгүүлчийн форум",
-      "titleEn": "1,000 Journalists Forum",
-      "start": "2026-10-30",
-      "allDay": true,
-      "location": "Монголын Хүүхдийн ордон",
-      "locationEn": "Mongolian Children's Palace",
-      "description": "Large forum for journalists and media professionals.",
-      "category": "Talks & Learning",
-      "tags": [
-        "forum",
-        "media",
-        "journalism",
-        "форум",
-        "сэтгүүл зүй"
-      ],
-      "url": "https://montsame.mn/mn/read/413408",
-      "sourceName": "MONTSAME",
-      "lat": 47.912728,
-      "lng": 106.916088
-    },
-    {
       "id": "montsame-2026-10-30-zavkhan-2026-sports-festival",
       "title": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
       "titleMn": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
@@ -486,53 +389,6 @@
       "sourceName": "MONTSAME",
       "lat": 47.854437,
       "lng": 106.784967
-    },
-    {
-      "id": "tengis-2026-10-30-boonie-bears-secret-guardian",
-      "title": "Бүүний Баавгайнууд: Нууц Хамгаалагч",
-      "titleMn": "Бүүний Баавгайнууд: Нууц Хамгаалагч",
-      "titleEn": "Boonie Bears: The Secret Guardian",
-      "start": "2026-10-30",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Animated family film (1 h 38 min) opening at Tengis. Rated G 0+.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "animation",
-        "family",
-        "new release",
-        "кино",
-        "хүүхэлдэйн кино"
-      ],
-      "url": "https://www.tengis.mn/film/bueuenijbaavgajnuudnuuchamgaalagch",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001223/horizontal.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-30-airagtai-udesh",
-      "title": "АЙРАГТАЙ ҮДЭШ",
-      "titleMn": "Айрагтай үдэш",
-      "titleEn": "Evening with Airag",
-      "start": "2026-10-30",
-      "allDay": true,
-      "location": "FLORA Wedding Hall — ХУД, Зайсан, Цацралт төвийн 4 давхар",
-      "locationEn": "FLORA Wedding Hall, 4th floor of Tsatsralt Center, Zaisan, Khan-Uul District",
-      "description": "An evening promoting Mongolian national arts and cultural heritage.",
-      "category": "Music & Performance",
-      "tags": [
-        "culture",
-        "heritage",
-        "airag",
-        "айраг",
-        "соёл"
-      ],
-      "url": "https://www.ticket.mn/event/3248",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/airag-poster-1200X630-copy-1.jpg"
     },
     {
       "id": "ticketmn-2026-10-30-mongolian-wonders-of-art",
@@ -579,56 +435,6 @@
       "url": "https://www.ticket.mn/event/3286",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/1200x630px-Size-copy_265.jpg"
-    },
-    {
-      "id": "urgoo-2026-10-30-shaun-the-sheep-beast-of-mossy-bottom",
-      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "titleEn": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "start": "2026-10-30",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Animated family comedy (1 h 20 min) opening on Urgoo screens. Rated PG.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "animation",
-        "family",
-        "new release",
-        "кино",
-        "хүүхэлдэйн кино",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001944",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001944/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-10-30-the-cycle",
-      "title": "The Cycle",
-      "titleMn": "The Cycle",
-      "titleEn": "The Cycle",
-      "start": "2026-10-30",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Horror-thriller (1 h 51 min, PG-13) about a woman who digs into the hidden past of her father, missing for 36 years, after his body is found. Opens at Urgoo cinemas.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "horror",
-        "thriller",
-        "new release",
-        "кино",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001955",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001955/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-10-30-addams-family-musical",
@@ -707,55 +513,6 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-10-30-spooky-sapporo",
-      "title": "Spooky Sapporo",
-      "titleMn": "Spooky Sapporo",
-      "titleEn": "Spooky Sapporo",
-      "start": "2026-10-30T19:30",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Halloween-week stand-up comedy show. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "Halloween",
-        "18+",
-        "инээдмийн шоу",
-        "Хэллоуин"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6addca29d6bf32e9fe02f7ed",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792920105835_cover_10.30%20cover.png"
-    },
-    {
-      "id": "ubcomedy-2026-10-30-friday-after-hours",
-      "title": "Friday After Hours",
-      "titleMn": "Friday After Hours",
-      "titleEn": "Friday After Hours",
-      "start": "2026-10-30T22:30",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Late-night Friday stand-up show. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "late night",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6addcef3d6bf32e9fe02f893",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792921331031_cover_10.30%20cover%202.png"
     },
     {
       "id": "ikon-2026-10-31-encanto-halloween",
