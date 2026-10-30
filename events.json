@@ -802,7 +802,8 @@
         "өв соёл"
       ],
       "url": "https://www.ticket.mn/event/2607",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
     },
     {
       "id": "mba-2026-11-04-the-league-games",
@@ -1300,7 +1301,8 @@
       "url": "https://www.ticket.mn/event/3324",
       "sourceName": "Ticket.mn",
       "lat": 47.914228,
-      "lng": 106.893028
+      "lng": 106.893028,
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-30T133548.520.png"
     },
     {
       "id": "ticketmn-2026-11-14-khuurkhun-khaliun",
