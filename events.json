@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T07:15:27+08:00",
+  "updatedAt": "2026-11-01T06:54:11+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -276,30 +276,6 @@
       "image": "https://montsame.mn/files/medium/6acf01bd049a2.jpeg"
     },
     {
-      "id": "urlag-2026-10-24-chin-zurkhnii-delbee",
-      "title": "“Чин зүрхний дэлбээ” хамтарсан үзэсгэлэн",
-      "titleMn": "“Чин зүрхний дэлбээ” хамтарсан үзэсгэлэн",
-      "titleEn": "Petals of a Sincere Heart (joint painting exhibition)",
-      "start": "2026-10-24",
-      "end": "2026-10-31",
-      "allDay": true,
-      "location": "Монголын Урчуудын Эвлэлийн галерей, Сүхбаатарын талбайн урд",
-      "locationEn": "Union of Mongolian Artists Gallery, south of Sukhbaatar Square",
-      "description": "Joint painting exhibition by Ya. Bulgan and Ö. Barkhüü, open daily 10:00–18:00 until 31 October.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "painting",
-        "үзэсгэлэн",
-        "уран зураг"
-      ],
-      "url": "https://urlag.mn/post/160794",
-      "sourceName": "Urlag.mn",
-      "lat": 47.919045,
-      "lng": 106.91755,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/862399599_973145138588775_5171650933282200280_n.jpg"
-    },
-    {
       "id": "ublife-2026-10-26-looktv-haunted-house",
       "title": "LookTV Haunted House",
       "titleMn": "LookTV Haunted House",
@@ -342,30 +318,6 @@
       ],
       "url": "https://www.ub.life/p/261027-gs2n72",
       "sourceName": "UB Life"
-    },
-    {
-      "id": "ublife-2026-10-29-mct-ea-ulaanbaatar",
-      "title": "MCT EA Ulaanbaatar",
-      "titleMn": "Монголын анхны MLBB фестиваль “MCT EA Ulaanbaatar”",
-      "titleEn": "MCT EA Ulaanbaatar: Mobile Legends esports festival",
-      "start": "2026-10-29",
-      "end": "2026-10-31",
-      "allDay": true,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "International Mobile Legends: Bang Bang esports tournament with six teams from China, Mongolia, Japan and South Korea. The finals are on 31 October, with a performance by rapper Trishna, plus watch parties and in-game prize draws.",
-      "category": "Sports",
-      "tags": [
-        "esports",
-        "MLBB",
-        "Mobile Legends",
-        "gaming",
-        "киберспорт",
-        "тэмцээн"
-      ],
-      "url": "https://www.ub.life/p/261022-rtgxqm",
-      "sourceName": "UB Life",
-      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-55c693bf-de67-41a4-9dd0-5f09959d5a5b.jpg"
     },
     {
       "id": "montsame-2026-10-30-zavkhan-2026-sports-festival",
@@ -413,52 +365,6 @@
       "url": "https://www.ticket.mn/event/3272",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
-    },
-    {
-      "id": "ticketmn-2026-10-30-remember-me-coco",
-      "title": "НАМАЙГ ДУРСААРАЙ КОКО",
-      "titleMn": "Намайг дурсаарай, Коко",
-      "titleEn": "Remember Me, Coco (children's play)",
-      "start": "2026-10-30",
-      "end": "2026-10-31",
-      "allDay": true,
-      "location": "Ug palace event hall",
-      "locationEn": "UG Palace event hall",
-      "description": "Children's play about Miguel, a boy who loves music although his family bans it, and his journey through Mexican festivities and the spirit world. Plays on 30 and 31 October.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "theatre",
-        "Coco",
-        "хүүхдийн жүжиг",
-        "Коко"
-      ],
-      "url": "https://www.ticket.mn/event/3286",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/1200x630px-Size-copy_265.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-30-addams-family-musical",
-      "title": "\"THE ADDAMS FAMILY\" мюзикл",
-      "titleMn": "Аддамсын гэр бүл",
-      "titleEn": "The Addams Family (musical)",
-      "start": "2026-10-30T15:00",
-      "end": "2026-10-31",
-      "allDay": false,
-      "location": "Улсын хүүхэд залуучуудын театр",
-      "locationEn": "State Youth and Children's Theatre",
-      "description": "Officially licensed staging of The Addams Family musical, a comedy about being yourself and being different, at 15:00 on 30 and 31 October.",
-      "category": "Music & Performance",
-      "tags": [
-        "musical",
-        "theatre",
-        "мюзикл",
-        "театр",
-        "halloween"
-      ],
-      "url": "https://www.ticket.mn/event/2842",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/addams_stand2.jpg"
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -516,28 +422,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
     },
     {
-      "id": "ikon-2026-10-31-encanto-halloween",
-      "title": "Хамгийн гоё Halloween Encanto Centro Mall-д болно",
-      "titleMn": "Halloween, Encanto Centro Mall",
-      "titleEn": "Halloween at Encanto Centro Mall",
-      "start": "2026-10-31",
-      "allDay": true,
-      "location": "Encanto Centro Mall, Нарны зам",
-      "locationEn": "Encanto Centro Mall, Narny Zam",
-      "description": "Halloween day at the mall with a cosplay contest, free face painting for children and a candy booth.",
-      "category": "Kids & Family",
-      "tags": [
-        "Halloween",
-        "cosplay",
-        "family",
-        "Хэллоуин",
-        "косплей"
-      ],
-      "url": "https://ikon.mn/n/3r7t",
-      "sourceName": "iKon.mn",
-      "image": "https://content.ikon.mn/news/2026/10/22/comtla_1.Banner_x974.jpg"
-    },
-    {
       "id": "montsame-2026-10-15-bravo-circus",
       "title": "“BRAVO CIRCUS” циркийн тоглолт",
       "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
@@ -561,28 +445,6 @@
       "lng": 106.935278,
       "end": "2026-11-01",
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
-    },
-    {
-      "id": "ticketmn-2026-10-31-eejdee",
-      "title": "\"ЭЭЖДЭЭ\" хандивын тоглолт",
-      "titleMn": "Ээждээ",
-      "titleEn": "For Mom – charity concert",
-      "start": "2026-10-31",
-      "allDay": true,
-      "location": "МҮЭСТО",
-      "locationEn": "Mongolian Trade Unions' Cultural Centre (MUESTO)",
-      "description": "Charity concert titled \"Eejdee\" (For Mom).",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "charity",
-        "хандивын тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3281",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T121736.644.png",
-      "lat": 47.914228,
-      "lng": 106.893028
     },
     {
       "id": "ticketmn-2026-10-31-khuukheldein-chinee-eej",
@@ -629,31 +491,6 @@
       "url": "https://www.ticket.mn/event/2723",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-10-31-halloween-laughter",
-      "title": "Halloween Laughter",
-      "titleMn": "Halloween Laughter",
-      "titleEn": "Halloween Laughter",
-      "start": "2026-10-31T19:30",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Halloween-night stand-up comedy show. Ages 18+; arrive 30 minutes early.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "Halloween",
-        "18+",
-        "инээдмийн шоу",
-        "Хэллоуин"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6addcf48d6bf32e9fe02f8ad",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1792921416383_cover_10.31%20cover.png"
     },
     {
       "id": "mba-2026-11-01-the-league-games",
