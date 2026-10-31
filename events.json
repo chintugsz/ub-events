@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:54:11+08:00",
+  "updatedAt": "2026-11-01T07:15:19+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -975,6 +975,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/ticket-hevtee_6297.jpg"
     },
     {
+      "id": "urlag-2026-11-11-jonon-20th-anniversary",
+      "title": "\"Жонон\" хамтлагийн 20 жилийн ойн тоглолт",
+      "titleMn": "\"Жонон\" хамтлагийн 20 жилийн ойн тоглолт",
+      "titleEn": "Jonon band: 20th anniversary concert",
+      "start": "2026-11-11",
+      "allDay": true,
+      "location": "Корпорэйт конвеншн центр",
+      "locationEn": "Corporate Convention Centre",
+      "description": "Jonon, formed in 2006 by graduates of the State University of Arts and Culture, mixes national instruments with drums and electric guitar. Its 20th-anniversary concert is staged in a film-and-theatre style.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "band",
+        "folk rock",
+        "national instruments",
+        "концерт",
+        "хамтлаг"
+      ],
+      "url": "https://urlag.mn/post/161584",
+      "sourceName": "Urlag.mn"
+    },
+    {
       "id": "urlag-2026-11-11-norson-zurkh-musical",
       "title": "Норсон зүрх",
       "titleMn": "Норсон зүрх",
@@ -1683,6 +1705,28 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-60.png"
+    },
+    {
+      "id": "urlag-2026-11-28-blu-divine-album-party",
+      "title": "Реппер BLU \"Divine\" цомгийн үдэшлэг",
+      "titleMn": "Реппер BLU-ийн \"Divine\" цомгийн үдэшлэг",
+      "titleEn": "Rapper BLU: \"Divine\" album party",
+      "start": "2026-11-28",
+      "allDay": true,
+      "location": "MPM Event Hall",
+      "locationEn": "MPM Event Hall",
+      "description": "Rapper BLU celebrates his first solo album, \"Divine\". Guest artists are to be announced.",
+      "category": "Music & Performance",
+      "tags": [
+        "hip hop",
+        "rap",
+        "album release",
+        "party",
+        "хип хоп",
+        "реп"
+      ],
+      "url": "https://urlag.mn/post/161181",
+      "sourceName": "Urlag.mn"
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
