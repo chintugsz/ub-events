@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T07:15:19+08:00",
+  "updatedAt": "2026-11-02T06:53:58+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -150,34 +150,6 @@
       "image": "https://www.artavenue.mn/uploads/6/9/6/3/69639339/img-6218.jpeg"
     },
     {
-      "id": "chinggismuseum-2026-09-30-raphael-and-bernini",
-      "title": "Их далайн салхи тал нутагт: Рафаэл ба Бернини",
-      "titleMn": "Их далайн салхи тал нутагт: Рафаэл ба Бернини",
-      "titleEn": "The Wind of the Great Ocean Across the Steppe: Raphael and Bernini",
-      "start": "2026-09-30",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Chinggis Khaan National Museum, 9th-floor special exhibition hall, J. Sambuu Street, Chingeltei District",
-      "locationEn": "Chinggis Khaan National Museum, 9th-floor special exhibition hall",
-      "description": "Special exhibition of works linked to Raphael and Bernini, open from September 30 until November 1. The museum's Mongolian announcement gives the ticket price as 20,000 MNT.",
-      "cost": "20,000₮",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "Renaissance",
-        "Baroque",
-        "Italy",
-        "museum",
-        "үзэсгэлэн",
-        "музей",
-        "Рафаэл"
-      ],
-      "url": "https://chinggismuseum.com/en/blogs/6abccbeea8e568fff17b39d3",
-      "sourceName": "Chinggis Khaan National Museum",
-      "lat": 47.922685,
-      "lng": 106.914879
-    },
-    {
       "id": "nationalmuseum-2026-10-10-udshiin-muzei-sotsializm",
       "title": "Үдшийн музей – Социализмаар аялцгаая",
       "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
@@ -251,54 +223,6 @@
       "lng": 106.90967
     },
     {
-      "id": "montsame-2026-10-23-national-chess-championship",
-      "title": "Монгол Улсын 2026 оны аварга шалгаруулах эрэгтэйчүүдийн 64, эмэгтэйчүүдийн 56 дахь удаагийн шигшээ тэмцээн",
-      "titleMn": "Шатрын Монгол Улсын 2026 оны аварга шалгаруулах шигшээ тэмцээн",
-      "titleEn": "2026 Mongolian National Chess Championship finals (64th men's, 56th women's)",
-      "start": "2026-10-23",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "МҮЭСТО",
-      "locationEn": "Mongolian Trade Union Cultural Center Palace (MUESTO)",
-      "description": "The final of the national chess championship, with 12 players in each of the men's and women's sections. The top five in each section earn places at the Asian Team Championship in Abu Dhabi.",
-      "category": "Sports",
-      "tags": [
-        "chess",
-        "championship",
-        "шатар",
-        "тэмцээн",
-        "аварга"
-      ],
-      "url": "https://montsame.mn/mn/read/412462",
-      "sourceName": "MONTSAME",
-      "lat": 47.914228,
-      "lng": 106.893028,
-      "image": "https://montsame.mn/files/medium/6acf01bd049a2.jpeg"
-    },
-    {
-      "id": "ublife-2026-10-26-looktv-haunted-house",
-      "title": "LookTV Haunted House",
-      "titleMn": "LookTV Haunted House",
-      "titleEn": "LookTV Haunted House",
-      "start": "2026-10-26",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Пассаж төв",
-      "locationEn": "Passage Center",
-      "description": "LookTV's week-long Halloween haunted house, now in its third year, built around stories of people who vanished without a trace. Visitors take part in the story.",
-      "cost": "14,900₮",
-      "category": "Other",
-      "tags": [
-        "Halloween",
-        "haunted house",
-        "аймшгийн байшин",
-        "Хэллоуин"
-      ],
-      "url": "https://www.ub.life/p/261022-mz7w1w",
-      "sourceName": "UB Life",
-      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-42aced1b-4f1d-4caa-81b7-176418bc657d.jpg"
-    },
-    {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
       "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
       "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
@@ -318,53 +242,6 @@
       ],
       "url": "https://www.ub.life/p/261027-gs2n72",
       "sourceName": "UB Life"
-    },
-    {
-      "id": "montsame-2026-10-30-zavkhan-2026-sports-festival",
-      "title": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
-      "titleMn": "\"Завхан 2026\" спортын хоёрдугаар их наадам",
-      "titleEn": "Zavkhan 2026: 2nd grand sports festival",
-      "start": "2026-10-30",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Буянт-Ухаа спортын ордон",
-      "locationEn": "Buyant-Ukhaa Sports Palace",
-      "description": "Multi-sport festival organised by the Zavkhan aimag native council, over three days.",
-      "category": "Sports",
-      "tags": [
-        "sports festival",
-        "спорт",
-        "наадам",
-        "Завхан"
-      ],
-      "url": "https://montsame.mn/mn/read/413408",
-      "sourceName": "MONTSAME",
-      "lat": 47.854437,
-      "lng": 106.784967,
-      "image": "https://montsame.mn/files/medium/6adad09817fd2.jpeg"
-    },
-    {
-      "id": "ticketmn-2026-10-30-mongolian-wonders-of-art",
-      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
-      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
-      "titleEn": "Wonders of Mongolian Art (folk performance)",
-      "start": "2026-10-30",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Зам тээврийн яам, Их нүүдэл танхим",
-      "locationEn": "Ministry of Road and Transport, \"Ikh Nuudel\" hall",
-      "description": "A folk-art show by the \"Khuur Magnai\" ensemble with long song, horse-head fiddle and traditional dance. On 30 October and 1 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "folk",
-        "traditional music",
-        "morin khuur",
-        "ардын урлаг",
-        "морин хуур"
-      ],
-      "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -393,123 +270,6 @@
       "lat": 47.918775,
       "lng": 106.921609,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
-    },
-    {
-      "id": "urlag-2026-10-30-suulchiin-boroo",
-      "title": "Сүүлчийн бороо",
-      "titleMn": "Сүүлчийн бороо",
-      "titleEn": "The Last Rain",
-      "start": "2026-10-30T19:00",
-      "end": "2026-11-01",
-      "allDay": false,
-      "location": "РЦНК /Оросын шинжлэх ухаан, соёлын төв/",
-      "locationEn": "Russian Centre for Science and Culture",
-      "description": "Meta-drama by the \"Pro\" theatre based on Vampilov's \"Duck Hunting\", staged October 30, 31 and November 1 from 19:00.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "meta-drama",
-        "Vampilov",
-        "play",
-        "жүжиг",
-        "мета драм",
-        "театр"
-      ],
-      "url": "https://urlag.mn/post/159750",
-      "sourceName": "Urlag.mn",
-      "lat": 47.926224,
-      "lng": 106.935273,
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/840191599_1551669880337753_8498265990241820457_n.jpg"
-    },
-    {
-      "id": "montsame-2026-10-15-bravo-circus",
-      "title": "“BRAVO CIRCUS” циркийн тоглолт",
-      "titleMn": "“BRAVO CIRCUS” циркийн тоглолт",
-      "titleEn": "BRAVO CIRCUS show",
-      "start": "2026-10-31",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A circus show at the Mongolian Wrestling Palace, with two shows a day on 31 October and 1 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "circus",
-        "show",
-        "family",
-        "цирк",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3258",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "end": "2026-11-01",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-89.png"
-    },
-    {
-      "id": "ticketmn-2026-10-31-khuukheldein-chinee-eej",
-      "title": "\"Хүүхэлдэйн чинээ ээж\" хүүхэлдэйн жүжиг",
-      "titleMn": "Хүүхэлдэйн чинээ ээж",
-      "titleEn": "A Mum the Size of a Doll (puppet play)",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "A puppet play about a wilful girl who leaves home after quarrelling with her mother and meets a strange creature called \"Resentment\". On 31 October and 1 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн театр",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/2856",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/huuheldei_eej_stand.jpg"
-    },
-    {
-      "id": "ticketmn-2026-10-31-my-lovely-tooth-journey",
-      "title": "\"Миний хөөрхөн шүдний аялал\"",
-      "titleMn": "Миний хөөрхөн шүдний аялал",
-      "titleEn": "My Lovely Tooth's Journey (children's puppet show)",
-      "start": "2026-10-31",
-      "end": "2026-11-01",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "A children's puppet play about a five-year-old who won't brush his teeth and learns why it matters in a dream adventure. On 31 October and 1 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн театр",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/2723",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/shudnii_aylal_stand_e2un9yQ.jpg"
-    },
-    {
-      "id": "mba-2026-11-01-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/01)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (1 Nov)",
-      "start": "2026-11-01T11:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Three men's games: Khaan Shonkhoruud vs Baruuny Daichid at 11:00, BCH Knights vs Darkhan United at 13:30, and Omni Erdenet Miners vs Ömnögoviin Khülegüüd at 16:00.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
