@@ -442,7 +442,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ae6ffd27be6bb4ff67b3be9",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1793523666149_cover_11.4%20cover.png"
     },
     {
       "id": "urlag-2026-11-05-jargaagui-nar",
@@ -489,7 +490,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ae700c77be6bb4ff67b3c11",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1793523911095_cover_11.5%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
@@ -629,7 +631,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ae7011c7be6bb4ff67b3c21",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1793523995998_cover_11.6%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-07-hot-stage-kpop-masterz",
@@ -763,7 +766,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ae701687be6bb4ff67b3c2f",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1793524072587_cover_11.7%20cover.png"
     },
     {
       "id": "mba-2026-11-08-the-league-games",
@@ -1626,7 +1630,8 @@
         "концерт"
       ],
       "url": "https://www.ticket.mn/event/3309",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T163051.418.png"
     }
   ]
 }
