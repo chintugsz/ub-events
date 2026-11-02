@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T07:13:53+08:00",
+  "updatedAt": "2026-11-03T06:53:53+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -272,51 +272,6 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
     },
     {
-      "id": "ticketmn-2026-11-02-bujignuulna-khoyuulaa",
-      "title": "\"БУЖИГНУУЛНА ХОЁУЛАА\" уран бүтээлийн тоглолт",
-      "titleMn": "Бужигнуулна хоёулаа",
-      "titleEn": "Bujignuulna Khoyuulaa – concert",
-      "start": "2026-11-02",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A concert of the artists' work; performers are not named on the listing.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "тоглолт",
-        "уран бүтээлийн тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3284",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-12T122947.959.png"
-    },
-    {
-      "id": "ticketmn-2026-11-02-tengeriin-elch-temujin",
-      "title": "\"ТЭНГЭРИЙН ЭЛЧ ТЭМҮЖИН\" жүжиг",
-      "titleMn": "\"Тэнгэрийн элч Тэмүжин\" жүжиг",
-      "titleEn": "Temüjin, Envoy of Heaven (play)",
-      "start": "2026-11-02",
-      "allDay": true,
-      "location": "Улсын хүүхэд залуучуудын театр",
-      "locationEn": "State Youth and Children's Theatre",
-      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way, drawing on the value of human life and the spirit of the steppe. Plays on 2 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "historical drama",
-        "Chinggis Khaan",
-        "жүжиг",
-        "театр",
-        "Тэмүжин"
-      ],
-      "url": "https://www.ticket.mn/event/3300",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png"
-    },
-    {
       "id": "ublife-2026-11-02-japan-mongolia-photo-exhibition",
       "title": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн \"Тогтвортой хөгжлийн зорилтын төлөөх соёлын солилцоо\"",
       "titleMn": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн",
@@ -340,25 +295,6 @@
       "sourceName": "UB Life",
       "lat": 47.919571,
       "lng": 106.921046
-    },
-    {
-      "id": "mba-2026-11-02-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/02)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (2 Nov)",
-      "start": "2026-11-02T18:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Two men's games: SG Apes vs SÜA TLJ Tüshig Bagana at 18:00 and Selenge Bodons vs Sono Brothers at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "mba-2026-11-03-the-league-games",
