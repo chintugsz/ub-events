@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:53:53+08:00",
+  "updatedAt": "2026-11-03T07:17:17+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -317,6 +317,27 @@
       "sourceName": "Mongolian Basketball Association"
     },
     {
+      "id": "montsame-2026-11-04-natsagdorj-120-lectures",
+      "title": "Д.Нацагдоржийн мэндэлсний 120 жилийн ойд зориулсан цуврал лекц",
+      "titleMn": "Д.Нацагдоржийн мэндэлсний 120 жилийн ойн цуврал лекц",
+      "titleEn": "Lecture series for writer D. Natsagdorj's 120th birth anniversary",
+      "start": "2026-11-04",
+      "allDay": true,
+      "location": "Санхүү, эдийн засгийн их сургууль",
+      "locationEn": "University of Finance and Economics",
+      "description": "A series of lectures marking the 120th birth anniversary of the writer Dashdorjiin Natsagdorj, held at the University of Finance and Economics.",
+      "category": "Talks & Learning",
+      "tags": [
+        "lecture",
+        "literature",
+        "Natsagdorj",
+        "лекц",
+        "уран зохиол"
+      ],
+      "url": "https://montsame.mn/en/read/414254",
+      "sourceName": "MONTSAME"
+    },
+    {
       "id": "ticketmn-2026-11-04-nomadic-legend",
       "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
       "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
@@ -501,6 +522,29 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001946/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urgoo-2026-11-06-tazza-song-of-beelzebub",
+      "title": "Tazza: The Song of Beelzebub",
+      "titleEn": "Tazza: The Song of Beelzebub",
+      "start": "2026-11-06",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Korean crime drama (2 h 10 min) opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "new release",
+        "кино",
+        "Өргөө",
+        "Korean",
+        "crime"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001959",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-11-06-the-cat-in-the-hat",
@@ -704,6 +748,30 @@
       "lat": 47.914007,
       "lng": 106.908807,
       "image": "https://api.ubcomedy.mn/uploads/1793524072587_cover_11.7%20cover.png"
+    },
+    {
+      "id": "ubcomedy-2026-11-07-the-debate-show",
+      "title": "The Debate Show",
+      "titleMn": "The Debate Show",
+      "titleEn": "The Debate Show",
+      "start": "2026-11-07T21:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Late-night comedy debate show with seven of the club's comedians. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "debate",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6ae7f2227be6bb4ff67b590f",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "mba-2026-11-08-the-league-games",
@@ -1448,6 +1516,29 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "titleEn": "The Further Mis-Adventures of Cliff Booth",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Comedy crime thriller opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "new release",
+        "кино",
+        "Өргөө",
+        "comedy",
+        "crime"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001960",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "ticketmn-2026-11-28-suragch-nas-3",
