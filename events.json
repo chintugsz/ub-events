@@ -335,7 +335,8 @@
         "уран зохиол"
       ],
       "url": "https://montsame.mn/en/read/414254",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "image": "https://montsame.mn/files/medium/6ae7d90de4477.jpeg"
     },
     {
       "id": "ticketmn-2026-11-04-nomadic-legend",
@@ -544,7 +545,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001959",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001959/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "urgoo-2026-11-06-the-cat-in-the-hat",
@@ -771,7 +773,8 @@
       "url": "https://www.ubcomedy.mn/shows/6ae7f2227be6bb4ff67b590f",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1793587176351_cover_11.7%20cover%20(1).png"
     },
     {
       "id": "mba-2026-11-08-the-league-games",
@@ -1538,7 +1541,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001960",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-11-28-suragch-nas-3",
