@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T07:17:17+08:00",
+  "updatedAt": "2026-11-04T06:54:13+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -295,26 +295,6 @@
       "sourceName": "UB Life",
       "lat": 47.919571,
       "lng": 106.921046
-    },
-    {
-      "id": "mba-2026-11-03-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/03)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (3 Nov)",
-      "start": "2026-11-03T13:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Khaan Shonkhoruud vs Darkhan United at 13:00, Baruuny Daichid vs Omni Erdenet Miners at 15:30 and Ömnögoviin Khülegüüd vs BCH Knights at 20:30, plus a women's game, Ulaanbaatar Amazons vs Aravt, at 18:00.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг",
-        "women's basketball"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "montsame-2026-11-04-natsagdorj-120-lectures",
