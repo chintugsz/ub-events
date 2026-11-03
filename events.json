@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:54:13+08:00",
+  "updatedAt": "2026-11-04T07:16:57+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -181,11 +181,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-11-11",
+      "end": "2026-11-13",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows on 2–4 and 7–11 November.",
+      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows on 4 and 7–13 November.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -249,11 +249,11 @@
       "titleMn": "Амьтны ферм",
       "titleEn": "Animal Farm (meta-drama)",
       "start": "2026-10-30T19:00",
-      "end": "2026-11-08",
+      "end": "2026-11-29",
       "allDay": false,
       "location": "Тусгаар тогтнолын ордон",
       "locationEn": "Independence Palace",
-      "description": "Meta-drama based on George Orwell's \"Animal Farm\", directed by T. Tsend-Ayush, at 19:00 from October 30 to November 8. Each performance runs about 2 hours.",
+      "description": "Meta-drama based on George Orwell's \"Animal Farm\", directed by T. Tsend-Ayush. The run is extended to 29 November, with shows every Friday, Saturday and Sunday at 19:00. Each performance runs about 2 hours.",
       "cost": "Партер 80,000₮ / Партер L 60,000₮ / Бэльтаж 40,000₮",
       "category": "Music & Performance",
       "tags": [
@@ -265,8 +265,8 @@
         "мета драм",
         "театр"
       ],
-      "url": "https://www.eventx.mn/event/1903",
-      "sourceName": "EventX",
+      "url": "https://www.ticket.mn/event/3333",
+      "sourceName": "Ticket.mn",
       "lat": 47.918775,
       "lng": 106.921609,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
@@ -382,6 +382,29 @@
       "lat": 47.914007,
       "lng": 106.908807,
       "image": "https://api.ubcomedy.mn/uploads/1793523666149_cover_11.4%20cover.png"
+    },
+    {
+      "id": "ticketmn-2026-11-05-tengeriin-sum",
+      "title": "\"ТЭНГЭРИЙН СУМ\" ТҮҮХЭН ДУУЛАЛТ ЖҮЖИГ",
+      "titleMn": "Тэнгэрийн сум",
+      "titleEn": "Heavenly Arrow (historical musical drama)",
+      "start": "2026-11-05",
+      "end": "2026-11-14",
+      "allDay": true,
+      "location": "ТБД андуудын баруун талд \"ГАН ЗАМ\" палас",
+      "locationEn": "\"Gan Zam\" Palace",
+      "description": "A musical drama about the childhood and youth of Chinggis Khaan, staged by the Railway Ensemble and the Tsagaan Lavai ensemble. On 5 and 14 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "musical",
+        "history",
+        "Chinggis Khaan",
+        "жүжиг",
+        "түүх"
+      ],
+      "url": "https://www.ticket.mn/event/2485",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "urlag-2026-11-05-jargaagui-nar",
@@ -597,6 +620,28 @@
       "image": "https://api.ubcomedy.mn/uploads/1793523995998_cover_11.6%20cover.png"
     },
     {
+      "id": "ticketmn-2026-11-07-happy-prince",
+      "title": "\"Аз жаргалтай ханхүү\" хүүхэлдэйн жүжиг",
+      "titleMn": "Аз жаргалтай ханхүү",
+      "titleEn": "The Happy Prince (puppet play)",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A puppet play for young children about a little swallow and a prince, and the difference between how things look and what they are worth. On 7 and 8 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "хүүхэд",
+        "puppet theatre",
+        "хүүхэлдэйн театр",
+        "theatre"
+      ],
+      "url": "https://www.ticket.mn/event/2724",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-11-07-hot-stage-kpop-masterz",
       "title": "HOT STAGE x K*POP MASTERZ CONCERT",
       "titleEn": "HOT STAGE × K-POP MASTERZ in Ulaanbaatar 2026",
@@ -757,6 +802,28 @@
       "image": "https://api.ubcomedy.mn/uploads/1793587176351_cover_11.7%20cover%20(1).png"
     },
     {
+      "id": "ticketmn-2026-11-08-256-wrestlers-tournament",
+      "title": "АЙМАГ ЦЭРГИЙН ЦОЛТОЙ 256 БӨХИЙН БАРИЛДААН",
+      "titleMn": "Аймаг, цэргийн цолтой 256 бөхийн барилдаан",
+      "titleEn": "Wrestling tournament of 256 aimag- and army-titled wrestlers",
+      "start": "2026-11-08T11:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A traditional Mongolian wrestling tournament for 256 wrestlers holding aimag and army titles, from 11:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "бөх",
+        "барилдаан"
+      ],
+      "url": "https://www.ticket.mn/event/3331",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
       "id": "mba-2026-11-08-the-league-games",
       "title": "The League: сагсан бөмбөгийн тоглолтууд (11/08)",
       "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
@@ -887,6 +954,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T111309.604.png"
     },
     {
+      "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
+      "title": "\"ТЭНГЭРИЙН ЭЛЧ ТЭМҮЖИН\" жүжиг",
+      "titleMn": "Тэнгэрийн элч Тэмүжин",
+      "titleEn": "Temüjin, Envoy of Heaven (play)",
+      "start": "2026-11-12",
+      "end": "2026-11-21",
+      "allDay": true,
+      "location": "Улсын хүүхэд залуучуудын театр",
+      "locationEn": "State Youth and Children's Theatre",
+      "description": "Historical drama about uniting the nation, with love, separation and doubt along the way. Plays on 12–14 and 19–21 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "history",
+        "жүжиг",
+        "түүх"
+      ],
+      "url": "https://www.ticket.mn/event/3300",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "happeningnext-2026-11-12-mongolian-bible-translation-conference",
       "title": "Библийн монгол орчуулгын 720, бүрэн орчуулга хэвлэгдсэний 180 жилийн ой ба ОУЭШХурал",
       "titleMn": "Библийн монгол орчуулгын 720 жилийн ой, олон улсын эрдэм шинжилгээний хурал",
@@ -985,6 +1073,29 @@
       "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
     },
     {
+      "id": "ticketmn-2026-11-14-classic-night",
+      "title": "\"Classic Night\" concert",
+      "titleMn": "\"Classic Night\" концерт",
+      "titleEn": "Classic Night concert",
+      "start": "2026-11-14",
+      "allDay": true,
+      "location": "Улсын филармони",
+      "locationEn": "State Philharmonic",
+      "description": "The Mongolian State Philharmonic Symphony Orchestra plays classical masterpieces, including Mussorgsky.",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "orchestra",
+        "symphony",
+        "сонгодог",
+        "концерт"
+      ],
+      "url": "https://www.ticket.mn/event/3327",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
+    },
+    {
       "id": "ticketmn-2026-11-14-khos-egshiglen",
       "title": "\"ХОС ЭГШИГЛЭН\" тоглолт",
       "titleMn": "\"Хос эгшиглэн\" тоглолт",
@@ -1051,6 +1162,27 @@
       "url": "https://www.ticket.mn/event/3310",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6688090607394842366_Mungunii_energi_1731x909_ticket.png"
+    },
+    {
+      "id": "ticketmn-2026-11-14-remember-me-coco",
+      "title": "\"Намайг дурсаарай Коко\" хүүхдийн жүжиг",
+      "titleMn": "Намайг дурсаарай Коко",
+      "titleEn": "Remember Me, Coco (children's play)",
+      "start": "2026-11-14",
+      "end": "2026-11-15",
+      "allDay": true,
+      "location": "Улаанбаатар театр",
+      "locationEn": "Ulaanbaatar Theatre",
+      "description": "A children's play about Miguel, who loves music despite his family's ban, and his adventure into the spirit world. On 14 and 15 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "theatre",
+        "хүүхэд",
+        "жүжиг"
+      ],
+      "url": "https://www.ticket.mn/event/3329",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-11-14-serchmaa-erkh-saran",
@@ -1124,6 +1256,27 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
       "sourceName": "GDG Ulaanbaatar",
       "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
+    },
+    {
+      "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
+      "title": "\"МОНГОЛ АРДЫН СУУТ\" драмын жүжиг",
+      "titleMn": "Монгол ардын суут",
+      "titleEn": "Genius of the Mongol People (drama)",
+      "start": "2026-11-20",
+      "end": "2026-11-21",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A historical documentary drama about the writer D. Natsagdorj. On 20 and 21 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "Natsagdorj",
+        "жүжиг"
+      ],
+      "url": "https://www.ticket.mn/event/2778",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "urgoo-2026-11-20-hunger-games-sunrise-on-the-reaping",
@@ -1311,6 +1464,29 @@
       "image": "https://cdn2.happeningnext.com/ai-banners/ai_banner_6ae308704d3e2.jpg"
     },
     {
+      "id": "ticketmn-2026-11-21-nasny-namar",
+      "title": "\"НАСНЫ НАМАР\" ХҮНДЭТГЭЛИЙН КОНЦЕРТ",
+      "titleMn": "\"Насны намар\" хүндэтгэлийн концерт",
+      "titleEn": "\"Autumn of Life\" tribute concert",
+      "start": "2026-11-21T14:00",
+      "allDay": false,
+      "location": "МҮЭ-ийн Соёлын төв ордны их танхим (МҮЭСТО)",
+      "locationEn": "Mongolian Trade Union Cultural Center Palace, main hall",
+      "description": "A tribute concert of songs by People's Artist and composer B. Magsarjav, at 14:00 and 19:00.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "tribute",
+        "Mongolian songs",
+        "концерт",
+        "хүндэтгэлийн тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3326",
+      "sourceName": "Ticket.mn",
+      "lat": 47.914228,
+      "lng": 106.893028
+    },
+    {
       "id": "newsmn-2026-11-21-altan-tsom-wrestling",
       "title": "Алтан цомын төлөөх барилдаан",
       "titleMn": "Алтан цомын төлөөх барилдаан",
@@ -1428,6 +1604,49 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-25-bukhiin-gergii",
+      "title": "\"Бөхийн гэргий\" Solo concert",
+      "titleMn": "\"Бөхийн гэргий\" бие даасан тоглолт",
+      "titleEn": "\"The Wrestler's Wife\" solo concert",
+      "start": "2026-11-25T19:00",
+      "allDay": false,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "Singer M. Yanjindari's first solo concert, named after her song \"Bökhiin gergii\".",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "singer",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3325",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
+      "id": "ticketmn-2026-11-26-duut-urguu-ger-concert",
+      "title": "\"Дуут Өргөө\" гэр тоглолт",
+      "titleMn": "\"Дуут өргөө\" гэр тоглолт",
+      "titleEn": "\"Singing Palace\" ger concert",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "Чойжин ламын сүм музей",
+      "locationEn": "Choijin Lama Temple Museum",
+      "description": "An unplugged folk performance inside a Mongolian ger, with traditional instruments and no microphones. Includes a visit to the museum, milk tea and dairy snacks.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional music",
+        "ger",
+        "ардын урлаг",
+        "музей"
+      ],
+      "url": "https://www.ticket.mn/event/3328",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-11-26-minii-jinkhene-amidral",
