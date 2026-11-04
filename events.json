@@ -389,7 +389,8 @@
         "дээрэлхэлт"
       ],
       "url": "https://yolo.mn/news/13207",
-      "sourceName": "YOLO.mn"
+      "sourceName": "YOLO.mn",
+      "image": "https://www.yolo.mn//img/uploads/content/1793763935458-ae556627.jpg"
     },
     {
       "id": "ubcomedy-2026-11-05-nuutslag-show",
@@ -785,7 +786,8 @@
       "url": "https://montsame.mn/mn/read/414517",
       "sourceName": "MONTSAME",
       "lat": 47.920172,
-      "lng": 106.90967
+      "lng": 106.90967,
+      "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
     },
     {
       "id": "ticketmn-2026-11-08-256-wrestlers-tournament",
@@ -1525,7 +1527,8 @@
       "url": "https://www.eventx.mn/event/1916",
       "sourceName": "EventX",
       "lat": 47.847528,
-      "lng": 106.793257
+      "lng": 106.793257,
+      "image": "https://d12slmbmp0aiwz.cloudfront.net/Orange_2768ccfffd.jpg"
     },
     {
       "id": "ublife-2026-11-22-gamma-agency-30-exhibition-opening",
@@ -1965,7 +1968,8 @@
       "url": "https://www.ticket.mn/event/3295",
       "sourceName": "Ticket.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/IMG_7099.jpeg"
     },
     {
       "id": "ticketmn-2026-12-05-nutcracker-rcnk",
@@ -1990,7 +1994,8 @@
       "url": "https://www.ticket.mn/event/3320",
       "sourceName": "Ticket.mn",
       "lat": 47.926224,
-      "lng": 106.935273
+      "lng": 106.935273,
+      "image": "https://www.ticket.mn/files/concerts/sliders/1200x630_AbvpbJB.jpg"
     }
   ]
 }
