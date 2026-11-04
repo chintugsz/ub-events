@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T06:54:02+08:00",
+  "updatedAt": "2026-11-05T07:20:37+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -120,6 +120,10 @@
     {
       "name": "MNB",
       "url": "https://www.mnb.mn/"
+    },
+    {
+      "name": "FIBA",
+      "url": "https://www.fiba.basketball"
     }
   ],
   "events": [
@@ -365,6 +369,27 @@
       "lng": 106.914258,
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%A8%D0%B8%D0%BD%D1%8D%D0%B1%D0%B0%D1%8F%D1%80.png",
       "end": "2026-11-17"
+    },
+    {
+      "id": "yolo-2026-11-05-peer-bullying-book-launch",
+      "title": "\"Үе тэнгийн дээрэлхэлт ба Чимээгүй өвдөлт\" номын нээлт",
+      "titleMn": "\"Үе тэнгийн дээрэлхэлт ба Чимээгүй өвдөлт\" номын нээлт",
+      "titleEn": "Book launch: \"Peer Bullying and Silent Pain\"",
+      "start": "2026-11-05T10:00",
+      "allDay": false,
+      "location": "МУБИС-ийн А байр, 205 тоот",
+      "locationEn": "Mongolian National University of Education, Building A, Room 205",
+      "description": "Launch of Dr. N. Tsogzolmaa's book on peer bullying among children.",
+      "category": "Talks & Learning",
+      "tags": [
+        "book launch",
+        "psychology",
+        "bullying",
+        "ном",
+        "дээрэлхэлт"
+      ],
+      "url": "https://yolo.mn/news/13207",
+      "sourceName": "YOLO.mn"
     },
     {
       "id": "ubcomedy-2026-11-05-nuutslag-show",
@@ -737,6 +762,30 @@
       "lat": 47.914007,
       "lng": 106.908807,
       "image": "https://api.ubcomedy.mn/uploads/1793587176351_cover_11.7%20cover%20(1).png"
+    },
+    {
+      "id": "montsame-2026-11-08-jiidaan-bogdyn-uvdis-exhibition",
+      "title": "\"Жийдаан Богдын увдис\" үзэсгэлэн",
+      "titleMn": "Жийдаан Богдын увдис",
+      "titleEn": "The Virtues of Jiidaan Bogd (exhibition)",
+      "start": "2026-11-08",
+      "end": "2026-11-12",
+      "allDay": true,
+      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
+      "locationEn": "Zanabazar Museum of Fine Arts",
+      "description": "Painted-book works by icon painter and monk T. Dugar on the life of Jiidaan Bogd, shown for the first time.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "Buddhist art",
+        "painting",
+        "үзэсгэлэн",
+        "шүтээн зураг"
+      ],
+      "url": "https://montsame.mn/mn/read/414517",
+      "sourceName": "MONTSAME",
+      "lat": 47.920172,
+      "lng": 106.90967
     },
     {
       "id": "ticketmn-2026-11-08-256-wrestlers-tournament",
@@ -1454,6 +1503,31 @@
       "lng": 106.935278
     },
     {
+      "id": "eventx-2026-11-21-special-concert-2026",
+      "title": "Special Concert 2026 (11.21)",
+      "titleMn": "Special Concert 2026 (11.21)",
+      "titleEn": "Special Concert 2026 (21 Nov)",
+      "start": "2026-11-21T18:00",
+      "end": "2026-11-22T00:00",
+      "allDay": false,
+      "location": "AIC Steppe Arena",
+      "locationEn": "AIC Steppe Arena",
+      "description": "Second night of ENEREL, GANGAA, THUNDER and VANDEBO on one stage. Ages 12+; under-16s must come with an adult. A shuttle bus costs 10,000₮.",
+      "cost": "109,000₮–179,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "hip-hop",
+        "тоглолт",
+        "концерт"
+      ],
+      "url": "https://www.eventx.mn/event/1916",
+      "sourceName": "EventX",
+      "lat": 47.847528,
+      "lng": 106.793257
+    },
+    {
       "id": "ublife-2026-11-22-gamma-agency-30-exhibition-opening",
       "title": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
       "titleMn": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
@@ -1572,6 +1646,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T112535.726.png"
     },
     {
+      "id": "fiba-2026-11-26-asia-cup-pre-qualifiers",
+      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (26 Nov)",
+      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/26)",
+      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (26 Nov)",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "MBank arena, Ulaanbaatar",
+      "locationEn": "M Bank Arena",
+      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Fiji vs Hong Kong, Thailand vs Malaysia and Mongolia vs Indonesia.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "FIBA",
+        "national team",
+        "сагсан бөмбөг",
+        "шигшээ баг"
+      ],
+      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
+      "sourceName": "FIBA"
+    },
+    {
       "id": "ticketmn-2026-11-26-duut-urguu-ger-concert",
       "title": "\"Дуут Өргөө\" гэр тоглолт",
       "titleMn": "\"Дуут өргөө\" гэр тоглолт",
@@ -1640,6 +1735,27 @@
       "lat": 47.919534,
       "lng": 106.920049,
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T131701.158.png"
+    },
+    {
+      "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
+      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (27 Nov)",
+      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/27)",
+      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (27 Nov)",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "MBank arena, Ulaanbaatar",
+      "locationEn": "M Bank Arena",
+      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Malaysia vs Fiji, Indonesia vs Thailand and Hong Kong vs Mongolia.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "FIBA",
+        "national team",
+        "сагсан бөмбөг",
+        "шигшээ баг"
+      ],
+      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
+      "sourceName": "FIBA"
     },
     {
       "id": "urgoo-2026-11-27-focker-in-law",
@@ -1762,6 +1878,27 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/BLU.png"
     },
     {
+      "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
+      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
+      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/29)",
+      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
+      "start": "2026-11-29",
+      "allDay": true,
+      "location": "MBank arena, Ulaanbaatar",
+      "locationEn": "M Bank Arena",
+      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Fiji vs Indonesia, Thailand vs Hong Kong and Mongolia vs Malaysia.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "FIBA",
+        "national team",
+        "сагсан бөмбөг",
+        "шигшээ баг"
+      ],
+      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
+      "sourceName": "FIBA"
+    },
+    {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
       "title": "Алтан цомын төлөөх барилдаан",
       "titleMn": "Алтан цомын төлөөх барилдаан",
@@ -1807,6 +1944,53 @@
       "url": "https://www.ticket.mn/event/3309",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T163051.418.png"
+    },
+    {
+      "id": "ticketmn-2026-12-05-asian-voice",
+      "title": "ASIAN VOICE",
+      "titleMn": "ASIAN VOICE",
+      "titleEn": "Asian Voice 2026 (international concert)",
+      "start": "2026-12-05",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A concert bringing together artists from nine countries, including Mongolia, Sweden, Kyrgyzstan, Russia, China, Korea and Kazakhstan.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "international",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3295",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
+      "id": "ticketmn-2026-12-05-nutcracker-rcnk",
+      "title": "\"Щелкунчик\" цөмөгч цэрэг ба хулганы хаан",
+      "titleMn": "\"Щелкунчик\": цөмөгч цэрэг ба хулганы хаан",
+      "titleEn": "The Nutcracker and the Mouse King",
+      "start": "2026-12-05",
+      "end": "2026-12-27",
+      "allDay": true,
+      "location": "РЦНК",
+      "locationEn": "Russian Centre for Science and Culture",
+      "description": "A family show based on E.T.A. Hoffmann's fairy tale, with Tchaikovsky's music. Ages 6+. On 5, 6, 12, 13, 20, 26 and 27 December.",
+      "category": "Kids & Family",
+      "tags": [
+        "kids",
+        "Nutcracker",
+        "theatre",
+        "New Year",
+        "хүүхэд",
+        "шинэ жил"
+      ],
+      "url": "https://www.ticket.mn/event/3320",
+      "sourceName": "Ticket.mn",
+      "lat": 47.926224,
+      "lng": 106.935273
     }
   ]
 }
