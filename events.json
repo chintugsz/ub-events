@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T07:16:57+08:00",
+  "updatedAt": "2026-11-05T06:54:02+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -297,28 +297,6 @@
       "lng": 106.921046
     },
     {
-      "id": "montsame-2026-11-04-natsagdorj-120-lectures",
-      "title": "Д.Нацагдоржийн мэндэлсний 120 жилийн ойд зориулсан цуврал лекц",
-      "titleMn": "Д.Нацагдоржийн мэндэлсний 120 жилийн ойн цуврал лекц",
-      "titleEn": "Lecture series for writer D. Natsagdorj's 120th birth anniversary",
-      "start": "2026-11-04",
-      "allDay": true,
-      "location": "Санхүү, эдийн засгийн их сургууль",
-      "locationEn": "University of Finance and Economics",
-      "description": "A series of lectures marking the 120th birth anniversary of the writer Dashdorjiin Natsagdorj, held at the University of Finance and Economics.",
-      "category": "Talks & Learning",
-      "tags": [
-        "lecture",
-        "literature",
-        "Natsagdorj",
-        "лекц",
-        "уран зохиол"
-      ],
-      "url": "https://montsame.mn/en/read/414254",
-      "sourceName": "MONTSAME",
-      "image": "https://montsame.mn/files/medium/6ae7d90de4477.jpeg"
-    },
-    {
       "id": "ticketmn-2026-11-04-nomadic-legend",
       "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
       "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
@@ -339,49 +317,6 @@
       "url": "https://www.ticket.mn/event/2607",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
-    },
-    {
-      "id": "mba-2026-11-04-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/04)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (4 Nov)",
-      "start": "2026-11-04T18:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Sono Brothers vs SUA TLG Tushig Bagana at 18:00 and SG Apes vs Selenge Bodons at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
-    },
-    {
-      "id": "ubcomedy-2026-11-04-ladies-night",
-      "title": "Ladies Night",
-      "titleMn": "Ladies Night",
-      "titleEn": "Ladies Night",
-      "start": "2026-11-04T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Stand-up comedy night. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ae6ffd27be6bb4ff67b3be9",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1793523666149_cover_11.4%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-05-tengeriin-sum",
