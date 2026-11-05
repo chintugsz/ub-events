@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T07:20:37+08:00",
+  "updatedAt": "2026-11-06T06:53:54+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -369,52 +369,6 @@
       "lng": 106.914258,
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%A8%D0%B8%D0%BD%D1%8D%D0%B1%D0%B0%D1%8F%D1%80.png",
       "end": "2026-11-17"
-    },
-    {
-      "id": "yolo-2026-11-05-peer-bullying-book-launch",
-      "title": "\"Үе тэнгийн дээрэлхэлт ба Чимээгүй өвдөлт\" номын нээлт",
-      "titleMn": "\"Үе тэнгийн дээрэлхэлт ба Чимээгүй өвдөлт\" номын нээлт",
-      "titleEn": "Book launch: \"Peer Bullying and Silent Pain\"",
-      "start": "2026-11-05T10:00",
-      "allDay": false,
-      "location": "МУБИС-ийн А байр, 205 тоот",
-      "locationEn": "Mongolian National University of Education, Building A, Room 205",
-      "description": "Launch of Dr. N. Tsogzolmaa's book on peer bullying among children.",
-      "category": "Talks & Learning",
-      "tags": [
-        "book launch",
-        "psychology",
-        "bullying",
-        "ном",
-        "дээрэлхэлт"
-      ],
-      "url": "https://yolo.mn/news/13207",
-      "sourceName": "YOLO.mn",
-      "image": "https://www.yolo.mn//img/uploads/content/1793763935458-ae556627.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-11-05-nuutslag-show",
-      "title": "Нууцлаг Шоу",
-      "titleMn": "Нууцлаг шоу",
-      "titleEn": "Нууцлаг Шоу",
-      "start": "2026-11-05T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Mystery Show: stand-up comedy with a surprise line-up. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ae700c77be6bb4ff67b3c11",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1793523911095_cover_11.5%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
