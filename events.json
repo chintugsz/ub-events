@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T06:53:54+08:00",
+  "updatedAt": "2026-11-06T07:20:26+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -185,11 +185,11 @@
       "titleMn": "Бүгд инээх дуртай",
       "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
       "start": "2026-10-13T19:00",
-      "end": "2026-11-13",
+      "end": "2026-11-15",
       "allDay": false,
       "location": "Соёлын төв өргөө",
       "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows on 4 and 7–13 November.",
+      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows every day from 7 to 15 November.",
       "category": "Music & Performance",
       "tags": [
         "comedy",
@@ -1485,6 +1485,30 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/Orange_2768ccfffd.jpg"
     },
     {
+      "id": "ticketmn-2026-11-22-mongol-nairag",
+      "title": "\"МОНГОЛ НАЙРАГ\" тоглолт",
+      "titleMn": "\"Монгол найраг\" тоглолт",
+      "titleEn": "\"Mongol Nairag\" concert",
+      "start": "2026-11-22",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A concert mixing traditional folk art, epic chanting, poetry, popular and opera songs, and rock and pop.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "folk",
+        "rock",
+        "poetry",
+        "концерт",
+        "ардын урлаг"
+      ],
+      "url": "https://www.ticket.mn/event/3335",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
       "id": "ublife-2026-11-22-gamma-agency-30-exhibition-opening",
       "title": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
       "titleMn": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
@@ -1713,6 +1737,30 @@
       ],
       "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
       "sourceName": "FIBA"
+    },
+    {
+      "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
+      "title": "Д.Лувсаншарав - 100 жил Хүндэтгэлийн Гала тоглолт",
+      "titleMn": "Д.Лувсаншарав – 100 жил хүндэтгэлийн гала тоглолт",
+      "titleEn": "D. Luvsansharav 100 Years: tribute gala concert",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A gala concert of works by composer D. Luvsansharav, marking 100 years since his birth.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "gala",
+        "composer",
+        "Mongolian songs",
+        "концерт",
+        "хүндэтгэлийн тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3334",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "urgoo-2026-11-27-focker-in-law",
