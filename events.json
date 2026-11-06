@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:20:26+08:00",
+  "updatedAt": "2026-11-07T06:54:30+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -204,29 +204,6 @@
       "lng": 106.919385
     },
     {
-      "id": "montsame-2026-10-16-deed-es-exhibition",
-      "title": "\"Дээд эс\" бие даасан үзэсгэлэн",
-      "titleMn": "П.Байгалын \"Дээд эс\" бие даасан үзэсгэлэн",
-      "titleEn": "Higher Cell: P. Baigal solo exhibition",
-      "start": "2026-10-16",
-      "end": "2026-11-06",
-      "allDay": true,
-      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
-      "locationEn": "Zanabazar Museum of Fine Arts",
-      "description": "The sixth solo exhibition by artist and art scholar Pürevsükh Baigal. It opened on 16 October and is open to the public until 6 November.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "art",
-        "үзэсгэлэн",
-        "уран зураг"
-      ],
-      "url": "https://montsame.mn/mn/read/412778",
-      "sourceName": "MONTSAME",
-      "lat": 47.920172,
-      "lng": 106.90967
-    },
-    {
       "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
       "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
       "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
@@ -274,31 +251,6 @@
       "lat": 47.918775,
       "lng": 106.921609,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
-    },
-    {
-      "id": "ublife-2026-11-02-japan-mongolia-photo-exhibition",
-      "title": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн \"Тогтвортой хөгжлийн зорилтын төлөөх соёлын солилцоо\"",
-      "titleMn": "Япон–Монголын хамтарсан гэрэл зургийн үзэсгэлэн",
-      "titleEn": "Japan–Mongolia photo exhibition: Cultural Exchange for the Sustainable Development Goals",
-      "start": "2026-11-02",
-      "end": "2026-11-06",
-      "allDay": true,
-      "location": "Монголын Уран Зургийн галерей, III давхрын Их танхим, Хөх танхим",
-      "locationEn": "Mongolian National Art Gallery, 3rd floor, Grand Hall and Blue Hall",
-      "description": "Japanese and Mongolian photographers show work on living with nature and sustainability, including pieces from Tokyo Photo Month.",
-      "category": "Arts & Museums",
-      "tags": [
-        "photography",
-        "exhibition",
-        "гэрэл зураг",
-        "үзэсгэлэн",
-        "Japan",
-        "Япон"
-      ],
-      "url": "https://www.ub.life/p/261027-gs2n72",
-      "sourceName": "UB Life",
-      "lat": 47.919571,
-      "lng": 106.921046
     },
     {
       "id": "ticketmn-2026-11-04-nomadic-legend",
@@ -417,123 +369,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140245.241.png",
       "lat": 47.919491,
       "lng": 106.919385
-    },
-    {
-      "id": "urgoo-2026-11-06-godzilla-minus-zero",
-      "title": "Godzilla Minus Zero",
-      "titleEn": "Godzilla Minus Zero",
-      "start": "2026-11-06",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Sci-fi action film (2 h 15 min) opening on Urgoo screens. Rated PG-13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "Godzilla",
-        "sci-fi",
-        "new release",
-        "кино",
-        "нээлт",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001946",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001946/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-11-06-tazza-song-of-beelzebub",
-      "title": "Tazza: The Song of Beelzebub",
-      "titleEn": "Tazza: The Song of Beelzebub",
-      "start": "2026-11-06",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Korean crime drama (2 h 10 min) opening on Urgoo screens. Rated PG13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "new release",
-        "кино",
-        "Өргөө",
-        "Korean",
-        "crime"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001959",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001959/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-11-06-the-cat-in-the-hat",
-      "title": "The Cat in the Hat",
-      "titleEn": "The Cat in the Hat",
-      "start": "2026-11-06",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Animated family comedy opening on Urgoo screens. Rated G.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "animation",
-        "family",
-        "Dr. Seuss",
-        "кино",
-        "хүүхэлдэйн кино",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001902",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001902/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "mba-2026-11-06-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/06)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (6 Nov)",
-      "start": "2026-11-06T15:30",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Sono Brothers vs Khan Falcons at 15:30, BCH Knights vs SUA TLG Tushig Bagana at 18:00 and Selenge Bodons vs South Gobi Broncos at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
-    },
-    {
-      "id": "ubcomedy-2026-11-06-friday-funsies",
-      "title": "Friday Funsies",
-      "titleMn": "Friday Funsies",
-      "titleEn": "Friday Funsies",
-      "start": "2026-11-06T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Friday stand-up comedy show. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ae7011c7be6bb4ff67b3c21",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1793523995998_cover_11.6%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-07-happy-prince",
