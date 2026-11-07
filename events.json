@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T06:54:30+08:00",
+  "updatedAt": "2026-11-08T06:54:14+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -394,29 +394,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/az_jargaltai_hanhuu_stand_yJg5u4w.jpg"
     },
     {
-      "id": "ticketmn-2026-11-07-hot-stage-kpop-masterz",
-      "title": "HOT STAGE x K*POP MASTERZ CONCERT",
-      "titleEn": "HOT STAGE × K-POP MASTERZ in Ulaanbaatar 2026",
-      "start": "2026-11-07",
-      "allDay": true,
-      "location": "Буянт Ухаа Спортын ордон",
-      "locationEn": "Buyant-Ukhaa Sports Palace",
-      "description": "K-POP MASTERZ international concert series comes to Ulaanbaatar for the first time with HOT STAGE; urlag.mn (12 Oct 2026) reports HWASA as the first announced artist.",
-      "category": "Music & Performance",
-      "tags": [
-        "K-pop",
-        "concert",
-        "HWASA",
-        "кейпоп",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3283",
-      "sourceName": "Ticket.mn",
-      "lat": 47.854437,
-      "lng": 106.784967,
-      "image": "https://www.ticket.mn/files/concerts/sliders/Banner-1200x630-1-1.png"
-    },
-    {
       "id": "ticketmn-2026-11-07-muchrun-khuruut",
       "title": "\"МӨЧРӨН ХУРУУТ\" хүүхэлдэйн жүжиг",
       "titleMn": "Мөчрөн хуруут",
@@ -438,120 +415,6 @@
       "url": "https://www.ticket.mn/event/3091",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/ggdgsg.png"
-    },
-    {
-      "id": "ticketmn-2026-11-07-one-night-premium-show",
-      "title": "\"ONE NIGHT\" Premium Show",
-      "titleMn": "\"ONE NIGHT\" Premium Show",
-      "titleEn": "ONE NIGHT Premium Show",
-      "start": "2026-11-07",
-      "allDay": true,
-      "location": "Zaisan Hill Event hall",
-      "locationEn": "Zaisan Hill Event Hall",
-      "description": "An autumn show by Magic Squad Mongolia with a new production, its own stage design and special guest artists.",
-      "category": "Music & Performance",
-      "tags": [
-        "show",
-        "magic",
-        "шоу",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3291",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T155053.345.png"
-    },
-    {
-      "id": "mnb-2026-11-07-altan-tsom-wrestling-opener",
-      "title": "Алтан цомын барилдааны шинэ улирлын нээлт",
-      "titleMn": "Алтан цомын барилдааны шинэ улирлын нээлт",
-      "titleEn": "Altan Tsom team wrestling: new season opener",
-      "start": "2026-11-07T14:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "Opening round of the Altan Tsom (Golden Cup) team wrestling season, with seven teams. Opening bouts: Uvs Nuur Davjaa vs Ev Mongol, Shunkhlai vs MCS Energy, and Ajnai vs Khovd Davjaa.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "Altan Tsom",
-        "бөх",
-        "барилдаан",
-        "Алтан цом"
-      ],
-      "url": "https://www.mnb.mn/article/altan-tsomyn-tuluu-shildeg-7-bag-ursuldunu-5193",
-      "sourceName": "MNB",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://assets.mnb.mn/media/2026/10/d3639dade55e-image.full.webp"
-    },
-    {
-      "id": "mba-2026-11-07-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/07)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (7 Nov)",
-      "start": "2026-11-07T16:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Darkhan United vs Omni Erdenet Miners at 16:00 and Western Warriors vs SG Apes at 18:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
-    },
-    {
-      "id": "ubcomedy-2026-11-07-evening-at-ub-comedy",
-      "title": "Evening at UB Comedy",
-      "titleMn": "Evening at UB Comedy",
-      "titleEn": "Evening at UB Comedy",
-      "start": "2026-11-07T19:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Saturday evening stand-up comedy show. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ae701687be6bb4ff67b3c2f",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1793524072587_cover_11.7%20cover.png"
-    },
-    {
-      "id": "ubcomedy-2026-11-07-the-debate-show",
-      "title": "The Debate Show",
-      "titleMn": "The Debate Show",
-      "titleEn": "The Debate Show",
-      "start": "2026-11-07T21:30",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Late-night comedy debate show with seven of the club's comedians. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "debate",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6ae7f2227be6bb4ff67b590f",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1793587176351_cover_11.7%20cover%20(1).png"
     },
     {
       "id": "montsame-2026-11-08-jiidaan-bogdyn-uvdis-exhibition",
