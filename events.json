@@ -544,7 +544,8 @@
       "url": "https://www.ticket.mn/event/3338",
       "sourceName": "Ticket.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-4.png"
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -1431,7 +1432,8 @@
         "тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3337",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6697500511822106943_Gantulga_Ticket_1200x630.png"
     },
     {
       "id": "ticketmn-2026-11-26-minii-jinkhene-amidral",
