@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:54:14+08:00",
+  "updatedAt": "2026-11-08T07:11:28+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -484,6 +484,26 @@
       "sourceName": "Mongolian Basketball Association"
     },
     {
+      "id": "montsame-2026-11-09-volleyball-premier-league",
+      "title": "Волейболын үндэсний дээд лиг",
+      "titleMn": "Волейболын үндэсний дээд лигийн тоглолтууд",
+      "titleEn": "National Volleyball Premier League games (9 Nov)",
+      "start": "2026-11-09T14:30",
+      "allDay": false,
+      "location": "Спортын төв ордон",
+      "locationEn": "Central Sports Palace",
+      "description": "Top-league volleyball: Altai Bars vs Hasu Megastars at 14:30, Mintonette Gobi vs Khilchin at 17:00 and Darkhan Mogules vs Mazaalai at 19:30. Tickets on talon.mn.",
+      "cost": "10,000₮–80,000₮",
+      "category": "Sports",
+      "tags": [
+        "volleyball",
+        "волейбол",
+        "league"
+      ],
+      "url": "https://montsame.mn/mn/read/414530",
+      "sourceName": "MONTSAME"
+    },
+    {
       "id": "mba-2026-11-09-the-league-games",
       "title": "The League: сагсан бөмбөгийн тоглолтууд (11/09)",
       "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
@@ -501,6 +521,30 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "ticketmn-2026-11-10-mongol-bakharkhal-wrestling",
+      "title": "МОНГОЛ БАХАРХЛЫН ӨДРИЙН БАРИЛДААН",
+      "titleMn": "Монгол бахархлын өдрийн барилдаан",
+      "titleEn": "Mongolian Pride Day wrestling",
+      "start": "2026-11-10T13:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "Wrestling for Mongolian Pride Day (Chinggis Khaan's birthday): 128 high-ranked wrestlers compete for the \"Chinggis Khaan\" cup from 13:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "Chinggis Khaan",
+        "бөх",
+        "барилдаан",
+        "Монгол бахархлын өдөр"
+      ],
+      "url": "https://www.ticket.mn/event/3338",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -1367,6 +1411,27 @@
       "url": "https://www.ticket.mn/event/3328",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/degjin-suvd-1200x630.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-26-gantulga-live-concert",
+      "title": "\"Gantulga\" live music concert",
+      "titleMn": "О.Гантулгын бие даасан тоглолт",
+      "titleEn": "\"Gantulga\" live music concert",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "Zaisan Hill Event hall",
+      "locationEn": "Zaisan Hill Event Hall",
+      "description": "The second solo VIP concert by guitarist and singer O. Gantulga.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "guitar",
+        "live music",
+        "концерт",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3337",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "ticketmn-2026-11-26-minii-jinkhene-amidral",
