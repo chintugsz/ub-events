@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:53:40+08:00",
+  "updatedAt": "2026-11-09T07:14:11+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -413,6 +413,29 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-4.png"
     },
     {
+      "id": "ubcomedy-2026-11-10-manai-khun",
+      "title": "Манай Хүн",
+      "titleMn": "Манай Хүн",
+      "titleEn": "Манай Хүн",
+      "start": "2026-11-10T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "\"Our Guy\": stand-up comedy with six of the club's comedians. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af010777be6bb4ff67cd68a",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
       "title": "ХИШИГ-11 Нэгэн Тайз",
       "titleMn": "ХИШИГ-11 Нэгэн тайз",
@@ -480,6 +503,50 @@
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
       "end": "2026-11-18"
+    },
+    {
+      "id": "allevents-2026-11-11-form-and-color-exhibition",
+      "title": "Form & Color Exhibition",
+      "titleMn": "Form & Color үзэсгэлэн",
+      "titleEn": "Form & Color Exhibition (opening)",
+      "start": "2026-11-11T18:30",
+      "allDay": false,
+      "location": "Kempinski Hotel Khan Palace, Altai Hall",
+      "locationEn": "Kempinski Hotel Khan Palace, Altai Hall",
+      "description": "Opening evening of a joint exhibition of paintings by U. Battsooj and sculptures by J. Purevsuren.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "painting",
+        "sculpture",
+        "үзэсгэлэн",
+        "уран зураг"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/form-and-color-exhibition/200031003222422",
+      "sourceName": "allevents.in"
+    },
+    {
+      "id": "ubcomedy-2026-11-11-best-of-ub-comedy",
+      "title": "Best of UB Comedy",
+      "titleMn": "Best of UB Comedy",
+      "titleEn": "Best of UB Comedy",
+      "start": "2026-11-11T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up showcase with seven of the club's comedians. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af0333d7be6bb4ff67cdb8c",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
@@ -551,6 +618,29 @@
       "lng": 106.914879
     },
     {
+      "id": "ubcomedy-2026-11-12-durvul",
+      "title": "Дөрвөл",
+      "titleMn": "Дөрвөл",
+      "titleEn": "Дөрвөл",
+      "start": "2026-11-12T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "\"Foursome\": stand-up comedy night. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af033da7be6bb4ff67cdba4",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "ticketmn-2026-11-13-tuunii-buruu",
       "title": "\"ТҮҮНИЙ БУРУУ\" орчин үеийн сэтгэл зүйн драмын жүжиг",
       "titleMn": "Түүний буруу",
@@ -598,6 +688,29 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ubcomedy-2026-11-13-friday-showcase",
+      "title": "Friday Showcase",
+      "titleMn": "Friday Showcase",
+      "titleEn": "Friday Showcase",
+      "start": "2026-11-13T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Friday stand-up comedy showcase. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af0344d7be6bb4ff67cdbc1",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "newsmn-2026-11-14-imagine-art-festival",
@@ -810,6 +923,73 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
       "sourceName": "GDG Ulaanbaatar",
       "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
+    },
+    {
+      "id": "allevents-2026-11-14-english-book-meeting-crying-in-h-mart",
+      "title": "English Book Meeting: \"Crying in H Mart\" by Michelle Zauner",
+      "titleMn": "Англи хэлний номын клуб: \"Crying in H Mart\"",
+      "titleEn": "English Book Meeting: \"Crying in H Mart\" by Michelle Zauner",
+      "start": "2026-11-14T14:00",
+      "end": "2026-11-14T16:00",
+      "allDay": false,
+      "location": "Emart Khan-Uul, Yujing Chinese Restaurant, Их тойруу",
+      "locationEn": "Yujing Chinese Restaurant, Emart Khan-Uul, Ikh Toiruu",
+      "description": "The Worldwide Readers' English-language book club meets to discuss Michelle Zauner's memoir. Register by message.",
+      "category": "Talks & Learning",
+      "tags": [
+        "book club",
+        "English",
+        "reading",
+        "ном",
+        "англи хэл"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/english-book-meeting-crying-in-h-mart-by-michelle-zauner/200031003194916",
+      "sourceName": "allevents.in"
+    },
+    {
+      "id": "ubcomedy-2026-11-14-saturday-spotlight",
+      "title": "Saturday Spotlight",
+      "titleMn": "Saturday Spotlight",
+      "titleEn": "Saturday Spotlight",
+      "start": "2026-11-14T19:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Saturday stand-up comedy show. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af034af7be6bb4ff67cdbdb",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
+      "title": "Trade and Investment Climate of Mongolia in 2027",
+      "titleMn": "2027 оны Монголын худалдаа, хөрөнгө оруулалтын орчин",
+      "titleEn": "Trade and Investment Climate of Mongolia in 2027",
+      "start": "2026-11-18T08:30",
+      "end": "2026-11-18T12:00",
+      "allDay": false,
+      "location": "Blue Sky Hotel & Tower, Jade Hall",
+      "locationEn": "Blue Sky Hotel & Tower, Jade Hall",
+      "description": "EuroChamber Mongolia's policy dialogue on the 2027 economic outlook, for professionals, entrepreneurs and startup founders. Registration required.",
+      "category": "Talks & Learning",
+      "tags": [
+        "business",
+        "economy",
+        "networking",
+        "бизнес",
+        "эдийн засаг"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/trade-and-investment-climate-of-mongolia-in-2027/200031003195016",
+      "sourceName": "allevents.in"
     },
     {
       "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
