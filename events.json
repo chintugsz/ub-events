@@ -433,7 +433,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af010777be6bb4ff67cd68a",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794117751767_cover_11.10%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -546,7 +547,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af0333d7be6bb4ff67cdb8c",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794126653909_cover_11.11%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
@@ -638,7 +640,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af033da7be6bb4ff67cdba4",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794126810210_cover_11.12%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-13-tuunii-buruu",
@@ -710,7 +713,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af0344d7be6bb4ff67cdbc1",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794126925090_cover_11.13%20cover.png"
     },
     {
       "id": "newsmn-2026-11-14-imagine-art-festival",
@@ -967,7 +971,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af034af7be6bb4ff67cdbdb",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794127023190_cover_11.14%20cover.png"
     },
     {
       "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
