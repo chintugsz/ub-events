@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:11:28+08:00",
+  "updatedAt": "2026-11-09T06:53:40+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -323,100 +323,6 @@
       "end": "2026-11-17"
     },
     {
-      "id": "ticketmn-2026-11-06-namaig-daguulaad-yavaach",
-      "title": "\"НАМАЙГ ДАГУУЛААД ЯВААЧ\" инээдмийн драмын жүжиг",
-      "titleMn": "Намайг дагуулаад яваач",
-      "titleEn": "Take Me With You (comedy-drama)",
-      "start": "2026-11-06",
-      "end": "2026-11-08",
-      "allDay": true,
-      "location": "МҮЭСТО",
-      "locationEn": "Mongolian Trade Union Cultural Center Palace (MUESTO)",
-      "description": "Comedy-drama about Sasha and Tamara, who loved each other years ago and meet again. Plays on 6, 7 and 8 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "comedy",
-        "жүжиг",
-        "инээдмийн"
-      ],
-      "url": "https://www.ticket.mn/event/3288",
-      "sourceName": "Ticket.mn",
-      "lat": 47.914228,
-      "lng": 106.893028,
-      "image": "https://www.ticket.mn/files/concerts/sliders/IMG_5010.jpeg"
-    },
-    {
-      "id": "ticketmn-2026-11-06-romeo-juliet-ballet",
-      "title": "ROMEO JULIET BALLET",
-      "titleMn": "Ромео Жульетта",
-      "titleEn": "Romeo and Juliet (ballet)",
-      "start": "2026-11-06",
-      "end": "2026-11-08",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Prokofiev's Romeo and Juliet ballet, a joint production of the State Academic Theatre of Opera and Ballet and the Imperial Theatre, on 6 and 8 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "ballet",
-        "Prokofiev",
-        "балет",
-        "театр"
-      ],
-      "url": "https://www.ticket.mn/event/3276",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-08T140245.241.png",
-      "lat": 47.919491,
-      "lng": 106.919385
-    },
-    {
-      "id": "ticketmn-2026-11-07-happy-prince",
-      "title": "\"Аз жаргалтай ханхүү\" хүүхэлдэйн жүжиг",
-      "titleMn": "Аз жаргалтай ханхүү",
-      "titleEn": "The Happy Prince (puppet play)",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "A puppet play for young children about a little swallow and a prince, and the difference between how things look and what they are worth. On 7 and 8 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн театр",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/2724",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/az_jargaltai_hanhuu_stand_yJg5u4w.jpg"
-    },
-    {
-      "id": "ticketmn-2026-11-07-muchrun-khuruut",
-      "title": "\"МӨЧРӨН ХУРУУТ\" хүүхэлдэйн жүжиг",
-      "titleMn": "Мөчрөн хуруут",
-      "titleEn": "Twig Fingers (puppet play)",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "A children's puppet play about honesty and protecting nature. On 7 and 8 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "хүүхэд",
-        "puppet theatre",
-        "хүүхэлдэйн театр",
-        "theatre"
-      ],
-      "url": "https://www.ticket.mn/event/3091",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/ggdgsg.png"
-    },
-    {
       "id": "montsame-2026-11-08-jiidaan-bogdyn-uvdis-exhibition",
       "title": "\"Жийдаан Богдын увдис\" үзэсгэлэн",
       "titleMn": "Жийдаан Богдын увдис",
@@ -440,48 +346,6 @@
       "lat": 47.920172,
       "lng": 106.90967,
       "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
-    },
-    {
-      "id": "ticketmn-2026-11-08-256-wrestlers-tournament",
-      "title": "АЙМАГ ЦЭРГИЙН ЦОЛТОЙ 256 БӨХИЙН БАРИЛДААН",
-      "titleMn": "Аймаг, цэргийн цолтой 256 бөхийн барилдаан",
-      "titleEn": "Wrestling tournament of 256 aimag- and army-titled wrestlers",
-      "start": "2026-11-08T11:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A traditional Mongolian wrestling tournament for 256 wrestlers holding aimag and army titles, from 11:00.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "бөх",
-        "барилдаан"
-      ],
-      "url": "https://www.ticket.mn/event/3331",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN.png"
-    },
-    {
-      "id": "mba-2026-11-08-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/08)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (8 Nov)",
-      "start": "2026-11-08T16:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Sono Brothers vs BCH Knights at 16:00 and South Gobi Broncos vs Khan Falcons at 18:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "montsame-2026-11-09-volleyball-premier-league",
