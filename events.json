@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T07:14:11+08:00",
+  "updatedAt": "2026-11-10T06:54:21+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -346,46 +346,6 @@
       "lat": 47.920172,
       "lng": 106.90967,
       "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
-    },
-    {
-      "id": "montsame-2026-11-09-volleyball-premier-league",
-      "title": "Волейболын үндэсний дээд лиг",
-      "titleMn": "Волейболын үндэсний дээд лигийн тоглолтууд",
-      "titleEn": "National Volleyball Premier League games (9 Nov)",
-      "start": "2026-11-09T14:30",
-      "allDay": false,
-      "location": "Спортын төв ордон",
-      "locationEn": "Central Sports Palace",
-      "description": "Top-league volleyball: Altai Bars vs Hasu Megastars at 14:30, Mintonette Gobi vs Khilchin at 17:00 and Darkhan Mogules vs Mazaalai at 19:30. Tickets on talon.mn.",
-      "cost": "10,000₮–80,000₮",
-      "category": "Sports",
-      "tags": [
-        "volleyball",
-        "волейбол",
-        "league"
-      ],
-      "url": "https://montsame.mn/mn/read/414530",
-      "sourceName": "MONTSAME"
-    },
-    {
-      "id": "mba-2026-11-09-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/09)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (9 Nov)",
-      "start": "2026-11-09T18:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Selenge Bodons vs SUA TLG Tushig Bagana at 18:00 and SG Apes vs Omni Erdenet Miners at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association",
-      "image": "https://mongolia.basketball/media/08/0816402a30bb2a6812ed52e7f02ea4f0d4a9582607772caa182513007954f687.png"
     },
     {
       "id": "ticketmn-2026-11-10-mongol-bakharkhal-wrestling",
