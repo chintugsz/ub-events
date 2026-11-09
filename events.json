@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T06:54:21+08:00",
+  "updatedAt": "2026-11-10T07:14:43+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -348,6 +348,49 @@
       "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
     },
     {
+      "id": "montsame-2026-11-10-munkh-tengeriin-bichig-2026",
+      "title": "\"Мөнх тэнгэрийн бичиг-2026\" монгол уран бичлэгийн олон улсын үзэсгэлэн",
+      "titleMn": "Мөнх тэнгэрийн бичиг-2026",
+      "titleEn": "Eternal Sky Script 2026: international Mongolian calligraphy exhibition (opening)",
+      "start": "2026-11-10",
+      "allDay": true,
+      "location": "Монголын Хүүхдийн урлан бүтээх төвийн \"Орд\" үзэсгэлэнгийн танхим",
+      "locationEn": "\"Ord\" Exhibition Hall, Children's Art and Creativity Centre of Mongolia",
+      "description": "Opening of the international Mongolian calligraphy exhibition, with an awards ceremony, on Mongolian Pride Day.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "calligraphy",
+        "Mongolian script",
+        "үзэсгэлэн",
+        "уран бичлэг"
+      ],
+      "url": "https://montsame.mn/mn/read/414860",
+      "sourceName": "MONTSAME"
+    },
+    {
+      "id": "montsame-2026-11-10-natsagdorj-legacy-week",
+      "title": "\"Д.Нацагдоржийн өвөөр аялах долоо хоног\"",
+      "titleMn": "Д.Нацагдоржийн өвөөр аялах долоо хоног",
+      "titleEn": "A Week Exploring the Legacy of D. Natsagdorj",
+      "start": "2026-11-10",
+      "end": "2026-11-17",
+      "allDay": true,
+      "location": "Улаанбаатар хотын нийтийн номын сан",
+      "locationEn": "Ulaanbaatar City Public Library",
+      "description": "A week of events at the city public library for the 120th birth anniversary of the writer D. Natsagdorj, including a lecture on the development of Natsagdorj studies on 12 November.",
+      "category": "Talks & Learning",
+      "tags": [
+        "literature",
+        "library",
+        "Natsagdorj",
+        "номын сан",
+        "уран зохиол"
+      ],
+      "url": "https://montsame.mn/mn/read/414860",
+      "sourceName": "MONTSAME"
+    },
+    {
       "id": "ticketmn-2026-11-10-mongol-bakharkhal-wrestling",
       "title": "МОНГОЛ БАХАРХЛЫН ӨДРИЙН БАРИЛДААН",
       "titleMn": "Монгол бахархлын өдрийн барилдаан",
@@ -395,6 +438,29 @@
       "lat": 47.914007,
       "lng": 106.908807,
       "image": "https://api.ubcomedy.mn/uploads/1794117751767_cover_11.10%20cover.png"
+    },
+    {
+      "id": "montsame-2026-11-11-mongol-bakharkhal-mongol-bichig",
+      "title": "\"Монгол бахархал-Монгол бичиг\" Монгол бичгийн уран бүтээлийн үзэсгэлэн",
+      "titleMn": "Монгол бахархал – Монгол бичиг",
+      "titleEn": "Mongolian Pride – Mongolian Script (exhibition)",
+      "start": "2026-11-11",
+      "allDay": true,
+      "location": "Байгалийн шинжлэх ухааны үндэсний музейн түр үзэсгэлэнгийн танхим",
+      "locationEn": "Temporary exhibition hall, National Museum of Natural History",
+      "description": "An exhibition of artworks in Mongolian script opens to the public in the museum's temporary exhibition hall.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "Mongolian script",
+        "museum",
+        "үзэсгэлэн",
+        "монгол бичиг"
+      ],
+      "url": "https://montsame.mn/mn/read/414860",
+      "sourceName": "MONTSAME",
+      "lat": 47.923435,
+      "lng": 106.905827
     },
     {
       "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
@@ -464,6 +530,25 @@
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
       "end": "2026-11-18"
+    },
+    {
+      "id": "mba-2026-11-11-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/11)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (11 Nov)",
+      "start": "2026-11-11T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Western Warriors vs SUA TLG Tushig Bagana at 15:30, Khan Falcons vs BCH Knights at 18:00 and Omni Erdenet Miners vs Selenge Bodons at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "allevents-2026-11-11-form-and-color-exhibition",
@@ -580,6 +665,25 @@
       "lng": 106.914879
     },
     {
+      "id": "mba-2026-11-12-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/12)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (12 Nov)",
+      "start": "2026-11-12T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: South Gobi Broncos vs Sono Brothers at 18:00 and Darkhan United vs SG Apes at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
       "id": "ubcomedy-2026-11-12-durvul",
       "title": "Дөрвөл",
       "titleMn": "Дөрвөл",
@@ -651,6 +755,25 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "mba-2026-11-13-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/13)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (13 Nov)",
+      "start": "2026-11-13T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: BCH Knights vs Western Warriors at 15:30, Selenge Bodons vs Khan Falcons at 18:00 and Omni Erdenet Miners vs SUA TLG Tushig Bagana at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
+      "sourceName": "Mongolian Basketball Association"
     },
     {
       "id": "ubcomedy-2026-11-13-friday-showcase",
@@ -776,11 +899,10 @@
       "titleMn": "Мөнгөний энергийн нууц",
       "titleEn": "The Secret of Money Energy (seminar)",
       "start": "2026-11-14",
-      "end": "2026-11-15",
       "allDay": true,
       "location": "Зайсан, Highland Park",
       "locationEn": "Highland Park, Zaisan",
-      "description": "A paid two-day seminar on how people think about money, success and abundance, on 14 and 15 November.",
+      "description": "A paid seminar on how people think about money, success and abundance. Ticket.mn now lists it on 14 November only.",
       "category": "Talks & Learning",
       "tags": [
         "seminar",
@@ -1070,6 +1192,27 @@
       "sourceName": "TEDx"
     },
     {
+      "id": "ticketmn-2026-11-21-ireeduig-avarsan-aylal",
+      "title": "\"ИРЭЭДҮЙГ АВАРСАН АЯЛАЛ\" хүүхдийн жүжиг",
+      "titleMn": "Ирээдүйг аварсан аялал",
+      "titleEn": "The Journey That Saved the Future (children's play)",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "allDay": true,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "State Puppet Theatre of Mongolia",
+      "description": "A children's play set in 2056, when pollution has made life on Earth nearly impossible. A scientist and three children travel back in time to try to save the planet. On 21 and 22 November.",
+      "category": "Kids & Family",
+      "tags": [
+        "theatre",
+        "kids",
+        "children's play",
+        "хүүхдийн жүжиг"
+      ],
+      "url": "https://www.ticket.mn/event/3340",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-11-21-love-letters",
       "title": "\"Love Letters\" романтик драмын жүжиг",
       "titleMn": "\"Love Letters\" романтик драмын жүжиг",
@@ -1210,32 +1353,6 @@
       "sourceName": "News.mn",
       "lat": 47.917851,
       "lng": 106.935278
-    },
-    {
-      "id": "eventx-2026-11-21-special-concert-2026",
-      "title": "Special Concert 2026 (11.21)",
-      "titleMn": "Special Concert 2026 (11.21)",
-      "titleEn": "Special Concert 2026 (21 Nov)",
-      "start": "2026-11-21T18:00",
-      "end": "2026-11-22T00:00",
-      "allDay": false,
-      "location": "AIC Steppe Arena",
-      "locationEn": "AIC Steppe Arena",
-      "description": "Second night of ENEREL, GANGAA, THUNDER and VANDEBO on one stage. Ages 12+; under-16s must come with an adult. A shuttle bus costs 10,000₮.",
-      "cost": "109,000₮–179,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "pop",
-        "hip-hop",
-        "тоглолт",
-        "концерт"
-      ],
-      "url": "https://www.eventx.mn/event/1916",
-      "sourceName": "EventX",
-      "lat": 47.847528,
-      "lng": 106.793257,
-      "image": "https://d12slmbmp0aiwz.cloudfront.net/Orange_2768ccfffd.jpg"
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -1540,6 +1657,25 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695089477049751383_ticket.mn-banner-1200kh630.png"
     },
     {
+      "id": "ticketmn-2026-11-27-movie-motivation-night-gladiator",
+      "title": "MOVIE MOTIVATION NIGHT – GLADIATOR I",
+      "titleMn": "Movie Motivation Night – Gladiator I",
+      "titleEn": "Movie Motivation Night – Gladiator I",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "Skywing center",
+      "locationEn": "Skywing Center, Zaisan",
+      "description": "A film night screening Gladiator I, part of a series about films on the value of life, human nature, belief and endurance.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "movie night",
+        "кино"
+      ],
+      "url": "https://www.ticket.mn/event/3339",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "urgoo-2026-11-27-focker-in-law",
       "title": "Focker-In-Law",
       "titleEn": "Focker-In-Law",
@@ -1775,6 +1911,63 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/1200x630_AbvpbJB.jpg"
+    },
+    {
+      "id": "mba-2026-12-08-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/08)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (8 Dec)",
+      "start": "2026-12-08T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Sono Brothers vs Darkhan United at 18:00 and SG Apes vs South Gobi Broncos at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-12-09-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/09)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (9 Dec)",
+      "start": "2026-12-09T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Khan Falcons vs SUA TLG Tushig Bagana at 15:30, Western Warriors vs Selenge Bodons at 18:00 and BCH Knights vs Omni Erdenet Miners at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-12-10-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/10)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (10 Dec)",
+      "start": "2026-12-10T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: SG Apes vs Sono Brothers at 15:30 and Darkhan United vs South Gobi Broncos at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
     }
   ]
 }
