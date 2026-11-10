@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:14:43+08:00",
+  "updatedAt": "2026-11-11T06:53:51+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -348,27 +348,6 @@
       "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
     },
     {
-      "id": "montsame-2026-11-10-munkh-tengeriin-bichig-2026",
-      "title": "\"Мөнх тэнгэрийн бичиг-2026\" монгол уран бичлэгийн олон улсын үзэсгэлэн",
-      "titleMn": "Мөнх тэнгэрийн бичиг-2026",
-      "titleEn": "Eternal Sky Script 2026: international Mongolian calligraphy exhibition (opening)",
-      "start": "2026-11-10",
-      "allDay": true,
-      "location": "Монголын Хүүхдийн урлан бүтээх төвийн \"Орд\" үзэсгэлэнгийн танхим",
-      "locationEn": "\"Ord\" Exhibition Hall, Children's Art and Creativity Centre of Mongolia",
-      "description": "Opening of the international Mongolian calligraphy exhibition, with an awards ceremony, on Mongolian Pride Day.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "calligraphy",
-        "Mongolian script",
-        "үзэсгэлэн",
-        "уран бичлэг"
-      ],
-      "url": "https://montsame.mn/mn/read/414860",
-      "sourceName": "MONTSAME"
-    },
-    {
       "id": "montsame-2026-11-10-natsagdorj-legacy-week",
       "title": "\"Д.Нацагдоржийн өвөөр аялах долоо хоног\"",
       "titleMn": "Д.Нацагдоржийн өвөөр аялах долоо хоног",
@@ -389,55 +368,6 @@
       ],
       "url": "https://montsame.mn/mn/read/414860",
       "sourceName": "MONTSAME"
-    },
-    {
-      "id": "ticketmn-2026-11-10-mongol-bakharkhal-wrestling",
-      "title": "МОНГОЛ БАХАРХЛЫН ӨДРИЙН БАРИЛДААН",
-      "titleMn": "Монгол бахархлын өдрийн барилдаан",
-      "titleEn": "Mongolian Pride Day wrestling",
-      "start": "2026-11-10T13:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "Wrestling for Mongolian Pride Day (Chinggis Khaan's birthday): 128 high-ranked wrestlers compete for the \"Chinggis Khaan\" cup from 13:00.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "Chinggis Khaan",
-        "бөх",
-        "барилдаан",
-        "Монгол бахархлын өдөр"
-      ],
-      "url": "https://www.ticket.mn/event/3338",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-4.png"
-    },
-    {
-      "id": "ubcomedy-2026-11-10-manai-khun",
-      "title": "Манай Хүн",
-      "titleMn": "Манай Хүн",
-      "titleEn": "Манай Хүн",
-      "start": "2026-11-10T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "\"Our Guy\": stand-up comedy with six of the club's comedians. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6af010777be6bb4ff67cd68a",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794117751767_cover_11.10%20cover.png"
     },
     {
       "id": "montsame-2026-11-11-mongol-bakharkhal-mongol-bichig",
