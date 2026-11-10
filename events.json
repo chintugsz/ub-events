@@ -1029,7 +1029,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af169377be6bb4ff67d02e1",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794206007097_cover_11.14%20cover%20(1).png"
     },
     {
       "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
@@ -1448,7 +1449,8 @@
       "url": "https://www.eventx.mn/event/1912",
       "sourceName": "EventX",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_25_4448807bfb.jpg"
     },
     {
       "id": "urgoo-2026-11-25-hexed",
