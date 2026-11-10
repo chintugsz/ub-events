@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:53:51+08:00",
+  "updatedAt": "2026-11-11T07:21:57+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -251,6 +251,28 @@
       "lat": 47.918775,
       "lng": 106.921609,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
+    },
+    {
+      "id": "montsame-2026-11-02-ene-ter-joint-exhibition",
+      "title": "\"Энэ тэр\" хамтарсан үзэсгэлэн",
+      "titleMn": "Энэ тэр",
+      "titleEn": "\"This and That\" joint exhibition",
+      "start": "2026-11-02",
+      "end": "2026-11-25",
+      "allDay": true,
+      "location": "ССАЖЗЯ-ны үзэсгэлэнгийн танхим",
+      "locationEn": "Exhibition hall of the Ministry of Culture, Sports, Tourism and Youth",
+      "description": "A joint exhibition by eight young artists, organised by the Young Artists' Association of the Union of Mongolian Artists. Open until 25 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "young artists",
+        "painting",
+        "үзэсгэлэн",
+        "залуу уран бүтээлчид"
+      ],
+      "url": "https://montsame.mn/mn/read/414879",
+      "sourceName": "MONTSAME"
     },
     {
       "id": "ticketmn-2026-11-04-nomadic-legend",
@@ -987,6 +1009,29 @@
       "image": "https://api.ubcomedy.mn/uploads/1794127023190_cover_11.14%20cover.png"
     },
     {
+      "id": "ubcomedy-2026-11-14-debate-show",
+      "title": "The Debate Show",
+      "titleMn": "The Debate Show",
+      "titleEn": "The Debate Show",
+      "start": "2026-11-14T21:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "A comedy show with Bataa, Angarag, Bayaraa, Zori and Buyaka. Ages 18+; the lineup may change.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af169377be6bb4ff67d02e1",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
       "title": "Trade and Investment Climate of Mongolia in 2027",
       "titleMn": "2027 оны Монголын худалдаа, хөрөнгө оруулалтын орчин",
@@ -1167,30 +1212,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Ticket-1200x630-copy-1-_6084.jpg"
     },
     {
-      "id": "ticketmn-2026-11-21-nuance-25",
-      "title": "Нюанс хамтлаг 25 жил",
-      "titleMn": "Нюанс хамтлаг 25 жил",
-      "titleEn": "Nuance: 25 years",
-      "start": "2026-11-21",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Central Cultural Palace",
-      "description": "Anniversary concert for Nuance, described as Mongolia's first pop-opera group, marking 25 years.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "pop-opera",
-        "anniversary",
-        "тоглолт",
-        "Нюанс"
-      ],
-      "url": "https://www.ticket.mn/event/3302",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png"
-    },
-    {
       "id": "urlag-2026-11-21-amarkhuu-khairyn-gegee",
       "title": "Дуучин Б.Амархүү \"Хайрын гэгээ\" тоглолт",
       "titleMn": "Б.Амархүү \"Хайрын гэгээ\" тоглолт",
@@ -1284,6 +1305,31 @@
       "sourceName": "News.mn",
       "lat": 47.917851,
       "lng": 106.935278
+    },
+    {
+      "id": "ticketmn-2026-11-21-nuance-25",
+      "title": "Нюанс хамтлаг 25 жил",
+      "titleMn": "Нюанс хамтлаг 25 жил",
+      "titleEn": "Nuance: 25 years",
+      "start": "2026-11-21T18:00",
+      "allDay": false,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "Anniversary concert for Nuance, described as Mongolia's first pop-opera group, marking 25 years.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop-opera",
+        "anniversary",
+        "тоглолт",
+        "Нюанс"
+      ],
+      "url": "https://www.ticket.mn/event/3302",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png",
+      "cost": "45,000–89,000₮"
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -1380,6 +1426,29 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_072a5a6551.jpg"
+    },
+    {
+      "id": "eventx-2026-11-25-samandyn-khuu",
+      "title": "Самандын Хүү (11.25)",
+      "titleMn": "Самандын хүү",
+      "titleEn": "Son of Samand (25 Nov)",
+      "start": "2026-11-25",
+      "allDay": true,
+      "location": "Бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A second date of the \"Samandyn Khuu\" concert at the Wrestling Palace, listed by EventX for 25 November. The first date is 24 November.",
+      "cost": "66,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "Javkhlan",
+        "тоглолт",
+        "Жавхлан"
+      ],
+      "url": "https://www.eventx.mn/event/1912",
+      "sourceName": "EventX",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "urgoo-2026-11-25-hexed",
@@ -1563,31 +1632,6 @@
       "sourceName": "FIBA"
     },
     {
-      "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
-      "title": "Д.Лувсаншарав - 100 жил Хүндэтгэлийн Гала тоглолт",
-      "titleMn": "Д.Лувсаншарав – 100 жил хүндэтгэлийн гала тоглолт",
-      "titleEn": "D. Luvsansharav 100 Years: tribute gala concert",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Central Cultural Palace",
-      "description": "A gala concert of works by composer D. Luvsansharav, marking 100 years since his birth.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "gala",
-        "composer",
-        "Mongolian songs",
-        "концерт",
-        "хүндэтгэлийн тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3334",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695089477049751383_ticket.mn-banner-1200kh630.png"
-    },
-    {
       "id": "ticketmn-2026-11-27-movie-motivation-night-gladiator",
       "title": "MOVIE MOTIVATION NIGHT – GLADIATOR I",
       "titleMn": "Movie Motivation Night – Gladiator I",
@@ -1653,6 +1697,32 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
+      "title": "Д.Лувсаншарав - 100 жил Хүндэтгэлийн Гала тоглолт",
+      "titleMn": "Д.Лувсаншарав – 100 жил хүндэтгэлийн гала тоглолт",
+      "titleEn": "D. Luvsansharav 100 Years: tribute gala concert",
+      "start": "2026-11-27T19:00",
+      "allDay": false,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "A gala concert of works by composer D. Luvsansharav, marking 100 years since his birth.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "gala",
+        "composer",
+        "Mongolian songs",
+        "концерт",
+        "хүндэтгэлийн тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3334",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695089477049751383_ticket.mn-banner-1200kh630.png",
+      "cost": "50,000–70,000₮"
     },
     {
       "id": "ticketmn-2026-11-28-suragch-nas-3",
