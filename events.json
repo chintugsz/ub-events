@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T06:54:02+08:00",
+  "updatedAt": "2026-11-12T07:16:17+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -439,6 +439,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T111309.604.png"
     },
     {
+      "id": "ticketmn-2026-11-12-mongolyn-gaikhamshigt-urlag",
+      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
+      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
+      "titleEn": "Wonders of Mongolian Art (folk performance)",
+      "start": "2026-11-12",
+      "allDay": true,
+      "location": "Зам тээврийн яам, Их нүүдэл танхим",
+      "locationEn": "\"Ikh Nuudel\" hall, Ministry of Road and Transport",
+      "description": "A performance of traditional Mongolian folk art by the \"Khuur Magnai\" folk arts ensemble.",
+      "category": "Music & Performance",
+      "tags": [
+        "folk",
+        "traditional",
+        "концерт",
+        "ардын урлаг"
+      ],
+      "url": "https://www.ticket.mn/event/3272",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
       "title": "\"ТЭНГЭРИЙН ЭЛЧ ТЭМҮЖИН\" жүжиг",
       "titleMn": "Тэнгэрийн элч Тэмүжин",
@@ -528,6 +548,30 @@
       "image": "https://api.ubcomedy.mn/uploads/1794126810210_cover_11.12%20cover.png"
     },
     {
+      "id": "tengis-2026-11-13-zogsool",
+      "title": "Зогсоол",
+      "titleMn": "Зогсоол",
+      "titleEn": "Zogsool (The Stop)",
+      "start": "2026-11-13",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Mongolian drama (1 h 50 min) opening at Tengis: during a pandemic, a truck driver is stranded at a fuel station in a remote town run by a single mother. Rated R 16+.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "drama",
+        "Mongolian film",
+        "new release",
+        "кино",
+        "нээлт"
+      ],
+      "url": "https://www.tengis.mn/film/zogsool",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "ticketmn-2026-11-13-tuunii-buruu",
       "title": "\"ТҮҮНИЙ БУРУУ\" орчин үеийн сэтгэл зүйн драмын жүжиг",
       "titleMn": "Түүний буруу",
@@ -594,6 +638,26 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "allevents-2026-11-13-hide-speaking-club",
+      "title": "HIDE SPEAKING CLUB",
+      "titleEn": "HIDE Speaking Club",
+      "start": "2026-11-13T19:00",
+      "end": "2026-11-13T22:00",
+      "allDay": false,
+      "location": "WW98+G34 Jigjidjav St, Ulaanbaatar",
+      "locationEn": "Jigjidjav Street (organised by Japanese Restaurant HIDE)",
+      "description": "A relaxed multilingual hangout to meet new people and practise the languages you are learning, hosted by Japanese Restaurant HIDE. No perfect grammar needed.",
+      "category": "Community & Civic",
+      "tags": [
+        "language exchange",
+        "meetup",
+        "social",
+        "хэлний клуб"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/hide-speaking-club/200031025252043",
+      "sourceName": "allevents.in"
     },
     {
       "id": "ubcomedy-2026-11-13-friday-showcase",
@@ -803,32 +867,6 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-16T171545.497.png"
-    },
-    {
-      "id": "gdg-2026-11-14-devfest-ub-2026",
-      "title": "DevFest UB 2026",
-      "titleEn": "DevFest UB 2026",
-      "start": "2026-11-14T10:00",
-      "end": "2026-11-14T14:00",
-      "allDay": false,
-      "location": "Zakira-Od building-ийн 2 давхар (Голомт банкны хойно, Сансар кабелийн эсрэг талд)",
-      "locationEn": "Zakira-Od building, 2nd floor (north of Golomt Bank, opposite Sansar Cable)",
-      "description": "Google Developer Groups Ulaanbaatar's annual tech conference on AI in technology, business and software development: generative AI, AI agents, AI-assisted coding and AI startups. For developers, students, startups and business leaders.",
-      "category": "Talks & Learning",
-      "tags": [
-        "tech",
-        "AI",
-        "developers",
-        "Google",
-        "conference",
-        "students",
-        "технологи",
-        "хиймэл оюун",
-        "хөгжүүлэгч"
-      ],
-      "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
-      "sourceName": "GDG Ulaanbaatar",
-      "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
     },
     {
       "id": "allevents-2026-11-14-english-book-meeting-crying-in-h-mart",
@@ -1081,6 +1119,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Ticket-1200x630-copy-1-_6084.jpg"
     },
     {
+      "id": "ublife-2026-11-21-the-media-show-2026",
+      "title": "The Media Show 2026 | Медиа салбарынхны урам зоригоо хөглөх өдөр",
+      "titleMn": "Медиа салбарынхны урам зоригоо хөглөх өдөр",
+      "titleEn": "The Media Show 2026: an inspiration day for media people",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "Tumen Ekh Event Hall",
+      "locationEn": "Tumen Ekh Event Hall",
+      "description": "The fourth Media Show, with inspiration and PechaKucha talks, a new \"Duet & Duel\" segment and a main panel on how media is funded. Open to students, young professionals and anyone interested in media; ticket details to be announced.",
+      "category": "Talks & Learning",
+      "tags": [
+        "media",
+        "journalism",
+        "talks",
+        "PechaKucha",
+        "медиа"
+      ],
+      "url": "https://www.ub.life/p/261110-qixwx0",
+      "sourceName": "UB Life"
+    },
+    {
       "id": "urlag-2026-11-21-amarkhuu-khairyn-gegee",
       "title": "Дуучин Б.Амархүү \"Хайрын гэгээ\" тоглолт",
       "titleMn": "Б.Амархүү \"Хайрын гэгээ\" тоглолт",
@@ -1126,6 +1185,32 @@
       "url": "https://happeningnext.com/event/iwam-2026-winter-charity-fair-eid1ar6ibudmk",
       "sourceName": "HappeningNext",
       "image": "https://cdn2.happeningnext.com/ai-banners/ai_banner_6ae308704d3e2.jpg"
+    },
+    {
+      "id": "gdg-2026-11-14-devfest-ub-2026",
+      "title": "DevFest UB 2026",
+      "titleEn": "DevFest UB 2026",
+      "start": "2026-11-21T12:00",
+      "end": "2026-11-21T16:00",
+      "allDay": false,
+      "location": "Zaisan Hill Complex, Dunjingarav 14, 11-р хороо",
+      "locationEn": "Zaisan Hill Complex, Dunjingarav 14, 11th khoroo",
+      "description": "Google Developer Groups Ulaanbaatar's annual tech conference on AI in technology, business and software development: generative AI, AI agents, AI-assisted coding and AI startups. For developers, students, startups and business leaders.",
+      "category": "Talks & Learning",
+      "tags": [
+        "tech",
+        "AI",
+        "developers",
+        "Google",
+        "conference",
+        "students",
+        "технологи",
+        "хиймэл оюун",
+        "хөгжүүлэгч"
+      ],
+      "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
+      "sourceName": "GDG Ulaanbaatar",
+      "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
     },
     {
       "id": "ticketmn-2026-11-21-nasny-namar",
@@ -1840,6 +1925,29 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
+      "title": "П.И.Чайковский \"Цөмөөхэй\" балет",
+      "titleMn": "\"Цөмөөхэй\" балет",
+      "titleEn": "Tchaikovsky's \"The Nutcracker\" (ballet)",
+      "start": "2026-12-12",
+      "end": "2026-12-29",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "Tchaikovsky's ballet \"The Nutcracker\", staged by People's Artist and Cultural Envoy D. Altankhuyag. On 12, 13, 28 and 29 December.",
+      "category": "Music & Performance",
+      "tags": [
+        "ballet",
+        "classical",
+        "Tchaikovsky",
+        "балет"
+      ],
+      "url": "https://www.ticket.mn/event/3322",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     }
   ]
 }
