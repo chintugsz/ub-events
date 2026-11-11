@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T07:21:57+08:00",
+  "updatedAt": "2026-11-12T06:54:02+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -392,75 +392,6 @@
       "sourceName": "MONTSAME"
     },
     {
-      "id": "montsame-2026-11-11-mongol-bakharkhal-mongol-bichig",
-      "title": "\"Монгол бахархал-Монгол бичиг\" Монгол бичгийн уран бүтээлийн үзэсгэлэн",
-      "titleMn": "Монгол бахархал – Монгол бичиг",
-      "titleEn": "Mongolian Pride – Mongolian Script (exhibition)",
-      "start": "2026-11-11",
-      "allDay": true,
-      "location": "Байгалийн шинжлэх ухааны үндэсний музейн түр үзэсгэлэнгийн танхим",
-      "locationEn": "Temporary exhibition hall, National Museum of Natural History",
-      "description": "An exhibition of artworks in Mongolian script opens to the public in the museum's temporary exhibition hall.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "Mongolian script",
-        "museum",
-        "үзэсгэлэн",
-        "монгол бичиг"
-      ],
-      "url": "https://montsame.mn/mn/read/414860",
-      "sourceName": "MONTSAME",
-      "lat": 47.923435,
-      "lng": 106.905827
-    },
-    {
-      "id": "ticketmn-2026-11-11-hishig-11-negen-taiz",
-      "title": "ХИШИГ-11 Нэгэн Тайз",
-      "titleMn": "ХИШИГ-11 Нэгэн тайз",
-      "titleEn": "HISHIG-11: One Stage (concert)",
-      "start": "2026-11-11",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "Concert marking 11 years of Hishig Production, with leading contemporary performers.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "pop",
-        "тоглолт",
-        "Хишиг продакшн"
-      ],
-      "url": "https://www.ticket.mn/event/3308",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/ticket-hevtee_6297.jpg"
-    },
-    {
-      "id": "urlag-2026-11-11-jonon-20th-anniversary",
-      "title": "\"Жонон\" хамтлагийн 20 жилийн ойн тоглолт",
-      "titleMn": "\"Жонон\" хамтлагийн 20 жилийн ойн тоглолт",
-      "titleEn": "Jonon band: 20th anniversary concert",
-      "start": "2026-11-11",
-      "allDay": true,
-      "location": "Корпорэйт конвеншн центр",
-      "locationEn": "Corporate Convention Centre",
-      "description": "Jonon, formed in 2006 by graduates of the State University of Arts and Culture, mixes national instruments with drums and electric guitar. Its 20th-anniversary concert is staged in a film-and-theatre style.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "band",
-        "folk rock",
-        "national instruments",
-        "концерт",
-        "хамтлаг"
-      ],
-      "url": "https://urlag.mn/post/161584",
-      "sourceName": "Urlag.mn",
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/859977447_1676104520755443_2350708806169214417_n-Photoroom.png"
-    },
-    {
       "id": "urlag-2026-11-11-norson-zurkh-musical",
       "title": "Норсон зүрх",
       "titleMn": "Норсон зүрх",
@@ -482,70 +413,6 @@
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
       "end": "2026-11-18"
-    },
-    {
-      "id": "mba-2026-11-11-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/11)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (11 Nov)",
-      "start": "2026-11-11T15:30",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: Western Warriors vs SUA TLG Tushig Bagana at 15:30, Khan Falcons vs BCH Knights at 18:00 and Omni Erdenet Miners vs Selenge Bodons at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
-    },
-    {
-      "id": "allevents-2026-11-11-form-and-color-exhibition",
-      "title": "Form & Color Exhibition",
-      "titleMn": "Form & Color үзэсгэлэн",
-      "titleEn": "Form & Color Exhibition (opening)",
-      "start": "2026-11-11T18:30",
-      "allDay": false,
-      "location": "Kempinski Hotel Khan Palace, Altai Hall",
-      "locationEn": "Kempinski Hotel Khan Palace, Altai Hall",
-      "description": "Opening evening of a joint exhibition of paintings by U. Battsooj and sculptures by J. Purevsuren.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "painting",
-        "sculpture",
-        "үзэсгэлэн",
-        "уран зураг"
-      ],
-      "url": "https://allevents.in/ulaanbaatar/form-and-color-exhibition/200031003222422",
-      "sourceName": "allevents.in"
-    },
-    {
-      "id": "ubcomedy-2026-11-11-best-of-ub-comedy",
-      "title": "Best of UB Comedy",
-      "titleMn": "Best of UB Comedy",
-      "titleEn": "Best of UB Comedy",
-      "start": "2026-11-11T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Stand-up showcase with seven of the club's comedians. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6af0333d7be6bb4ff67cdb8c",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794126653909_cover_11.11%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-12-battulga-my-first-concert",
