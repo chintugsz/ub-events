@@ -456,7 +456,8 @@
         "ардын урлаг"
       ],
       "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
     },
     {
       "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
@@ -569,7 +570,8 @@
       "url": "https://www.tengis.mn/film/zogsool",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001233/horizontal.jpg"
     },
     {
       "id": "ticketmn-2026-11-13-tuunii-buruu",
@@ -1137,7 +1139,8 @@
         "медиа"
       ],
       "url": "https://www.ub.life/p/261110-qixwx0",
-      "sourceName": "UB Life"
+      "sourceName": "UB Life",
+      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-549338e8-8a8d-4e6d-b499-a918054c457f.jpg"
     },
     {
       "id": "urlag-2026-11-21-amarkhuu-khairyn-gegee",
@@ -1947,7 +1950,8 @@
       "url": "https://www.ticket.mn/event/3322",
       "sourceName": "Ticket.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-29T180048.183.png"
     }
   ]
 }
