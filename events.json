@@ -873,7 +873,8 @@
       "url": "https://www.ticket.mn/event/3343",
       "sourceName": "Ticket.mn",
       "lat": 47.919534,
-      "lng": 106.920049
+      "lng": 106.920049,
+      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-11.png"
     },
     {
       "id": "urgoo-2026-11-20-hunger-games-sunrise-on-the-reaping",
@@ -1843,7 +1844,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001175",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001175/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
@@ -1889,7 +1891,8 @@
         "зул сар"
       ],
       "url": "https://www.ticket.mn/event/3307",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-22T174601.553.png"
     }
   ]
 }
