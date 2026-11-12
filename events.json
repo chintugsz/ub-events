@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:53:43+08:00",
+  "updatedAt": "2026-11-13T07:15:20+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -355,7 +355,7 @@
       "allDay": true,
       "location": "UG Palace",
       "locationEn": "UG Palace",
-      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 18 November.",
+      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 19 November.",
       "category": "Music & Performance",
       "tags": [
         "musical",
@@ -367,7 +367,7 @@
       "url": "https://urlag.mn/post/160048",
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
-      "end": "2026-11-18"
+      "end": "2026-11-19"
     },
     {
       "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
@@ -483,7 +483,7 @@
         "нээлт",
         "Өргөө"
       ],
-      "url": "https://new.urgoo.mn/movies/HO00001929",
+      "url": "https://new.urgoo.mn/movies/HO00001165",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
       "lng": 106.87492,
@@ -853,6 +853,29 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/ARD_STAND.jpg"
     },
     {
+      "id": "ticketmn-2026-11-20-nairuulga-2026",
+      "title": "НАЙРУУЛГА 2026",
+      "titleMn": "Найруулга 2026",
+      "titleEn": "Nairuulga 2026 (percussion concert)",
+      "start": "2026-11-20",
+      "allDay": true,
+      "location": "Улсын филармони",
+      "locationEn": "State Philharmonic",
+      "description": "A concert by the percussion ensemble of the Mongolian State Conservatory, opening with J. Chuluun's introduction to the dance drama \"Uran Khas\".",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "percussion",
+        "conservatory",
+        "концерт",
+        "цохивор хөгжим"
+      ],
+      "url": "https://www.ticket.mn/event/3343",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
+    },
+    {
       "id": "urgoo-2026-11-20-hunger-games-sunrise-on-the-reaping",
       "title": "The Hunger Games: Sunrise on the Reaping",
       "titleMn": "The Hunger Games: Sunrise on the Reaping",
@@ -870,7 +893,7 @@
         "кино",
         "нээлт"
       ],
-      "url": "https://new.urgoo.mn/movies/HO00001921",
+      "url": "https://new.urgoo.mn/movies/HO00001171",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
       "lng": 106.87492,
@@ -1295,11 +1318,35 @@
         "кино",
         "хүүхэлдэйн кино"
       ],
-      "url": "https://new.urgoo.mn/movies/HO00001947",
+      "url": "https://new.urgoo.mn/movies/HO00001167",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "titleEn": "The Further Mis-Adventures of Cliff Booth",
+      "start": "2026-11-25",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Drama, comedy and thriller film opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "new release",
+        "кино",
+        "Өргөө",
+        "comedy",
+        "crime"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001170",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-11-25-bukhiin-gergii",
@@ -1495,35 +1542,11 @@
         "кино",
         "Өргөө"
       ],
-      "url": "https://new.urgoo.mn/movies/HO00001927",
+      "url": "https://new.urgoo.mn/movies/HO00001168",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
-      "title": "The Further Mis-Adventures of Cliff Booth",
-      "titleEn": "The Further Mis-Adventures of Cliff Booth",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Comedy crime thriller opening on Urgoo screens. Rated PG13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "new release",
-        "кино",
-        "Өргөө",
-        "comedy",
-        "crime"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001960",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
@@ -1799,6 +1822,30 @@
       "sourceName": "Mongolian Basketball Association"
     },
     {
+      "id": "urgoo-2026-12-11-above-the-below",
+      "title": "Above the Below",
+      "titleEn": "Above the Below",
+      "start": "2026-12-11",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Action, thriller and science-fiction film opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "sci-fi",
+        "thriller",
+        "new release",
+        "кино",
+        "нээлт",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001175",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
+    },
+    {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
       "title": "П.И.Чайковский \"Цөмөөхэй\" балет",
       "titleMn": "\"Цөмөөхэй\" балет",
@@ -1821,6 +1868,28 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-29T180048.183.png"
+    },
+    {
+      "id": "ticketmn-2026-12-13-zuruud-grinch",
+      "title": "\"Зөрүүд Гринч\" зул сарын сахилгагүй драм",
+      "titleMn": "Зөрүүд Гринч",
+      "titleEn": "The Stubborn Grinch (Christmas comedy drama)",
+      "start": "2026-12-13",
+      "end": "2026-12-20",
+      "allDay": true,
+      "location": "Улаанбаатар театр",
+      "locationEn": "Ulaanbaatar Theatre",
+      "description": "A Christmas comedy drama about a stubborn Grinch and his loyal helper Max, who hide in a mountain cave. On 13, 19 and 20 December.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "Christmas",
+        "comedy",
+        "жүжиг",
+        "зул сар"
+      ],
+      "url": "https://www.ticket.mn/event/3307",
+      "sourceName": "Ticket.mn"
     }
   ]
 }
