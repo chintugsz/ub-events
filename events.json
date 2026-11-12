@@ -506,7 +506,8 @@
         "сагсан бөмбөг"
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
+      "sourceName": "Mongolian Basketball Association",
+      "image": "https://mongolia.basketball/media/08/0816402a30bb2a6812ed52e7f02ea4f0d4a9582607772caa182513007954f687.png"
     },
     {
       "id": "allevents-2026-11-13-hide-speaking-club",
@@ -1201,7 +1202,8 @@
       "url": "https://www.ub.life/p/261027-gs2n72",
       "sourceName": "UB Life",
       "lat": 47.920172,
-      "lng": 106.90967
+      "lng": 106.90967,
+      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-05855d16-305c-41fd-9d02-bb1e560a2726.jpg"
     },
     {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
