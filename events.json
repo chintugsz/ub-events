@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:16:17+08:00",
+  "updatedAt": "2026-11-13T06:53:43+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -204,27 +204,6 @@
       "lng": 106.919385
     },
     {
-      "id": "ublife-2026-10-28-ts-khash-photo-exhibition",
-      "title": "\"Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд\"",
-      "titleMn": "Цэрэнгийн Хаш гэрэл зургийн хальсанд үлдсэн дурсамжууд",
-      "titleEn": "Ts. Khash: Memories Kept on Photographic Film",
-      "start": "2026-10-28",
-      "end": "2026-11-12",
-      "allDay": true,
-      "location": "Улаан гэр галерей (Монголын урлагийн зөвлөлийн дэргэдэх)",
-      "locationEn": "Red Ger Gallery, Arts Council of Mongolia",
-      "description": "A photo exhibition marking photographer Khash's 85th anniversary, with pictures of childhood friends, daily life, home culture and schooling.",
-      "category": "Arts & Museums",
-      "tags": [
-        "photography",
-        "exhibition",
-        "гэрэл зураг",
-        "үзэсгэлэн"
-      ],
-      "url": "https://www.ub.life/p/261027-gs2n72",
-      "sourceName": "UB Life"
-    },
-    {
       "id": "eventx-2026-10-30-amitny-ferm",
       "title": "Амьтны ферм",
       "titleMn": "Амьтны ферм",
@@ -345,31 +324,6 @@
       "end": "2026-11-17"
     },
     {
-      "id": "montsame-2026-11-08-jiidaan-bogdyn-uvdis-exhibition",
-      "title": "\"Жийдаан Богдын увдис\" үзэсгэлэн",
-      "titleMn": "Жийдаан Богдын увдис",
-      "titleEn": "The Virtues of Jiidaan Bogd (exhibition)",
-      "start": "2026-11-08",
-      "end": "2026-11-12",
-      "allDay": true,
-      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
-      "locationEn": "Zanabazar Museum of Fine Arts",
-      "description": "Painted-book works by icon painter and monk T. Dugar on the life of Jiidaan Bogd, shown for the first time.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "Buddhist art",
-        "painting",
-        "үзэсгэлэн",
-        "шүтээн зураг"
-      ],
-      "url": "https://montsame.mn/mn/read/414517",
-      "sourceName": "MONTSAME",
-      "lat": 47.920172,
-      "lng": 106.90967,
-      "image": "https://montsame.mn/files/medium/6aea8e87d6070.jpeg"
-    },
-    {
       "id": "montsame-2026-11-10-natsagdorj-legacy-week",
       "title": "\"Д.Нацагдоржийн өвөөр аялах долоо хоног\"",
       "titleMn": "Д.Нацагдоржийн өвөөр аялах долоо хоног",
@@ -416,50 +370,6 @@
       "end": "2026-11-18"
     },
     {
-      "id": "ticketmn-2026-11-12-battulga-my-first-concert",
-      "title": "\"BATTULGA 2026\" My First Concert",
-      "titleMn": "Б.Баттулга – My First Concert",
-      "titleEn": "BATTULGA 2026 – My First Concert",
-      "start": "2026-11-12",
-      "allDay": true,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "First solo concert by singer Batkhuugiin Battulga, with guests including S. Batsukh, A. Ankhbayar and B. Chantsaldulam.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "solo concert",
-        "тоглолт",
-        "бие даасан тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3280",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-09T111309.604.png"
-    },
-    {
-      "id": "ticketmn-2026-11-12-mongolyn-gaikhamshigt-urlag",
-      "title": "Монголын Гайхамшигт Урлагийн тоглолт",
-      "titleMn": "Монголын гайхамшигт урлагийн тоглолт",
-      "titleEn": "Wonders of Mongolian Art (folk performance)",
-      "start": "2026-11-12",
-      "allDay": true,
-      "location": "Зам тээврийн яам, Их нүүдэл танхим",
-      "locationEn": "\"Ikh Nuudel\" hall, Ministry of Road and Transport",
-      "description": "A performance of traditional Mongolian folk art by the \"Khuur Magnai\" folk arts ensemble.",
-      "category": "Music & Performance",
-      "tags": [
-        "folk",
-        "traditional",
-        "концерт",
-        "ардын урлаг"
-      ],
-      "url": "https://www.ticket.mn/event/3272",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-97.png"
-    },
-    {
       "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
       "title": "\"ТЭНГЭРИЙН ЭЛЧ ТЭМҮЖИН\" жүжиг",
       "titleMn": "Тэнгэрийн элч Тэмүжин",
@@ -504,49 +414,6 @@
       "sourceName": "HappeningNext",
       "lat": 47.922685,
       "lng": 106.914879
-    },
-    {
-      "id": "mba-2026-11-12-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/12)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (12 Nov)",
-      "start": "2026-11-12T18:00",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: South Gobi Broncos vs Sono Brothers at 18:00 and Darkhan United vs SG Apes at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association"
-    },
-    {
-      "id": "ubcomedy-2026-11-12-durvul",
-      "title": "Дөрвөл",
-      "titleMn": "Дөрвөл",
-      "titleEn": "Дөрвөл",
-      "start": "2026-11-12T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "\"Foursome\": stand-up comedy night. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6af033da7be6bb4ff67cdba4",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794126810210_cover_11.12%20cover.png"
     },
     {
       "id": "tengis-2026-11-13-zogsool",
