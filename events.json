@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:53:50+08:00",
+  "updatedAt": "2026-11-14T07:14:26+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -355,7 +355,7 @@
       "allDay": true,
       "location": "UG Palace",
       "locationEn": "UG Palace",
-      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 19 November.",
+      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 22 November.",
       "category": "Music & Performance",
       "tags": [
         "musical",
@@ -367,7 +367,7 @@
       "url": "https://urlag.mn/post/160048",
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
-      "end": "2026-11-19"
+      "end": "2026-11-22"
     },
     {
       "id": "ticketmn-2026-11-12-tengeriin-elch-temujin",
@@ -1438,6 +1438,28 @@
       "cost": "50,000–70,000₮"
     },
     {
+      "id": "ticketmn-2026-11-28-khiimori-duudsan-udesh",
+      "title": "ХИЙМОРЬ ДУУДСАН ҮДЭШ 2026",
+      "titleMn": "Хийморь дуудсан үдэш 2026",
+      "titleEn": "Evening of Calling Fortune 2026 (wrestling and concert)",
+      "start": "2026-11-28",
+      "allDay": true,
+      "location": "ASA Arena",
+      "locationEn": "ASA Arena",
+      "description": "An entertainment evening combining national wrestling bouts with performances by leading Mongolian artists, plus a draw for one lucky audience member. Tickets are non-refundable.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "concert",
+        "бөх",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3345",
+      "sourceName": "Ticket.mn",
+      "lat": 47.911971,
+      "lng": 106.907256
+    },
+    {
       "id": "ticketmn-2026-11-28-suragch-nas-3",
       "title": "\"СУРАГЧ НАС 3\" Монгол Бүжгийн Хүүхдийн Их Наадам",
       "titleMn": "Сурагч нас 3: Монгол Бүжгийн Хүүхдийн Их Наадам",
@@ -1715,11 +1737,11 @@
       "titleMn": "\"Цөмөөхэй\" балет",
       "titleEn": "Tchaikovsky's \"The Nutcracker\" (ballet)",
       "start": "2026-12-12",
-      "end": "2026-12-29",
+      "end": "2026-12-30",
       "allDay": true,
       "location": "Соёлын төв өргөө",
       "locationEn": "Central Cultural Palace",
-      "description": "Tchaikovsky's ballet \"The Nutcracker\", staged by People's Artist and Cultural Envoy D. Altankhuyag. On 12, 13, 28 and 29 December.",
+      "description": "Tchaikovsky's ballet \"The Nutcracker\", staged by People's Artist and Cultural Envoy D. Altankhuyag. On 12, 13, 28, 29 and 30 December.",
       "category": "Music & Performance",
       "tags": [
         "ballet",
@@ -1732,6 +1754,28 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-29T180048.183.png"
+    },
+    {
+      "id": "wca-2026-12-12-ulaanbaatar-winter-2026",
+      "title": "Ulaanbaatar Winter 2026",
+      "titleMn": "Ulaanbaatar Winter 2026 (Рубик шооны тэмцээн)",
+      "titleEn": "Ulaanbaatar Winter 2026 (speedcubing competition)",
+      "start": "2026-12-12",
+      "allDay": true,
+      "location": "Morning Star Event Hall, Morning Star Residence 34V, 42-р хороо, Баянзүрх",
+      "locationEn": "Morning Star Event Hall, Morning Star Residence Building 34V, 42nd khoroo, Bayanzurkh",
+      "description": "An official World Cube Association speedcubing (Rubik's cube) competition for up to 100 competitors. Spectators can attend for a 5,000₮ entry fee.",
+      "cost": "5,000₮ to watch",
+      "category": "Sports",
+      "tags": [
+        "speedcubing",
+        "Rubik's cube",
+        "competition",
+        "students",
+        "Рубик"
+      ],
+      "url": "https://www.worldcubeassociation.org/competitions/UlaanbaatarWinter2026",
+      "sourceName": "World Cube Association"
     },
     {
       "id": "ticketmn-2026-12-13-zuruud-grinch",
@@ -1755,6 +1799,25 @@
       "url": "https://www.ticket.mn/event/3307",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-22T174601.553.png"
+    },
+    {
+      "id": "mba-2026-12-14-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/14)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (14 Dec)",
+      "start": "2026-12-14T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: SUA TLG Tushig Bagana vs Selenge Bodons at 15:30, Sono Brothers vs Omni Erdenet Miners at 18:00 and SG Apes vs Western Warriors at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
     }
   ]
 }
