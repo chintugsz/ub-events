@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:15:20+08:00",
+  "updatedAt": "2026-11-14T06:53:50+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -392,55 +392,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T153218.182.png"
     },
     {
-      "id": "happeningnext-2026-11-12-mongolian-bible-translation-conference",
-      "title": "Библийн монгол орчуулгын 720, бүрэн орчуулга хэвлэгдсэний 180 жилийн ой ба ОУЭШХурал",
-      "titleMn": "Библийн монгол орчуулгын 720 жилийн ой, олон улсын эрдэм шинжилгээний хурал",
-      "titleEn": "Mongolian Bible translation anniversary: international academic conference",
-      "start": "2026-11-12T09:30",
-      "end": "2026-11-13",
-      "allDay": false,
-      "location": "Чингис хаан Үндэсний музей, МУИС-ийн Номын сан",
-      "locationEn": "Chinggis Khaan National Museum; National University of Mongolia Library",
-      "description": "Conference by the Mongolian Bible Society marking 720 years since the first Mongolian Bible translation and 180 years since the complete translation, with sessions on history, linguistics and translation, and religion and culture. Open to scholars and the interested public; 12 November starts at 09:30.",
-      "category": "Talks & Learning",
-      "tags": [
-        "conference",
-        "history",
-        "translation",
-        "эрдэм шинжилгээний хурал",
-        "түүх"
-      ],
-      "url": "https://happeningnext.com/event/Библийн-монгол-орчуулгын-720-бүрэн-орчуулга-хэвлэгдсэний-180-жилийн-ой-ба-ОУЭШХурал-eid3a0e6euawd",
-      "sourceName": "HappeningNext",
-      "lat": 47.922685,
-      "lng": 106.914879
-    },
-    {
-      "id": "tengis-2026-11-13-zogsool",
-      "title": "Зогсоол",
-      "titleMn": "Зогсоол",
-      "titleEn": "Zogsool (The Stop)",
-      "start": "2026-11-13",
-      "allDay": true,
-      "location": "Тэнгис кино театр",
-      "locationEn": "Tengis Cinema",
-      "description": "Mongolian drama (1 h 50 min) opening at Tengis: during a pandemic, a truck driver is stranded at a fuel station in a remote town run by a single mother. Rated R 16+.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "drama",
-        "Mongolian film",
-        "new release",
-        "кино",
-        "нээлт"
-      ],
-      "url": "https://www.tengis.mn/film/zogsool",
-      "sourceName": "Tengis Cinema",
-      "lat": 47.922806,
-      "lng": 106.90449,
-      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001233/horizontal.jpg"
-    },
-    {
       "id": "ticketmn-2026-11-13-tuunii-buruu",
       "title": "\"ТҮҮНИЙ БУРУУ\" орчин үеийн сэтгэл зүйн драмын жүжиг",
       "titleMn": "Түүний буруу",
@@ -463,95 +414,6 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
-    },
-    {
-      "id": "urgoo-2026-11-13-ebenezer",
-      "title": "Ebenezer",
-      "titleEn": "Ebenezer",
-      "start": "2026-11-13",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Drama/fantasy/comedy film opening on Urgoo screens. Rated PG-13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "fantasy",
-        "comedy",
-        "new release",
-        "кино",
-        "нээлт",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001165",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001929/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "mba-2026-11-13-the-league-games",
-      "title": "The League: сагсан бөмбөгийн тоглолтууд (11/13)",
-      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
-      "titleEn": "The League: national basketball games (13 Nov)",
-      "start": "2026-11-13T15:30",
-      "allDay": false,
-      "location": "M Bank Arena",
-      "locationEn": "M Bank Arena",
-      "description": "Men's games: BCH Knights vs Western Warriors at 15:30, Selenge Bodons vs Khan Falcons at 18:00 and Omni Erdenet Miners vs SUA TLG Tushig Bagana at 20:30.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "The League",
-        "сагсан бөмбөг"
-      ],
-      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-11",
-      "sourceName": "Mongolian Basketball Association",
-      "image": "https://mongolia.basketball/media/08/0816402a30bb2a6812ed52e7f02ea4f0d4a9582607772caa182513007954f687.png"
-    },
-    {
-      "id": "allevents-2026-11-13-hide-speaking-club",
-      "title": "HIDE SPEAKING CLUB",
-      "titleEn": "HIDE Speaking Club",
-      "start": "2026-11-13T19:00",
-      "end": "2026-11-13T22:00",
-      "allDay": false,
-      "location": "WW98+G34 Jigjidjav St, Ulaanbaatar",
-      "locationEn": "Jigjidjav Street (organised by Japanese Restaurant HIDE)",
-      "description": "A relaxed multilingual hangout to meet new people and practise the languages you are learning, hosted by Japanese Restaurant HIDE. No perfect grammar needed.",
-      "category": "Community & Civic",
-      "tags": [
-        "language exchange",
-        "meetup",
-        "social",
-        "хэлний клуб"
-      ],
-      "url": "https://allevents.in/ulaanbaatar/hide-speaking-club/200031025252043",
-      "sourceName": "allevents.in"
-    },
-    {
-      "id": "ubcomedy-2026-11-13-friday-showcase",
-      "title": "Friday Showcase",
-      "titleMn": "Friday Showcase",
-      "titleEn": "Friday Showcase",
-      "start": "2026-11-13T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Friday stand-up comedy showcase. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6af0344d7be6bb4ff67cdbc1",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794126925090_cover_11.13%20cover.png"
     },
     {
       "id": "newsmn-2026-11-14-imagine-art-festival",
