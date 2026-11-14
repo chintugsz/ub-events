@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T06:53:48+08:00",
+  "updatedAt": "2026-11-15T07:12:06+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -1579,6 +1579,25 @@
       "location": "M Bank Arena",
       "locationEn": "M Bank Arena",
       "description": "Men's games: SUA TLG Tushig Bagana vs Selenge Bodons at 15:30, Sono Brothers vs Omni Erdenet Miners at 18:00 and SG Apes vs Western Warriors at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-12-15-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/15)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (15 Dec)",
+      "start": "2026-12-15T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: Darkhan United vs Khan Falcons at 18:00 and BCH Knights vs South Gobi Broncos at 20:30.",
       "category": "Sports",
       "tags": [
         "basketball",
