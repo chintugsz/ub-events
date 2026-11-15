@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:53:29+08:00",
+  "updatedAt": "2026-11-16T07:15:25+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -391,6 +391,52 @@
       "sourceName": "allevents.in"
     },
     {
+      "id": "ubcomedy-2026-11-18-songodog-udesh",
+      "title": "Сонгодог Үдэш",
+      "titleMn": "Сонгодог Үдэш",
+      "titleEn": "Classic Evening",
+      "start": "2026-11-18T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Wednesday stand-up comedy show. Ages 18+; the lineup may change.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af9af2e7be6bb4ff67f0931",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
+      "id": "ubcomedy-2026-11-19-a-listers-night",
+      "title": "A-Listers Night",
+      "titleMn": "A-Listers Night",
+      "titleEn": "A-Listers Night",
+      "start": "2026-11-19T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy with Sodoo, Tseegii, Ochiroo, Bataa, Buyaka, Ensi and Olya. Ages 18+; the lineup may change.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af9affc7be6bb4ff67f095f",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
       "title": "\"МОНГОЛ АРДЫН СУУТ\" драмын жүжиг",
       "titleMn": "Монгол ардын суут",
@@ -484,6 +530,29 @@
       "lat": 47.847528,
       "lng": 106.793257,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600_X900_264c80ea23.jpg"
+    },
+    {
+      "id": "ubcomedy-2026-11-20-two-generations-one-stage",
+      "title": "Two Generations One Stage",
+      "titleMn": "Two Generations One Stage",
+      "titleEn": "Two Generations One Stage",
+      "start": "2026-11-20T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy with Olya, Mandakh, Enerel, Angarag, Bolor, Beegii and Amraka. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af9b0ff7be6bb4ff67f099d",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "tedx-2026-11-21-shine-mongol-harumafuji",
@@ -739,6 +808,29 @@
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-21T144215.655.png",
       "cost": "45,000–89,000₮"
+    },
+    {
+      "id": "ubcomedy-2026-11-21-urt-show",
+      "title": "Урт Шоу",
+      "titleMn": "Урт Шоу",
+      "titleEn": "The Long Show",
+      "start": "2026-11-21T19:30",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "An extended stand-up show with Bayasaa, Ensi, Jak, Beegii, Angarag, Enerel, Mandakh and Bolor. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6af9b6c67be6bb4ff67f0a7b",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -1300,6 +1392,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T163051.418.png"
     },
     {
+      "id": "ticketmn-2026-12-04-saaral-uye-album",
+      "title": "ХЭЗЭЭ НЭГЭН ЦАГТ БИД НИСЭЖ МАГАДГҮЙ",
+      "titleMn": "Хэзээ нэгэн цагт бид нисэж магадгүй",
+      "titleEn": "Someday We Might Fly (\"SAARAL UYE\" album)",
+      "start": "2026-12-04",
+      "allDay": true,
+      "location": "Grand Crown irish pub, The Grand Hill",
+      "locationEn": "Grand Crown Irish Pub, The Grand Hill",
+      "description": "An evening for the \"SAARAL UYE\" album \"Someday We Might Fly\", at Grand Crown Irish Pub in The Grand Hill. Tickets are non-refundable.",
+      "category": "Music & Performance",
+      "tags": [
+        "music",
+        "album release",
+        "live",
+        "тоглолт"
+      ],
+      "url": "https://www.ticket.mn/event/3344",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-12-05-asian-voice",
       "title": "ASIAN VOICE",
       "titleMn": "ASIAN VOICE",
@@ -1528,6 +1640,25 @@
       "location": "M Bank Arena",
       "locationEn": "M Bank Arena",
       "description": "Men's games: Darkhan United vs Khan Falcons at 18:00 and BCH Knights vs South Gobi Broncos at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-12-16-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/16)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (16 Dec)",
+      "start": "2026-12-16T18:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: SUA TLG Tushig Bagana vs Sono Brothers at 18:00 and Omni Erdenet Miners vs SG Apes at 20:30.",
       "category": "Sports",
       "tags": [
         "basketball",
