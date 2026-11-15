@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:12:06+08:00",
+  "updatedAt": "2026-11-16T06:53:29+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -178,30 +178,6 @@
       "sourceName": "National Museum of Mongolia",
       "lat": 47.920838,
       "lng": 106.915355
-    },
-    {
-      "id": "ticketmn-2026-10-13-bugd-ineeh-durtai",
-      "title": "\"БҮГД ИНЭЭХ ДУРТАЙ\" инээдмийн энтертаймент шоу тоглолт",
-      "titleMn": "Бүгд инээх дуртай",
-      "titleEn": "Everybody Loves to Laugh – comedy entertainment show",
-      "start": "2026-10-13T19:00",
-      "end": "2026-11-15",
-      "allDay": false,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Cultural Central Palace (Soyolyn Töv Örgöö)",
-      "description": "Comedy entertainment show from 19:00 (the run began 2026.10.05). Ticket.mn lists shows every day from 7 to 15 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "show",
-        "инээдэм",
-        "шоу тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3246",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-design-17.png",
-      "lat": 47.919491,
-      "lng": 106.919385
     },
     {
       "id": "eventx-2026-10-30-amitny-ferm",
@@ -391,53 +367,6 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
-    },
-    {
-      "id": "newsmn-2026-11-14-imagine-art-festival",
-      "title": "\"Imagine\" арт фестиваль",
-      "titleMn": "Өсвөрийн уран бүтээлчдийн \"Imagine\" арт фестиваль",
-      "titleEn": "Imagine youth art festival",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "location": "AIC Степпе Арена",
-      "locationEn": "AIC Steppe Arena",
-      "description": "Two-day youth art festival by the Gonchigsumlaa Foundation, with an immersive LED digital-art show of works from its drawing contest for ages 15–19, plus creative activities for families.",
-      "category": "Arts & Museums",
-      "tags": [
-        "art festival",
-        "youth",
-        "digital art",
-        "урлагийн наадам",
-        "залуус"
-      ],
-      "url": "https://news.mn/r/2894481/",
-      "sourceName": "News.mn",
-      "lat": 47.847528,
-      "lng": 106.793257,
-      "image": "https://news.mn/wp-content/uploads/2026/10/ArtFestival-FB-Event-Cover.jpg"
-    },
-    {
-      "id": "ticketmn-2026-11-14-remember-me-coco",
-      "title": "\"Намайг дурсаарай Коко\" хүүхдийн жүжиг",
-      "titleMn": "Намайг дурсаарай Коко",
-      "titleEn": "Remember Me, Coco (children's play)",
-      "start": "2026-11-14",
-      "end": "2026-11-15",
-      "allDay": true,
-      "location": "Улаанбаатар театр",
-      "locationEn": "Ulaanbaatar Theatre",
-      "description": "A children's play about Miguel, who loves music despite his family's ban, and his adventure into the spirit world. On 14 and 15 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "kids",
-        "theatre",
-        "хүүхэд",
-        "жүжиг"
-      ],
-      "url": "https://www.ticket.mn/event/3329",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T183441.071.png"
     },
     {
       "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
