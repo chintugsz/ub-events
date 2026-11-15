@@ -411,7 +411,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af9af2e7be6bb4ff67f0931",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794748205974_cover_11.18%20cover.png"
     },
     {
       "id": "ubcomedy-2026-11-19-a-listers-night",
@@ -434,7 +435,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af9affc7be6bb4ff67f095f",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794748412404_cover_11.19%20cover.png"
     },
     {
       "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
@@ -552,7 +554,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af9b0ff7be6bb4ff67f099d",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794748671837_cover_11.20%20cover.png"
     },
     {
       "id": "tedx-2026-11-21-shine-mongol-harumafuji",
@@ -830,7 +833,8 @@
       "url": "https://www.ubcomedy.mn/shows/6af9b6c67be6bb4ff67f0a7b",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794750150207_cover_11.21%20cover%20(1).png"
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -1409,7 +1413,8 @@
         "тоглолт"
       ],
       "url": "https://www.ticket.mn/event/3344",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/1000041889.jpg"
     },
     {
       "id": "ticketmn-2026-12-05-asian-voice",
