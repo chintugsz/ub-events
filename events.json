@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T07:15:25+08:00",
+  "updatedAt": "2026-11-17T07:13:51+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -439,6 +439,27 @@
       "image": "https://api.ubcomedy.mn/uploads/1794748412404_cover_11.19%20cover.png"
     },
     {
+      "id": "ikon-2026-11-20-tribute-to-gang",
+      "title": "ХАЛАМЦУУ САЛХИ - A TRIBUTE TO GANG",
+      "titleMn": "\"Халамцуу салхи\" – Гангын хүндэтгэлийн тоглолт",
+      "titleEn": "Halamtsuu Salkhi: A Tribute to Gang",
+      "start": "2026-11-20",
+      "allDay": true,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "A tribute concert for the composer and producer G. Gankhuyag (\"Gang\"), organised by Baga Toirog Label and hosted by composer B. Narantsun.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "tribute",
+        "pop",
+        "тоглолт",
+        "хүндэтгэлийн тоглолт"
+      ],
+      "url": "https://ikon.mn/n/3rq5",
+      "sourceName": "iKon.mn"
+    },
+    {
       "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
       "title": "\"МОНГОЛ АРДЫН СУУТ\" драмын жүжиг",
       "titleMn": "Монгол ардын суут",
@@ -740,6 +761,30 @@
       "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
     },
     {
+      "id": "newsmn-2026-11-21-altan-tsom-wrestling",
+      "title": "Алтан цомын төлөөх барилдаан",
+      "titleMn": "Алтан цомын төлөөх барилдаан",
+      "titleEn": "Altan Tsom (Golden Cup) team wrestling",
+      "start": "2026-11-21T14:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "The second bout of the new Altan Tsom (Golden Cup) wrestling season, organised by the Mongolian National Wrestling Federation, at the Mongolian Wrestling Palace from 14:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "Altan Tsom",
+        "бөх",
+        "барилдаан",
+        "Алтан цом"
+      ],
+      "url": "https://mnb.mn/article/altan-tsomyn-barildaan-ene-saryn-21-nd-bolno-4029",
+      "sourceName": "MNB",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
       "id": "ticketmn-2026-11-21-nasny-namar",
       "title": "\"НАСНЫ НАМАР\" ХҮНДЭТГЭЛИЙН КОНЦЕРТ",
       "titleMn": "\"Насны намар\" хүндэтгэлийн концерт",
@@ -762,30 +807,6 @@
       "lat": 47.914228,
       "lng": 106.893028,
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T123733.823.png"
-    },
-    {
-      "id": "newsmn-2026-11-21-altan-tsom-wrestling",
-      "title": "Алтан цомын төлөөх барилдаан",
-      "titleMn": "Алтан цомын төлөөх барилдаан",
-      "titleEn": "Altan Tsom (Golden Cup) team wrestling",
-      "start": "2026-11-21T15:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A November bout of the Altan Tsom (Golden Cup) national team wrestling competition, at the Mongolian Wrestling Palace from 15:00.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "Altan Tsom",
-        "бөх",
-        "барилдаан",
-        "Алтан цом"
-      ],
-      "url": "https://news.mn/r/2895297/",
-      "sourceName": "News.mn",
-      "lat": 47.917851,
-      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-11-21-nuance-25",
@@ -982,30 +1003,6 @@
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
     },
     {
-      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
-      "title": "The Further Mis-Adventures of Cliff Booth",
-      "titleEn": "The Further Mis-Adventures of Cliff Booth",
-      "start": "2026-11-25",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Drama, comedy and thriller film opening on Urgoo screens. Rated PG13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "new release",
-        "кино",
-        "Өргөө",
-        "comedy",
-        "crime"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001170",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
       "id": "ticketmn-2026-11-25-bukhiin-gergii",
       "title": "\"Бөхийн гэргий\" Solo concert",
       "titleMn": "\"Бөхийн гэргий\" бие даасан тоглолт",
@@ -1142,6 +1139,30 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T131701.158.png"
     },
     {
+      "id": "ticketmn-2026-11-26-tengeriin-khuu",
+      "title": "\"ТЭНГЭРИЙН ХҮҮ\" ЖҮЖИГ",
+      "titleMn": "Тэнгэрийн хүү",
+      "titleEn": "Son of Heaven (historical epic play)",
+      "start": "2026-11-26",
+      "end": "2026-11-29",
+      "allDay": true,
+      "location": "Улсын Драмын Эрдмийн Театр",
+      "locationEn": "State Academic Drama Theatre",
+      "description": "A historical epic play about Modun Shanyu, ruler of the Xiongnu state, by B. Tsognemekh. On 26 to 29 November.",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "drama",
+        "history",
+        "жүжиг",
+        "театр"
+      ],
+      "url": "https://www.ticket.mn/event/2264",
+      "sourceName": "Ticket.mn",
+      "lat": 47.914621,
+      "lng": 106.914258
+    },
+    {
       "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
       "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (27 Nov)",
       "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/27)",
@@ -1204,6 +1225,30 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
+      "title": "The Further Mis-Adventures of Cliff Booth",
+      "titleEn": "The Further Mis-Adventures of Cliff Booth",
+      "start": "2026-11-27",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Drama, comedy and thriller film opening on Urgoo screens. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "new release",
+        "кино",
+        "Өргөө",
+        "comedy",
+        "crime"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001170",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
@@ -1417,6 +1462,53 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/1000041889.jpg"
     },
     {
+      "id": "urgoo-2026-12-04-home-a-loan",
+      "title": "Home A Loan",
+      "titleEn": "Home A Loan",
+      "start": "2026-12-04",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Horror thriller (2 h 20 min) opening on Urgoo screens, about a woman who moves her family into an old building hoping to profit from its redevelopment. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "horror",
+        "thriller",
+        "new release",
+        "кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001182",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
+    },
+    {
+      "id": "urgoo-2026-12-04-violent-night-2",
+      "title": "Violent Night 2",
+      "titleEn": "Violent Night 2",
+      "start": "2026-12-04",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Action-comedy fantasy (1 h 50 min) opening on Urgoo screens: Santa, having lost his magic, asks Mrs. Claus for help to save a shopping mall. Rated PG13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "action",
+        "comedy",
+        "Christmas",
+        "new release",
+        "кино",
+        "Өргөө"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001183",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
+    },
+    {
       "id": "ticketmn-2026-12-05-asian-voice",
       "title": "ASIAN VOICE",
       "titleMn": "ASIAN VOICE",
@@ -1464,6 +1556,28 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/1200x630_AbvpbJB.jpg"
+    },
+    {
+      "id": "allevents-2026-12-05-investor-nation-2026",
+      "title": "Хөрөнгө Оруулагч Үндэстэн 2026",
+      "titleMn": "Хөрөнгө оруулагч үндэстэн 2026",
+      "titleEn": "Investor Nation 2026",
+      "start": "2026-12-05T09:00",
+      "end": "2026-12-05T18:00",
+      "allDay": false,
+      "location": "Blue Sky Hotel & Tower, Энх тайвны өргөн чөлөө",
+      "locationEn": "Blue Sky Hotel & Tower, Peace Avenue",
+      "description": "A capital-market conference organised by Ard Financial Group, with market updates and a chance for businesses to pitch to well-known investors (\"Sharks\").",
+      "category": "Talks & Learning",
+      "tags": [
+        "investing",
+        "finance",
+        "conference",
+        "startups",
+        "хөрөнгө оруулалт"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/Хөрөнгө-Оруулагч-Үндэстэн-2026/200031060156358",
+      "sourceName": "allevents.in"
     },
     {
       "id": "mba-2026-12-08-the-league-games",
@@ -1594,16 +1708,38 @@
       "sourceName": "World Cube Association"
     },
     {
+      "id": "allevents-2026-12-12-frida-kahlo-letters-book-launch",
+      "title": "Фрида Кало «ЗАХИДАЛ» — Номын нээлт",
+      "titleMn": "Фрида Кало «Захидал» номын нээлт",
+      "titleEn": "Frida Kahlo \"Letters\": book launch",
+      "start": "2026-12-12T18:00",
+      "end": "2026-12-12T21:00",
+      "allDay": false,
+      "location": "Khukhnar.CAB / Khukhnar Contemporary Art Space",
+      "locationEn": "Khukhnar Contemporary Art Space",
+      "description": "Livre Publishing launches the Mongolian edition of Frida Kahlo's letters. The first 30 guests who share the event post get a free copy of the book.",
+      "category": "Talks & Learning",
+      "tags": [
+        "books",
+        "book launch",
+        "art",
+        "ном",
+        "номын нээлт"
+      ],
+      "url": "https://allevents.in/ulaanbaatar/Фрида-Кало-«ЗАХИДАЛ»-Номын-нээлт-Эхний-30-зочинд-ном-бэлэглэнэ/200031060607411",
+      "sourceName": "allevents.in"
+    },
+    {
       "id": "ticketmn-2026-12-13-zuruud-grinch",
       "title": "\"Зөрүүд Гринч\" зул сарын сахилгагүй драм",
       "titleMn": "Зөрүүд Гринч",
       "titleEn": "The Stubborn Grinch (Christmas comedy drama)",
       "start": "2026-12-13",
-      "end": "2026-12-20",
+      "end": "2026-12-27",
       "allDay": true,
       "location": "Улаанбаатар театр",
       "locationEn": "Ulaanbaatar Theatre",
-      "description": "A Christmas comedy drama about a stubborn Grinch and his loyal helper Max, who hide in a mountain cave. On 13, 19 and 20 December.",
+      "description": "A Christmas comedy drama about a stubborn Grinch and his loyal helper Max, who hide in a mountain cave. On 13, 19, 20, 26 and 27 December.",
       "category": "Music & Performance",
       "tags": [
         "theatre",
@@ -1664,6 +1800,25 @@
       "location": "M Bank Arena",
       "locationEn": "M Bank Arena",
       "description": "Men's games: SUA TLG Tushig Bagana vs Sono Brothers at 18:00 and Omni Erdenet Miners vs SG Apes at 20:30.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
+      "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "mba-2026-12-17-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/17)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (17 Dec)",
+      "start": "2026-12-17T15:30",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Men's games: BCH Knights vs Khan Falcons at 15:30, Darkhan United vs Western Warriors at 18:00 and South Gobi Broncos vs Selenge Bodons at 20:30.",
       "category": "Sports",
       "tags": [
         "basketball",
