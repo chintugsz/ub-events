@@ -457,7 +457,8 @@
         "хүндэтгэлийн тоглолт"
       ],
       "url": "https://ikon.mn/n/3rq5",
-      "sourceName": "iKon.mn"
+      "sourceName": "iKon.mn",
+      "image": "https://content.ikon.mn/news/2026/11/16/mvo1ur_6I6A9780_x974.jpg"
     },
     {
       "id": "ticketmn-2026-11-20-mongol-ardyn-suut",
@@ -782,7 +783,8 @@
       "url": "https://mnb.mn/article/altan-tsomyn-barildaan-ene-saryn-21-nd-bolno-4029",
       "sourceName": "MNB",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://assets.mnb.mn/media/2026/11/eb834b2c73f1-6662b38aa536c823f84982a2b9c88b19-x3-1.full.webp"
     },
     {
       "id": "ticketmn-2026-11-21-nasny-namar",
@@ -1160,7 +1162,8 @@
       "url": "https://www.ticket.mn/event/2264",
       "sourceName": "Ticket.mn",
       "lat": 47.914621,
-      "lng": 106.914258
+      "lng": 106.914258,
+      "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_1.png"
     },
     {
       "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
@@ -1415,7 +1418,8 @@
       "url": "https://news.mn/r/2895297/",
       "sourceName": "News.mn",
       "lat": 47.917851,
-      "lng": 106.935278
+      "lng": 106.935278,
+      "image": "https://news.mn/wp-content/uploads/2025/04/buh.jpg"
     },
     {
       "id": "ticketmn-2026-12-02-vienna-gala-concert",
@@ -1482,7 +1486,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001182",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001182/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "urgoo-2026-12-04-violent-night-2",
@@ -1506,7 +1511,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001183",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001183/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-12-05-asian-voice",
@@ -1577,7 +1583,8 @@
         "хөрөнгө оруулалт"
       ],
       "url": "https://allevents.in/ulaanbaatar/Хөрөнгө-Оруулагч-Үндэстэн-2026/200031060156358",
-      "sourceName": "allevents.in"
+      "sourceName": "allevents.in",
+      "image": "https://dyn-image.allevents.in/generate-image?v=4&title=%D0%A5%D3%A9%D1%80%D3%A9%D0%BD%D0%B3%D3%A9+%D0%9E%D1%80%D1%83%D1%83%D0%BB%D0%B0%D0%B3%D1%87+%D2%AE%D0%BD%D0%B4%D1%8D%D1%81%D1%82%D1%8D%D0%BD+2026&date=Sat%2C+05+Dec%2C+2026+at+09%3A00+am&bg=4"
     },
     {
       "id": "mba-2026-12-08-the-league-games",
