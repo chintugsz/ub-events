@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T06:54:19+08:00",
+  "updatedAt": "2026-11-18T07:12:07+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -862,6 +862,28 @@
       "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-05855d16-305c-41fd-9d02-bb1e560a2726.jpg"
     },
     {
+      "id": "ticketmn-2026-11-22-aimgiin-naadmyn-turuu-wrestling",
+      "title": "АЙМГИЙН НААДМЫН ТҮРҮҮ БӨХЧҮҮДИЙН БАРИЛДААН-2026",
+      "titleMn": "Аймгийн наадмын түрүү бөхчүүдийн барилдаан 2026",
+      "titleEn": "Provincial Naadam Champions Wrestling 2026",
+      "start": "2026-11-22T14:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A Mongolian National Wrestling Federation tournament for wrestlers who won provincial and district naadam festivals in 2026, from 14:00.",
+      "category": "Sports",
+      "tags": [
+        "wrestling",
+        "bökh",
+        "бөх",
+        "барилдаан"
+      ],
+      "url": "https://www.ticket.mn/event/3351",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
       "title": "\"МЯНГАТЫН ХӨӨРХӨН ОХИН\" концерт",
       "titleMn": "Мянгатын хөөрхөн охин",
@@ -932,6 +954,25 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_25_4448807bfb.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-25-tengeriin-elch-opera",
+      "title": "\"ТЭНГЭРИЙН ЭЛЧ\" Дуурь",
+      "titleMn": "\"Тэнгэрийн элч\" дуурь",
+      "titleEn": "Messenger of Heaven (opera)",
+      "start": "2026-11-25",
+      "allDay": true,
+      "location": "Улаанбаатар театр",
+      "locationEn": "Ulaanbaatar Theatre",
+      "description": "A national classical opera about Boorchu, one of Chinggis Khaan's nine companions. Music by A. Enkhtaivan, directed by S. Battulga.",
+      "category": "Music & Performance",
+      "tags": [
+        "opera",
+        "classical",
+        "дуурь"
+      ],
+      "url": "https://www.ticket.mn/event/3349",
+      "sourceName": "Ticket.mn"
     },
     {
       "id": "urgoo-2026-11-25-hexed",
@@ -1329,6 +1370,30 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/BLU.png"
     },
     {
+      "id": "ticketmn-2026-11-28-altan-toonto-buryat-festival",
+      "title": "БУРИАД ТҮМНИЙ ИХ БАЯР \"АЛТАН ТООНТО\"",
+      "titleMn": "Буриад түмний их баяр \"Алтан тоонто\"",
+      "titleEn": "Altan Toonto: Buryat people's festival",
+      "start": "2026-11-28T13:00",
+      "allDay": false,
+      "location": "Монгол бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "A Buryat festival day with national and Buryat wrestling from 13:00, an arts performance, and food and product stalls.",
+      "category": "Community & Civic",
+      "tags": [
+        "festival",
+        "Buryat",
+        "wrestling",
+        "culture",
+        "буриад",
+        "бөх"
+      ],
+      "url": "https://www.ticket.mn/event/3353",
+      "sourceName": "Ticket.mn",
+      "lat": 47.917851,
+      "lng": 106.935278
+    },
+    {
       "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
       "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
       "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/29)",
@@ -1375,6 +1440,27 @@
       "image": "https://news.mn/wp-content/uploads/2025/04/buh.jpg"
     },
     {
+      "id": "ticketmn-2026-12-01-goyol-2027",
+      "title": "GOYOL-2027",
+      "titleMn": "Гоёл-2027",
+      "titleEn": "Goyol 2027 (fashion festival)",
+      "start": "2026-12-01",
+      "allDay": true,
+      "location": "Shangri-la Grand Ballroom",
+      "locationEn": "Grand Ballroom, Shangri-La Ulaanbaatar",
+      "description": "The Goyol festival, billed as the leading event for trends and style in Mongolian fashion. Tickets are non-refundable.",
+      "category": "Arts & Museums",
+      "tags": [
+        "fashion",
+        "festival",
+        "design",
+        "хувцас загвар",
+        "Гоёл"
+      ],
+      "url": "https://www.ticket.mn/event/3350",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "ticketmn-2026-12-02-vienna-gala-concert",
       "title": "ВЕНИЙН ГАЛА КОНЦЕРТ Австрийн Хатан Хаан Сиссигийн Ордны Чуулга",
       "titleMn": "Вений гала концерт: Австрийн Хатан хаан Сиссигийн ордны чуулга",
@@ -1396,6 +1482,29 @@
       "url": "https://www.ticket.mn/event/3309",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T163051.418.png"
+    },
+    {
+      "id": "eventx-2026-12-03-samandyn-khuu",
+      "title": "САМАНДЫН ХҮҮ 12.03",
+      "titleMn": "Самандын хүү",
+      "titleEn": "Son of Samand (3 Dec)",
+      "start": "2026-12-03",
+      "allDay": true,
+      "location": "Бөхийн өргөө",
+      "locationEn": "Mongolian Wrestling Palace",
+      "description": "An added date of the \"Samandyn Khuu\" concert at the Wrestling Palace, listed by EventX for 3 December.",
+      "cost": "66,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "Javkhlan",
+        "тоглолт",
+        "Жавхлан"
+      ],
+      "url": "https://www.eventx.mn/event/1922",
+      "sourceName": "EventX",
+      "lat": 47.917851,
+      "lng": 106.935278
     },
     {
       "id": "ticketmn-2026-12-04-saaral-uye-album",
@@ -1787,6 +1896,116 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "tengis-2026-12-18-avengers-doomsday",
+      "title": "Avengers: Doomsday",
+      "titleEn": "Avengers: Doomsday",
+      "start": "2026-12-18",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "The new Avengers superhero film (2 h 45 min) opens at Tengis. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "Marvel",
+        "superhero",
+        "new release",
+        "кино",
+        "нээлт"
+      ],
+      "url": "https://www.tengis.mn/film/avengersdoomsday",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
+      "id": "tengis-2026-12-18-dune-part-three",
+      "title": "Dune: Part Three",
+      "titleEn": "Dune: Part Three",
+      "start": "2026-12-18",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "The third Dune film (science fiction, 2 h 31 min) opens at Tengis. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "sci-fi",
+        "Dune",
+        "new release",
+        "кино",
+        "нээлт"
+      ],
+      "url": "https://www.tengis.mn/film/dunepartthree",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
+      "id": "ticketmn-2026-12-18-nutcracker-corporate",
+      "title": "П.И. Чайковский \"ЩЕЛКУНЧИК\" балет",
+      "titleMn": "\"Щелкунчик\" балет",
+      "titleEn": "Tchaikovsky's \"The Nutcracker\" (ballet)",
+      "start": "2026-12-18",
+      "end": "2026-12-26",
+      "allDay": true,
+      "location": "THE CORPORATE HOTEL AND CONVENTION CENTRE",
+      "locationEn": "The Corporate Hotel and Convention Centre",
+      "description": "A New Year staging of Tchaikovsky's ballet \"The Nutcracker\". On 18, 19, 20 and 23 to 26 December.",
+      "category": "Music & Performance",
+      "tags": [
+        "ballet",
+        "classical",
+        "Tchaikovsky",
+        "New Year",
+        "балет"
+      ],
+      "url": "https://www.ticket.mn/event/3341",
+      "sourceName": "Ticket.mn"
+    },
+    {
+      "id": "ticketmn-2026-12-18-world-of-classical-music",
+      "title": "The World of Classical Music",
+      "titleMn": "Сонгодог хөгжмийн ертөнц",
+      "titleEn": "The World of Classical Music",
+      "start": "2026-12-18",
+      "allDay": true,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "BN Team Orchestra plays classical favourites, including music from The Nutcracker and Swan Lake.",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "orchestra",
+        "concert",
+        "сонгодог хөгжим"
+      ],
+      "url": "https://www.ticket.mn/event/3347",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
+    },
+    {
+      "id": "urlag-2026-12-18-mungun-shunu-2026",
+      "title": "\"Мөнгөн шөнө 2026\" гала үдэш",
+      "titleMn": "Мөнгөн шөнө 2026",
+      "titleEn": "Silver Night 2026 gala evening",
+      "start": "2026-12-18",
+      "allDay": true,
+      "location": "Зайсан Хилл эвент холл",
+      "locationEn": "Zaisan Hill Event Hall",
+      "description": "The yearly \"Silver Night\" gala with People's Artist and pop singer B. Sarantuya, held since 2013.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "pop",
+        "gala",
+        "тоглолт"
+      ],
+      "url": "https://urlag.mn/post/161060",
+      "sourceName": "Urlag.mn"
     }
   ]
 }
