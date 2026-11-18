@@ -389,7 +389,8 @@
         "бүжиг"
       ],
       "url": "https://bilet.mn/e/ext-shoppy-mn-c9f7e2f9e15f",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.cody.mn/img/501825/1200x400xwebp/D81C45F3-1DAC-462D-A0D6-D8AE5064AE6E.jpeg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "ikon-2026-11-20-tribute-to-gang",
@@ -526,7 +527,8 @@
         "тоглолт"
       ],
       "url": "https://bilet.mn/e/ext-shoppy-mn-amc-liveconcert-261120",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.cody.mn/img/497989/1200x400xwebp/Perfect_Blue_Live_Music_Concert.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "ubcomedy-2026-11-20-two-generations-one-stage",
@@ -615,7 +617,8 @@
       "url": "https://www.tengis.mn/film/xuerd",
       "sourceName": "Tengis Cinema",
       "lat": 47.922806,
-      "lng": 106.90449
+      "lng": 106.90449,
+      "image": "https://www.tengis.mn/resource/tengis-v2/movies/posters/KVf0A-29teXqxWTzuIWWQ-0001001235/horizontal.jpg"
     },
     {
       "id": "ticketmn-2026-11-21-ireeduig-avarsan-aylal",
@@ -852,7 +855,8 @@
       "url": "https://bilet.mn/e/ext-shoppy-mn-a9469ac0f3ba",
       "sourceName": "bilet.mn",
       "lat": 47.911971,
-      "lng": 106.907256
+      "lng": 106.907256,
+      "image": "https://cdn.cody.mn/img/490186/1200x400xwebp/1920x648.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "bilet-2026-11-21-tuulai-party-doll-child",
@@ -874,7 +878,8 @@
       "url": "https://bilet.mn/e/ext-portal-mn-63be62d090bd",
       "sourceName": "bilet.mn",
       "lat": 47.929437,
-      "lng": 106.928734
+      "lng": 106.928734,
+      "image": "https://cdn.portal.mn/uploads/2c6ff2ca-e378-498f-ab2d-e85586701d9e.webp"
     },
     {
       "id": "ubcomedy-2026-11-21-urt-show",
@@ -917,7 +922,8 @@
         "electronic"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-1036a2c1cf24",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/e7d68f5f-822e-4c1e-aa5d-ac1778b0d03b.webp"
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -1009,7 +1015,8 @@
         "концерт"
       ],
       "url": "https://bilet.mn/e/ext-shoppy-mn-fantasia-261122",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.cody.mn/img/486171/1200x400xwebp/c.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
@@ -1052,7 +1059,8 @@
       "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-2e22d22f4162",
       "sourceName": "bilet.mn",
       "lat": 47.915201,
-      "lng": 106.917441
+      "lng": 106.917441,
+      "image": "https://api.fatcatjazzclub.com/images/cyr2ppvucqtn1gmpoi9iw1liuk2rystro3ig.png"
     },
     {
       "id": "eventx-2026-11-24-samandyn-khuu",
@@ -1100,7 +1108,8 @@
       "url": "https://www.ubcomedy.mn/shows/6afd16a87be6bb4ff67fb72e",
       "sourceName": "UB Comedy Club",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1794971304755_cover_11.24%20cover.png"
     },
     {
       "id": "eventx-2026-11-25-samandyn-khuu",
@@ -1190,7 +1199,8 @@
         "тоглолт"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-91972614cc98",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/811665f6-b80e-49e8-b94a-5bc911877098.webp"
     },
     {
       "id": "ticketmn-2026-11-25-bukhiin-gergii",
@@ -1236,7 +1246,8 @@
       "sourceName": "bilet.mn",
       "titleMn": "Г.Насанжаргал \"Үргэлжлэл\"",
       "lat": 47.915201,
-      "lng": 106.917441
+      "lng": 106.917441,
+      "image": "https://api.fatcatjazzclub.com/images/71ol0936hi8ghwdxbsls6xq3uat109f6sqyj.jpeg"
     },
     {
       "id": "fiba-2026-11-26-asia-cup-pre-qualifiers",
@@ -1394,7 +1405,8 @@
         "live music"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-9a2c4b32935c",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/f65864f2-eede-4142-8314-6023be436295.webp"
     },
     {
       "id": "bilet-2026-11-26-conservatory-jazz-big-band",
@@ -1416,7 +1428,8 @@
       "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-4863d72db32d",
       "sourceName": "bilet.mn",
       "lat": 47.915201,
-      "lng": 106.917441
+      "lng": 106.917441,
+      "image": "https://api.fatcatjazzclub.com/images/vjm7l7mbqp7lsuo67d4sv35zafwbd49q3zer.jpeg"
     },
     {
       "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
@@ -1674,7 +1687,8 @@
       "url": "https://bilet.mn/e/ext-shoppy-mn-cca11485fa45",
       "sourceName": "bilet.mn",
       "lat": 47.913526,
-      "lng": 106.915485
+      "lng": 106.915485,
+      "image": "https://cdn.cody.mn/img/501851/1200x400xwebp/1920x648_Sound_post_cover_Sound_Meditation.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
@@ -2033,7 +2047,8 @@
         "21+"
       ],
       "url": "https://bilet.mn/e/ext-narbar-mn-d84c79db238f",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdnp.cody.mn/spree/images/3825063/product/Red_White_Bold_Minimalist_Concert_Tour_Schedule_Instagram_Post.jpg?1794893245"
     },
     {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
