@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:12:07+08:00",
+  "updatedAt": "2026-11-19T06:54:01+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -320,52 +320,6 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
-    },
-    {
-      "id": "allevents-2026-11-18-eurochamber-trade-investment-2027",
-      "title": "Trade and Investment Climate of Mongolia in 2027",
-      "titleMn": "2027 оны Монголын худалдаа, хөрөнгө оруулалтын орчин",
-      "titleEn": "Trade and Investment Climate of Mongolia in 2027",
-      "start": "2026-11-18T08:30",
-      "end": "2026-11-18T12:00",
-      "allDay": false,
-      "location": "Blue Sky Hotel & Tower, Jade Hall",
-      "locationEn": "Blue Sky Hotel & Tower, Jade Hall",
-      "description": "EuroChamber Mongolia's policy dialogue on the 2027 economic outlook, for professionals, entrepreneurs and startup founders. Registration required.",
-      "category": "Talks & Learning",
-      "tags": [
-        "business",
-        "economy",
-        "networking",
-        "бизнес",
-        "эдийн засаг"
-      ],
-      "url": "https://allevents.in/ulaanbaatar/trade-and-investment-climate-of-mongolia-in-2027/200031003195016",
-      "sourceName": "allevents.in"
-    },
-    {
-      "id": "ubcomedy-2026-11-18-songodog-udesh",
-      "title": "Сонгодог Үдэш",
-      "titleMn": "Сонгодог Үдэш",
-      "titleEn": "Classic Evening",
-      "start": "2026-11-18T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Wednesday stand-up comedy show. Ages 18+; the lineup may change.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6af9af2e7be6bb4ff67f0931",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794748205974_cover_11.18%20cover.png"
     },
     {
       "id": "ubcomedy-2026-11-19-a-listers-night",
