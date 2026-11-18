@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:54:01+08:00",
+  "updatedAt": "2026-11-19T07:17:33+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -124,6 +124,10 @@
     {
       "name": "FIBA",
       "url": "https://www.fiba.basketball"
+    },
+    {
+      "name": "bilet.mn",
+      "url": "https://bilet.mn"
     }
   ],
   "events": [
@@ -346,6 +350,48 @@
       "image": "https://api.ubcomedy.mn/uploads/1794748412404_cover_11.19%20cover.png"
     },
     {
+      "id": "bilet-2026-11-19-kamasi-washington-tribute",
+      "title": "Kamasi Washington Tribute Concert",
+      "titleEn": "Kamasi Washington Tribute Concert",
+      "start": "2026-11-19T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "A tribute to the music of Kamasi Washington with Miigaa (trombone), Boroo (saxophone) and Bilgee (drums). Ages 18+ (16–17 with a parent).",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "live music",
+        "жазз"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-72c002624f67",
+      "sourceName": "bilet.mn",
+      "lat": 47.915201,
+      "lng": 106.917441
+    },
+    {
+      "id": "bilet-2026-11-20-twerk-battle-show",
+      "title": "Twerk Battle Show 5th Anniversary",
+      "titleEn": "Twerk Battle Show 5th Anniversary",
+      "start": "2026-11-20",
+      "allDay": true,
+      "location": "Zaisan Hill Event Hall",
+      "locationEn": "Zaisan Hill Event Hall",
+      "description": "Twerk Mongolia Studio marks five years with its annual dance battle show: Twerk Battle and Heels + Twerk Battle categories, a guest judge from Russia, and guest performers and DJs. Ages 21+.",
+      "cost": "from 79,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "dance",
+        "battle",
+        "party",
+        "21+",
+        "бүжиг"
+      ],
+      "url": "https://bilet.mn/e/ext-shoppy-mn-c9f7e2f9e15f",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ikon-2026-11-20-tribute-to-gang",
       "title": "ХАЛАМЦУУ САЛХИ - A TRIBUTE TO GANG",
       "titleMn": "\"Халамцуу салхи\" – Гангын хүндэтгэлийн тоглолт",
@@ -463,6 +509,26 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600_X900_264c80ea23.jpg"
     },
     {
+      "id": "bilet-2026-11-20-amc-perfect-blue",
+      "title": "AM-C \"Perfect Blue\" Live Music Concert",
+      "titleMn": "AM-C \"Perfect Blue\" амьд хөгжмийн тоглолт",
+      "titleEn": "AM-C \"Perfect Blue\" live music concert",
+      "start": "2026-11-20T20:00",
+      "allDay": false,
+      "location": "CROCUS event hall",
+      "locationEn": "Crocus Event Hall",
+      "description": "A live music concert by AM-C. Tickets are non-refundable.",
+      "cost": "from 129,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "live music",
+        "тоглолт"
+      ],
+      "url": "https://bilet.mn/e/ext-shoppy-mn-amc-liveconcert-261120",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ubcomedy-2026-11-20-two-generations-one-stage",
       "title": "Two Generations One Stage",
       "titleMn": "Two Generations One Stage",
@@ -527,6 +593,29 @@
       ],
       "url": "https://www.ted.com/tedx/events/70234",
       "sourceName": "TEDx"
+    },
+    {
+      "id": "tengis-2026-11-21-khurd",
+      "title": "Хүрд",
+      "titleMn": "Хүрд",
+      "titleEn": "Khurd (documentary)",
+      "start": "2026-11-21",
+      "allDay": true,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "Mongolian documentary (1 h 20 min) by director L. Nomin about ordinary people in rural Mongolia and social change. Rated PG-13.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "documentary",
+        "Mongolian film",
+        "кино",
+        "баримтат кино"
+      ],
+      "url": "https://www.tengis.mn/film/xuerd",
+      "sourceName": "Tengis Cinema",
+      "lat": 47.922806,
+      "lng": 106.90449
     },
     {
       "id": "ticketmn-2026-11-21-ireeduig-avarsan-aylal",
@@ -743,6 +832,51 @@
       "cost": "45,000–89,000₮"
     },
     {
+      "id": "bilet-2026-11-21-click-click-boom-20th",
+      "title": "Click Click Boom \"Буруу Газар Зөв Цагт\" 20th Anniversary",
+      "titleMn": "Click Click Boom \"Буруу газар зөв цагт\" 20 жилийн ой",
+      "titleEn": "Click Click Boom \"Wrong Place, Right Time\": 20th anniversary",
+      "start": "2026-11-21T19:00",
+      "allDay": false,
+      "location": "Asa Arena",
+      "locationEn": "ASA Arena",
+      "description": "The band Click Click Boom's 20th-anniversary concert.",
+      "cost": "from 99,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "rock",
+        "band",
+        "тоглолт"
+      ],
+      "url": "https://bilet.mn/e/ext-shoppy-mn-a9469ac0f3ba",
+      "sourceName": "bilet.mn",
+      "lat": 47.911971,
+      "lng": 106.907256
+    },
+    {
+      "id": "bilet-2026-11-21-tuulai-party-doll-child",
+      "title": "TUULAI PARTY VOL.2: DOLL CHILD EP RELEASE PARTY",
+      "titleEn": "Tuulai Party Vol. 2: \"Doll Child\" EP release party",
+      "start": "2026-11-21T19:00",
+      "allDay": false,
+      "location": "Khukhnar.CAB Contemporary Art Space",
+      "locationEn": "Khukhnar Contemporary Art Space",
+      "description": "A sound-and-visuals night launching artist margad's new mini-album \"DOLL CHILD\", with several artists and a merch pop-up. Ages 16+; tickets are limited.",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "music",
+        "EP release",
+        "party",
+        "16+"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-63be62d090bd",
+      "sourceName": "bilet.mn",
+      "lat": 47.929437,
+      "lng": 106.928734
+    },
+    {
       "id": "ubcomedy-2026-11-21-urt-show",
       "title": "Урт Шоу",
       "titleMn": "Урт Шоу",
@@ -765,6 +899,25 @@
       "lat": 47.914007,
       "lng": 106.908807,
       "image": "https://api.ubcomedy.mn/uploads/1794750150207_cover_11.21%20cover%20(1).png"
+    },
+    {
+      "id": "bilet-2026-11-21-room-11-amanda-mussi",
+      "title": "ROOM 11 PRESENTS: AMANDA MUSSI",
+      "titleEn": "Room 11 presents: Amanda Mussi",
+      "start": "2026-11-21T22:00",
+      "allDay": false,
+      "location": "ROOM 11",
+      "locationEn": "Room 11",
+      "description": "A club night with Berlin-based DJ and producer Amanda Mussi, playing hypnotic techno and house. Only 80 tickets, sold online through portal.mn; no door sales.",
+      "category": "Music & Performance",
+      "tags": [
+        "DJ",
+        "techno",
+        "club night",
+        "electronic"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-1036a2c1cf24",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "ticketmn-2026-11-22-mongol-nairag",
@@ -839,6 +992,26 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-19.png"
     },
     {
+      "id": "bilet-2026-11-22-fantasia-new-chapter",
+      "title": "Fantasia - New Chapter",
+      "titleEn": "Fantasia: New Chapter",
+      "start": "2026-11-22T20:00",
+      "allDay": false,
+      "location": "Corporate Convention Centre",
+      "locationEn": "Corporate Convention Centre",
+      "description": "A symphony orchestra plays music from internationally acclaimed works. Doors open at 19:30. Tickets are non-refundable.",
+      "cost": "from 96,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "orchestra",
+        "classical",
+        "film music",
+        "концерт"
+      ],
+      "url": "https://bilet.mn/e/ext-shoppy-mn-fantasia-261122",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
       "title": "\"МЯНГАТЫН ХӨӨРХӨН ОХИН\" концерт",
       "titleMn": "Мянгатын хөөрхөн охин",
@@ -860,6 +1033,26 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/2026.04.04-2026-10-20T162018.281.png"
+    },
+    {
+      "id": "bilet-2026-11-23-nathaniel-gates-south-african-jazz",
+      "title": "Nathaniel Gates Presents South African Jazz",
+      "titleEn": "Nathaniel Gates Presents South African Jazz",
+      "start": "2026-11-23T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "Trombonist Nathaniel Gates and his quartet trace South African jazz from its pioneers to modern composers. Ages 18+ (16–17 with a parent).",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "live music"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-2e22d22f4162",
+      "sourceName": "bilet.mn",
+      "lat": 47.915201,
+      "lng": 106.917441
     },
     {
       "id": "eventx-2026-11-24-samandyn-khuu",
@@ -885,6 +1078,29 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_072a5a6551.jpg"
+    },
+    {
+      "id": "ubcomedy-2026-11-24-manai-khun",
+      "title": "Манай Хүн",
+      "titleMn": "Манай Хүн",
+      "titleEn": "Our Guy",
+      "start": "2026-11-24T20:00",
+      "allDay": false,
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "description": "Stand-up comedy with Beegii, Zori, Tseegii, Ensi, Ochiroo and Sender. Ages 18+.",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "url": "https://www.ubcomedy.mn/shows/6afd16a87be6bb4ff67fb72e",
+      "sourceName": "UB Comedy Club",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "eventx-2026-11-25-samandyn-khuu",
@@ -955,6 +1171,28 @@
       "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "bilet-2026-11-25-dotor-khuree-tumen-ekh",
+      "title": "Dotor Khuree Live at Tumen Ekh Urgoo",
+      "titleMn": "Дотор Хүрээ: Түмэн эх өргөөнд",
+      "titleEn": "Dotor Khuree live at Tumen Ekh",
+      "start": "2026-11-25T19:00",
+      "allDay": false,
+      "location": "Tumen Ekh Urgoo",
+      "locationEn": "Tumen Ekh Hall",
+      "description": "A concert by Dotor Khuree, an indie-folk and avant-pop band formed in 2023 that blends traditional Mongolian tones with modern rhythms.",
+      "cost": "from 79,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "indie",
+        "folk",
+        "band",
+        "тоглолт"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-91972614cc98",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ticketmn-2026-11-25-bukhiin-gergii",
       "title": "\"Бөхийн гэргий\" Solo concert",
       "titleMn": "\"Бөхийн гэргий\" бие даасан тоглолт",
@@ -976,6 +1214,29 @@
       "lat": 47.919491,
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T112535.726.png"
+    },
+    {
+      "id": "bilet-2026-11-25-nasaa-ganbold-urgeljlel",
+      "title": "Nasaa Ganbold: \"Үргэлжлэл\"",
+      "titleEn": "Nasaa Ganbold: \"Continuity\"",
+      "start": "2026-11-25T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "Throat singer and multi-instrumentalist Nasaa Ganbold performs \"Continuity\", traditional music and his own pieces honouring his late father. Ages 18+ (16–17 with a parent).",
+      "cost": "from 60,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "throat singing",
+        "traditional",
+        "live music",
+        "хөөмий"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-aef29fc14000",
+      "sourceName": "bilet.mn",
+      "titleMn": "Г.Насанжаргал \"Үргэлжлэл\"",
+      "lat": 47.915201,
+      "lng": 106.917441
     },
     {
       "id": "fiba-2026-11-26-asia-cup-pre-qualifiers",
@@ -1114,6 +1375,48 @@
       "lat": 47.914621,
       "lng": 106.914258,
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_1.png"
+    },
+    {
+      "id": "bilet-2026-11-26-xap-maf-live-show",
+      "title": "XAP MAF LIVE SHOW",
+      "titleEn": "XAP MAF Live Show",
+      "start": "2026-11-26T19:00",
+      "allDay": false,
+      "location": "On'n Off Production House",
+      "locationEn": "On'n Off Production House",
+      "description": "A night of live and DJ sets by underground artists including QUAD, COZY, TOYGIRL, SINUSOID and BRIM SQUAD.",
+      "cost": "from 55,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "hip-hop",
+        "underground",
+        "DJ",
+        "live music"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-9a2c4b32935c",
+      "sourceName": "bilet.mn"
+    },
+    {
+      "id": "bilet-2026-11-26-conservatory-jazz-big-band",
+      "title": "Mongolian State Conservatory: JAZZ BIG BAND",
+      "titleEn": "Mongolian State Conservatory: JAZZ BIG BAND",
+      "start": "2026-11-26T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "A big-band concert by students of the Mongolian State Conservatory's jazz department. Ages 18+ (16–17 with a parent).",
+      "cost": "from 45,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "big band",
+        "students",
+        "live music"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-4863d72db32d",
+      "sourceName": "bilet.mn",
+      "lat": 47.915201,
+      "lng": 106.917441
     },
     {
       "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
@@ -1349,6 +1652,29 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-23.png"
+    },
+    {
+      "id": "bilet-2026-11-28-sound-meditation",
+      "title": "SOUND MEDITATION",
+      "titleMn": "Хөгжимт бясалгал",
+      "titleEn": "Sound meditation",
+      "start": "2026-11-28T18:00",
+      "allDay": false,
+      "location": "LKHAM GALLERY",
+      "locationEn": "Lkham Gallery",
+      "description": "A sound-meditation session with singing bowls, bells, ocean and storm drums and wind chimes. Not for children under 12 or people with epilepsy.",
+      "cost": "55,000₮; 70,000₮ with mat, blanket and eye mask",
+      "category": "Music & Performance",
+      "tags": [
+        "meditation",
+        "sound bath",
+        "wellness",
+        "бясалгал"
+      ],
+      "url": "https://bilet.mn/e/ext-shoppy-mn-cca11485fa45",
+      "sourceName": "bilet.mn",
+      "lat": 47.913526,
+      "lng": 106.915485
     },
     {
       "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
@@ -1690,6 +2016,26 @@
       "image": "https://new.urgoo.mn/movies/HO00001175/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "bilet-2026-12-11-strawman-and-celine",
+      "title": "Strawman & Celine",
+      "titleEn": "Strawman & Celine",
+      "start": "2026-12-11T20:00",
+      "allDay": false,
+      "location": "NARBAR",
+      "locationEn": "NARBAR",
+      "description": "The duo launches its new EP with its first full-band show, the band travelling from Italy; Uudee's Swashbuckling Dandies open. Doors at 19:00. Ages 21+, ID required.",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "indie",
+        "live music",
+        "band",
+        "21+"
+      ],
+      "url": "https://bilet.mn/e/ext-narbar-mn-d84c79db238f",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
       "title": "П.И.Чайковский \"Цөмөөхэй\" балет",
       "titleMn": "\"Цөмөөхэй\" балет",
@@ -1970,6 +2316,28 @@
       "url": "https://urlag.mn/post/161060",
       "sourceName": "Urlag.mn",
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%91.%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D1%83%D1%8F%D0%B0.png"
+    },
+    {
+      "id": "wca-2026-12-19-mongolian-juniors-cup-2026",
+      "title": "Mongolian Juniors Cup 2026",
+      "titleMn": "Mongolian Juniors Cup 2026 (хүүхдийн Рубик шооны тэмцээн)",
+      "titleEn": "Mongolian Juniors Cup 2026 (speedcubing for kids)",
+      "start": "2026-12-19",
+      "allDay": true,
+      "location": "Human International School, Sports Hall (2 давхар), Зайсан, Хан-Уул",
+      "locationEn": "Human International School, Sports Hall (2nd floor), Zaisan, Khan-Uul",
+      "description": "An official World Cube Association speedcubing competition (3x3, 2x2 and Pyraminx) aimed mainly at children, for up to 200 competitors. Spectators pay a 5,000₮ entry fee.",
+      "cost": "5,000₮ to watch",
+      "category": "Kids & Family",
+      "tags": [
+        "speedcubing",
+        "Rubik's cube",
+        "kids",
+        "competition",
+        "Рубик"
+      ],
+      "url": "https://www.worldcubeassociation.org/competitions/MongolianJuniorsCup2026",
+      "sourceName": "World Cube Association"
     }
   ]
 }
