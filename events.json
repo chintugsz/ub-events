@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T06:54:13+08:00",
+  "updatedAt": "2026-11-20T07:15:26+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -298,6 +298,27 @@
       "lat": 47.926224,
       "lng": 106.935273,
       "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
+    },
+    {
+      "id": "unuudur-2026-11-16-first-women-studied-germany-france",
+      "title": "Герман, Франц улсад суралцсан анхны эмэгтэйчүүд",
+      "titleMn": "Герман, Франц улсад суралцсан анхны эмэгтэйчүүд",
+      "titleEn": "The first women who studied in Germany and France",
+      "start": "2026-11-16",
+      "end": "2026-11-26",
+      "allDay": true,
+      "location": "Монголын театрын музей",
+      "locationEn": "Mongolian Theatre Museum",
+      "description": "An exhibition marking 100 years since Mongolia first sent students to study in Europe in 1926, telling the story of the first women who studied in Germany and France. It shows 60 photographs never displayed publicly before, more than 40 archival documents, 31 books and pamphlets, and personal belongings. Open until 26 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "history",
+        "museum",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.unuudur.mn/a/284926",
+      "sourceName": "Unuudur.mn"
     },
     {
       "id": "bilet-2026-11-20-twerk-battle-show",
@@ -934,7 +955,7 @@
       "allDay": false,
       "location": "Corporate Convention Centre",
       "locationEn": "Corporate Convention Centre",
-      "description": "A symphony orchestra plays music from internationally acclaimed works. Doors open at 19:30. Tickets are non-refundable.",
+      "description": "A symphony orchestra plays music from internationally acclaimed works. Doors open at 19:30. There is also an afternoon show at 15:30 (doors 15:00), with tickets at https://bilet.mn/e/ext-shoppy-mn-fantasia-261122-15. Tickets are non-refundable.",
       "cost": "from 96,000₮",
       "category": "Music & Performance",
       "tags": [
@@ -1594,6 +1615,27 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-23.png"
+    },
+    {
+      "id": "bilet-2026-11-28-dald-ukhamsar-family-relations",
+      "title": "Далд ухамсар ба гэр бүлийн харилцаа",
+      "titleMn": "Далд ухамсар ба гэр бүлийн харилцаа",
+      "titleEn": "The subconscious and family relationships",
+      "start": "2026-11-28T15:00",
+      "allDay": false,
+      "location": "Ancore Event Hall",
+      "locationEn": "Ancore Event Hall",
+      "description": "A talk on family relationships: why we want to understand the people we love yet keep running into the same problems. The course covers six topics on family and couple relationships.",
+      "cost": "from 69,000₮",
+      "category": "Talks & Learning",
+      "tags": [
+        "talk",
+        "relationships",
+        "psychology",
+        "сэтгэл зүй"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-bad0f608fdb3",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "bilet-2026-11-28-sound-meditation",
