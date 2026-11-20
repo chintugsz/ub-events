@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T06:54:02+08:00",
+  "updatedAt": "2026-11-21T07:20:22+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -365,27 +365,6 @@
       "sourceName": "TEDx"
     },
     {
-      "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
-      "title": "TEDxUlaanbaatar Elite Youth",
-      "titleMn": "TEDxUlaanbaatar Elite Youth",
-      "titleEn": "TEDxUlaanbaatar Elite Youth",
-      "start": "2026-11-21",
-      "allDay": true,
-      "location": "Ulaanbaatar Elite International School, Conference Hall, Сүхбаатар дүүрэг, 2-р хороо, Сөүлийн гудамж",
-      "locationEn": "Ulaanbaatar Elite International School, Conference Hall, Seoul Street, Sukhbaatar District",
-      "description": "An independently organised TEDx event in the youth format, with talks sharing ideas worth spreading. Open to the public.",
-      "category": "Talks & Learning",
-      "tags": [
-        "TEDx",
-        "talks",
-        "youth",
-        "илтгэл",
-        "залуучууд"
-      ],
-      "url": "https://www.ted.com/tedx/events/70234",
-      "sourceName": "TEDx"
-    },
-    {
       "id": "tengis-2026-11-21-khurd",
       "title": "Хүрд",
       "titleMn": "Хүрд",
@@ -500,6 +479,123 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/10/%D0%90%D0%BC%D0%B0%D1%80%D1%85%D2%AF%D2%AF.png"
     },
     {
+      "id": "urlag-2026-11-21-dunburee-uran-biiriin-ayalguu",
+      "title": "Г.Дунбүрээ: «Уран бийрийн аялгуу»",
+      "titleMn": "Г.Дунбүрээгийн «Уран бийрийн аялгуу» бие даасан үзэсгэлэн",
+      "titleEn": "Dunburee: Melody of the Brush",
+      "start": "2026-11-21",
+      "end": "2026-11-27",
+      "allDay": true,
+      "location": "Монголын уран зургийн галерей",
+      "locationEn": "Mongolian Painting Gallery",
+      "description": "A solo show by People's Artist G. Dunbüree: about 200 works from his own collection plus pieces from the gallery and the Ulaanbaatar city museum, on Mongolian society and the history of the old capital. On until 27 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "painting",
+        "gallery",
+        "үзэсгэлэн"
+      ],
+      "url": "https://urlag.mn/post/163203",
+      "sourceName": "Urlag.mn"
+    },
+    {
+      "id": "urlag-2026-11-21-evening-museum-socialism",
+      "title": "Үдшийн музей – Социализмаар аялцгаая",
+      "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
+      "titleEn": "Evening Museum: A Trip Through Socialism",
+      "start": "2026-11-21",
+      "end": "2027-01-15",
+      "allDay": true,
+      "location": "Монголын үндэсний музей",
+      "locationEn": "National Museum of Mongolia",
+      "description": "A special exhibition on social life, culture and building in socialist-era Mongolia. It opened in October and has been extended to 15 January 2027 because visitors asked for it. Free for children up to 16.",
+      "cost": "10,000₮",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "history",
+        "museum",
+        "үзэсгэлэн"
+      ],
+      "url": "https://urlag.mn/post/163284",
+      "sourceName": "Urlag.mn",
+      "lat": 47.920838,
+      "lng": 106.915355
+    },
+    {
+      "id": "urlag-2026-11-21-irmuun-bosoo-khundlun",
+      "title": "Ө.Ирмүүн: «Босоо · Хөндлөн»",
+      "titleMn": "Ө.Ирмүүний «Босоо · Хөндлөн» бие даасан үзэсгэлэн",
+      "titleEn": "Irmuun: Vertical · Horizontal",
+      "start": "2026-11-21",
+      "end": "2026-11-29",
+      "allDay": true,
+      "location": "Б контемпорари арт галерей",
+      "locationEn": "B Contemporary Art Gallery",
+      "description": "A solo show by Ö. Irmüün that uses text, images and marks to reflect on language, the passing of time and cultural memory. On until 29 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "contemporary art",
+        "gallery",
+        "үзэсгэлэн"
+      ],
+      "url": "https://urlag.mn/post/163138",
+      "sourceName": "Urlag.mn",
+      "lat": 47.929437,
+      "lng": 106.928734
+    },
+    {
+      "id": "urlag-2026-11-21-narangerel-zam-2",
+      "title": "Ц.Нарангэрэл: «Зам-2»",
+      "titleMn": "Ц.Нарангэрэлийн «Зам-2» үзэсгэлэн",
+      "titleEn": "Narangerel: Road 2",
+      "start": "2026-11-21",
+      "end": "2026-11-25",
+      "allDay": true,
+      "location": "«Хаан» галерей",
+      "locationEn": "Khaan Gallery",
+      "description": "Landscape paintings by Ts. Narangerel that try to capture the character and mood of open nature. On until 25 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "painting",
+        "landscape",
+        "үзэсгэлэн"
+      ],
+      "url": "https://urlag.mn/post/162637",
+      "sourceName": "Urlag.mn",
+      "lat": 47.903719,
+      "lng": 106.911959
+    },
+    {
+      "id": "gdg-2026-11-14-devfest-ub-2026",
+      "title": "DevFest UB 2026",
+      "titleEn": "DevFest UB 2026",
+      "start": "2026-11-21T10:00",
+      "end": "2026-11-21T16:20",
+      "allDay": false,
+      "location": "Zaisan Hill Complex, Dunjingarav 14, 11-р хороо",
+      "locationEn": "Zaisan Hill Complex, Dunjingarav 14, 11th khoroo",
+      "description": "Google Developer Groups Ulaanbaatar's annual tech conference on AI in technology, business and software development: generative AI, AI agents, AI-assisted coding and AI startups. For developers, students, startups and business leaders.",
+      "category": "Talks & Learning",
+      "tags": [
+        "tech",
+        "AI",
+        "developers",
+        "Google",
+        "conference",
+        "students",
+        "технологи",
+        "хиймэл оюун",
+        "хөгжүүлэгч"
+      ],
+      "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
+      "sourceName": "GDG Ulaanbaatar",
+      "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
+    },
+    {
       "id": "happeningnext-2026-11-21-iwam-winter-charity-fair",
       "title": "IWAM 2026 Winter Charity Fair",
       "titleMn": "IWAM 2026 өвлийн хандивын үзэсгэлэн худалдаа",
@@ -522,32 +618,6 @@
       "url": "https://happeningnext.com/event/iwam-2026-winter-charity-fair-eid1ar6ibudmk",
       "sourceName": "HappeningNext",
       "image": "https://cdn2.happeningnext.com/ai-banners/ai_banner_6ae308704d3e2.jpg"
-    },
-    {
-      "id": "gdg-2026-11-14-devfest-ub-2026",
-      "title": "DevFest UB 2026",
-      "titleEn": "DevFest UB 2026",
-      "start": "2026-11-21T12:00",
-      "end": "2026-11-21T16:00",
-      "allDay": false,
-      "location": "Zaisan Hill Complex, Dunjingarav 14, 11-р хороо",
-      "locationEn": "Zaisan Hill Complex, Dunjingarav 14, 11th khoroo",
-      "description": "Google Developer Groups Ulaanbaatar's annual tech conference on AI in technology, business and software development: generative AI, AI agents, AI-assisted coding and AI startups. For developers, students, startups and business leaders.",
-      "category": "Talks & Learning",
-      "tags": [
-        "tech",
-        "AI",
-        "developers",
-        "Google",
-        "conference",
-        "students",
-        "технологи",
-        "хиймэл оюун",
-        "хөгжүүлэгч"
-      ],
-      "url": "https://gdg.community.dev/events/details/google-gdg-ulaanbaatar-presents-devfest-ub-2026/",
-      "sourceName": "GDG Ulaanbaatar",
-      "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/event_banners/GDG_Bevy_DefaultEventThumbnail_2_MF2GjYZ.png"
     },
     {
       "id": "newsmn-2026-11-21-altan-tsom-wrestling",
@@ -695,6 +765,28 @@
       "image": "https://api.ubcomedy.mn/uploads/1794750150207_cover_11.21%20cover%20(1).png"
     },
     {
+      "id": "bilet-2026-11-21-kamasi-washington-tribute",
+      "title": "Kamasi Washington Tribute Concert",
+      "titleEn": "Kamasi Washington Tribute Concert",
+      "start": "2026-11-21T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "A tribute to the music of saxophonist Kamasi Washington, with Miigaa on trombone, Boroo on saxophone and Bilgee on drums. Ages 18+ (16–17 with a parent).",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "live music",
+        "tribute",
+        "жазз"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-2e88182b91d9",
+      "sourceName": "bilet.mn",
+      "lat": 47.915201,
+      "lng": 106.917441
+    },
+    {
       "id": "bilet-2026-11-21-room-11-amanda-mussi",
       "title": "ROOM 11 PRESENTS: AMANDA MUSSI",
       "titleEn": "Room 11 presents: Amanda Mussi",
@@ -838,7 +930,7 @@
       "allDay": false,
       "location": "Fat Cat Jazz Club",
       "locationEn": "Fat Cat Jazz Club",
-      "description": "Trombonist Nathaniel Gates and his quartet trace South African jazz from its pioneers to modern composers. Ages 18+ (16–17 with a parent).",
+      "description": "Trombonist Nathaniel Gates and his quartet trace South African jazz from its pioneers to modern composers. A second show is on Tuesday 24 November at 21:00 (https://bilet.mn/e/ext-fatcatjazzclub-com-911727819e3c). Ages 18+ (16–17 with a parent).",
       "cost": "from 40,000₮",
       "category": "Music & Performance",
       "tags": [
@@ -1205,7 +1297,7 @@
       "allDay": false,
       "location": "Fat Cat Jazz Club",
       "locationEn": "Fat Cat Jazz Club",
-      "description": "A big-band concert by students of the Mongolian State Conservatory's jazz department. Ages 18+ (16–17 with a parent).",
+      "description": "A big-band concert by students of the Mongolian State Conservatory's jazz department. More shows on Friday 27 November (https://bilet.mn/e/ext-fatcatjazzclub-com-7730659b8c98) and Saturday 28 November (https://bilet.mn/e/ext-fatcatjazzclub-com-675ade58d5cf), both at 21:00. Ages 18+ (16–17 with a parent).",
       "cost": "from 45,000₮",
       "category": "Music & Performance",
       "tags": [
@@ -1333,6 +1425,27 @@
       "lng": 106.919385,
       "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695089477049751383_ticket.mn-banner-1200kh630.png",
       "cost": "50,000–70,000₮"
+    },
+    {
+      "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
+      "title": "TEDxUlaanbaatar Elite Youth",
+      "titleMn": "TEDxUlaanbaatar Elite Youth",
+      "titleEn": "TEDxUlaanbaatar Elite Youth",
+      "start": "2026-11-28",
+      "allDay": true,
+      "location": "Ulaanbaatar Elite International School, Conference Hall, Сүхбаатар дүүрэг, 2-р хороо, Сөүлийн гудамж",
+      "locationEn": "Ulaanbaatar Elite International School, Conference Hall, Seoul Street, Sukhbaatar District",
+      "description": "An independently organised TEDx event in the youth format, with talks sharing ideas worth spreading. Open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "илтгэл",
+        "залуучууд"
+      ],
+      "url": "https://www.ted.com/tedx/events/70234",
+      "sourceName": "TEDx"
     },
     {
       "id": "ticketmn-2026-11-28-khiimori-duudsan-udesh",
@@ -1500,6 +1613,48 @@
       "lat": 47.913526,
       "lng": 106.915485,
       "image": "https://cdn.cody.mn/img/501851/1200x400xwebp/1920x648_Sound_post_cover_Sound_Meditation.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
+    },
+    {
+      "id": "bilet-2026-11-28-winter-gala-2026",
+      "title": "WINTER GALA 2026 — Нэгдсэн шинэ жилийн цэнгүүн",
+      "titleMn": "Нэгдсэн шинэ жилийн цэнгүүн",
+      "titleEn": "Winter Gala 2026: New Year party",
+      "start": "2026-11-28T19:00",
+      "allDay": false,
+      "location": "Revo Garden Restaurant & Bar",
+      "locationEn": "Revo Garden Restaurant & Bar",
+      "description": "A New Year party with hit songs from T. Barkhuu, T. Delgermurun, S. Amarmandakh and other singers, a snow-maiden carnival dance and a prize draw. Tickets are by zone (119,000₮, 129,000₮ or 139,000₮) and are non-refundable.",
+      "cost": "from 119,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "party",
+        "new year",
+        "concert",
+        "шинэ жил"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-e569c3a90a6a",
+      "sourceName": "bilet.mn"
+    },
+    {
+      "id": "bilet-2026-11-28-dabi-comedy-show",
+      "title": "Даби гээд байгаа биз?",
+      "titleMn": "Даби гээд байгаа биз?",
+      "titleEn": "Dabi Special Comedy Show",
+      "start": "2026-11-28T20:00",
+      "end": "2026-11-28T23:30",
+      "allDay": false,
+      "location": "Tumen Ekh Urgoo",
+      "locationEn": "Tumen Ekh Hall",
+      "description": "A special live stand-up comedy show with Khar Toogoo, Tengis, Ensi, Munkhuush and Dabi.",
+      "cost": "50,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "инээдмийн шоу"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-bf5bcd235650",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
