@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:15:27+08:00",
+  "updatedAt": "2026-11-23T06:53:39+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -231,53 +231,6 @@
       "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
     },
     {
-      "id": "urlag-2026-11-11-norson-zurkh-musical",
-      "title": "Норсон зүрх",
-      "titleMn": "Норсон зүрх",
-      "titleEn": "Drenched Heart (musical)",
-      "start": "2026-11-11",
-      "allDay": true,
-      "location": "UG Palace",
-      "locationEn": "UG Palace",
-      "description": "Full-length musical created by the band Khurd for its 35th anniversary, staged with Mongolian and British professionals and young performers. Ticket.mn lists shows from 11 to 22 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "musical",
-        "Khurd",
-        "мюзикл",
-        "Хурд хамтлаг",
-        "тайз"
-      ],
-      "url": "https://urlag.mn/post/160048",
-      "sourceName": "Urlag.mn",
-      "image": "https://urlag.mn/wp-content/uploads/2026/10/Untitled-Design-2.png",
-      "end": "2026-11-22"
-    },
-    {
-      "id": "ticketmn-2026-11-13-tuunii-buruu",
-      "title": "\"ТҮҮНИЙ БУРУУ\" орчин үеийн сэтгэл зүйн драмын жүжиг",
-      "titleMn": "Түүний буруу",
-      "titleEn": "Her Fault (psychological drama)",
-      "start": "2026-11-13",
-      "end": "2026-11-22",
-      "allDay": true,
-      "location": "РЦНК",
-      "locationEn": "Russian Centre for Science and Culture",
-      "description": "Pro Theatre's psychological drama about a mother who invents an online identity to get close to her son. Plays on 13, 14 and 15 November and again on 20, 21 and 22 November; ages 12+.",
-      "category": "Music & Performance",
-      "tags": [
-        "theatre",
-        "drama",
-        "жүжиг",
-        "Pro theatre"
-      ],
-      "url": "https://www.ticket.mn/event/3289",
-      "sourceName": "Ticket.mn",
-      "lat": 47.926224,
-      "lng": 106.935273,
-      "image": "https://www.ticket.mn/files/concerts/sliders/no-data-1200x630.jpg"
-    },
-    {
       "id": "unuudur-2026-11-16-first-women-studied-germany-france",
       "title": "Герман, Франц улсад суралцсан анхны эмэгтэйчүүд",
       "titleMn": "Герман, Франц улсад суралцсан анхны эмэгтэйчүүд",
@@ -298,28 +251,6 @@
       "url": "https://www.unuudur.mn/a/284926",
       "sourceName": "Unuudur.mn",
       "image": "https://www.unuudur.mn/resource/unuudur/image/2026/11/17/u3j8av6qxpxh7wvc/100%20%D0%B6%D0%B8%D0%BB%D0%B8%D0%B9%D0%BD%20%D1%82%D1%8D%D1%80%D1%82%D1%8D%D1%8D%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B%D0%B3%20%D0%B7%D0%BE%D1%80%D1%8C%D1%81%D0%BE%D0%BD%20%D0%B1%D2%AF%D1%81%D0%B3%D2%AF%D0%B9%D1%87%D2%AF%D2%AF%D0%B4%D0%B8%D0%B9%D0%BD%20%D1%82%D2%AF%D2%AF%D1%85%D0%B8%D0%B9%D0%B3%20%D1%82%D0%BE%D0%BB%D1%8C%D0%B4%D0%BE%D0%BE%D1%80%D0%BE%D0%B9_l.JPG"
-    },
-    {
-      "id": "ticketmn-2026-11-21-ireeduig-avarsan-aylal",
-      "title": "\"ИРЭЭДҮЙГ АВАРСАН АЯЛАЛ\" хүүхдийн жүжиг",
-      "titleMn": "Ирээдүйг аварсан аялал",
-      "titleEn": "The Journey That Saved the Future (children's play)",
-      "start": "2026-11-21",
-      "end": "2026-11-22",
-      "allDay": true,
-      "location": "Монгол Улсын Хүүхэлдэйн Театр",
-      "locationEn": "State Puppet Theatre of Mongolia",
-      "description": "A children's play set in 2056, when pollution has made life on Earth nearly impossible. A scientist and three children travel back in time to try to save the planet. On 21 and 22 November.",
-      "category": "Kids & Family",
-      "tags": [
-        "theatre",
-        "kids",
-        "children's play",
-        "хүүхдийн жүжиг"
-      ],
-      "url": "https://www.ticket.mn/event/3340",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-7.png"
     },
     {
       "id": "ticketmn-2026-11-21-love-letters",
@@ -438,99 +369,6 @@
       "lat": 47.903719,
       "lng": 106.911959,
       "image": "https://urlag.mn/wp-content/uploads/2026/11/j75as8_3K5A6270_x974.jpg"
-    },
-    {
-      "id": "ticketmn-2026-11-22-mongol-nairag",
-      "title": "\"МОНГОЛ НАЙРАГ\" тоглолт",
-      "titleMn": "\"Монгол найраг\" тоглолт",
-      "titleEn": "\"Mongol Nairag\" concert",
-      "start": "2026-11-22",
-      "allDay": true,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Central Cultural Palace",
-      "description": "A concert mixing traditional folk art, epic chanting, poetry, popular and opera songs, and rock and pop.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "folk",
-        "rock",
-        "poetry",
-        "концерт",
-        "ардын урлаг"
-      ],
-      "url": "https://www.ticket.mn/event/3335",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695618002424991282_1200x630-2.png"
-    },
-    {
-      "id": "ublife-2026-11-22-gamma-agency-30-exhibition-opening",
-      "title": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
-      "titleMn": "Гамма агентлагийн 30 жилийн ойн үзэсгэлэнгийн нээлт",
-      "titleEn": "Gamma Agency 30th anniversary exhibition: opening",
-      "start": "2026-11-22",
-      "allDay": true,
-      "location": "Г.Занабазарын нэрэмжит Дүрслэх урлагийн музей",
-      "locationEn": "Zanabazar Museum of Fine Arts",
-      "description": "Opening of an exhibition tracing Mongolian photojournalism through Gamma, founded in 1996 as Mongolia's first independent professional photo agency.",
-      "category": "Arts & Museums",
-      "tags": [
-        "photography",
-        "exhibition",
-        "гэрэл зураг",
-        "үзэсгэлэн",
-        "photojournalism"
-      ],
-      "url": "https://www.ub.life/p/261027-gs2n72",
-      "sourceName": "UB Life",
-      "lat": 47.920172,
-      "lng": 106.90967,
-      "image": "https://ublife-cdn-files.sgp1.cdn.digitaloceanspaces.com/files/cover/cover-05855d16-305c-41fd-9d02-bb1e560a2726.jpg"
-    },
-    {
-      "id": "ticketmn-2026-11-22-aimgiin-naadmyn-turuu-wrestling",
-      "title": "АЙМГИЙН НААДМЫН ТҮРҮҮ БӨХЧҮҮДИЙН БАРИЛДААН-2026",
-      "titleMn": "Аймгийн наадмын түрүү бөхчүүдийн барилдаан 2026",
-      "titleEn": "Provincial Naadam Champions Wrestling 2026",
-      "start": "2026-11-22T14:00",
-      "allDay": false,
-      "location": "Монгол бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A Mongolian National Wrestling Federation tournament for wrestlers who won provincial and district naadam festivals in 2026, from 14:00.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "bökh",
-        "бөх",
-        "барилдаан"
-      ],
-      "url": "https://www.ticket.mn/event/3351",
-      "sourceName": "Ticket.mn",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-19.png"
-    },
-    {
-      "id": "bilet-2026-11-22-fantasia-new-chapter",
-      "title": "Fantasia - New Chapter",
-      "titleEn": "Fantasia: New Chapter",
-      "start": "2026-11-22T20:00",
-      "allDay": false,
-      "location": "Corporate Convention Centre",
-      "locationEn": "Corporate Convention Centre",
-      "description": "A symphony orchestra plays music from internationally acclaimed works. Doors open at 19:30. There is also an afternoon show at 15:30 (doors 15:00), with tickets at https://bilet.mn/e/ext-shoppy-mn-fantasia-261122-15. Tickets are non-refundable.",
-      "cost": "from 96,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "orchestra",
-        "classical",
-        "film music",
-        "концерт"
-      ],
-      "url": "https://bilet.mn/e/ext-shoppy-mn-fantasia-261122",
-      "sourceName": "bilet.mn",
-      "image": "https://cdn.cody.mn/img/486171/1200x400xwebp/c.jpg?h=58ada67a5c1714748aff416ffb8a80df42604c31"
     },
     {
       "id": "ticketmn-2026-11-23-myangatyn-khoorkhon-okhin",
