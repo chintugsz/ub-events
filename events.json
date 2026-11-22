@@ -254,7 +254,8 @@
         "үзэсгэлэн"
       ],
       "url": "https://www.mnb.mn/article/munkh-tengeriin-bichig-2026-uzesgelengiin-shildeg-buteeliin-ezed-todorchee-6851",
-      "sourceName": "MNB"
+      "sourceName": "MNB",
+      "image": "https://assets.mnb.mn/media/2026/11/5a25d1570aee-898420960-891248037345816-7032238489918375518-n.full.webp"
     },
     {
       "id": "unuudur-2026-11-16-first-women-studied-germany-france",
@@ -623,7 +624,8 @@
       "description": "Stand-up comedy with Bolor, Ochiroo, Bataa, Tseegii, Bayaraa, Ensi and Beegii. Ages 18+.",
       "url": "https://www.ubcomedy.mn/shows/6b0321fa7be6bb4ff6816b98",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1795367418220_cover_11.25%20cover.png"
     },
     {
       "id": "bilet-2026-11-25-nasaa-ganbold-urgeljlel",
@@ -852,7 +854,8 @@
       "description": "A Republic Day stand-up show with Mandakh, Ochiroo, Ensi, Bayaraa, Zori, Bataa and Beegii. Ages 18+.",
       "url": "https://www.ubcomedy.mn/shows/6b0322657be6bb4ff6816ba5",
       "lat": 47.914007,
-      "lng": 106.908807
+      "lng": 106.908807,
+      "image": "https://api.ubcomedy.mn/uploads/1795367525183_cover_11.26%20cover.png"
     },
     {
       "id": "bilet-2026-11-26-conservatory-jazz-big-band",
@@ -1310,7 +1313,8 @@
       "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-0c3ff5bd7380",
       "sourceName": "bilet.mn",
       "lat": 47.915201,
-      "lng": 106.917441
+      "lng": 106.917441,
+      "image": "https://api.fatcatjazzclub.com/images/2hi7o6ptkvvhfbp3bq14rak09vx0wauoiopn.jpeg"
     },
     {
       "id": "ticketmn-2026-12-02-vienna-gala-concert",
@@ -1642,7 +1646,8 @@
         "party"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-67a0ed65d752",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/265a7757-6544-41a8-8a7b-4dd7c7e5d220.webp"
     },
     {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
@@ -1964,7 +1969,8 @@
         "сагсан бөмбөг"
       ],
       "url": "https://www.easl.basketball/schedule-results",
-      "sourceName": "EASL"
+      "sourceName": "EASL",
+      "image": "https://cdn.prod.website-files.com/6723f2fa413489558b8ca27a/67294073da63d511c53f11bf_62dbd2c024754a1a9be6a7b4c45ff7f9_Share.webp"
     }
   ]
 }
