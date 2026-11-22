@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T06:53:39+08:00",
+  "updatedAt": "2026-11-23T07:17:12+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -128,6 +128,10 @@
     {
       "name": "bilet.mn",
       "url": "https://bilet.mn"
+    },
+    {
+      "name": "EASL",
+      "url": "https://www.easl.basketball"
     }
   ],
   "events": [
@@ -229,6 +233,28 @@
       "url": "https://www.ticket.mn/event/2607",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/images/ticket_1_QABYOLS_nBG9Bjm_AJKEwtx_28YUSQj.webp"
+    },
+    {
+      "id": "mnb-2026-11-10-munkh-tengeriin-bichig-2026",
+      "title": "«Мөнх тэнгэрийн бичиг-2026» үзэсгэлэн",
+      "titleMn": "«Мөнх тэнгэрийн бичиг-2026» үзэсгэлэн",
+      "titleEn": "Eternal Sky Script 2026: Mongolian calligraphy exhibition",
+      "start": "2026-11-10",
+      "end": "2026-11-29",
+      "allDay": true,
+      "location": "Хүүхдийн урлан бүтээх төв, «ОРД» арт галерей",
+      "locationEn": "ORD Art Gallery, Mongolian Children's Creativity Centre",
+      "description": "An international Mongolian calligraphy exhibition held on the President's initiative, with more than 200 works from Mongolia, Buryatia, Kalmykia, Inner Mongolia and the Czech Republic. On until 29 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "calligraphy",
+        "Mongolian script",
+        "монгол бичиг",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.mnb.mn/article/munkh-tengeriin-bichig-2026-uzesgelengiin-shildeg-buteeliin-ezed-todorchee-6851",
+      "sourceName": "MNB"
     },
     {
       "id": "unuudur-2026-11-16-first-women-studied-germany-france",
@@ -578,6 +604,28 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T112535.726.png"
     },
     {
+      "id": "ubcomedy-2026-11-25-ladies-night",
+      "title": "Ladies Night",
+      "titleEn": "Ladies Night",
+      "start": "2026-11-25T20:00",
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "sourceName": "UB Comedy Club",
+      "allDay": false,
+      "description": "Stand-up comedy with Bolor, Ochiroo, Bataa, Tseegii, Bayaraa, Ensi and Beegii. Ages 18+.",
+      "url": "https://www.ubcomedy.mn/shows/6b0321fa7be6bb4ff6816b98",
+      "lat": 47.914007,
+      "lng": 106.908807
+    },
+    {
       "id": "bilet-2026-11-25-nasaa-ganbold-urgeljlel",
       "title": "Nasaa Ganbold: \"Үргэлжлэл\"",
       "titleEn": "Nasaa Ganbold: \"Continuity\"",
@@ -782,6 +830,29 @@
       "url": "https://bilet.mn/e/ext-portal-mn-9a2c4b32935c",
       "sourceName": "bilet.mn",
       "image": "https://cdn.portal.mn/uploads/f65864f2-eede-4142-8314-6023be436295.webp"
+    },
+    {
+      "id": "ubcomedy-2026-11-26-uls-tunkhaglasan-inieed",
+      "title": "Улс Тунхагласан Инээд",
+      "titleMn": "Улс Тунхагласан Инээд",
+      "titleEn": "Republic Day Laughs",
+      "start": "2026-11-26T20:00",
+      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
+      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
+      "cost": "33,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "comedy",
+        "stand-up",
+        "18+",
+        "инээдмийн шоу"
+      ],
+      "sourceName": "UB Comedy Club",
+      "allDay": false,
+      "description": "A Republic Day stand-up show with Mandakh, Ochiroo, Ensi, Bayaraa, Zori, Bataa and Beegii. Ages 18+.",
+      "url": "https://www.ubcomedy.mn/shows/6b0322657be6bb4ff6816ba5",
+      "lat": 47.914007,
+      "lng": 106.908807
     },
     {
       "id": "bilet-2026-11-26-conservatory-jazz-big-band",
@@ -1221,6 +1292,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-18.png"
     },
     {
+      "id": "bilet-2026-12-01-jordis-band-fat-cat",
+      "title": "Live Jazz: Jordi's Band",
+      "titleEn": "Live Jazz: Jordi's Band",
+      "start": "2026-12-01T21:00",
+      "allDay": false,
+      "location": "Fat Cat Jazz Club",
+      "locationEn": "Fat Cat Jazz Club",
+      "description": "An international quintet (Roviró, Ormegard, Burtsev, Golob, Zeimetz) on an Asian tour plays at Fat Cat; the band is also running a week of workshops at the Mongolian State Conservatory. Bilet.mn also lists nights on 2 to 5 December. Ages 18+ (16–17 with a parent).",
+      "cost": "from 45,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "jazz",
+        "live music",
+        "жазз"
+      ],
+      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-0c3ff5bd7380",
+      "sourceName": "bilet.mn",
+      "lat": 47.915201,
+      "lng": 106.917441
+    },
+    {
       "id": "ticketmn-2026-12-02-vienna-gala-concert",
       "title": "ВЕНИЙН ГАЛА КОНЦЕРТ Австрийн Хатан Хаан Сиссигийн Ордны Чуулга",
       "titleMn": "Вений гала концерт: Австрийн Хатан хаан Сиссигийн ордны чуулга",
@@ -1533,6 +1625,26 @@
       "image": "https://cdnp.cody.mn/spree/images/3825063/product/Red_White_Bold_Minimalist_Concert_Tour_Schedule_Instagram_Post.jpg?1794893245"
     },
     {
+      "id": "bilet-2026-12-11-room-11-pink-concrete",
+      "title": "ROOM 11 1st Anniversary: Pink Concrete",
+      "titleEn": "ROOM 11 1st Anniversary: Pink Concrete",
+      "start": "2026-12-11T22:00",
+      "allDay": false,
+      "location": "ROOM 11",
+      "locationEn": "ROOM 11",
+      "description": "The club's first-anniversary night, with a guest set by Prague-based DJ Pink Concrete.",
+      "cost": "from 49,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "club",
+        "DJ",
+        "electronic",
+        "party"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-67a0ed65d752",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ticketmn-2026-12-12-tsumuukhei-ballet",
       "title": "П.И.Чайковский \"Цөмөөхэй\" балет",
       "titleMn": "\"Цөмөөхэй\" балет",
@@ -1835,6 +1947,24 @@
       ],
       "url": "https://www.worldcubeassociation.org/competitions/MongolianJuniorsCup2026",
       "sourceName": "World Cube Association"
+    },
+    {
+      "id": "easl-2026-12-23-south-gobi-broncos-alvark-tokyo",
+      "title": "EASL: South Gobi Broncos vs Alvark Tokyo",
+      "titleEn": "EASL: South Gobi Broncos vs Alvark Tokyo",
+      "start": "2026-12-23T19:10",
+      "allDay": false,
+      "location": "MBank arena, Ulaanbaatar",
+      "locationEn": "M Bank Arena",
+      "description": "An East Asia Super League group A game between Mongolia's South Gobi Broncos and Japan's Alvark Tokyo.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "EASL",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://www.easl.basketball/schedule-results",
+      "sourceName": "EASL"
     }
   ]
 }
