@@ -422,7 +422,8 @@
       "url": "https://ikon.mn/n/3rv8",
       "sourceName": "iKon.mn",
       "lat": 47.920172,
-      "lng": 106.90967
+      "lng": 106.90967,
+      "image": "https://content.ikon.mn/news/2026/11/23/hlvjwl_MPA45060_x974.jpg"
     },
     {
       "id": "mnb-2026-11-23-ilkhanate-persian-art",
@@ -446,7 +447,8 @@
       "url": "https://www.mnb.mn/article/mongolchuudyn-ertunts-il-khaant-uls-ba-persiin-urlag-olon-ulsyn-tusgai-uzesgeleng-neev-1250",
       "sourceName": "MNB",
       "lat": 47.922685,
-      "lng": 106.914879
+      "lng": 106.914879,
+      "image": "https://assets.mnb.mn/media/2026/11/cbb300a95654-926215610-3554261371428300-3295994879767246106-n.full.webp"
     },
     {
       "id": "eventx-2026-11-24-samandyn-khuu",
@@ -718,7 +720,8 @@
         "үзэсгэлэн"
       ],
       "url": "https://montsame.mn/mn/article/l5e6ZXxwZ9bZPTpk6h79W",
-      "sourceName": "MONTSAME"
+      "sourceName": "MONTSAME",
+      "image": "https://montsame.mn/mn/share-image?v=2&src=https%3A%2F%2Fmontsame.next.erxes.io%2Fgateway%2Fread-file%3Fkey%3Derxes-saas%252F4M3PCMKK2eFUG2TI3W7Msfe6d9e30-5ad6-432e-811e-7bce4f4625cb.jpg&src=https%3A%2F%2Fscontent.fuln10-1.fna.fbcdn.net%2Fv%2Ft39.99422-6%2F914250738_2488582691545471_5288945501277520095_n.png%3Fstp%3Ddst-jpg_tt6%26cstp%3Dmx2906x1071%26ctp%3Ds2906x1071%26_nc_cat%3D101%26_nc_map%3Durlgen_bucketless%26ccb%3D1-7%26_nc_sid%3Dcc71e4%26_nc_ohc%3DfJCtARRvoWIQ7kNvwG1Q7Ih%26_nc_oc%3DAdqyL9V3AOR3BaO7TzLR_zA8sxtSKFITfajcr5I7tZxXgmpDUC9zjBC2LScgOXWB_mE%26_nc_zt%3D14%26_nc_ht%3Dscontent.fuln10-1.fna%26_nc_gid%3D56fgKb7NwVIKS66HYG6vYg%26_nc_ss%3D7b2a8%26oh%3D00_AQQ7sYpPDKddS6RXRPIPyBSmH399KjxUY-56rg2ZXcUlNg%26oe%3D6B095A41"
     },
     {
       "id": "ticketmn-2026-11-26-duut-urguu-ger-concert",
@@ -857,7 +860,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001189",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001189/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "ticketmn-2026-11-26-republic-day-wrestling",
@@ -1676,7 +1680,8 @@
       "url": "https://bilet.mn/e/ext-ticket-mn-c9bd453d7f91",
       "sourceName": "bilet.mn",
       "lat": 47.926224,
-      "lng": 106.935273
+      "lng": 106.935273,
+      "image": "https://ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-29.png"
     },
     {
       "id": "mba-2026-12-10-the-league-games",
@@ -2086,7 +2091,8 @@
         "спорт"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-1052536ff081",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/9e0943da-6419-443a-86c3-73bb60de7d3c.webp"
     },
     {
       "id": "easl-2026-12-23-south-gobi-broncos-alvark-tokyo",
