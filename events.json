@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T06:53:55+08:00",
+  "updatedAt": "2026-11-24T07:13:53+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -132,6 +132,10 @@
     {
       "name": "EASL",
       "url": "https://www.easl.basketball"
+    },
+    {
+      "name": "Resident Advisor",
+      "url": "https://ra.co"
     }
   ],
   "events": [
@@ -398,6 +402,53 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/11/j75as8_3K5A6270_x974.jpg"
     },
     {
+      "id": "ikon-2026-11-22-gamma-30-photo-exhibition",
+      "title": "«Гамма 30» гэрэл зургийн үзэсгэлэн",
+      "titleMn": "«Гамма 30» гэрэл зургийн үзэсгэлэн",
+      "titleEn": "Gamma 30 photo exhibition",
+      "start": "2026-11-22",
+      "end": "2026-11-30",
+      "allDay": true,
+      "location": "Занабазарын нэрэмжит Дүрслэх урлагийн музей, 1 давхар",
+      "locationEn": "Zanabazar Museum of Fine Arts, 1st floor",
+      "description": "More than 200 photographs marking 30 years of the Gamma photo agency and the three decades of Mongolian life it recorded. On until 30 November.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "photography",
+        "museum",
+        "гэрэл зураг"
+      ],
+      "url": "https://ikon.mn/n/3rv8",
+      "sourceName": "iKon.mn",
+      "lat": 47.920172,
+      "lng": 106.90967
+    },
+    {
+      "id": "mnb-2026-11-23-ilkhanate-persian-art",
+      "title": "Монголчуудын ертөнц: Ил хаант улс ба Персийн урлаг",
+      "titleMn": "Монголчуудын ертөнц: Ил хаант улс ба Персийн урлаг",
+      "titleEn": "The World of the Mongols: The Ilkhanate and Persian Art",
+      "start": "2026-11-23",
+      "end": "2026-12-20",
+      "allDay": true,
+      "location": "Чингис хаан үндэсний музей, 6 давхар",
+      "locationEn": "Chinggis Khaan National Museum, 6th floor",
+      "description": "An international special exhibition of 13 Ilkhanate-era objects lent by the Museum of Oriental Art in Turin, showing how art, sculpture, ceramics and architecture developed under the Mongol khans. On until 20 December.",
+      "cost": "20,000₮",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "history",
+        "museum",
+        "үзэсгэлэн"
+      ],
+      "url": "https://www.mnb.mn/article/mongolchuudyn-ertunts-il-khaant-uls-ba-persiin-urlag-olon-ulsyn-tusgai-uzesgeleng-neev-1250",
+      "sourceName": "MNB",
+      "lat": 47.922685,
+      "lng": 106.914879
+    },
+    {
       "id": "eventx-2026-11-24-samandyn-khuu",
       "title": "Самандын Хүү",
       "titleMn": "Самандын хүү",
@@ -650,6 +701,26 @@
       "sourceName": "FIBA"
     },
     {
+      "id": "montsame-2026-11-26-tusgaar-togtnol-exhibition-opening",
+      "title": "«Тусгаар тогтнол» дүрслэх урлагийн үзэсгэлэнгийн нээлт",
+      "titleMn": "«Тусгаар тогтнол» дүрслэх урлагийн үзэсгэлэнгийн нээлт",
+      "titleEn": "\"Independence\" fine arts exhibition opening",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "МУЭ-ийн арт галерей",
+      "locationEn": "Union of Mongolian Artists Art Gallery",
+      "description": "Opening of the \"Independence\" fine arts exhibition, held under the patronage of the President of Mongolia, on Republic Day.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "art",
+        "opening",
+        "үзэсгэлэн"
+      ],
+      "url": "https://montsame.mn/mn/article/l5e6ZXxwZ9bZPTpk6h79W",
+      "sourceName": "MONTSAME"
+    },
+    {
       "id": "ticketmn-2026-11-26-duut-urguu-ger-concert",
       "title": "\"Дуут Өргөө\" гэр тоглолт",
       "titleMn": "\"Дуут өргөө\" гэр тоглолт",
@@ -765,6 +836,28 @@
       "lat": 47.914621,
       "lng": 106.914258,
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_1.png"
+    },
+    {
+      "id": "urgoo-2026-11-26-khaadyn-tamga-khubilai-khaan",
+      "title": "Хаадын Тамга: Хубилай Хаан",
+      "titleMn": "Хаадын Тамга: Хубилай Хаан",
+      "titleEn": "Seal of the Khans: Kublai Khan",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Historical adventure and war film (1 h 35 min): Kublai Khan changes the fate of millions amid civil war, conflict within the empire and the campaign against Japan. In cinemas from 26 November.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "history",
+        "кино",
+        "түүхэн кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001189",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "ticketmn-2026-11-26-republic-day-wrestling",
@@ -973,6 +1066,27 @@
       "cost": "50,000–70,000₮"
     },
     {
+      "id": "ra-2026-11-27-loss-pres-01-shengchou",
+      "title": "Loss pres.01 Shengchou",
+      "titleEn": "Loss pres.01 Shengchou",
+      "start": "2026-11-27T23:00",
+      "end": "2026-11-28T04:00",
+      "allDay": false,
+      "location": "Dunzengarav, Exquisite Center 3 давхар",
+      "locationEn": "Dunzengarav, 3rd floor, Exquisite Center",
+      "description": "A house night with Beijing DJ Shengchou and Tseelmii. Ages 21+.",
+      "cost": "Free",
+      "category": "Music & Performance",
+      "tags": [
+        "club",
+        "DJ",
+        "house",
+        "party"
+      ],
+      "url": "https://ra.co/events/2574145",
+      "sourceName": "Resident Advisor"
+    },
+    {
       "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
       "title": "TEDxUlaanbaatar Elite Youth",
       "titleMn": "TEDxUlaanbaatar Elite Youth",
@@ -1169,7 +1283,7 @@
       "allDay": false,
       "location": "Revo Garden Restaurant & Bar",
       "locationEn": "Revo Garden Restaurant & Bar",
-      "description": "A New Year party with hit songs from T. Barkhuu, T. Delgermurun, S. Amarmandakh and other singers, a snow-maiden carnival dance and a prize draw. Tickets are by zone (119,000₮, 129,000₮ or 139,000₮) and are non-refundable.",
+      "description": "A New Year party with hit songs from T. Barkhuu, T. Delgermurun, S. Amarmandakh and other singers, a snow-maiden carnival dance and a prize draw. Doors open at 18:00. Tickets are by zone (119,000₮, 129,000₮ or 139,000₮, each with wine) and are non-refundable. Ages 21+.",
       "cost": "from 119,000₮",
       "category": "Music & Performance",
       "tags": [
@@ -1178,9 +1292,10 @@
         "concert",
         "шинэ жил"
       ],
-      "url": "https://bilet.mn/e/ext-ticket-mn-e569c3a90a6a",
+      "url": "https://bilet.mn/e/ext-ticket-mn-f0ebf37818dc",
       "sourceName": "bilet.mn",
-      "image": "https://ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6708287058811505671_1200_630.png"
+      "image": "https://ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6708287058811505671_1200_630.png",
+      "end": "2026-11-28T23:30"
     },
     {
       "id": "bilet-2026-11-28-dabi-comedy-show",
@@ -1540,6 +1655,28 @@
       ],
       "url": "https://mongolia.basketball/mn/competitions/league/schedule?month=2026-12",
       "sourceName": "Mongolian Basketball Association"
+    },
+    {
+      "id": "bilet-2026-12-09-khulangiin-udesh",
+      "title": "«Хулангийн үдэш» яруу найргийн цэнгүүн",
+      "titleMn": "«Хулангийн үдэш» яруу найргийн цэнгүүн",
+      "titleEn": "Khulangiin Udesh poetry evening",
+      "start": "2026-12-09T18:30",
+      "allDay": false,
+      "location": "РЦНК",
+      "locationEn": "Russian Centre for Science and Culture",
+      "description": "The fourth staging of this poetry show, held with the Russian Centre to mark 105 years of diplomatic relations between Mongolia and Russia.",
+      "cost": "from 30,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "poetry",
+        "show",
+        "яруу найраг"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-c9bd453d7f91",
+      "sourceName": "bilet.mn",
+      "lat": 47.926224,
+      "lng": 106.935273
     },
     {
       "id": "mba-2026-12-10-the-league-games",
@@ -1930,6 +2067,26 @@
       ],
       "url": "https://www.worldcubeassociation.org/competitions/MongolianJuniorsCup2026",
       "sourceName": "World Cube Association"
+    },
+    {
+      "id": "bilet-2026-12-19-t31-christmas-hyrox-simulation",
+      "title": "T31 Christmas Hyrox Simulation",
+      "titleEn": "T31 Christmas Hyrox Simulation",
+      "start": "2026-12-19T09:00",
+      "allDay": false,
+      "location": "Misheel Construction Mega mall",
+      "locationEn": "Misheel Construction Mega Mall",
+      "description": "A Christmas Hyrox-style fitness race you enter: eight 1 km runs, each followed by a station (SkiErg, sled push and pull, burpee broad jumps, rowing, farmer's carry, sandbag lunges and 100 wall balls). A half version with 4 km of running is also offered.",
+      "cost": "from 250,000₮",
+      "category": "Sports",
+      "tags": [
+        "fitness",
+        "hyrox",
+        "race",
+        "спорт"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-1052536ff081",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "easl-2026-12-23-south-gobi-broncos-alvark-tokyo",
