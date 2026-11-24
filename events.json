@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T06:54:02+08:00",
+  "updatedAt": "2026-11-25T07:12:36+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -495,30 +495,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-16.png"
     },
     {
-      "id": "urgoo-2026-11-25-hexed",
-      "title": "Hexed",
-      "titleMn": "Hexed",
-      "titleEn": "Hexed",
-      "start": "2026-11-25",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Animated family adventure (PG): a teenager discovers magic powers and is pulled into Hexe, a realm of witches, together with her cautious mother.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "animation",
-        "family",
-        "кино",
-        "хүүхэлдэйн кино"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001167",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
       "id": "bilet-2026-11-25-dotor-khuree-tumen-ekh",
       "title": "Dotor Khuree Live at Tumen Ekh Urgoo",
       "titleMn": "Дотор Хүрээ: Түмэн эх өргөөнд",
@@ -771,6 +747,30 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_1.png"
     },
     {
+      "id": "urgoo-2026-11-25-hexed",
+      "title": "Hexed",
+      "titleMn": "Hexed",
+      "titleEn": "Hexed",
+      "start": "2026-11-26",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Animated family adventure (PG): a teenager discovers magic powers and is pulled into Hexe, a realm of witches, together with her cautious mother.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "кино",
+        "хүүхэлдэйн кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001167",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001947/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
       "id": "urgoo-2026-11-26-khaadyn-tamga-khubilai-khaan",
       "title": "Хаадын Тамга: Хубилай Хаан",
       "titleMn": "Хаадын Тамга: Хубилай Хаан",
@@ -972,6 +972,27 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "bilet-2026-11-27-noise-metal-fest-2026",
+      "title": "NOISE METAL FEST 2026 – XII Edition",
+      "titleEn": "Noise Metal Fest 2026 (12th edition)",
+      "start": "2026-11-27T18:00",
+      "end": "2026-11-28",
+      "allDay": false,
+      "location": "Улаанбаатар зочид буудал, Grand Venue танхим",
+      "locationEn": "Ulaanbaatar Hotel, Grand Venue hall",
+      "description": "The 12th annual underground metal festival, over two days, with Vomitory (Sweden), Traumatomy (Russia), Loss of Infection (South Korea) and 18 Mongolian bands including Aravt, Growl of Clown, Xanshyr and Die in Despair. It also launches Wacken Metal Battle Mongolia 2027. The organisers say full programme and venue details are still to come.",
+      "cost": "from 200,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "metal",
+        "festival",
+        "live music",
+        "рок"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-d6a40ed6037b",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
@@ -1183,6 +1204,26 @@
       "url": "https://bilet.mn/e/ext-ticket-mn-bad0f608fdb3",
       "sourceName": "bilet.mn",
       "image": "https://ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6678710183855102610_DU-ba-Khariltsaa-1200x630.png"
+    },
+    {
+      "id": "bilet-2026-11-28-erdene-duuregch-van",
+      "title": "«Эрдэнэ дүүрэгч ван» дуулалт жүжиг",
+      "titleMn": "«Эрдэнэ дүүрэгч ван» дуулалт жүжиг",
+      "titleEn": "Erdene Duuregch Van: a sung drama",
+      "start": "2026-11-28T18:00",
+      "allDay": false,
+      "location": "Монгол Улсын Хүүхэлдэйн Театр",
+      "locationEn": "Mongolian State Puppet Theatre",
+      "description": "A sung drama in two acts about Khotgoid Erdene Düüregch Van, deputy minister of the army in the Bogd Khan era, adapted by S. Dashnyam from O. Elbegtögs' award-winning novel.",
+      "cost": "from 30,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "history",
+        "жүжиг"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-cd7cbbe6c3e6",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "bilet-2026-11-28-sound-meditation",
@@ -1614,6 +1655,28 @@
       "image": "https://ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-29.png"
     },
     {
+      "id": "bilet-2026-12-09-advertisers-night-2026",
+      "title": "Advertiser's Night 2026",
+      "titleEn": "Advertiser's Night 2026",
+      "start": "2026-12-09T19:30",
+      "allDay": false,
+      "location": "Тэнгис кино театр",
+      "locationEn": "Tengis Cinema",
+      "description": "The sixth yearly non-profit screening of award-winning advertising from The One Show, CLIO, D&AD, ADC and other awards, with a talk about the thinking behind the work. Organised by Adstation and Project magazine. Tickets are non-refundable.",
+      "cost": "from 20,000₮",
+      "category": "Film",
+      "tags": [
+        "advertising",
+        "creative",
+        "screening",
+        "кино"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-dd90a594261e",
+      "sourceName": "bilet.mn",
+      "lat": 47.922806,
+      "lng": 106.90449
+    },
+    {
       "id": "mba-2026-12-10-the-league-games",
       "title": "The League: сагсан бөмбөгийн тоглолтууд (12/10)",
       "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
@@ -2042,6 +2105,27 @@
       "url": "https://www.easl.basketball/schedule-results",
       "sourceName": "EASL",
       "image": "https://cdn.prod.website-files.com/6723f2fa413489558b8ca27a/67294073da63d511c53f11bf_62dbd2c024754a1a9be6a7b4c45ff7f9_Share.webp"
+    },
+    {
+      "id": "urgoo-2026-12-25-jumanji-open-world",
+      "title": "Jumanji: Open World",
+      "titleEn": "Jumanji: Open World",
+      "start": "2026-12-25",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Comedy fantasy adventure (PG), the next Jumanji film. In cinemas from 25 December.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "comedy",
+        "adventure",
+        "кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001169",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     }
   ]
 }
