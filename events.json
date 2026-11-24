@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:13:53+08:00",
+  "updatedAt": "2026-11-25T06:54:02+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -449,76 +449,6 @@
       "lat": 47.922685,
       "lng": 106.914879,
       "image": "https://assets.mnb.mn/media/2026/11/cbb300a95654-926215610-3554261371428300-3295994879767246106-n.full.webp"
-    },
-    {
-      "id": "eventx-2026-11-24-samandyn-khuu",
-      "title": "Самандын Хүү",
-      "titleMn": "Самандын хүү",
-      "titleEn": "Son of Samand: S. Javkhlan concert",
-      "start": "2026-11-24T19:00",
-      "end": "2026-11-24T23:00",
-      "allDay": false,
-      "location": "Бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "Concert by People's Artist S. Javkhlan with well-loved Mongolian songs about the homeland, mothers and fathers, and family memories.",
-      "cost": "66,000₮; FanZone 99,000₮; VIP 250,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "Javkhlan",
-        "тоглолт",
-        "Жавхлан"
-      ],
-      "url": "https://www.eventx.mn/event/1909",
-      "sourceName": "EventX",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_072a5a6551.jpg"
-    },
-    {
-      "id": "ubcomedy-2026-11-24-manai-khun",
-      "title": "Манай Хүн",
-      "titleMn": "Манай Хүн",
-      "titleEn": "Our Guy",
-      "start": "2026-11-24T20:00",
-      "allDay": false,
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "description": "Stand-up comedy with Beegii, Zori, Tseegii, Ensi, Ochiroo and Sender. Ages 18+.",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "url": "https://www.ubcomedy.mn/shows/6afd16a87be6bb4ff67fb72e",
-      "sourceName": "UB Comedy Club",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1794971304755_cover_11.24%20cover.png"
-    },
-    {
-      "id": "bilet-2026-11-24-nathaniel-gates-south-african-jazz",
-      "title": "Nathaniel Gates Presents South African Jazz",
-      "titleEn": "Nathaniel Gates Presents South African Jazz",
-      "start": "2026-11-24T21:00",
-      "allDay": false,
-      "location": "Fat Cat Jazz Club",
-      "locationEn": "Fat Cat Jazz Club",
-      "description": "Trombonist Nathaniel Gates and his quartet trace South African jazz from its pioneers to modern composers. Second night of two. Ages 18+ (16–17 with a parent).",
-      "cost": "from 40,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "jazz",
-        "live music"
-      ],
-      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-911727819e3c",
-      "sourceName": "bilet.mn",
-      "lat": 47.915201,
-      "lng": 106.917441,
-      "image": "https://api.fatcatjazzclub.com/images/cyr2ppvucqtn1gmpoi9iw1liuk2rystro3ig.png"
     },
     {
       "id": "eventx-2026-11-25-samandyn-khuu",
