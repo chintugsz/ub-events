@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:12:36+08:00",
+  "updatedAt": "2026-11-26T06:54:07+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -194,29 +194,6 @@
       "image": "https://d12slmbmp0aiwz.cloudfront.net/1600x900_9bf87aab1b.jpg"
     },
     {
-      "id": "montsame-2026-11-02-ene-ter-joint-exhibition",
-      "title": "\"Энэ тэр\" хамтарсан үзэсгэлэн",
-      "titleMn": "Энэ тэр",
-      "titleEn": "\"This and That\" joint exhibition",
-      "start": "2026-11-02",
-      "end": "2026-11-25",
-      "allDay": true,
-      "location": "ССАЖЗЯ-ны үзэсгэлэнгийн танхим",
-      "locationEn": "Exhibition hall of the Ministry of Culture, Sports, Tourism and Youth",
-      "description": "A joint exhibition by eight young artists, organised by the Young Artists' Association of the Union of Mongolian Artists. Open until 25 November.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "young artists",
-        "painting",
-        "үзэсгэлэн",
-        "залуу уран бүтээлчид"
-      ],
-      "url": "https://montsame.mn/mn/read/414879",
-      "sourceName": "MONTSAME",
-      "image": "https://montsame.mn/files/medium/6aed9c81e9f03.jpeg"
-    },
-    {
       "id": "ticketmn-2026-11-04-nomadic-legend",
       "title": "\"NOMADIC LEGEND\" Ардын Урлаг, Өв Соёлын тоглолт",
       "titleMn": "Nomadic Legend ардын урлаг, өв соёлын тоглолт",
@@ -378,30 +355,6 @@
       "image": "https://urlag.mn/wp-content/uploads/2026/11/904513062_1809668310728329_7880157700523062726_n.jpg"
     },
     {
-      "id": "urlag-2026-11-21-narangerel-zam-2",
-      "title": "Ц.Нарангэрэл: «Зам-2»",
-      "titleMn": "Ц.Нарангэрэлийн «Зам-2» үзэсгэлэн",
-      "titleEn": "Narangerel: Road 2",
-      "start": "2026-11-21",
-      "end": "2026-11-25",
-      "allDay": true,
-      "location": "«Хаан» галерей",
-      "locationEn": "Khaan Gallery",
-      "description": "Landscape paintings by Ts. Narangerel that try to capture the character and mood of open nature. On until 25 November.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "painting",
-        "landscape",
-        "үзэсгэлэн"
-      ],
-      "url": "https://urlag.mn/post/162637",
-      "sourceName": "Urlag.mn",
-      "lat": 47.903719,
-      "lng": 106.911959,
-      "image": "https://urlag.mn/wp-content/uploads/2026/11/j75as8_3K5A6270_x974.jpg"
-    },
-    {
       "id": "ikon-2026-11-22-gamma-30-photo-exhibition",
       "title": "«Гамма 30» гэрэл зургийн үзэсгэлэн",
       "titleMn": "«Гамма 30» гэрэл зургийн үзэсгэлэн",
@@ -449,143 +402,6 @@
       "lat": 47.922685,
       "lng": 106.914879,
       "image": "https://assets.mnb.mn/media/2026/11/cbb300a95654-926215610-3554261371428300-3295994879767246106-n.full.webp"
-    },
-    {
-      "id": "eventx-2026-11-25-samandyn-khuu",
-      "title": "Самандын Хүү (11.25)",
-      "titleMn": "Самандын хүү",
-      "titleEn": "Son of Samand (25 Nov)",
-      "start": "2026-11-25",
-      "allDay": true,
-      "location": "Бөхийн өргөө",
-      "locationEn": "Mongolian Wrestling Palace",
-      "description": "A second date of the \"Samandyn Khuu\" concert at the Wrestling Palace, listed by EventX for 25 November. The first date is 24 November.",
-      "cost": "66,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "Javkhlan",
-        "тоглолт",
-        "Жавхлан"
-      ],
-      "url": "https://www.eventx.mn/event/1912",
-      "sourceName": "EventX",
-      "lat": 47.917851,
-      "lng": 106.935278,
-      "image": "https://d12slmbmp0aiwz.cloudfront.net/eventx_poster_inside_copy_25_4448807bfb.jpg"
-    },
-    {
-      "id": "ticketmn-2026-11-25-tengeriin-elch-opera",
-      "title": "\"ТЭНГЭРИЙН ЭЛЧ\" Дуурь",
-      "titleMn": "\"Тэнгэрийн элч\" дуурь",
-      "titleEn": "Messenger of Heaven (opera)",
-      "start": "2026-11-25",
-      "allDay": true,
-      "location": "Улаанбаатар театр",
-      "locationEn": "Ulaanbaatar Theatre",
-      "description": "A national classical opera about Boorchu, one of Chinggis Khaan's nine companions. Music by A. Enkhtaivan, directed by S. Battulga.",
-      "category": "Music & Performance",
-      "tags": [
-        "opera",
-        "classical",
-        "дуурь"
-      ],
-      "url": "https://www.ticket.mn/event/3349",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-16.png"
-    },
-    {
-      "id": "bilet-2026-11-25-dotor-khuree-tumen-ekh",
-      "title": "Dotor Khuree Live at Tumen Ekh Urgoo",
-      "titleMn": "Дотор Хүрээ: Түмэн эх өргөөнд",
-      "titleEn": "Dotor Khuree live at Tumen Ekh",
-      "start": "2026-11-25T19:00",
-      "allDay": false,
-      "location": "Tumen Ekh Urgoo",
-      "locationEn": "Tumen Ekh Hall",
-      "description": "A concert by Dotor Khuree, an indie-folk and avant-pop band formed in 2023 that blends traditional Mongolian tones with modern rhythms.",
-      "cost": "from 79,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "indie",
-        "folk",
-        "band",
-        "тоглолт"
-      ],
-      "url": "https://bilet.mn/e/ext-portal-mn-91972614cc98",
-      "sourceName": "bilet.mn",
-      "image": "https://cdn.portal.mn/uploads/811665f6-b80e-49e8-b94a-5bc911877098.webp"
-    },
-    {
-      "id": "ticketmn-2026-11-25-bukhiin-gergii",
-      "title": "\"Бөхийн гэргий\" Solo concert",
-      "titleMn": "\"Бөхийн гэргий\" бие даасан тоглолт",
-      "titleEn": "\"The Wrestler's Wife\" solo concert",
-      "start": "2026-11-25T19:00",
-      "allDay": false,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Central Cultural Palace",
-      "description": "Singer M. Yanjindari's first solo concert, named after her song \"Bökhiin gergii\".",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "singer",
-        "концерт",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3325",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-11-02T112535.726.png"
-    },
-    {
-      "id": "ubcomedy-2026-11-25-ladies-night",
-      "title": "Ladies Night",
-      "titleEn": "Ladies Night",
-      "start": "2026-11-25T20:00",
-      "location": "UB Comedy Club, САНТ АСАР төвийн 2 давхар, Сөүлийн гудамж",
-      "locationEn": "UB Comedy Club, 2nd floor of Sant Asar Center, Seoul Street",
-      "cost": "33,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "comedy",
-        "stand-up",
-        "18+",
-        "инээдмийн шоу"
-      ],
-      "sourceName": "UB Comedy Club",
-      "allDay": false,
-      "description": "Stand-up comedy with Bolor, Ochiroo, Bataa, Tseegii, Bayaraa, Ensi and Beegii. Ages 18+.",
-      "url": "https://www.ubcomedy.mn/shows/6b0321fa7be6bb4ff6816b98",
-      "lat": 47.914007,
-      "lng": 106.908807,
-      "image": "https://api.ubcomedy.mn/uploads/1795367418220_cover_11.25%20cover.png"
-    },
-    {
-      "id": "bilet-2026-11-25-nasaa-ganbold-urgeljlel",
-      "title": "Nasaa Ganbold: \"Үргэлжлэл\"",
-      "titleEn": "Nasaa Ganbold: \"Continuity\"",
-      "start": "2026-11-25T21:00",
-      "allDay": false,
-      "location": "Fat Cat Jazz Club",
-      "locationEn": "Fat Cat Jazz Club",
-      "description": "Throat singer and multi-instrumentalist Nasaa Ganbold performs \"Continuity\", traditional music and his own pieces honouring his late father. Ages 18+ (16–17 with a parent).",
-      "cost": "from 60,000₮",
-      "category": "Music & Performance",
-      "tags": [
-        "throat singing",
-        "traditional",
-        "live music",
-        "хөөмий"
-      ],
-      "url": "https://bilet.mn/e/ext-fatcatjazzclub-com-aef29fc14000",
-      "sourceName": "bilet.mn",
-      "titleMn": "Г.Насанжаргал \"Үргэлжлэл\"",
-      "lat": 47.915201,
-      "lng": 106.917441,
-      "image": "https://api.fatcatjazzclub.com/images/71ol0936hi8ghwdxbsls6xq3uat109f6sqyj.jpeg"
     },
     {
       "id": "fiba-2026-11-26-asia-cup-pre-qualifiers",
