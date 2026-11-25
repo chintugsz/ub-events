@@ -654,7 +654,8 @@
         "волейбол"
       ],
       "url": "https://talon.mn/event-groups/mongolian-national-volleyball-league",
-      "sourceName": "talon.mn"
+      "sourceName": "talon.mn",
+      "image": "https://talon-bucket-s3.s3.ap-southeast-1.amazonaws.com/event-groups/e8171fdd-71d9-419f-a873-c7030551cba9/1b180502-c969-48d8-b16e-617cb585baa3.webp"
     },
     {
       "id": "bilet-2026-11-26-xap-maf-live-show",
@@ -1153,7 +1154,8 @@
         "дуурь"
       ],
       "url": "https://www.ticket.mn/event/3363",
-      "sourceName": "Ticket.mn"
+      "sourceName": "Ticket.mn",
+      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-33.png"
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
@@ -1200,7 +1202,8 @@
       "url": "https://www.ticket.mn/event/3364",
       "sourceName": "Ticket.mn",
       "lat": 47.919534,
-      "lng": 106.920049
+      "lng": 106.920049,
+      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-35.png"
     },
     {
       "id": "ticketmn-2026-12-01-goyol-2027",
