@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:54:07+08:00",
+  "updatedAt": "2026-11-26T07:14:38+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -136,6 +136,10 @@
     {
       "name": "Resident Advisor",
       "url": "https://ra.co"
+    },
+    {
+      "name": "talon.mn",
+      "url": "https://talon.mn"
     }
   ],
   "events": [
@@ -633,6 +637,26 @@
       "image": "https://ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-25.png"
     },
     {
+      "id": "talon-2026-11-26-volleyball-national-league",
+      "title": "Волейболын Үндэсний Дээд Лиг 2026/27",
+      "titleMn": "Волейболын Үндэсний Дээд Лиг 2026/27",
+      "titleEn": "National Volleyball League 2026/27",
+      "start": "2026-11-26T14:00",
+      "end": "2026-12-01",
+      "allDay": false,
+      "location": "Спортын төв ордон",
+      "locationEn": "Central Sports Palace",
+      "description": "Six game days of the Mongolian Volleyball Federation's 2026/27 top league: 26 and 27 November at 14:00, 28 and 29 November at 12:00, 30 November and 1 December at 14:00. Tickets on talon.mn.",
+      "category": "Sports",
+      "tags": [
+        "volleyball",
+        "sports",
+        "волейбол"
+      ],
+      "url": "https://talon.mn/event-groups/mongolian-national-volleyball-league",
+      "sourceName": "talon.mn"
+    },
+    {
       "id": "bilet-2026-11-26-xap-maf-live-show",
       "title": "XAP MAF LIVE SHOW",
       "titleEn": "XAP MAF Live Show",
@@ -857,27 +881,6 @@
       ],
       "url": "https://ra.co/events/2574145",
       "sourceName": "Resident Advisor"
-    },
-    {
-      "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
-      "title": "TEDxUlaanbaatar Elite Youth",
-      "titleMn": "TEDxUlaanbaatar Elite Youth",
-      "titleEn": "TEDxUlaanbaatar Elite Youth",
-      "start": "2026-11-28",
-      "allDay": true,
-      "location": "Ulaanbaatar Elite International School, Conference Hall, Сүхбаатар дүүрэг, 2-р хороо, Сөүлийн гудамж",
-      "locationEn": "Ulaanbaatar Elite International School, Conference Hall, Seoul Street, Sukhbaatar District",
-      "description": "An independently organised TEDx event in the youth format, with talks sharing ideas worth spreading. Open to the public.",
-      "category": "Talks & Learning",
-      "tags": [
-        "TEDx",
-        "talks",
-        "youth",
-        "илтгэл",
-        "залуучууд"
-      ],
-      "url": "https://www.ted.com/tedx/events/70234",
-      "sourceName": "TEDx"
     },
     {
       "id": "ticketmn-2026-11-28-khiimori-duudsan-udesh",
@@ -1134,6 +1137,25 @@
       "sourceName": "FIBA"
     },
     {
+      "id": "ticketmn-2026-11-29-uchirtai-gurvan-tolgoi",
+      "title": "«Учиртай гурван толгой» дуурь",
+      "titleMn": "«Учиртай гурван толгой» дуурь",
+      "titleEn": "The Three Fateful Hills (opera)",
+      "start": "2026-11-29",
+      "allDay": true,
+      "location": "Цэргийн дуу бүжгийн эрдмийн чуулга",
+      "locationEn": "Military Song and Dance Academic Ensemble",
+      "description": "B. Damdinsuren's classic opera, staged for the 120th anniversary of D. Natsagdorj's birth with the prize winners of the 8th competition for the best role in this opera and artists of the State Opera and Ballet Theatre.",
+      "category": "Music & Performance",
+      "tags": [
+        "opera",
+        "classical",
+        "дуурь"
+      ],
+      "url": "https://www.ticket.mn/event/3363",
+      "sourceName": "Ticket.mn"
+    },
+    {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
       "title": "Алтан цомын төлөөх барилдаан",
       "titleMn": "Алтан цомын төлөөх барилдаан",
@@ -1157,6 +1179,28 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://news.mn/wp-content/uploads/2025/04/buh.jpg"
+    },
+    {
+      "id": "ticketmn-2026-11-30-khoimor-egshiglen",
+      "title": "«Хоймор эгшиглэн» концерт",
+      "titleMn": "«Хоймор эгшиглэн» концерт",
+      "titleEn": "Khoimor Egshiglen concert",
+      "start": "2026-11-30",
+      "allDay": true,
+      "location": "Улсын филармони",
+      "locationEn": "Mongolian State Philharmonic",
+      "description": "A one-off concert by the J. Jargalsaikhan music ensemble from Khuvsgul's theatre, a first-place winner at the Morin Khuur Naadam, hosted by T. Ser-Od.",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "morin khuur",
+        "traditional music",
+        "морин хуур"
+      ],
+      "url": "https://www.ticket.mn/event/3364",
+      "sourceName": "Ticket.mn",
+      "lat": 47.919534,
+      "lng": 106.920049
     },
     {
       "id": "ticketmn-2026-12-01-goyol-2027",
@@ -1926,6 +1970,25 @@
       "image": "https://cdn.prod.website-files.com/6723f2fa413489558b8ca27a/67294073da63d511c53f11bf_62dbd2c024754a1a9be6a7b4c45ff7f9_Share.webp"
     },
     {
+      "id": "mba-2026-12-24-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/24)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (24 Dec)",
+      "start": "2026-12-24T13:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Mongolian Basketball Federation top-league (2026/27) game day at M Bank Arena, from 13:00. Tickets on talon.mn.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://talon.mn/event-groups/the-league",
+      "sourceName": "talon.mn"
+    },
+    {
       "id": "urgoo-2026-12-25-jumanji-open-world",
       "title": "Jumanji: Open World",
       "titleEn": "Jumanji: Open World",
@@ -1946,6 +2009,46 @@
       "lat": 47.923515,
       "lng": 106.87492,
       "image": "https://new.urgoo.mn/movies/HO00001169/opengraph-image-122a59?9de437aa37addad2"
+    },
+    {
+      "id": "mba-2026-12-25-the-league-games",
+      "title": "The League: сагсан бөмбөгийн тоглолтууд (12/25)",
+      "titleMn": "Сагсан бөмбөгийн Үндэсний дээд лиг",
+      "titleEn": "The League: national basketball games (25 Dec)",
+      "start": "2026-12-25T13:00",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "Mongolian Basketball Federation top-league (2026/27) game day at M Bank Arena, from 13:00. Tickets on talon.mn.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "The League",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://talon.mn/event-groups/the-league",
+      "sourceName": "talon.mn"
+    },
+    {
+      "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
+      "title": "TEDxUlaanbaatar Elite Youth",
+      "titleMn": "TEDxUlaanbaatar Elite Youth",
+      "titleEn": "TEDxUlaanbaatar Elite Youth",
+      "start": "2027-01-23",
+      "allDay": true,
+      "location": "Ulaanbaatar Elite International School, Conference Hall, Сүхбаатар дүүрэг, 2-р хороо, Сөүлийн гудамж",
+      "locationEn": "Ulaanbaatar Elite International School, Conference Hall, Seoul Street, Sukhbaatar District",
+      "description": "An independently organised TEDx event in the youth format, with talks sharing ideas worth spreading. Open to the public.",
+      "category": "Talks & Learning",
+      "tags": [
+        "TEDx",
+        "talks",
+        "youth",
+        "илтгэл",
+        "залуучууд"
+      ],
+      "url": "https://www.ted.com/tedx/events/70234",
+      "sourceName": "TEDx"
     }
   ]
 }
