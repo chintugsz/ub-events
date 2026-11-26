@@ -454,7 +454,8 @@
         "үзэсгэлэн"
       ],
       "url": "https://urlag.mn/post/163980",
-      "sourceName": "Urlag.mn"
+      "sourceName": "Urlag.mn",
+      "image": "https://urlag.mn/wp-content/uploads/2026/11/925178742_1680890790742289_4717094660302723344_n.jpg"
     },
     {
       "id": "talon-2026-11-26-volleyball-national-league",
@@ -953,7 +954,8 @@
         "сагсан бөмбөг"
       ],
       "url": "https://talon.mn/event-groups/mba-cup-2026",
-      "sourceName": "talon.mn"
+      "sourceName": "talon.mn",
+      "image": "https://talon-bucket-s3.s3.ap-southeast-1.amazonaws.com/event-groups/e8171fdd-71d9-419f-a873-c7030551cba9/c208f2e5-b1d9-4324-9bf0-15dfcf1a8603.jpg"
     },
     {
       "id": "ticketmn-2026-12-01-goyol-2027",
@@ -1761,7 +1763,8 @@
       "url": "https://new.urgoo.mn/movies/HO00001166",
       "sourceName": "Urgoo Cinema",
       "lat": 47.923515,
-      "lng": 106.87492
+      "lng": 106.87492,
+      "image": "https://new.urgoo.mn/movies/HO00001166/opengraph-image-122a59?9de437aa37addad2"
     },
     {
       "id": "urgoo-2026-12-25-jumanji-open-world",
