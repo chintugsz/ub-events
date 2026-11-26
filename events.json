@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:53:54+08:00",
+  "updatedAt": "2026-11-27T07:10:21+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -436,6 +436,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/%D0%A2_1.png"
     },
     {
+      "id": "urlag-2026-11-26-khonin-nuga-exhibition",
+      "title": "«Хонин нуга» байгалийн судалбар үзэсгэлэн",
+      "titleMn": "«Хонин нуга» байгалийн судалбар уран бүтээлийн хамтарсан үзэсгэлэн",
+      "titleEn": "Khonin Nuga: nature-study art exhibition",
+      "start": "2026-11-26",
+      "end": "2026-12-03",
+      "allDay": true,
+      "location": "Монголын уран зургийн галерей, 2 давхар",
+      "locationEn": "Mongolian Painting Gallery, 2nd floor",
+      "description": "A group show of nature-study paintings of Mongolia's scenic places by G. Ganbaatar, B. Khongorzul, D. Soyolmaa, B. Munkhtsetseg, B. Badral, M. Bolortuya and J. Bud, supported by the Khan Khentii Strictly Protected Area. On until 3 December.",
+      "category": "Arts & Museums",
+      "tags": [
+        "exhibition",
+        "painting",
+        "nature",
+        "үзэсгэлэн"
+      ],
+      "url": "https://urlag.mn/post/163980",
+      "sourceName": "Urlag.mn"
+    },
+    {
       "id": "talon-2026-11-26-volleyball-national-league",
       "title": "Волейболын Үндэсний Дээд Лиг 2026/27",
       "titleMn": "Волейболын Үндэсний Дээд Лиг 2026/27",
@@ -638,29 +659,6 @@
       "sourceName": "Resident Advisor"
     },
     {
-      "id": "ticketmn-2026-11-28-khiimori-duudsan-udesh",
-      "title": "ХИЙМОРЬ ДУУДСАН ҮДЭШ 2026",
-      "titleMn": "Хийморь дуудсан үдэш 2026",
-      "titleEn": "Evening of Calling Fortune 2026 (wrestling and concert)",
-      "start": "2026-11-28",
-      "allDay": true,
-      "location": "ASA Arena",
-      "locationEn": "ASA Arena",
-      "description": "An entertainment evening combining national wrestling bouts with performances by leading Mongolian artists, plus a draw for one lucky audience member. Tickets are non-refundable.",
-      "category": "Sports",
-      "tags": [
-        "wrestling",
-        "concert",
-        "бөх",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3345",
-      "sourceName": "Ticket.mn",
-      "lat": 47.911971,
-      "lng": 106.907256,
-      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6703520927128818449_1200x630-copy.png"
-    },
-    {
       "id": "ticketmn-2026-11-28-suragch-nas-3",
       "title": "\"СУРАГЧ НАС 3\" Монгол Бүжгийн Хүүхдийн Их Наадам",
       "titleMn": "Сурагч нас 3: Монгол Бүжгийн Хүүхдийн Их Наадам",
@@ -757,28 +755,6 @@
       "lat": 47.917851,
       "lng": 106.935278,
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-23.png"
-    },
-    {
-      "id": "bilet-2026-11-28-dald-ukhamsar-family-relations",
-      "title": "Далд ухамсар ба гэр бүлийн харилцаа",
-      "titleMn": "Далд ухамсар ба гэр бүлийн харилцаа",
-      "titleEn": "The subconscious and family relationships",
-      "start": "2026-11-28T15:00",
-      "allDay": false,
-      "location": "Ancore Event Hall",
-      "locationEn": "Ancore Event Hall",
-      "description": "A talk on family relationships: why we want to understand the people we love yet keep running into the same problems. The course covers six topics on family and couple relationships.",
-      "cost": "from 69,000₮",
-      "category": "Talks & Learning",
-      "tags": [
-        "talk",
-        "relationships",
-        "psychology",
-        "сэтгэл зүй"
-      ],
-      "url": "https://bilet.mn/e/ext-ticket-mn-bad0f608fdb3",
-      "sourceName": "bilet.mn",
-      "image": "https://ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6678710183855102610_DU-ba-Khariltsaa-1200x630.png"
     },
     {
       "id": "bilet-2026-11-28-erdene-duuregch-van",
@@ -958,6 +934,26 @@
       "lat": 47.919534,
       "lng": 106.920049,
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-35.png"
+    },
+    {
+      "id": "talon-2026-11-30-mba-federation-cup",
+      "title": "МСБХ-ны холбооны цом 2026",
+      "titleMn": "МСБХ-ны холбооны цом 2026",
+      "titleEn": "Basketball Federation Cup 2026",
+      "start": "2026-11-30T09:40",
+      "end": "2026-12-01",
+      "allDay": false,
+      "location": "M Bank Arena",
+      "locationEn": "M Bank Arena",
+      "description": "The Mongolian Basketball Federation's annual cup tournament, over two days: 30 November from 09:40 and 1 December from 08:00. Tickets on talon.mn.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "cup",
+        "сагсан бөмбөг"
+      ],
+      "url": "https://talon.mn/event-groups/mba-cup-2026",
+      "sourceName": "talon.mn"
     },
     {
       "id": "ticketmn-2026-12-01-goyol-2027",
@@ -1744,6 +1740,28 @@
       ],
       "url": "https://talon.mn/event-groups/the-league",
       "sourceName": "talon.mn"
+    },
+    {
+      "id": "urgoo-2026-12-25-angry-birds-movie-3",
+      "title": "The Angry Birds Movie 3",
+      "titleEn": "The Angry Birds Movie 3",
+      "start": "2026-12-25",
+      "allDay": true,
+      "location": "Өргөө кино театр",
+      "locationEn": "Urgoo Cinema",
+      "description": "Animated family film (G): Red becomes a father while facing his hardest challenge yet, saving the world. In cinemas from 25 December.",
+      "category": "Film",
+      "tags": [
+        "film",
+        "animation",
+        "family",
+        "кино",
+        "хүүхэлдэйн кино"
+      ],
+      "url": "https://new.urgoo.mn/movies/HO00001166",
+      "sourceName": "Urgoo Cinema",
+      "lat": 47.923515,
+      "lng": 106.87492
     },
     {
       "id": "urgoo-2026-12-25-jumanji-open-world",
