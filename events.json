@@ -615,7 +615,8 @@
         "сэтгэл зүй"
       ],
       "url": "https://bilet.mn/e/ext-ticket-mn-bad0f608fdb3",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6678710183855102610_DU-ba-Khariltsaa-1200x630.png"
     },
     {
       "id": "bilet-2026-11-28-erdene-duuregch-van",
@@ -900,7 +901,8 @@
         "волейбол"
       ],
       "url": "https://talon.mn/event-groups/socialpay-national-student-volleyball-league",
-      "sourceName": "talon.mn"
+      "sourceName": "talon.mn",
+      "image": "https://talon-bucket-s3.s3.ap-southeast-1.amazonaws.com/event-groups/d78b9035-1651-4c7d-915a-487a41f45779/32952cfb-02a5-4762-9dba-951f4f02294a.jpg"
     },
     {
       "id": "bilet-2026-12-02-virtuoso-gala-concert",
@@ -919,7 +921,8 @@
         "гала концерт"
       ],
       "url": "https://bilet.mn/e/ext-ticket-mn-1cfdcca47047",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://ticket.mn/files/concerts/sliders/VIRTUOSO-2026-POSTER-Ticket.mn-1200-x-630-px.jpg"
     },
     {
       "id": "eventx-2026-12-03-samandyn-khuu",
@@ -1035,7 +1038,8 @@
         "тоглолт"
       ],
       "url": "https://bilet.mn/e/ext-ticket-mn-2d8f6bb38094",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-36.png"
     },
     {
       "id": "ticketmn-2026-12-05-asian-voice",
@@ -1146,7 +1150,8 @@
         "шинэ жил"
       ],
       "url": "https://bilet.mn/e/ext-portal-mn-aac5244b3da6",
-      "sourceName": "bilet.mn"
+      "sourceName": "bilet.mn",
+      "image": "https://cdn.portal.mn/uploads/44877fb3-a051-4519-a484-0f70ebf68fb4.webp"
     },
     {
       "id": "mba-2026-12-08-the-league-games",
@@ -1766,7 +1771,8 @@
       "url": "https://bilet.mn/e/ext-ticket-mn-da7920701c61",
       "sourceName": "bilet.mn",
       "lat": 47.919491,
-      "lng": 106.919385
+      "lng": 106.919385,
+      "image": "https://ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-37.png"
     },
     {
       "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
