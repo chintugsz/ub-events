@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:54:08+08:00",
+  "updatedAt": "2026-11-28T07:12:27+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -597,6 +597,27 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-23.png"
     },
     {
+      "id": "bilet-2026-11-28-dald-ukhamsar-family-relations",
+      "title": "Далд ухамсар ба гэр бүлийн харилцаа",
+      "titleMn": "Далд ухамсар ба гэр бүлийн харилцаа",
+      "titleEn": "The subconscious and family relationships",
+      "start": "2026-11-28T15:00",
+      "allDay": false,
+      "location": "МУБИС-ийн 9-р байр",
+      "locationEn": "Mongolian National University of Education, Building 9",
+      "description": "A talk on family relationships: why we want to understand the people we love yet keep running into the same problems. The course covers six topics on family and couple relationships.",
+      "cost": "from 69,000₮",
+      "category": "Talks & Learning",
+      "tags": [
+        "talk",
+        "relationships",
+        "psychology",
+        "сэтгэл зүй"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-bad0f608fdb3",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "bilet-2026-11-28-erdene-duuregch-van",
       "title": "«Эрдэнэ дүүрэгч ван» дуулалт жүжиг",
       "titleMn": "«Эрдэнэ дүүрэгч ван» дуулалт жүжиг",
@@ -687,27 +708,6 @@
       "image": "https://cdn.portal.mn/uploads/25e8916a-d360-4ccd-83db-53654385efc9.webp"
     },
     {
-      "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
-      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
-      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/29)",
-      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
-      "start": "2026-11-29",
-      "allDay": true,
-      "location": "MBank arena, Ulaanbaatar",
-      "locationEn": "M Bank Arena",
-      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Fiji vs Indonesia, Thailand vs Hong Kong and Mongolia vs Malaysia.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "FIBA",
-        "national team",
-        "сагсан бөмбөг",
-        "шигшээ баг"
-      ],
-      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
-      "sourceName": "FIBA"
-    },
-    {
       "id": "ticketmn-2026-11-29-uchirtai-gurvan-tolgoi",
       "title": "«Учиртай гурван толгой» дуурь",
       "titleMn": "«Учиртай гурван толгой» дуурь",
@@ -726,6 +726,27 @@
       "url": "https://www.ticket.mn/event/3363",
       "sourceName": "Ticket.mn",
       "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-33.png"
+    },
+    {
+      "id": "fiba-2026-11-29-asia-cup-pre-qualifiers",
+      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
+      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/29)",
+      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (29 Nov)",
+      "start": "2026-11-29T13:00",
+      "allDay": false,
+      "location": "MBank arena, Ulaanbaatar",
+      "locationEn": "M Bank Arena",
+      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Fiji vs Indonesia, Thailand vs Hong Kong and Mongolia vs Malaysia.",
+      "category": "Sports",
+      "tags": [
+        "basketball",
+        "FIBA",
+        "national team",
+        "сагсан бөмбөг",
+        "шигшээ баг"
+      ],
+      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
+      "sourceName": "FIBA"
     },
     {
       "id": "newsmn-2026-11-29-altan-tsom-wrestling",
@@ -864,6 +885,43 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T163051.418.png"
     },
     {
+      "id": "talon-2026-12-02-student-volleyball-league-opening",
+      "title": "SocialPay Student League Opening Ceremony",
+      "titleEn": "National Student Volleyball League 2026/27: opening day",
+      "start": "2026-12-02T12:00",
+      "allDay": false,
+      "location": "Спортын төв ордон",
+      "locationEn": "Central Sports Palace",
+      "description": "Opening day of the SocialPay National Student Volleyball League 2026/27. Tickets on talon.mn.",
+      "category": "Sports",
+      "tags": [
+        "volleyball",
+        "students",
+        "волейбол"
+      ],
+      "url": "https://talon.mn/event-groups/socialpay-national-student-volleyball-league",
+      "sourceName": "talon.mn"
+    },
+    {
+      "id": "bilet-2026-12-02-virtuoso-gala-concert",
+      "title": "Virtuoso Gala Concert",
+      "titleEn": "Virtuoso Gala Concert",
+      "start": "2026-12-02T19:00",
+      "allDay": false,
+      "location": "Монголын уран зургийн галерей",
+      "locationEn": "Mongolian Painting Gallery",
+      "description": "A gala by Virtuoso Academy of musicians and singers who stood out in 2026, mixing classical pieces with Mongolian instruments: tenor A. Otgonbold, baritone Kh. Myagmarsuren, violinist T. Gereltuya, students and others. Tickets are non-refundable.",
+      "cost": "from 80,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "classical",
+        "concert",
+        "гала концерт"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-1cfdcca47047",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "eventx-2026-12-03-samandyn-khuu",
       "title": "САМАНДЫН ХҮҮ 12.03",
       "titleMn": "Самандын хүү",
@@ -958,6 +1016,28 @@
       "image": "https://new.urgoo.mn/movies/HO00001183/opengraph-image-122a59?9de437aa37addad2"
     },
     {
+      "id": "bilet-2026-12-04-ezent-guren",
+      "title": "«Эзэнт гүрэн»",
+      "titleMn": "«Эзэнт гүрэн»",
+      "titleEn": "Empire: winter season opening",
+      "start": "2026-12-04T18:00",
+      "end": "2026-12-06",
+      "allDay": false,
+      "location": "Үндэсний Урлагийн Их Театр",
+      "locationEn": "National Grand Theatre of Arts",
+      "description": "The theatre opens its 76th winter season with \"Empire\", a new epic production on the Mongol state tradition. Ticket.mn lists shows on 4, 5 and 6 December.",
+      "cost": "from 40,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "theatre",
+        "dance",
+        "history",
+        "тоглолт"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-2d8f6bb38094",
+      "sourceName": "bilet.mn"
+    },
+    {
       "id": "ticketmn-2026-12-05-asian-voice",
       "title": "ASIAN VOICE",
       "titleMn": "ASIAN VOICE",
@@ -1048,6 +1128,25 @@
       ],
       "url": "https://allevents.in/ulaanbaatar/%D0%A1%D1%83%D0%B4%D0%BB%D0%B0%D0%B0%D1%87-%D0%9E%D1%8E%D1%83%D1%82%D0%B0%D0%BD-2026/200031060156859",
       "sourceName": "allevents.in"
+    },
+    {
+      "id": "bilet-2026-12-05-yooton-new-year-party",
+      "title": "ЁОТОН New Year Party",
+      "titleEn": "Yooton New Year Party",
+      "start": "2026-12-05T18:00",
+      "allDay": false,
+      "location": "On'n Off Production House",
+      "locationEn": "On'n Off Production House",
+      "description": "A New Year party at On'n Off Production House. The line-up has not been announced yet.",
+      "cost": "from 69,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "party",
+        "new year",
+        "шинэ жил"
+      ],
+      "url": "https://bilet.mn/e/ext-portal-mn-aac5244b3da6",
+      "sourceName": "bilet.mn"
     },
     {
       "id": "mba-2026-12-08-the-league-games",
@@ -1645,6 +1744,29 @@
       ],
       "url": "https://talon.mn/event-groups/the-league",
       "sourceName": "talon.mn"
+    },
+    {
+      "id": "bilet-2026-12-26-snow-melody-2027",
+      "title": "SNOW MELODY 2027 – Шинэ жилийн баярын концерт",
+      "titleMn": "Шинэ жилийн баярын концерт",
+      "titleEn": "Snow Melody 2027: New Year concert",
+      "start": "2026-12-26T16:00",
+      "allDay": false,
+      "location": "Соёлын төв өргөө",
+      "locationEn": "Central Cultural Palace",
+      "description": "The State Philharmonic's 11th yearly New Year concert of holiday and winter music, with the morin khuur orchestra conducted by N. Jigjiddorj and guest singers B. Sarantuya, U. Uyanga, N. Naranbaatar and B. Odmandakh.",
+      "cost": "from 60,000₮",
+      "category": "Music & Performance",
+      "tags": [
+        "concert",
+        "new year",
+        "morin khuur",
+        "шинэ жил"
+      ],
+      "url": "https://bilet.mn/e/ext-ticket-mn-da7920701c61",
+      "sourceName": "bilet.mn",
+      "lat": 47.919491,
+      "lng": 106.919385
     },
     {
       "id": "tedx-2026-11-21-ulaanbaatar-elite-youth",
