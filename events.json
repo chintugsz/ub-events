@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:10:21+08:00",
+  "updatedAt": "2026-11-28T06:54:08+08:00",
   "publishers": [
     {
       "name": "MONTSAME",
@@ -266,28 +266,6 @@
       "image": "https://www.ticket.mn/files/concerts/sliders/Ticket-1200x630-copy-1-_6084.jpg"
     },
     {
-      "id": "urlag-2026-11-21-dunburee-uran-biiriin-ayalguu",
-      "title": "Г.Дунбүрээ: «Уран бийрийн аялгуу»",
-      "titleMn": "Г.Дунбүрээгийн «Уран бийрийн аялгуу» бие даасан үзэсгэлэн",
-      "titleEn": "Dunburee: Melody of the Brush",
-      "start": "2026-11-21",
-      "end": "2026-11-27",
-      "allDay": true,
-      "location": "Монголын уран зургийн галерей",
-      "locationEn": "Mongolian Painting Gallery",
-      "description": "A solo show by People's Artist G. Dunbüree: about 200 works from his own collection plus pieces from the gallery and the Ulaanbaatar city museum, on Mongolian society and the history of the old capital. On until 27 November.",
-      "category": "Arts & Museums",
-      "tags": [
-        "exhibition",
-        "painting",
-        "gallery",
-        "үзэсгэлэн"
-      ],
-      "url": "https://urlag.mn/post/163203",
-      "sourceName": "Urlag.mn",
-      "image": "https://urlag.mn/wp-content/uploads/2026/11/913154277_1671030195061682_1809105066281855654_n.jpg"
-    },
-    {
       "id": "urlag-2026-11-21-evening-museum-socialism",
       "title": "Үдшийн музей – Социализмаар аялцгаая",
       "titleMn": "Үдшийн музей – Социализмаар аялцгаая",
@@ -386,31 +364,6 @@
       "image": "https://assets.mnb.mn/media/2026/11/cbb300a95654-926215610-3554261371428300-3295994879767246106-n.full.webp"
     },
     {
-      "id": "ticketmn-2026-11-26-quincy-jones-tribute",
-      "title": "Quincy Jones Tribute Concert",
-      "titleMn": "Куинси Жонсод зориулсан хүндэтгэлийн тоглолт",
-      "titleEn": "Quincy Jones Tribute Concert",
-      "start": "2026-11-26",
-      "end": "2026-11-27",
-      "allDay": true,
-      "location": "Улсын филармони",
-      "locationEn": "State Philharmonic",
-      "description": "A tribute concert to producer Quincy Jones, who worked with Michael Jackson, Frank Sinatra, Ray Charles and Aretha Franklin. On 26 and 27 November.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "jazz",
-        "tribute",
-        "концерт",
-        "тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3312",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919534,
-      "lng": 106.920049,
-      "image": "https://www.ticket.mn/files/concerts/sliders/Untitled-Design-2026-10-27T131701.158.png"
-    },
-    {
       "id": "ticketmn-2026-11-26-tengeriin-khuu",
       "title": "\"ТЭНГЭРИЙН ХҮҮ\" ЖҮЖИГ",
       "titleMn": "Тэнгэрийн хүү",
@@ -503,94 +456,6 @@
       "end": "2026-11-28"
     },
     {
-      "id": "fiba-2026-11-27-asia-cup-pre-qualifiers",
-      "title": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (27 Nov)",
-      "titleMn": "Сагсан бөмбөгийн Азийн цом 2029-ийн урьдчилсан шат, F хэсэг (11/27)",
-      "titleEn": "FIBA Asia Cup 2029 Pre-Qualifiers: Group F (27 Nov)",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "MBank arena, Ulaanbaatar",
-      "locationEn": "M Bank Arena",
-      "description": "Second-round men's national-team qualifiers hosted in Ulaanbaatar. Games: Malaysia vs Fiji, Indonesia vs Thailand and Hong Kong vs Mongolia.",
-      "category": "Sports",
-      "tags": [
-        "basketball",
-        "FIBA",
-        "national team",
-        "сагсан бөмбөг",
-        "шигшээ баг"
-      ],
-      "url": "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
-      "sourceName": "FIBA"
-    },
-    {
-      "id": "ticketmn-2026-11-27-movie-motivation-night-gladiator",
-      "title": "MOVIE MOTIVATION NIGHT – GLADIATOR I",
-      "titleMn": "Movie Motivation Night – Gladiator I",
-      "titleEn": "Movie Motivation Night – Gladiator I",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "Skywing center",
-      "locationEn": "Skywing Center, Zaisan",
-      "description": "A film night screening Gladiator I, part of a series about films on the value of life, human nature, belief and endurance.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "movie night",
-        "кино"
-      ],
-      "url": "https://www.ticket.mn/event/3339",
-      "sourceName": "Ticket.mn",
-      "image": "https://www.ticket.mn/files/concerts/sliders/AIMAG-TsERGIIN-TsOLTOI-BOLON-ZALUU-BOKhChUUDIIN-BARILDAAN-5.png"
-    },
-    {
-      "id": "urgoo-2026-11-27-focker-in-law",
-      "title": "Focker-In-Law",
-      "titleEn": "Focker-In-Law",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Comedy-romance opening on Urgoo screens. Rated PG13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "comedy",
-        "new release",
-        "кино",
-        "Өргөө"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001168",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001927/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
-      "id": "urgoo-2026-11-27-further-misadventures-of-cliff-booth",
-      "title": "The Further Mis-Adventures of Cliff Booth",
-      "titleEn": "The Further Mis-Adventures of Cliff Booth",
-      "start": "2026-11-27",
-      "allDay": true,
-      "location": "Өргөө кино театр",
-      "locationEn": "Urgoo Cinema",
-      "description": "Drama, comedy and thriller film opening on Urgoo screens. Rated PG13.",
-      "category": "Film",
-      "tags": [
-        "film",
-        "new release",
-        "кино",
-        "Өргөө",
-        "comedy",
-        "crime"
-      ],
-      "url": "https://new.urgoo.mn/movies/HO00001170",
-      "sourceName": "Urgoo Cinema",
-      "lat": 47.923515,
-      "lng": 106.87492,
-      "image": "https://new.urgoo.mn/movies/HO00001960/opengraph-image-122a59?9de437aa37addad2"
-    },
-    {
       "id": "bilet-2026-11-27-noise-metal-fest-2026",
       "title": "NOISE METAL FEST 2026 – XII Edition",
       "titleEn": "Noise Metal Fest 2026 (12th edition)",
@@ -611,32 +476,6 @@
       "url": "https://bilet.mn/e/ext-portal-mn-d6a40ed6037b",
       "sourceName": "bilet.mn",
       "image": "https://cdn.portal.mn/uploads/805ded08-cf9d-409f-bd81-ace48b537aa4.webp"
-    },
-    {
-      "id": "ticketmn-2026-11-27-luvsansharav-100-gala",
-      "title": "Д.Лувсаншарав - 100 жил Хүндэтгэлийн Гала тоглолт",
-      "titleMn": "Д.Лувсаншарав – 100 жил хүндэтгэлийн гала тоглолт",
-      "titleEn": "D. Luvsansharav 100 Years: tribute gala concert",
-      "start": "2026-11-27T19:00",
-      "allDay": false,
-      "location": "Соёлын төв өргөө",
-      "locationEn": "Central Cultural Palace",
-      "description": "A gala concert of works by composer D. Luvsansharav, marking 100 years since his birth.",
-      "category": "Music & Performance",
-      "tags": [
-        "concert",
-        "gala",
-        "composer",
-        "Mongolian songs",
-        "концерт",
-        "хүндэтгэлийн тоглолт"
-      ],
-      "url": "https://www.ticket.mn/event/3334",
-      "sourceName": "Ticket.mn",
-      "lat": 47.919491,
-      "lng": 106.919385,
-      "image": "https://www.ticket.mn/files/concerts/sliders/miiiiga_80071599556466_6695089477049751383_ticket.mn-banner-1200kh630.png",
-      "cost": "50,000–70,000₮"
     },
     {
       "id": "ra-2026-11-27-loss-pres-01-shengchou",
